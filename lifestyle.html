@@ -1,0 +1,1435 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index, follow">
+    <title>שדרגו את שגרת הבוקר שלכם לרמה אחרת — בוקר טרי</title>
+    <meta name="description" content="אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.">
+    <meta name="keywords" content="שגרת בוקר בריאה, אורח חיים בריא, טיפים לבוקר טוב, תזונה אורגנית, בוקר טרי">
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png">
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+    <!-- Zappy Analytics -->
+<script>
+(function() {
+  'use strict';
+  
+  // Configuration
+  var config = {
+    websiteId: '7f0cbe5f-af28-4936-b59e-3876e4502953',
+    apiUrl: 'https://api.zappy5.com/api/analytics/track',
+    sessionDuration: 30 * 60 * 1000, // 30 minutes
+    visitorDuration: 30 * 24 * 60 * 60 * 1000, // 30 days
+    trackPageViews: true,
+    trackClicks: true,
+    trackFormSubmissions: true
+  };
+  
+  // Generate or retrieve persistent visitor ID (30 days)
+  function getVisitorId() {
+    var visitorKey = 'zappy_visitor_' + config.websiteId;
+    var visitor = null;
+    
+    try {
+      visitor = localStorage.getItem(visitorKey);
+      if (visitor) {
+        var visitorData = JSON.parse(visitor);
+        var now = Date.now();
+        
+        // Check if visitor ID is still valid (30 days)
+        if (now - visitorData.created < config.visitorDuration) {
+          // Update last seen timestamp
+          visitorData.lastSeen = now;
+          localStorage.setItem(visitorKey, JSON.stringify(visitorData));
+          return visitorData.id;
+        }
+      }
+    } catch (e) {
+      console.warn('Zappy Analytics: LocalStorage not available');
+    }
+    
+    // Generate new visitor ID
+    var newVisitorId = 'zv_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+    
+    try {
+      localStorage.setItem(visitorKey, JSON.stringify({
+        id: newVisitorId,
+        created: Date.now(),
+        lastSeen: Date.now()
+      }));
+    } catch (e) {
+      // Continue without local storage
+    }
+    
+    return newVisitorId;
+  }
+  
+  // Generate or retrieve session ID (30 minutes)
+  function getSessionId() {
+    var sessionKey = 'zappy_session_' + config.websiteId;
+    var session = null;
+    
+    try {
+      session = sessionStorage.getItem(sessionKey);
+      if (session) {
+        var sessionData = JSON.parse(session);
+        var now = Date.now();
+        
+        // Check if session is still valid
+        if (now - sessionData.timestamp < config.sessionDuration) {
+          // Update timestamp
+          sessionData.timestamp = now;
+          sessionStorage.setItem(sessionKey, JSON.stringify(sessionData));
+          return sessionData.id;
+        }
+      }
+    } catch (e) {
+      console.warn('Zappy Analytics: SessionStorage not available');
+    }
+    
+    // Generate new session ID
+    var newSessionId = 'zs_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+    
+    try {
+      sessionStorage.setItem(sessionKey, JSON.stringify({
+        id: newSessionId,
+        timestamp: Date.now()
+      }));
+    } catch (e) {
+      // Continue without session storage
+    }
+    
+    return newSessionId;
+  }
+  
+  var visitorId = getVisitorId();
+  var sessionId = getSessionId();
+  
+  // Track an event
+  function trackEvent(eventType, data) {
+    data = data || {};
+    
+    var eventData = {
+      website_id: config.websiteId,
+      event_type: eventType,
+      page_path: window.location.pathname,
+      referrer: document.referrer || 'direct',
+      visitor_id: visitorId,
+      session_id: sessionId,
+      metadata: data
+    };
+    
+    // Use sendBeacon if available (better for page unload events)
+    if (navigator.sendBeacon) {
+      var blob = new Blob([JSON.stringify(eventData)], { type: 'application/json' });
+      navigator.sendBeacon(config.apiUrl, blob);
+    } else {
+      // Fallback to fetch
+      fetch(config.apiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(eventData),
+        keepalive: true
+      }).catch(function(error) {
+        console.warn('Zappy Analytics: Failed to track event', error);
+      });
+    }
+  }
+  
+  // Track page view
+  if (config.trackPageViews) {
+    trackEvent('pageview', {
+      title: document.title,
+      url: window.location.href
+    });
+  }
+  
+  // Track clicks on important elements
+  if (config.trackClicks) {
+    document.addEventListener('click', function(e) {
+      var target = e.target;
+      
+      // Track button clicks (counted as actions)
+      if (target.tagName === 'BUTTON' || target.closest('button')) {
+        var button = target.tagName === 'BUTTON' ? target : target.closest('button');
+        trackEvent('click', {
+          element: 'button',
+          text: button.textContent.trim().substring(0, 100),
+          id: button.id || null,
+          class: button.className || null
+        });
+      }
+      
+      // Track link clicks (navigation - not counted as actions)
+      else if (target.tagName === 'A' || target.closest('a')) {
+        var link = target.tagName === 'A' ? target : target.closest('a');
+        trackEvent('navigation', {
+          element: 'link',
+          text: link.textContent.trim().substring(0, 100),
+          href: link.href,
+          external: link.hostname !== window.location.hostname
+        });
+      }
+    }, true);
+  }
+  
+  // Track form submissions
+  if (config.trackFormSubmissions) {
+    document.addEventListener('submit', function(e) {
+      var form = e.target;
+      
+      trackEvent('form_submit', {
+        form_id: form.id || null,
+        form_name: form.name || null,
+        form_action: form.action || null,
+        form_method: form.method || 'GET'
+      });
+    }, true);
+  }
+  
+  // Track time on page (send on page unload)
+  var pageLoadTime = Date.now();
+  
+  window.addEventListener('beforeunload', function() {
+    var timeOnPage = Math.floor((Date.now() - pageLoadTime) / 1000); // in seconds
+    
+    trackEvent('page_unload', {
+      time_on_page: timeOnPage,
+      page_path: window.location.pathname
+    });
+  });
+  
+  // Expose tracking function globally for custom events
+  window.zappyAnalytics = {
+    track: trackEvent,
+    getVisitorId: function() { return visitorId; },
+    getSessionId: function() { return sessionId; }
+  };
+  
+})();
+</script>
+<!-- End Zappy Analytics -->
+    <meta property="og:title" content="שדרגו את שגרת הבוקר שלכם לרמה אחרת — בוקר טרי">
+    <meta property="og:description" content="אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="שדרגו את שגרת הבוקר שלכם לרמה אחרת — בוקר טרי">
+    <meta name="twitter:description" content="אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.">
+    <meta property="og:type" content="website">
+  <meta property="og:locale" content="he_IL">
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png">
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+    <!-- Cookie Consent -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
+    <!-- Mickidum Accessibility Toolbar -->
+    <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+    <link rel="stylesheet" href="/styles.css">
+
+    <style id="zappy-dropdown-submenu-styles">
+      /* ========== DESKTOP DROPDOWN SUBMENU STYLES ========== */
+      /* Base styles for dropdown submenus - parent must be positioned */
+      .nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu) { position: relative; }
+      /* Submenu base - hidden by default */
+      .nav-menu .sub-menu, nav .sub-menu, .navbar .sub-menu, #navMenu .sub-menu { display: block !important; position: absolute !important; top: 100%; left: 0; min-width: 220px; background: white; border-radius: 8px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); padding: 8px 0; opacity: 0; visibility: hidden; transform: translateY(10px); transition: all 0.3s ease; z-index: 1000; list-style: none; pointer-events: none; }
+      /* CRITICAL: Desktop hover styles to show dropdown */
+      .nav-menu li:hover > .sub-menu, nav li:hover > .sub-menu, .navbar li:hover > .sub-menu, #navMenu li:hover > .sub-menu { opacity: 1 !important; visibility: visible !important; transform: translateY(0) !important; pointer-events: auto !important; }
+      /* Submenu item styling */
+      .sub-menu li { list-style: none; margin: 0; padding: 0; }
+      .sub-menu a { display: block !important; padding: 10px 16px !important; color: var(--text-dark, #333) !important; font-weight: 500; text-decoration: none; white-space: nowrap; transition: background-color 0.2s; }
+      .sub-menu .zappy-nav-child > a { padding-left: 28px !important; font-size: 0.9em !important; opacity: 0.85 !important; }
+      [dir="rtl"] .sub-menu .zappy-nav-child > a, html[lang="he"] .sub-menu .zappy-nav-child > a, html[lang="ar"] .sub-menu .zappy-nav-child > a { padding-left: 10px !important; padding-right: 28px !important; }
+      .sub-menu .zappy-nav-parent > a { font-weight: 600 !important; }
+      .sub-menu a:hover { background-color: #f5f5f5; }
+      /* RTL (Hebrew/Arabic) dropdown positioning */
+      [dir="rtl"] .nav-menu .sub-menu, [dir="rtl"] nav .sub-menu, [dir="rtl"] .navbar .sub-menu, html[lang="he"] .nav-menu .sub-menu, html[lang="he"] nav .sub-menu, html[lang="he"] .navbar .sub-menu, html[lang="ar"] .nav-menu .sub-menu, html[lang="ar"] nav .sub-menu, html[lang="ar"] .navbar .sub-menu { left: auto !important; right: 0 !important; }
+      /* Hide empty dropdown menus (exclude catalog sub-menus that use <a> children instead of <li>) */
+      .sub-menu:empty, .sub-menu:not(:has(li:not(.zappy-hidden-menu-item))):not(:has(> a)), .sub-menu:not(:has(li)):not(:has(> a)) { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
+      /* Desktop: show submenu on Menu Group hover */
+      li:has(.menu-group-title):hover > .sub-menu { opacity: 1 !important; visibility: visible !important; transform: translateY(0) !important; pointer-events: auto !important; }
+      /* Menu Group title styling */
+      .nav-menu > li > .menu-group-title, #navMenu > li > .menu-group-title { display: inline-block; padding: 0.5rem 1rem; cursor: default; user-select: none; }
+      
+      /* ========== MOBILE SUBMENU STYLES ========== */
+      @media (max-width: 768px) {
+        .nav-menu .sub-menu, nav .sub-menu, .navbar .sub-menu, #navMenu .sub-menu { position: static !important; transform: none !important; box-shadow: none !important; background: transparent !important; max-height: 0; overflow: hidden; opacity: 0; visibility: hidden; transition: max-height 0.3s ease, opacity 0.3s ease; padding: 0 !important; border-radius: 0 !important; }
+        .navbar .sub-menu.mobile-expanded, .nav-menu .sub-menu.mobile-expanded, #navMenu .sub-menu.mobile-expanded { max-height: none !important; overflow-y: visible !important; opacity: 1 !important; visibility: visible !important; padding: 8px 0 8px 16px !important; }
+        [dir="rtl"] .sub-menu.mobile-expanded, html[lang="he"] .sub-menu.mobile-expanded { padding: 8px 16px 8px 0 !important; }
+        /* Disable hover behavior on mobile */
+        .nav-menu li:hover > .sub-menu, nav li:hover > .sub-menu, .navbar li:hover > .sub-menu, #navMenu li:hover > .sub-menu { opacity: 0; visibility: hidden; pointer-events: none; }
+        .nav-menu li > .sub-menu.mobile-expanded, nav li > .sub-menu.mobile-expanded, .navbar li > .sub-menu.mobile-expanded, #navMenu li > .sub-menu.mobile-expanded { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }
+        .nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu) { display: flex !important; flex-wrap: wrap !important; align-items: center !important; position: relative !important; min-height: 44px !important; }
+        .nav-menu li:has(.sub-menu) > a, nav li:has(.sub-menu) > a, .navbar li:has(.sub-menu) > a, #navMenu li:has(.sub-menu) > a { flex: 1 !important; min-width: 0 !important; }
+        .nav-menu li:has(.sub-menu) > .menu-group-title, nav li:has(.sub-menu) > .menu-group-title, .navbar li:has(.sub-menu) > .menu-group-title, #navMenu li:has(.sub-menu) > .menu-group-title { flex: 1 !important; min-width: 0 !important; padding: 0 !important; line-height: inherit !important; }
+        .nav-menu li:has(.sub-menu) > .sub-menu, nav li:has(.sub-menu) > .sub-menu, .navbar li:has(.sub-menu) > .sub-menu, #navMenu li:has(.sub-menu) > .sub-menu { flex-basis: 100% !important; width: 100% !important; }
+        .nav-menu li:has(.sub-menu) > a [class*="chevron"], .nav-menu li:has(.sub-menu) > a [class*="arrow"], .nav-menu li:has(.sub-menu) > a .fa-chevron-down, .nav-menu li:has(.sub-menu) > a .fa-angle-down, nav li:has(.sub-menu) > a [class*="chevron"], nav li:has(.sub-menu) > a [class*="arrow"], #navMenu li:has(.sub-menu) > a [class*="chevron"], #navMenu li:has(.sub-menu) > a [class*="arrow"] { display: none !important; visibility: hidden !important; }
+        .mobile-submenu-toggle { display: flex !important; align-items: center !important; justify-content: center !important; width: 44px !important; height: auto !important; background: transparent !important; border: none !important; cursor: pointer !important; color: var(--text-dark) !important; position: static !important; flex-shrink: 0 !important; align-self: stretch !important; z-index: 2 !important; padding: 0 !important; margin: 0 !important; }
+        .mobile-submenu-toggle::after { content: '' !important; width: 0 !important; height: 0 !important; border-left: 6px solid transparent !important; border-right: 6px solid transparent !important; border-top: 7px solid currentColor !important; transition: transform 0.3s ease !important; }
+        .mobile-submenu-toggle.expanded::after { transform: rotate(180deg) !important; }
+        .sub-menu a { padding: 10px 0 !important; display: block !important; color: var(--text-dark) !important; white-space: normal !important; }
+        .sub-menu .zappy-nav-child > a { padding-left: 28px !important; font-size: 0.9em !important; opacity: 0.85 !important; }
+        [dir="rtl"] .sub-menu .zappy-nav-child > a, html[lang="he"] .sub-menu .zappy-nav-child > a, html[lang="ar"] .sub-menu .zappy-nav-child > a { padding-left: 0 !important; padding-right: 28px !important; }
+        .sub-menu .zappy-nav-parent > a { font-weight: 600 !important; }
+        .nav-menu.active, #navMenu.active { max-width: 100vw !important; overflow-x: hidden !important; box-sizing: border-box !important; }
+        .navbar .sub-menu li a, nav.navbar .sub-menu li a, .zappy-products-dropdown .sub-menu a { color: var(--text-dark) !important; }
+      }
+      @media (min-width: 769px) { .mobile-submenu-toggle { display: none !important; } }
+    </style>
+
+    <style id="zappy-widget-visibility">
+      #mic-access-tool-general-button, .mic-access-tool-general-button,
+      #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
+      ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
+      #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
+        display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+      }
+    </style>
+</head>
+<body>
+
+
+    <div class="mobile-search-panel" id="mobile-search-panel">
+      <div class="search-wrapper">
+        <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
+        <button class="search-submit" id="mobile-search-submit" title="חיפוש">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+        </button>
+        <button class="close-search" id="close-mobile-search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+        </button>
+      </div>
+      <div class="search-results" id="mobile-search-results"></div>
+    </div>
+  
+<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
+  <nav class="navbar" dir="rtl">
+  <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+    </svg>
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
+      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+    </svg>
+  </button>
+
+  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+    </svg>
+  </button>
+
+  <div class="nav-container">
+    <div class="nav-right-group"><div class="nav-brand">
+      <a href="/" class="logo-link">
+        <img src="/assets/general-logo.webp" alt="בוקר טרי" class="logo">
+      </a>
+    </div><ul class="nav-menu" id="navMenu">
+
+    <li class="menu-item-has-children zappy-products-dropdown">
+      <a href="/products">
+        מוצרים
+        <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M6 9l6 6 6-6"></path>
+        </svg>
+      </a>
+      <ul class="sub-menu" id="zappy-nav-category-links">
+        <li><a href="/products">כל המוצרים</a></li>
+        <!-- Categories will be loaded dynamically -->
+      </ul>
+    </li>
+  <li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
+    <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+    </button>
+    <div class="nav-search-results" id="nav-search-results"></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
+
+    
+
+    
+  </div>
+</nav>
+<script>
+
+// Navbar Mobile Menu Toggle and Contrast Fix
+(function() {
+  // Use 'load' event instead of 'DOMContentLoaded' to ensure we run AFTER all other scripts
+  window.addEventListener('load', function() {
+    
+    // FIX MOBILE BUTTON CONTRAST
+    // Detect navbar background color and apply contrasting color to mobile buttons
+    const navbar = document.querySelector('.navbar, nav, header');
+    if (!navbar) {
+      console.log('[Navbar] Navbar element not found');
+      return;
+    }
+    
+    // DECLARE VARIABLES EARLY to avoid Temporal Dead Zone errors
+    // These are used in multiple places below
+    let mobileToggle = document.getElementById('mobileToggle') ||
+                       document.querySelector('.mobile-toggle') ||
+                       document.querySelector('.hamburger') ||
+                       document.querySelector('.hamburger-menu') ||
+                       document.querySelector('.menu-toggle') ||
+                       document.querySelector('.burger-menu') ||
+                       document.querySelector('[aria-label="Menu"]') ||
+                       document.querySelector('[aria-label="תפריט"]');
+    
+    const phoneBtn = document.querySelector('.phone-header-btn');
+    
+    const computedStyle = window.getComputedStyle(navbar);
+    let bgColor = computedStyle.backgroundColor;
+    
+    console.log('[Navbar] Initial navbar background:', bgColor);
+    
+    // Check if background is transparent or rgba with 0 alpha
+    const isTransparent = bgColor === 'transparent' || 
+                         bgColor === 'rgba(0, 0, 0, 0)' ||
+                         (bgColor.startsWith('rgba') && bgColor.includes(', 0)'));
+    
+    if (isTransparent) {
+      // Check for background-image or gradient
+      const bgImage = computedStyle.backgroundImage;
+      if (bgImage && bgImage !== 'none') {
+        console.log('[Navbar] Navbar has background image/gradient, using dark text');
+        bgColor = 'rgb(240, 240, 240)'; // Assume light background
+      } else {
+        // Transparent navbar - check body background
+        const bodyBg = window.getComputedStyle(document.body).backgroundColor;
+        console.log('[Navbar] Navbar transparent, using body background:', bodyBg);
+        bgColor = bodyBg;
+      }
+    }
+    
+    // Calculate luminance to determine if background is light or dark
+    const rgb = bgColor.match(/\d+/g);
+    if (rgb && rgb.length >= 3) {
+      const r = parseInt(rgb[0]);
+      const g = parseInt(rgb[1]);
+      const b = parseInt(rgb[2]);
+      const luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+      
+      // Mobile button colors are set by Claude's AI-generated CSS (same as .nav-menu a)
+      // No dynamic color overrides needed - colors come from the generated navbar CSS
+      console.log('[Navbar] Mobile button colors preserved from Claude CSS (luminance:', luminance.toFixed(2) + ')');
+      
+      // FIX ICON SIZES - Ensure SVGs are properly sized and visible
+      // INJECT CRITICAL CSS TO OVERRIDE ANY CONFLICTING RULES
+      const criticalCSS = document.createElement('style');
+      criticalCSS.id = 'zappy-mobile-nav-fix';
+      const htmlLang = document.documentElement.lang || 'en';
+      const htmlDir = document.documentElement.dir || 'ltr';
+      // Check both dir attribute AND lang for RTL detection
+      // dir="rtl" is the most reliable indicator
+      const isRTL = htmlDir === 'rtl' || htmlLang === 'he' || htmlLang === 'ar';
+      
+      criticalCSS.textContent = `
+        /* Hide mobile buttons on desktop, show only on mobile */
+        @media (min-width: 769px) {
+          .mobile-toggle,
+          .phone-header-btn {
+            display: none !important;
+          }
+        }
+        
+        /* Show and position mobile buttons correctly on mobile */
+        @media (max-width: 768px) {
+          .mobile-toggle,
+          .phone-header-btn {
+            position: absolute !important;
+            top: 50% !important;
+            transform: translateY(-50%) !important;
+            z-index: 1001 !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            width: 36px !important;
+            height: 36px !important;
+            border-radius: 50% !important;
+            border: none !important;
+            cursor: pointer !important;
+            padding: 6px !important;
+            background: none !important;
+            color: var(--nav-text, var(--text-dark)) !important;
+          }
+          
+          /* LTR positioning (default): hamburger LEFT, phone RIGHT */
+          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .mobile-toggle,
+          html[dir="ltr"] .mobile-toggle {
+            left: 12px !important;
+            right: auto !important;
+          }
+          html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .phone-header-btn,
+          html[dir="ltr"] .phone-header-btn {
+            right: 12px !important;
+            left: auto !important;
+          }
+          
+          /* RTL positioning: hamburger RIGHT, phone LEFT */
+          html[dir="rtl"] .mobile-toggle,
+          html[lang="he"] .mobile-toggle,
+          html[lang="ar"] .mobile-toggle {
+            right: 12px !important;
+            left: auto !important;
+          }
+          html[dir="rtl"] .phone-header-btn,
+          html[lang="he"] .phone-header-btn,
+          html[lang="ar"] .phone-header-btn {
+            left: 12px !important;
+            right: auto !important;
+          }
+          
+          /* CRITICAL: Ensure nav-container has min-height on mobile */
+          /* All children are positioned absolutely/fixed on mobile, so height:auto collapses to 0 */
+          .nav-container {
+            min-height: 70px !important;
+            position: relative !important;
+          }
+          
+          /* Ensure SVG icons are properly sized and inherit color */
+          .mobile-toggle svg,
+          .phone-header-btn svg {
+            width: 24px !important;
+            height: 24px !important;
+            /* Don't force display - let JavaScript control hamburger/close toggle */
+          }
+          
+          /* Reset nav-cta-container on mobile - remove desktop box-shadow/padding */
+          /* that creates a visible ghost box when CTA button is hidden */
+          .nav-cta-container {
+            box-shadow: none !important;
+            padding: 0 !important;
+          }
+          
+          /* Hide nav-cta-container entirely on mobile when there's no lang-switcher */
+          /* (only the CTA button is inside, and it's hidden on mobile) */
+          .nav-cta-container:not(:has(.lang-switcher)) {
+            display: none !important;
+          }
+          
+          /* CRITICAL: Prevent hero image fade gradient from bleeding over headline text */
+          /* The .image-fade-gradient has bottom: -30px (extends below parent) */
+          /* On mobile stacked layout, this overlaps the h1 text below the image */
+          .hero-image-column {
+            overflow: hidden !important;
+          }
+          .image-fade-gradient {
+            bottom: 0 !important;
+          }
+          
+          /* Hide desktop language switcher on mobile - hamburger menu handles it */
+          /* High specificity to override stored CSS */
+          .lang-switcher,
+          .nav-cta-container .lang-switcher,
+          .nav-container .lang-switcher,
+          .navbar .lang-switcher,
+          .navbar .nav-cta-container .lang-switcher {
+            display: none !important;
+          }
+        }
+      `;
+      
+      // Remove existing fix if present and inject new one
+      const existing = document.getElementById('zappy-mobile-nav-fix');
+      if (existing) existing.remove();
+      document.head.appendChild(criticalCSS);
+      
+      console.log('[Navbar] Critical CSS injected for mobile nav positioning');
+      
+      // ONLY apply inline positioning styles on mobile viewport
+      // On desktop, the CSS handles hiding these buttons with display: none
+      // Inline styles were breaking desktop layout by overriding CSS
+      const isMobileViewport = window.innerWidth <= 768;
+      
+      if (mobileToggle) {
+        // Icon sizing applies to all viewports for consistency
+        const hamburgerIcon = mobileToggle.querySelector('.hamburger-icon');
+        const closeIcon = mobileToggle.querySelector('.close-icon');
+        
+        if (hamburgerIcon) {
+          hamburgerIcon.style.setProperty('width', '24px', 'important');
+          hamburgerIcon.style.setProperty('height', '24px', 'important');
+          hamburgerIcon.style.setProperty('display', 'block', 'important'); // Show hamburger by default
+        }
+        if (closeIcon) {
+          closeIcon.style.setProperty('width', '24px', 'important');
+          closeIcon.style.setProperty('height', '24px', 'important');
+          closeIcon.style.setProperty('display', 'none', 'important'); // Hide close icon by default
+        }
+        
+        // ONLY set positioning inline styles on mobile
+        if (isMobileViewport) {
+          mobileToggle.style.setProperty('position', 'absolute', 'important');
+          mobileToggle.style.setProperty('top', '50%', 'important');
+          mobileToggle.style.setProperty('transform', 'translateY(-50%)', 'important');
+          mobileToggle.style.setProperty('z-index', '1001', 'important');
+          
+          // Clear any inline left/right so CSS can take over based on html[dir]
+          mobileToggle.style.removeProperty('left');
+          mobileToggle.style.removeProperty('right');
+          
+          console.log('[Navbar] Mobile toggle positioning applied (mobile viewport)');
+        } else {
+          // On desktop, clear any positioning styles to let CSS handle it
+          mobileToggle.style.removeProperty('position');
+          mobileToggle.style.removeProperty('top');
+          mobileToggle.style.removeProperty('transform');
+          mobileToggle.style.removeProperty('z-index');
+          mobileToggle.style.removeProperty('left');
+          mobileToggle.style.removeProperty('right');
+          console.log('[Navbar] Desktop viewport - cleared mobile toggle inline positioning');
+        }
+      }
+      
+      if (phoneBtn) {
+        // Icon sizing applies to all viewports
+        const phoneIcon = phoneBtn.querySelector('svg');
+        if (phoneIcon) {
+          phoneIcon.style.width = '24px';
+          phoneIcon.style.height = '24px';
+          phoneIcon.setAttribute('width', '24');
+          phoneIcon.setAttribute('height', '24');
+        }
+        
+        // ONLY set positioning inline styles on mobile
+        if (isMobileViewport) {
+          phoneBtn.style.setProperty('position', 'absolute', 'important');
+          phoneBtn.style.setProperty('top', '50%', 'important');
+          phoneBtn.style.setProperty('transform', 'translateY(-50%)', 'important');
+          phoneBtn.style.setProperty('z-index', '1001', 'important');
+          
+          // Clear any inline left/right so CSS can take over based on html[dir]
+          phoneBtn.style.removeProperty('left');
+          phoneBtn.style.removeProperty('right');
+          
+          console.log('[Navbar] Phone button positioning applied (mobile viewport)');
+        } else {
+          // On desktop, clear any positioning styles to let CSS handle it
+          phoneBtn.style.removeProperty('position');
+          phoneBtn.style.removeProperty('top');
+          phoneBtn.style.removeProperty('transform');
+          phoneBtn.style.removeProperty('z-index');
+          phoneBtn.style.removeProperty('left');
+          phoneBtn.style.removeProperty('right');
+          console.log('[Navbar] Desktop viewport - cleared phone button inline positioning');
+        }
+      }
+    } else {
+      console.log('[Navbar] Could not parse background color:', bgColor);
+    }
+    
+    // MOBILE MENU TOGGLE
+    // Re-query in case DOM changed (mobileToggle already declared at top of function)
+    mobileToggle = document.getElementById('mobileToggle') ||
+                   document.querySelector('.mobile-toggle') ||
+                   document.querySelector('.hamburger') ||
+                   document.querySelector('.hamburger-menu') ||
+                   document.querySelector('.menu-toggle') ||
+                   document.querySelector('.burger-menu') ||
+                   document.querySelector('[aria-label="Menu"]') ||
+                   document.querySelector('[aria-label="תפריט"]');
+    
+    // EXPANDED SEARCH: Find nav menu by ID or class
+    const navMenu = document.getElementById('navMenu') ||
+                  document.querySelector('.nav-menu') ||
+                  document.querySelector('.nav-links') ||
+                  document.querySelector('nav ul:not(.submenu)');
+    
+    if (!mobileToggle || !navMenu) {
+      console.log('[Navbar] Mobile toggle or menu not found:', { toggle: !!mobileToggle, menu: !!navMenu });
+      return;
+    }
+    
+    // Ensure navMenu has ID for CSS targeting
+    if (!navMenu.id) {
+      navMenu.id = 'navMenu';
+    }
+    
+    console.log('[Navbar] Initializing mobile menu...');
+    
+    // Remove any existing event listeners by cloning the button
+    const newToggle = mobileToggle.cloneNode(true);
+    mobileToggle.parentNode.replaceChild(newToggle, mobileToggle);
+    
+    // Toggle menu on button click - use newToggle now
+    newToggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      const hamburgerIcon = this.querySelector('.hamburger-icon');
+      const closeIcon = this.querySelector('.close-icon');
+      const isActive = navMenu.classList.contains('active');
+      
+      if (isActive) {
+        // Close menu
+        navMenu.classList.remove('active');
+        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
+        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
+        document.body.style.overflow = '';
+        console.log('[Navbar] Menu closed');
+      } else {
+        // Open menu
+        navMenu.classList.add('active');
+        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'none', 'important');
+        if (closeIcon) closeIcon.style.setProperty('display', 'block', 'important');
+        document.body.style.overflow = 'hidden';
+        console.log('[Navbar] Menu opened');
+      }
+    });
+    
+    // Close menu when clicking nav links (but NOT dropdown toggles)
+    const navLinks = navMenu.querySelectorAll('a');
+    navLinks.forEach(function(link) {
+      link.addEventListener('click', function() {
+        // Don't close if it's a dropdown child (unless it's a real navigation link)
+        if (this.getAttribute('href') === '#') return;
+        
+        const hamburgerIcon = newToggle.querySelector('.hamburger-icon');
+        const closeIcon = newToggle.querySelector('.close-icon');
+        
+        navMenu.classList.remove('active');
+        if (hamburgerIcon) hamburgerIcon.style.setProperty('display', 'block', 'important');
+        if (closeIcon) closeIcon.style.setProperty('display', 'none', 'important');
+        document.body.style.overflow = '';
+        console.log('[Navbar] Menu closed (link clicked)');
+      });
+    });
+    
+    // DROPDOWN MENU TOGGLE (for mobile and touch devices)
+    var dropdownToggles = navMenu.querySelectorAll('.dropdown-toggle');
+    dropdownToggles.forEach(function(toggle) {
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var parent = this.closest('.nav-dropdown');
+        if (!parent) return;
+        
+        // Close other open dropdowns at the same level
+        var siblings = parent.parentNode.querySelectorAll('.nav-dropdown.open');
+        siblings.forEach(function(sib) {
+          if (sib !== parent) sib.classList.remove('open');
+        });
+        
+        parent.classList.toggle('open');
+        console.log('[Navbar] Dropdown toggled:', parent.classList.contains('open') ? 'open' : 'closed');
+      });
+    });
+    
+    // Close dropdowns when clicking outside
+    document.addEventListener('click', function(e) {
+      if (!e.target.closest('.nav-dropdown')) {
+        var openDropdowns = document.querySelectorAll('.nav-dropdown.open');
+        openDropdowns.forEach(function(dd) { dd.classList.remove('open'); });
+      }
+    });
+    
+    console.log('[Navbar] Dropdown handlers initialized for ' + dropdownToggles.length + ' dropdowns');
+    
+    // Phone button functionality (phoneBtn already declared at top of function)
+    if (phoneBtn) {
+      phoneBtn.addEventListener('click', function() {
+        // Get phone number from placeholder in page or use default
+        const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
+        const phoneNumber = phoneLinks.length > 0 
+          ? phoneLinks[0].getAttribute('href').replace('tel:', '')
+          : '[business_phone]';
+        
+        window.location.href = 'tel:' + phoneNumber;
+        console.log('[Navbar] Phone button clicked');
+      });
+    }
+    
+    console.log('[Navbar] Mobile menu initialized successfully');
+    
+    // === WHATSAPP BUTTON VISIBILITY FIX ===
+    // Ensure WhatsApp floating button is hidden on desktop and visible on mobile
+    // IMPORTANT: Only target the floating button by its class, NOT generic wa.me links
+    const handleWhatsAppVisibility = function() {
+      const whatsappBtn = document.querySelector('.whatsapp-float');
+      if (whatsappBtn) {
+        const isDesktop = window.innerWidth >= 769;
+        if (isDesktop) {
+          whatsappBtn.style.setProperty('display', 'none', 'important');
+          whatsappBtn.style.setProperty('visibility', 'hidden', 'important');
+          whatsappBtn.style.setProperty('opacity', '0', 'important');
+          whatsappBtn.style.setProperty('pointer-events', 'none', 'important');
+          console.log('[WhatsApp] Button hidden on desktop');
+        } else {
+          whatsappBtn.style.removeProperty('display');
+          whatsappBtn.style.removeProperty('visibility');
+          whatsappBtn.style.removeProperty('opacity');
+          whatsappBtn.style.removeProperty('pointer-events');
+          console.log('[WhatsApp] Button visible on mobile');
+        }
+      }
+    };
+    
+    // Run on load
+    handleWhatsAppVisibility();
+    
+    // Run on resize with debouncing
+    let resizeTimer;
+    window.addEventListener('resize', function() {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(handleWhatsAppVisibility, 100);
+    });
+  });
+})();
+
+</script>
+  
+  <main>
+    <section class="lifestyle-overview-section" data-layout-spec="אורח חיים-overview" dir="rtl">
+  <!-- Decorative botanical leaf motif -->
+  <svg class="lifestyle-overview-botanical-leaf" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M110 10 C160 40 200 100 190 160 C180 220 130 260 110 270 C90 260 40 220 30 160 C20 100 60 40 110 10Z" stroke="#5F8B4C" stroke-width="1.5" fill="none" opacity="0.12"></path>
+    <path d="M110 10 L110 270" stroke="#5F8B4C" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M110 60 C130 70 150 80 170 90" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M110 100 C130 108 148 118 162 130" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M110 140 C128 146 144 158 155 170" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M110 60 C90 70 70 80 50 90" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M110 100 C90 108 72 118 58 130" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M110 140 C92 146 76 158 65 170" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+  </svg>
+
+  <!-- Decorative branch motif -->
+  <svg class="lifestyle-overview-botanical-branch" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 180 C60 140 100 120 140 80" stroke="#C8873A" stroke-width="1.5" fill="none" opacity="0.10"></path>
+    <path d="M60 145 C50 120 55 100 70 85" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
+    <ellipse cx="72" cy="82" rx="14" ry="8" transform="rotate(-40 72 82)" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></ellipse>
+    <path d="M90 120 C80 98 85 78 98 65" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
+    <ellipse cx="100" cy="62" rx="14" ry="8" transform="rotate(-35 100 62)" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></ellipse>
+    <path d="M120 95 C115 75 120 58 132 46" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
+    <ellipse cx="134" cy="43" rx="13" ry="7" transform="rotate(-30 134 43)" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></ellipse>
+  </svg>
+
+  <div class="lifestyle-overview-container">
+    <!-- Header -->
+    <header class="lifestyle-overview-header">
+      <span class="lifestyle-overview-eyebrow">אורח חיים</span>
+      <h1 class="lifestyle-overview-title">הבוקר שלך מתחיל כאן</h1>
+      <p class="lifestyle-overview-subtitle">בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר בריאה היא הבסיס לכל יום מוצלח. המוצרים שלנו מלווים אותך מהרגע שעיניך נפקחות — עם מרכיבים אמיתיים, טעמים טבעיים, ואנרגיה שמגיעה מהטבע עצמו.</p>
+    </header>
+
+    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="display:none">
+      <div class="catalog-menu-container">
+        <a href="/products" class="catalog-menu-item catalog-menu-all">כל המוצרים</a>
+        <div class="catalog-menu-categories" id="zappy-category-links">
+          <!-- Categories will be loaded dynamically -->
+        </div>
+      </div>
+    </nav>
+  
+
+    <!-- Three-panel image composition -->
+    <div class="lifestyle-overview-panels">
+      <!-- Start panel (right in RTL) -->
+      <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--start">
+        <div class="lifestyle-overview-img-wrap">
+          <img data-placeholder="lifestyle-overview-image-1" data-context="A person doing a morning yoga stretch on a wooden balcony at sunrise, golden warm light, fresh green smoothie on a small table beside them, healthy lifestyle morning ritual, warm peach and orange tones, editorial magazine photography style" width="400" height="520" src="/assets/site-lifestyle-overview-image-1.webp" alt="שגרת בוקר בריאה — יוגה ותנועה עם בוקר טרי">
+        </div>
+        <figcaption class="lifestyle-overview-panel-caption">תנועה ואנרגיה</figcaption>
+      </figure>
+
+      <!-- Center panel (largest) -->
+      <figure class="lifestyle-overview-panel lifestyle-overview-panel--center">
+        <div class="lifestyle-overview-img-wrap">
+          <img data-placeholder="lifestyle-overview-image-2" data-context="A beautifully styled breakfast table with fresh organic ingredients: acai bowls, granola, fresh fruits, honey drizzle, green leaves, warm morning sunlight streaming across a marble surface, premium editorial food photography, warm cream and golden tones, בוקר טרי brand feel" width="600" height="700" src="/assets/site-lifestyle-overview-image-2.webp" alt="ארוחת בוקר טרי עם מוצרים אורגניים טבעיים">
+        </div>
+        <figcaption class="lifestyle-overview-panel-caption">תזונה אמיתית</figcaption>
+      </figure>
+
+      <!-- End panel (left in RTL) -->
+      <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--end">
+        <div class="lifestyle-overview-img-wrap">
+          <img data-placeholder="lifestyle-overview-image-3" data-context="Close-up of hands holding a glass jar filled with overnight oats topped with fresh berries, chia seeds, and a drizzle of honey, soft morning window light, natural textures, warm and inviting, premium lifestyle photography, organic ingredients visible" width="400" height="520" src="/assets/site-lifestyle-overview-image-3.webp" alt="מוצרי בוקר טרי — שיבולת שועל עם פירות טריים">
+        </div>
+        <figcaption class="lifestyle-overview-panel-caption">מרכיבים נבחרים</figcaption>
+      </figure>
+    </div>
+  </div>
+
+  <!-- Bottom gradient fade divider -->
+  <div class="lifestyle-overview-divider-wrapper" aria-hidden="true">
+    <div class="lifestyle-overview-fade-bottom"></div>
+  </div>
+</section>
+
+<section class="lifestyle-services-section" data-layout-spec="אורח חיים-services" dir="rtl">
+  <!-- Botanical decorative motifs -->
+  <svg class="lss-botanical-leaf" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M110 10 C60 40, 20 90, 30 160 C50 130, 80 100, 110 10Z" stroke="#5F8B4C" stroke-width="1.5" fill="none" opacity="0.12"></path>
+    <path d="M110 10 C160 40, 200 90, 190 160 C170 130, 140 100, 110 10Z" stroke="#5F8B4C" stroke-width="1.5" fill="none" opacity="0.12"></path>
+    <path d="M110 10 L110 180" stroke="#5F8B4C" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M110 60 C90 70, 60 75, 50 90" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.09"></path>
+    <path d="M110 80 C130 90, 155 95, 165 108" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.09"></path>
+    <path d="M110 110 C88 120, 65 125, 55 138" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.09"></path>
+  </svg>
+
+  <svg class="lss-botanical-branch" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20 170 C50 140, 80 110, 100 60" stroke="#C8873A" stroke-width="1.5" fill="none" opacity="0.10"></path>
+    <path d="M60 130 C40 110, 20 100, 10 80" stroke="#C8873A" stroke-width="1.2" fill="none" opacity="0.09"></path>
+    <path d="M60 130 C80 115, 95 100, 100 80" stroke="#C8873A" stroke-width="1.2" fill="none" opacity="0.09"></path>
+    <path d="M80 100 C65 85, 55 70, 58 50" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.08"></path>
+    <path d="M80 100 C95 88, 108 75, 112 55" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.08"></path>
+    <ellipse cx="100" cy="58" rx="12" ry="7" transform="rotate(-30 100 58)" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.09"></ellipse>
+    <ellipse cx="58" cy="48" rx="10" ry="6" transform="rotate(20 58 48)" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.09"></ellipse>
+  </svg>
+
+  <div class="lss-container">
+    <!-- Two-column layout: text START (right), images END (left) -->
+    <div class="lss-grid">
+
+      <!-- Text Column (START / right in RTL) -->
+      <div class="lss-text-col">
+        <div class="lss-label">שגרת בוקר בריאה</div>
+        <h2 class="lss-heading">הבוקר שלך,<br>המסגרת שלנו</h2>
+        <p class="lss-intro">ב<strong>בוקר טרי</strong> אנחנו מאמינים שהבוקר הוא הרגע שמגדיר את כל היום. לכן יצרנו מסגרת של תמיכה שמחברת בין תזונה אמיתית, שגרה מודעת ואיכות חיים מוגברת — בלי מאמץ מיותר.</p>
+
+        <div class="lss-pillars">
+          <!-- Pillar 1 -->
+          <article class="lss-pillar">
+            <div class="lss-pillar-number">01</div>
+            <div class="lss-pillar-content">
+              <h3 class="lss-pillar-title">תדלוק לבוקר פעיל</h3>
+              <p class="lss-pillar-text">מוצרי בוקר טרי נבנו כדי לתת לגוף את האנרגיה הנכונה בדיוק ברגע שהוא צריך אותה. שילוב של חלבונים, סיבים ופחמימות מורכבות מבטיח שתצאו לדרך עם בהירות ותחושת קלות — בין אם אתם רצים, מתאמנים או פשוט מתחילים יום עמוס.</p>
+            </div>
+          </article>
+
+          <!-- Pillar 2 -->
+          <article class="lss-pillar">
+            <div class="lss-pillar-number">02</div>
+            <div class="lss-pillar-content">
+              <h3 class="lss-pillar-title">פשטות בהחלטות הבריאות</h3>
+              <p class="lss-pillar-text">בחירות תזונתיות לא צריכות להיות מורכבות. אנחנו בחרנו עבורכם מרכיבים אורגניים מובחרים, ניסחנו מתכונים שמתאימים לאורח חיים עמוס, וארזנו הכל בצורה שמקלה על ההחלטה — כך שהבוקר שלכם יתחיל ברוגע ולא בבלבול.</p>
+            </div>
+          </article>
+
+          <!-- Pillar 3 -->
+          <article class="lss-pillar">
+            <div class="lss-pillar-number">03</div>
+            <div class="lss-pillar-content">
+              <h3 class="lss-pillar-title">שדרוג איכות השגרה היומית</h3>
+              <p class="lss-pillar-text">כשהבוקר מתחיל נכון, כל השאר נופל למקומו. מוצרים אורגניים לארוחת בוקר שלנו הם לא רק מזון — הם טקס. רגע של נוכחות, של טעם אמיתי, של הנאה שקטה לפני שהיום ממריא. כי שגרה טובה מתחילה בפרטים הקטנים.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <!-- Images Column (END / left in RTL) -->
+      <div class="lss-images-col">
+        <figure class="lss-img-top">
+          <img data-placeholder="lifestyle-services-image-1" data-context="A close-up editorial food photograph of a fresh, vibrant morning bowl filled with granola, seasonal fruits, honey drizzle, and seeds on a warm cream linen surface. Natural morning light, soft shadows, premium organic breakfast aesthetic, warm peach and green tones." width="560" height="380" src="/assets/site-lifestyle-services-image-1.webp" alt="קערת בוקר טרי עם גרנולה ופירות עונתיים">
+        </figure>
+        <figure class="lss-img-bottom">
+          <img data-placeholder="lifestyle-services-image-2" data-context="An editorial lifestyle photograph of a woman in activewear holding a glass jar of overnight oats or smoothie in a bright morning kitchen. Warm golden sunlight streaming through a window, fresh herbs and fruits on the counter, movement and energy, healthy morning ritual feel." width="560" height="300" src="/assets/site-lifestyle-services-image-2.webp" alt="שגרת בוקר בריאה ופעילה">
+        </figure>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Bottom wave divider transitioning to darker section -->
+  <div class="lss-divider-wrapper">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,90 L0,45 Q80,28 160,42 T320,35 Q400,42 480,30 T640,38 Q720,44 800,32 T960,40 Q1040,46 1120,34 T1200,42 L1200,90 Z" fill="#2A211B"></path>
+    </svg>
+  </div>
+</section>
+
+<section class="lifestyle-audience-section" data-layout-spec="אורח חיים-audience" dir="rtl">
+  <!-- Decorative botanical leaf (top-left in RTL = visual top-right) -->
+  <svg class="lifestyle-audience-deco-leaf" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M180 20 C140 40, 60 80, 40 160 C30 200, 50 240, 80 250 C110 260, 150 230, 170 190 C190 150, 200 100, 180 20Z" stroke="#F6C667" stroke-width="1.5" fill="none" opacity="0.13"></path>
+    <path d="M180 20 C160 80, 100 120, 80 250" stroke="#F6C667" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M180 20 C155 60, 90 90, 60 150" stroke="#F6C667" stroke-width="0.8" fill="none" opacity="0.08"></path>
+    <path d="M180 20 C165 70, 110 110, 100 200" stroke="#F6C667" stroke-width="0.8" fill="none" opacity="0.08"></path>
+    <path d="M180 20 C150 55, 80 85, 55 130" stroke="#F6C667" stroke-width="0.7" fill="none" opacity="0.07"></path>
+  </svg>
+
+  <div class="lifestyle-audience-container">
+    <!-- Section heading -->
+    <header class="lifestyle-audience-header">
+      <span class="lifestyle-audience-eyebrow">למי זה מיועד</span>
+      <h2 class="lifestyle-audience-title">בוקר טרי — לכל מי שמאמין<br>שהבוקר מתחיל בבחירה נכונה</h2>
+    </header>
+
+    <!-- Three-card grid -->
+    <div class="lifestyle-audience-grid">
+
+      <!-- Card 1: Organic-minded buyers -->
+      <article class="lifestyle-audience-card">
+        <div class="lifestyle-audience-card-accent lifestyle-audience-card-accent--warm"></div>
+        <div class="lifestyle-audience-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" aria-hidden="true">
+            <path d="M24 4 C14 10, 8 22, 12 34 C16 46, 30 46, 36 34 C42 22, 34 10, 24 4Z" stroke="currentColor" stroke-width="1.6" fill="none"></path>
+            <path d="M24 4 C24 20, 20 32, 16 44" stroke="currentColor" stroke-width="1.2" fill="none"></path>
+            <path d="M24 18 C18 14, 12 16, 10 22" stroke="currentColor" stroke-width="1.1" fill="none"></path>
+            <path d="M24 26 C30 22, 36 24, 38 30" stroke="currentColor" stroke-width="1.1" fill="none"></path>
+          </svg>
+        </div>
+        <div class="lifestyle-audience-card-body">
+          <h3 class="lifestyle-audience-card-title">מאמיני האורגני</h3>
+          <p class="lifestyle-audience-card-text">אתם קוראים תוויות, בוחרים בקפידה ומחפשים מוצרים שמכבדים את הגוף ואת הסביבה. בוקר טרי מציע מוצרים אורגניים לארוחת בוקר שמגיעים ישירות מהמקור — ללא תוספים מיותרים, עם שקיפות מלאה על כל רכיב.</p>
+        </div>
+      </article>
+
+      <!-- Card 2 (elevated): Morning routine enthusiasts -->
+      <article class="lifestyle-audience-card lifestyle-audience-card--elevated">
+        <div class="lifestyle-audience-card-accent lifestyle-audience-card-accent--sunrise"></div>
+        <div class="lifestyle-audience-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" aria-hidden="true">
+            <circle cx="24" cy="20" r="8" stroke="currentColor" stroke-width="1.6" fill="none"></circle>
+            <path d="M24 4 L24 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
+            <path d="M10 20 L6 20" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+            <path d="M38 20 L42 20" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"></path>
+            <path d="M14 10 L11 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"></path>
+            <path d="M34 10 L37 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"></path>
+            <path d="M6 32 Q14 28, 24 30 Q34 32, 42 28" stroke="currentColor" stroke-width="1.4" fill="none" stroke-linecap="round"></path>
+            <path d="M6 38 L42 38" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity="0.5"></path>
+          </svg>
+        </div>
+        <div class="lifestyle-audience-card-body">
+          <h3 class="lifestyle-audience-card-title">אנשי שגרת הבוקר</h3>
+          <p class="lifestyle-audience-card-text">הבוקר שלכם הוא טקס — מהכוס הראשונה ועד לארוחה שמכינה אתכם ליום. אתם מחפשים מוצרים שמשתלבים בשגרת בוקר בריאה בצורה טבעית, מהירה ומהנה. בוקר טרי נולד בשבילכם.</p>
+        </div>
+        <div class="lifestyle-audience-card-badge">הכי פופולרי</div>
+      </article>
+
+      <!-- Card 3: Athletes / clean performance -->
+      <article class="lifestyle-audience-card">
+        <div class="lifestyle-audience-card-accent lifestyle-audience-card-accent--green"></div>
+        <div class="lifestyle-audience-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" width="40" height="40" aria-hidden="true">
+            <path d="M8 24 Q12 16, 18 20 Q22 23, 24 18 Q26 13, 30 16 Q34 19, 36 14 Q38 10, 42 14" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle cx="24" cy="36" r="6" stroke="currentColor" stroke-width="1.4" fill="none"></circle>
+            <path d="M24 30 L24 26" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"></path>
+            <path d="M20 38 L18 42" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+            <path d="M28 38 L30 42" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+          </svg>
+        </div>
+        <div class="lifestyle-audience-card-body">
+          <h3 class="lifestyle-audience-card-title">ספורטאי הביצועים הנקיים</h3>
+          <p class="lifestyle-audience-card-text">אתם יודעים שמה שנכנס לגוף לפני האימון קובע את התוצאה. אתם מחפשים אנרגיה אמיתית ממקורות טבעיים, בלי סוכר מיותר ובלי פשרות. בוקר טרי מספק את הבסיס התזונתי שמניע ביצועים יומיומיים מלאים.</p>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+  <!-- Bottom torn-edge divider transitioning to FAQ (light bg) -->
+  <div class="lifestyle-audience-divider-wrapper">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="torn-glow" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#FFF8F0" stop-opacity="0"></stop>
+          <stop offset="60%" stop-color="#FFF8F0" stop-opacity="0.18"></stop>
+          <stop offset="100%" stop-color="#FFF8F0" stop-opacity="1"></stop>
+        </linearGradient>
+      </defs>
+      <!-- Torn paper edge fills the bottom -->
+      <path d="M0,70 L0,38 Q30,32 60,40 T120,34 Q155,30 185,38 T245,32 Q280,28 310,36 T370,30 Q405,26 435,34 T495,28 Q530,24 560,32 T620,26 Q655,22 685,30 T745,24 Q780,20 810,28 T870,22 Q905,18 935,26 T995,20 Q1030,16 1060,24 T1120,18 Q1155,14 1185,22 L1200,24 L1200,70 Z" fill="#FAF7F2"></path>
+      <!-- Fading cream glow overlay -->
+      <rect x="0" y="0" width="1200" height="70" fill="url(#torn-glow)"></rect>
+    </svg>
+  </div>
+</section>
+
+<section class="lifestyle-faq-section" data-layout-spec="אורח חיים-faq" dir="rtl">
+  <div class="lifestyle-faq-container">
+    <div class="lifestyle-faq-header">
+      <span class="lifestyle-faq-label">שאלות נפוצות</span>
+      <h2 class="lifestyle-faq-title">כל מה שרצית לדעת על <em>בוקר טרי</em></h2>
+      <p class="lifestyle-faq-subtitle">שאלות שחוזרות על עצמן — ותשובות כנות, ישירות ומלאות אהבה לבוקר שלכם</p>
+    </div>
+
+    <div class="lifestyle-faq-grid">
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>מה הופך את המוצרים שלכם לטריים באמת?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>אנחנו עובדים עם ספקים מקומיים ומגיעים לשוק בשעות הבוקר המוקדמות. כל מוצר עובר בחירה ידנית — אם הוא לא עומד בסטנדרט שלנו, הוא פשוט לא מגיע אליכם. טריות היא לא שיווק, היא שיטת עבודה.</p>
+        </div>
+      </article>
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>האם המרכיבים הם אורגניים?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>רוב המרכיבים שלנו מגיעים מחקלאות אורגנית מוסמכת, ואת השאר אנו בוחרים מגידולים ללא ריסוס. אנחנו מאמינים שמוצרים אורגניים לארוחת בוקר לא חייבים להיות יקרים או מסובכים — רק כנים ואמיתיים.</p>
+        </div>
+      </article>
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>עבור מי מיועד בוקר טרי?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>לכל מי שמחפש שגרת בוקר בריאה שלא מתפשרת על טעם. בין אם אתם הורים עסוקים, ספורטאים, אנשי קריירה או פשוט אנשים שרוצים להתחיל את היום בצורה טובה יותר — בוקר טרי נולד בשבילכם.</p>
+        </div>
+      </article>
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>מה מייחד את חוויית הבוקר אצלכם?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>אנחנו לא מוכרים רק מוצרים — אנחנו מציעים רגע. רגע של שקט, של כוס קפה חמה, של ריח לחם טרי. כל פרט בחוויה — מהאריזה ועד הטעם — תוכנן כדי שהבוקר שלכם ירגיש כמו פינוק, לא כמו חובה.</p>
+        </div>
+      </article>
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>כיצד אתם שומרים על סטנדרט האיכות?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>יש לנו רשימת עקרונות פשוטה: מרכיב שאי אפשר לבטא אותו בקלות — לא נכנס. תוספים מלאכותיים, חומרים משמרים, צבעי מאכל — לא אצלנו. כל מנה נטעמת לפני שהיא יוצאת, בכל יום מחדש.</p>
+        </div>
+      </article>
+
+      <article class="lifestyle-faq-item">
+        <div class="lifestyle-faq-q">
+          <span class="lifestyle-faq-q-mark">ש</span>
+          <h3>איך מתחילים שגרת בוקר בריאה עם המוצרים שלכם?</h3>
+        </div>
+        <div class="lifestyle-faq-a">
+          <p>מתחילים קטן. בחרו מוצר אחד שאתם אוהבים ושלבו אותו בבוקר הקרוב. לא צריך מהפכה — רק צעד אחד בכיוון הנכון. הצוות שלנו שמח לעזור לכם לבנות תפריט בוקר שמתאים בדיוק לאורח החיים שלכם.</p>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+  <div class="lifestyle-faq-divider-wrapper" aria-hidden="true">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,70 L0,30 Q200,10 400,25 T700,20 Q900,15 1000,28 T1200,18 L1200,70 Z" fill="#FFF8F0"></path>
+    </svg>
+  </div>
+</section>
+
+<section class="lifestyle-reviews-section" data-layout-spec="אורח חיים-reviews" dir="rtl">
+  <!-- Decorative botanical leaf top-right -->
+  <div class="lrs-deco lrs-deco-leaf" aria-hidden="true">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 200" fill="none" xmlns="http://www.w3.org/2000/svg" width="220" height="200">
+      <path d="M180,20 C160,40 130,80 110,120 C90,160 80,180 60,190" stroke="#5F8B4C" stroke-width="1.5" fill="none" opacity="0.18"></path>
+      <path d="M180,20 C200,60 190,100 170,130 C150,160 130,175 110,120 C130,80 160,40 180,20Z" stroke="#5F8B4C" stroke-width="1" fill="none" opacity="0.12"></path>
+      <path d="M180,20 C160,40 140,60 130,80" stroke="#5F8B4C" stroke-width="0.8" fill="none" opacity="0.10"></path>
+      <path d="M170,50 C160,55 150,60 145,70" stroke="#5F8B4C" stroke-width="0.7" fill="none" opacity="0.09"></path>
+      <path d="M155,75 C148,78 142,84 140,92" stroke="#5F8B4C" stroke-width="0.7" fill="none" opacity="0.09"></path>
+    </svg>
+  </div>
+
+  <!-- Decorative branch bottom-left -->
+  <div class="lrs-deco lrs-deco-branch" aria-hidden="true">
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg" width="200" height="180">
+      <path d="M20,160 C50,130 90,100 130,60" stroke="#C8873A" stroke-width="1.5" fill="none" opacity="0.14"></path>
+      <path d="M20,160 C10,120 30,100 60,110 C90,100 130,60 130,60Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
+      <path d="M60,120 C55,100 65,85 80,80" stroke="#C8873A" stroke-width="0.9" fill="none" opacity="0.10"></path>
+      <path d="M90,100 C88,82 98,70 110,66" stroke="#C8873A" stroke-width="0.9" fill="none" opacity="0.09"></path>
+      <path d="M40,140 C35,125 42,115 52,112" stroke="#C8873A" stroke-width="0.8" fill="none" opacity="0.09"></path>
+    </svg>
+  </div>
+
+  <div class="lrs-container">
+    <!-- Section heading -->
+    <header class="lrs-header">
+      <p class="lrs-eyebrow">חוויות אמיתיות</p>
+      <h2 class="lrs-title">מה אומרים אלה שכבר התחילו את הבוקר אחרת</h2>
+      <div class="lrs-title-accent" aria-hidden="true"></div>
+    </header>
+
+    <!-- Reviews grid -->
+    <div class="lrs-reviews-grid">
+
+      <!-- Review 1 -->
+      <article class="lrs-review-card">
+        <div class="lrs-quote-mark" aria-hidden="true">
+          <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 48 36" fill="none" xmlns="http://www.w3.org/2000/svg" width="48" height="36">
+            <path d="M0,36 L0,20 C0,8.96 7.84,1.84 23.52,0 L25.92,4.32 C18.4,5.76 14.4,9.12 13.92,14.4 L20.16,14.4 L20.16,36 L0,36Z" fill="#FFB38A" opacity="0.25"></path>
+            <path d="M27.84,36 L27.84,20 C27.84,8.96 35.68,1.84 51.36,0 L53.76,4.32 C46.24,5.76 42.24,9.12 41.76,14.4 L48,14.4 L48,36 L27.84,36Z" fill="#FFB38A" opacity="0.25"></path>
+          </svg>
+        </div>
+
+        <blockquote class="lrs-review-text">
+          <p>כבר שמונה חודשים שאני מתחילה כל בוקר עם המוצרים של בוקר טרי, ועדיין אני מתרגשת לפתוח את המקרר בבוקר. מה שמפתיע אותי הכי הרבה זה לא רק הטעם – אלא כמה קל לשמור על שגרת בוקר בריאה כשהאוכל עצמו כל כך טעים. אני לא מרגישה שאני מוותרת על שום דבר. להפך – כל ביס מרגיש כמו פינוק שגם עושה לי טוב. זה שינה לגמרי את היחס שלי לארוחת הבוקר.</p>
+        </blockquote>
+
+        <footer class="lrs-review-footer">
+          <div class="lrs-stars" aria-label="דירוג 5 מתוך 5 כוכבים">
+            <span aria-hidden="true">★★★★★</span>
+          </div>
+          <div class="lrs-attribution">
+            <span class="lrs-author-name">מיכל ר.</span>
+            <span class="lrs-author-detail">תל אביב · לקוחה קבועה</span>
+          </div>
+        </footer>
+      </article>
+
+      <!-- Review 2 -->
+      <article class="lrs-review-card">
+        <div class="lrs-quote-mark" aria-hidden="true">
+          <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 48 36" fill="none" xmlns="http://www.w3.org/2000/svg" width="48" height="36">
+            <path d="M0,36 L0,20 C0,8.96 7.84,1.84 23.52,0 L25.92,4.32 C18.4,5.76 14.4,9.12 13.92,14.4 L20.16,14.4 L20.16,36 L0,36Z" fill="#FFB38A" opacity="0.25"></path>
+            <path d="M27.84,36 L27.84,20 C27.84,8.96 35.68,1.84 51.36,0 L53.76,4.32 C46.24,5.76 42.24,9.12 41.76,14.4 L48,14.4 L48,36 L27.84,36Z" fill="#FFB38A" opacity="0.25"></path>
+          </svg>
+        </div>
+
+        <blockquote class="lrs-review-text">
+          <p>הייתי סקפטי בהתחלה – כמה פעמים כבר ניסיתי מוצרים אורגניים לארוחת בוקר שהבטיחו הכל ונתנו מעט. עם בוקר טרי הרגשתי הבדל כבר בשבוע הראשון. לא רק בגוף – גם בראש. אני מגיע לעבודה עם אנרגיה שמחזיקה אותי עד הצהריים, בלי את הצניחה שהייתה אחרי הקפה הראשון. הסיפור כאן הוא האיכות האמיתית של הרכיבים – אתה מרגיש שמישהו באמת חשב על מה שנכנס לאוכל הזה.</p>
+        </blockquote>
+
+        <footer class="lrs-review-footer">
+          <div class="lrs-stars" aria-label="דירוג 5 מתוך 5 כוכבים">
+            <span aria-hidden="true">★★★★★</span>
+          </div>
+          <div class="lrs-attribution">
+            <span class="lrs-author-name">אורי ב.</span>
+            <span class="lrs-author-detail">חיפה · שנה וחצי לקוח</span>
+          </div>
+        </footer>
+      </article>
+
+    </div>
+    <!-- End reviews grid -->
+
+    <!-- Bottom trust line -->
+    <div class="lrs-trust-line">
+      <span class="lrs-trust-dot" aria-hidden="true"></span>
+      <p class="lrs-trust-text">מאות לקוחות מרוצים בכל רחבי הארץ מתחילים כל בוקר עם בוקר טרי</p>
+      <span class="lrs-trust-dot" aria-hidden="true"></span>
+    </div>
+
+  </div>
+</section>
+  </main>
+  
+  <footer class="site-footer" dir="rtl">
+  <div class="footer-top">
+    <div class="footer-container">
+      <div class="footer-grid">
+
+        <!-- Column 1: Company Info -->
+        <div class="footer-col footer-brand">
+          <div class="footer-logo-wrap">
+            <img src="/assets/general-logo.webp" alt="בוקר טרי" class="logo">
+          </div>
+          <p class="footer-tagline">מתחילים את הבוקר נכון — טרי, בריא ומלא השראה.</p>
+          <div class="footer-social">
+            <a href="[facebook_handle]" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="[instagram_handle]" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="[whatsapp_handle]" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          </div>
+        </div>
+
+        <!-- Column 2: Quick Links -->
+        <div class="footer-col">
+          <h4 class="footer-heading">
+            <span class="heading-accent"></span>ניווט מהיר
+          </h4>
+          <ul class="footer-links">
+            <li><a href="/about">אודות</a></li>
+            <li><a href="/lifestyle">אורח חיים</a></li>
+            <li><a href="/contact">צור קשר</a></li>
+          </ul>
+        </div>
+
+        <!-- Column 3: Contact Info -->
+        <div class="footer-col">
+          <h4 class="footer-heading">
+            <span class="heading-accent"></span>יצירת קשר
+          </h4>
+          <ul class="footer-contact">
+            <li>
+              <span class="contact-icon"><i class="fas fa-envelope"></i></span>
+              <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            </li>
+            <li>
+              <span class="contact-icon"><i class="fas fa-phone"></i></span>
+              <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            </li>
+            <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
+              <span class="contact-text">[business_address]</span></a></li>
+          </ul>
+        </div>
+
+        <!-- Column 4: About Blurb -->
+        <div class="footer-col footer-about-col">
+          <h4 class="footer-heading">
+            <span class="heading-accent"></span>בוקר טרי
+          </h4>
+          <p class="footer-about-text">חוויה עריכתית פרימיום שמשלבת חמימות שחר, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
+          <div class="footer-divider-line"></div>
+          <p class="footer-hours-label">שעות פעילות</p>
+          <p class="footer-hours">ראשון – שישי: 07:00 – 18:00</p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="footer-container">
+      <div class="footer-bottom-inner">
+        <p class="footer-copyright">© 2026 בוקר טרי. כל הזכויות שמורות.</p>
+        <div class="footer-legal">
+          <a href="/privacy">מדיניות פרטיות</a>
+          <span class="legal-sep"></span>
+          <a href="/terms">תנאי שימוש</a><span class="separator">|</span>
+            <a href="/return-policy" aria-label="מדיניות החזרות">
+              מדיניות החזרות
+            </a>
+          <span class="legal-sep"></span>
+          <a href="/accessibility">נגישות</a>
+          <span class="legal-sep"></span>
+          <a href="https://zappy5.com" target="_blank" class="zappy-attribution">נוצר באמצעות Zappy</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  
+  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+  
+  <div data-integration="accessibility:toolbar"></div>
+
+    <script src="/script.js"></script>
+
+    <script id="zappy-mobile-submenu-script">
+    (function() {
+      function initMobileSubmenuToggles() {
+        if (window.innerWidth > 768) {
+          document.querySelectorAll('.mobile-submenu-toggle').forEach(function(btn) { btn.remove(); });
+          document.querySelectorAll('.sub-menu.mobile-expanded').forEach(function(menu) { menu.classList.remove('mobile-expanded'); });
+          return;
+        }
+        var items = document.querySelectorAll('.nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu)');
+        items.forEach(function(li) {
+          if (li.querySelector('.mobile-submenu-toggle')) return;
+          var submenu = li.querySelector('.sub-menu');
+          var parentLink = li.querySelector(':scope > a');
+          if (!submenu || !parentLink) return;
+          var toggleBtn = document.createElement('button');
+          toggleBtn.className = 'mobile-submenu-toggle';
+          toggleBtn.setAttribute('aria-label', 'Toggle submenu');
+          toggleBtn.setAttribute('type', 'button');
+          parentLink.insertAdjacentElement('afterend', toggleBtn);
+          toggleBtn.addEventListener('click', function(e) {
+            e.preventDefault(); e.stopPropagation();
+            document.querySelectorAll('.sub-menu.mobile-expanded').forEach(function(menu) {
+              if (menu !== submenu) { menu.classList.remove('mobile-expanded'); var t = menu.parentElement.querySelector('.mobile-submenu-toggle'); if(t) t.classList.remove('expanded'); }
+            });
+            submenu.classList.toggle('mobile-expanded');
+            toggleBtn.classList.toggle('expanded');
+          });
+        });
+      }
+      if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', initMobileSubmenuToggles); }
+      else { initMobileSubmenuToggles(); }
+      var resizeTimer; window.addEventListener('resize', function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(initMobileSubmenuToggles, 250); });
+      // Re-initialize when mobile menu becomes visible (MutationObserver)
+      var observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+          if (mutation.type === 'attributes') {
+            var target = mutation.target;
+            if (target.classList && (target.classList.contains('active') || target.classList.contains('open'))) {
+              setTimeout(initMobileSubmenuToggles, 100);
+            }
+          }
+        });
+      });
+      setTimeout(function() {
+        document.querySelectorAll('.mobile-menu, .nav-menu, #navMenu, nav').forEach(function(menu) {
+          observer.observe(menu, { attributes: true, attributeFilter: ['class', 'style'] });
+        });
+      }, 500);
+    })();
+    </script>
+
+    <script id="zappy-navbar-scroll-effect">
+    (function(){
+      var nb=document.querySelector('nav.navbar,.navbar:not(.zappy-catalog-menu)');
+      var cm=document.querySelector('.zappy-catalog-menu,#zappy-catalog-menu');
+      if(!nb)return;
+      var fb='rgba(255,248,240,0.85)';
+      var th=60;
+      var rs=getComputedStyle(document.documentElement);
+      var td=rs.getPropertyValue('--text-dark').trim()||'#1a1a1a';
+      var tl=rs.getPropertyValue('--text-light').trim()||'#ffffff';
+      var st=true?td:tl;
+      nb.style.transition='background 0.3s ease,backdrop-filter 0.3s ease,-webkit-backdrop-filter 0.3s ease,box-shadow 0.3s ease';
+      if(cm)cm.style.transition='background 0.3s ease,backdrop-filter 0.3s ease,-webkit-backdrop-filter 0.3s ease';
+      var neSel='a,.navbar-brand,.navbar-brand a,.dropdown-toggle,.mobile-toggle,.phone-header-btn,.mobile-hamburger-btn,.mobile-close-btn,.mobile-submenu-toggle,.nav-link';
+      var skipCls=['cart-link','login-link','nav-search-toggle','search-toggle'];
+      function sTC(c,clr){var els=c.querySelectorAll(neSel);for(var i=0;i<els.length;i++){var sk=false;if(els[i].closest('.sub-menu')||els[i].closest('.dropdown-menu')){sk=true;}for(var j=0;j<skipCls.length;j++){if(els[i].classList.contains(skipCls[j])){sk=true;break;}}if(!sk)els[i].style.setProperty('color',clr,'important');}}
+      function cTC(c){var els=c.querySelectorAll(neSel);for(var i=0;i<els.length;i++){if(els[i].closest('.sub-menu')||els[i].closest('.dropdown-menu'))continue;els[i].style.removeProperty('color');}}
+      function applyScrolled(){
+        nb.classList.add('scrolled');
+        if(window.innerWidth>768){
+          nb.style.setProperty('--frosted-text',st);
+          nb.style.setProperty('background-image','none','important');
+          nb.style.setProperty('background-color',fb,'important');
+          nb.style.backdropFilter='blur(12px)';nb.style.webkitBackdropFilter='blur(12px)';nb.style.boxShadow='0 2px 16px rgba(0,0,0,0.12)';
+          sTC(nb,st);
+        }
+        if(cm){cm.classList.add('scrolled');if(window.innerWidth>768){cm.style.setProperty('background',fb,'important');cm.style.setProperty('backdrop-filter','blur(12px)','important');cm.style.setProperty('-webkit-backdrop-filter','blur(12px)','important');sTC(cm,st);}}
+      }
+      function onS(){
+        if(window._zappyNavNoDarkHero) return;
+        if(window.innerWidth<=768){nb.classList.remove('scrolled');cTC(nb);if(cm){cm.classList.remove('scrolled');cTC(cm);}return;}
+        var y=window.scrollY||window.pageYOffset;
+        if(y>th){
+          nb.classList.add('scrolled');nb.style.setProperty('background-color',fb,'important');nb.style.setProperty('background-image','none','important');
+          nb.style.setProperty('--frosted-text',st);nb.style.backdropFilter='blur(12px)';nb.style.webkitBackdropFilter='blur(12px)';nb.style.boxShadow='0 2px 16px rgba(0,0,0,0.12)';
+          sTC(nb,st);
+          if(cm){cm.classList.add('scrolled');cm.style.setProperty('background',fb,'important');cm.style.setProperty('backdrop-filter','blur(12px)','important');cm.style.setProperty('-webkit-backdrop-filter','blur(12px)','important');sTC(cm,st);}
+        }else{
+          nb.classList.remove('scrolled');nb.style.setProperty('background-color','transparent','important');nb.style.removeProperty('background-image');
+          nb.style.removeProperty('--frosted-text');nb.style.backdropFilter='none';nb.style.webkitBackdropFilter='none';nb.style.boxShadow='none';
+          cTC(nb);
+          if(cm){cm.classList.remove('scrolled');cm.style.setProperty('background','transparent','important');cm.style.setProperty('backdrop-filter','none','important');cm.style.setProperty('-webkit-backdrop-filter','none','important');cTC(cm);}
+        }
+      }
+      function sLum(rv,gv,bv){rv/=255;gv/=255;bv/=255;rv=rv<=0.03928?rv/12.92:Math.pow((rv+0.055)/1.055,2.4);gv=gv<=0.03928?gv/12.92:Math.pow((gv+0.055)/1.055,2.4);bv=bv<=0.03928?bv/12.92:Math.pow((bv+0.055)/1.055,2.4);return 0.2126*rv+0.7152*gv+0.0722*bv;}
+      window.addEventListener('scroll',onS,{passive:true});
+      window.addEventListener('resize',onS,{passive:true});
+      onS();
+      var heroEl=document.querySelector('section[class*="hero"],[data-hero-type],main>section:first-child');
+      var hasDH=false;
+      if(heroEl){var hCs=getComputedStyle(heroEl);var hBI=hCs.backgroundImage;if(hBI&&hBI!=='none'){if(hBI.indexOf('url(')!==-1){var hM2=hCs.backgroundColor.match(/\d+/g);if(hM2&&hM2.length>=3){hasDH=sLum(parseInt(hM2[0]),parseInt(hM2[1]),parseInt(hM2[2]))<0.4;}else{hasDH=true;}}else if(hBI.indexOf('gradient')!==-1){var cM=hBI.match(/rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)/g);if(cM&&cM.length>0){var tLm=0;for(var ci=0;ci<cM.length;ci++){var pts=cM[ci].match(/\d+/g);tLm+=sLum(parseInt(pts[0]),parseInt(pts[1]),parseInt(pts[2]));}hasDH=(tLm/cM.length)<0.4;}else{hasDH=true;}}else{hasDH=true;}}else{var hM=hCs.backgroundColor.match(/\d+/g);if(hM&&hM.length>=3){hasDH=sLum(parseInt(hM[0]),parseInt(hM[1]),parseInt(hM[2]))<0.4;}}}
+      if(!hasDH){window.removeEventListener('scroll',onS);window.removeEventListener('resize',onS);applyScrolled();window._zappyNavNoDarkHero=true;}
+    })();
+    </script>
+</body>
+</html>
