@@ -1,79 +1,93 @@
-# Business — Generative Engine Optimization Map
+# בוקר טרי — Generative Engine Optimization Map
+
+> https://bokertari.lovable.app/auth
+‏תבדוק את האתר ותסיים את מה שחסר
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://boker-tari.zappy5.app
 בוקר טרי מביא לכם את המוצרים האורגניים הטובים ביותר לארוחת בוקר. גלו שגרת בוקר בריאה שתשנה את חייכם — הזמינו עכשיו וחוו את ההבדל!
 
 ### אודות
-https://example.com/about
+https://boker-tari.zappy5.app/about
 גלו מי אנחנו ולמה בוקר טרי הפכה למותג שאנשים אוהבים. הכירו את הערכים, החזון והתשוקה שמניעים אותנו להביא לכם בוקר טרי ובריא כל יום מחדש.
 
 ### אורח חיים
-https://example.com/lifestyle
+https://boker-tari.zappy5.app/lifestyle
 אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.
 
 ### צור קשר
-https://example.com/contact
+https://boker-tari.zappy5.app/contact
 יש לכם שאלות על המוצרים האורגניים שלנו? רוצים לדעת יותר על שגרת בוקר בריאה? צוות בוקר טרי כאן בשבילכם — צרו קשר עכשיו ונחזור אליכם בהקדם!
 
 ### Products
-https://example.com/products
+https://boker-tari.zappy5.app/products
 המוצרים שלנו - בוקר טרי
 
 ### Cart
-https://example.com/cart
+https://boker-tari.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://boker-tari.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://boker-tari.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://boker-tari.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://boker-tari.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://boker-tari.zappy5.app/product/:slug
 פרטי המוצר - בוקר טרי
 
 ### Category
-https://example.com/category/:slug
+https://boker-tari.zappy5.app/category/:slug
 מוצרים - בוקר טרי
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://boker-tari.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://boker-tari.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://boker-tari.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About בוקר טרי
+https://bokertari.lovable.app/auth
+‏תבדוק את האתר ותסיים את מה שחסר
+
+## Target Audience
+- קניינים אורגניים
+- אוהבי שגרות בוקר
+- ספורטאים ממוקדי בריאות
+
+## Industry
+General
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://boker-tari.zappy5.app/sitemap.xml
+- **Robots.txt**: https://boker-tari.zappy5.app/robots.txt
