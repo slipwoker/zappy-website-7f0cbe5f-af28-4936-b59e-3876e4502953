@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### לחמניית פרנה
+URL: https://boker-tari.zappy5.app/product/lchmnyyt-prnh-gfk1kr
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### לחם פרנה
 URL: https://boker-tari.zappy5.app/product/lchm-prnh-euuzx4
 Price: 0.00 ILS

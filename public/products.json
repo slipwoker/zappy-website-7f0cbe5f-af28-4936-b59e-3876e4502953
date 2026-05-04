@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T15:38:02.569Z",
+  "generated_at": "2026-05-04T15:41:14.476Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 57,
+  "count": 58,
   "products": [
+    {
+      "id": "f1f1a9fd-490c-442c-97ed-8139a40a5c13",
+      "slug": "lchmnyyt-prnh-gfk1kr",
+      "name": "לחמניית פרנה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777909222697-meuxfm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-prnh-gfk1kr",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T15:40:43.459Z"
+    },
     {
       "id": "10d1044e-c949-442c-9354-5750336da86c",
       "slug": "lchm-prnh-euuzx4",
