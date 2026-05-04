@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בקבוק אפרסק  FUZE
+URL: https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### סודה 
 URL: https://boker-tari.zappy5.app/product/svdh-a65pnm
 Price: 0.00 ILS
