@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T15:32:49.175Z",
+  "generated_at": "2026-05-04T15:34:49.334Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 55,
+  "count": 56,
   "products": [
+    {
+      "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
+      "slug": "lchmnyyt-rvstyk-khh-2uas9t",
+      "name": "לחמניית רוסטיק כהה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777908834960-3t2nnm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-2uas9t",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T15:34:18.387Z"
+    },
     {
       "id": "dbc49e97-be41-4dae-b49b-ab2462068cc2",
       "slug": "lchmnyyt-rvstyk-bhyr-5pxxgu",

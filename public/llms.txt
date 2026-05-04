@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 55**
+**Total active products: 56**
+
+### לחמניית רוסטיק כהה
+https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-2uas9t
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908834960-3t2nnm.webp
 
 ### לחמניית רוסטיק בהיר
 https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-5pxxgu
