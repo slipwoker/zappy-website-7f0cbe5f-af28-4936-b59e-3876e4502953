@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.zappy5.app</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 04 May 2026 16:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:55:53 GMT</lastBuildDate>
+    <item>
+      <g:id>6af68168-eff3-4cd2-bf92-8a84a955b487</g:id>
+      <g:title>חלה</g:title>
+      <g:description>חלה</g:description>
+      <g:link>https://boker-tari.zappy5.app/product/chlh-fhta4k</g:link>
+      <g:image_link>https://boker-tari.zappy5.app/assets/product-1777913714272-nix1rf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חלות</g:product_type>
+    </item>
     <item>
       <g:id>ee6be3d2-52f2-49b2-a326-9c55c5edf182</g:id>
       <g:title>חלב 1% קרטון תנובה</g:title>

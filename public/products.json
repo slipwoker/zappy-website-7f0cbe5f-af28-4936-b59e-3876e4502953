@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:54:39.183Z",
+  "generated_at": "2026-05-04T16:55:53.960Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 71,
+  "count": 72,
   "products": [
+    {
+      "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
+      "slug": "chlh-fhta4k",
+      "name": "חלה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777913714272-nix1rf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/chlh-fhta4k",
+      "categories": [
+        "חלות"
+      ],
+      "updated_at": "2026-05-04T16:55:23.136Z"
+    },
     {
       "id": "ee6be3d2-52f2-49b2-a326-9c55c5edf182",
       "slug": "chlb-1-krtvn-tnvbh-3erqqp",
