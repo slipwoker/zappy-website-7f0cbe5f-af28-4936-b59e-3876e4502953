@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### פחית קוקה קולה
+URL: https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-0wqode
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### גבינה לבנה תנובה 3% 250 גרם
 URL: https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
 Price: 0.00 ILS
