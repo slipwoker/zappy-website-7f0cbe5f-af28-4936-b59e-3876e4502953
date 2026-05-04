@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T19:00:29.466Z",
+  "generated_at": "2026-05-04T19:01:50.098Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 68,
+  "count": 69,
   "products": [
+    {
+      "id": "fc153605-9a8d-44c5-87aa-63305d846330",
+      "slug": "kvrasvn-shvkvld-myny-bmarz-y2obd7",
+      "name": "קוראסון שוקולד מיני במארז",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777921256930-myoypd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-myny-bmarz-y2obd7",
+      "categories": [
+        "קוראסים ומתוקים"
+      ],
+      "updated_at": "2026-05-04T19:01:19.180Z"
+    },
     {
       "id": "fe6db7ab-8d0e-4068-b3de-0355aa80472b",
       "slug": "gbynyvt-marz-kvpsa-wp7uk8",
