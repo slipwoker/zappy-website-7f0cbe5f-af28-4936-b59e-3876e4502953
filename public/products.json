@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:42:34.833Z",
+  "generated_at": "2026-05-04T18:44:48.967Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 65,
+  "count": 66,
   "products": [
+    {
+      "id": "34cb07c6-c3b0-46bd-a40b-11a319b253c5",
+      "slug": "pytvt-t7sr43",
+      "name": "פיתות",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777920232448-07zva8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/pytvt-t7sr43",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T18:44:18.024Z"
+    },
     {
       "id": "8d1954f5-b8b9-4d5f-8a40-037d6cdc5db5",
       "slug": "lchmnyyh-kshr-mtvkh-5p696g",
