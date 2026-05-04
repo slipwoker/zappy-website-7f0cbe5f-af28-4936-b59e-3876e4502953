@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 60**
 
 ### בורקס גבינה מסעדות
-https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-oprhqq
+https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-hbes5a
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
+- Image: https://boker-tari.zappy5.app/assets/product-1777910704869-g4islq.webp
 
 ### אצבעות תפוחי עץ
 https://boker-tari.zappy5.app/product/atsbavt-tpvchy-ats-oz76nx
