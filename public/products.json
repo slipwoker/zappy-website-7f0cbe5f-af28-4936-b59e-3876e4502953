@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T15:34:49.334Z",
+  "generated_at": "2026-05-04T15:38:02.569Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 56,
+  "count": 57,
   "products": [
+    {
+      "id": "10d1044e-c949-442c-9354-5750336da86c",
+      "slug": "lchm-prnh-euuzx4",
+      "name": "לחם פרנה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777909030815-v5414j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchm-prnh-euuzx4",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T15:37:31.714Z"
+    },
     {
       "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
       "slug": "lchmnyyt-rvstyk-khh-2uas9t",
