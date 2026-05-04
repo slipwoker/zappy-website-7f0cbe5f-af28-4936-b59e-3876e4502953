@@ -5535,7 +5535,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### שוקו בננה ליטר תנובה
-URL: https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-4q5nxi
+URL: https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-uul94y
 Price: 0.00 ILS
 Availability: In stock
 
