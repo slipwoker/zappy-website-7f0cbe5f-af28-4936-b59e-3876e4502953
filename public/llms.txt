@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 86**
+**Total active products: 87**
+
+### בקבוק סחוט תפוזים
+https://boker-tari.zappy5.app/product/bkbvk-schvt-tpvzym-va5k7c
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777923868045-e5t1ql.webp
 
 ### בקבוק תות בננה
 https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6
