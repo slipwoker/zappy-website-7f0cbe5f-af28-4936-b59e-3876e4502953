@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### חלב 1% קרטון תנובה
+URL: https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-bv1peg
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### בייגלה רומני 
 URL: https://boker-tari.zappy5.app/product/byyglh-rvmny-wus2ph
 Price: 0.00 ILS
