@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:28:58.461Z",
+  "generated_at": "2026-05-04T18:31:19.882Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 61,
+  "count": 62,
   "products": [
+    {
+      "id": "42b2df10-c677-479c-a786-f3fd55e5365a",
+      "slug": "lchmnyyh-agvlh-kshr-5o2o9z",
+      "name": "לחמנייה עגולה קשר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777919437790-l7w5fe.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-5o2o9z",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T18:30:48.666Z"
+    },
     {
       "id": "5cfe1fb2-fbf6-4e88-bd78-a46151f07c73",
       "slug": "lchmnyyh-atsba-shvmshvm-7i2uno",
