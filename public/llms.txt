@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 77**
+**Total active products: 78**
+
+### סודה 
+https://boker-tari.zappy5.app/product/svdh-a65pnm
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777922854201-q2kmue.webp
 
 ### פחית ספרייט זירו 
 https://boker-tari.zappy5.app/product/pchyt-spryyt-zyrv-muwcq8
