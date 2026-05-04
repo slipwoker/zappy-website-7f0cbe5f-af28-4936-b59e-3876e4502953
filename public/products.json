@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:20:37.385Z",
+  "generated_at": "2026-05-04T16:29:24.620Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 61,
+  "count": 62,
   "products": [
+    {
+      "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
+      "slug": "bvrks-trd-vgbynh-msadvt-w3an3u",
+      "name": "בורקס תרד וגבינה מסעדות",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777912126350-h1eap.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/bvrks-trd-vgbynh-msadvt-w3an3u",
+      "categories": [
+        "בורקסים"
+      ],
+      "updated_at": "2026-05-04T16:28:53.604Z"
+    },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
       "slug": "bvrks-tpvch-admh-msadvt-yz5pro",
