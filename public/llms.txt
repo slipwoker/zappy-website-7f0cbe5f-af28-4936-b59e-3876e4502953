@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 69**
+**Total active products: 70**
+
+### חלב דל לקטוז יטבתה
+https://boker-tari.zappy5.app/product/chlb-dl-lktvz-ytbth-4jyh2f
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1777913424866-eneshq.webp
 
 ### חלב 1% בקבוק יוטבתה
 https://boker-tari.zappy5.app/product/chlb-1-bkbvk-yvtbth-dqi0er

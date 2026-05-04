@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.zappy5.app</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 04 May 2026 16:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:51:11 GMT</lastBuildDate>
+    <item>
+      <g:id>1f285708-ac00-43fe-ac77-8e55631104d1</g:id>
+      <g:title>חלב דל לקטוז יטבתה</g:title>
+      <g:description>חלב דל לקטוז יטבתה</g:description>
+      <g:link>https://boker-tari.zappy5.app/product/chlb-dl-lktvz-ytbth-4jyh2f</g:link>
+      <g:image_link>https://boker-tari.zappy5.app/assets/product-1777913424866-eneshq.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרי חלב</g:product_type>
+    </item>
     <item>
       <g:id>efd0fd56-6d8e-4519-9cc5-6622e1f46c0c</g:id>
       <g:title>חלב 1% בקבוק יוטבתה</g:title>
