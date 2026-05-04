@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### שוקו שקית תנובה
+URL: https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### חלה פרוסה
 URL: https://boker-tari.zappy5.app/product/chlh-prvsh-2yujm2
 Price: 0.00 ILS

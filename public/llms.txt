@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 77**
+**Total active products: 78**
+
+### שוקו שקית תנובה
+https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1777914514527-edqoul.webp
 
 ### חלה פרוסה
 https://boker-tari.zappy5.app/product/chlh-prvsh-2yujm2
