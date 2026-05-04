@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 81**
+**Total active products: 82**
+
+### בקבוק מים מנרליים נביעות
+https://boker-tari.zappy5.app/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777923355254-eb02jm.webp
 
 ### בקבוק אשכוליות
 https://boker-tari.zappy5.app/product/bkbvk-ashkvlyvt-oksgc2
