@@ -73,7 +73,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 60**
+**Total active products: 61**
+
+### בורקס תפוח אדמה מסעדות
+https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-hu22l5
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: בורקסים
 
 ### בורקס גבינה מסעדות
 https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-qwkw68
