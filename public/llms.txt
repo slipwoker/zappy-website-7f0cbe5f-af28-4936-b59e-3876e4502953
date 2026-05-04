@@ -1,7 +1,4 @@
-# בוקר טרי — Generative Engine Optimization Map
-
-> https://bokertari.lovable.app/auth
-‏תבדוק את האתר ותסיים את מה שחסר
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -73,18 +70,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About בוקר טרי
-https://bokertari.lovable.app/auth
-‏תבדוק את האתר ותסיים את מה שחסר
-
-## Target Audience
-- קניינים אורגניים
-- אוהבי שגרות בוקר
-- ספורטאים ממוקדי בריאות
-
-## Industry
-General
-
+## About Business
 ---
 
 # Additional Resources
