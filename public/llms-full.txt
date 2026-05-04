@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### כריך אבוקדו
+URL: https://boker-tari.zappy5.app/product/kryk-abvkdv-k4n20h
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### כריך בולגרית
 URL: https://boker-tari.zappy5.app/product/kryk-bvlgryt-nk4khd
 Price: 0.00 ILS
@@ -5957,15 +5964,6 @@ Price: 22.90 ILS
 Availability: In stock
 
 חמאת בוטנים טחונה טרייה, ללא תוספת סוכר ושמן. עשירה בחלבון ושומנים טובים — מריחה אידיאלית על לחם מחיטה מלאה.
-
----
-
-### לבן עיזים אורגני
-URL: https://boker-tari.zappy5.app/product/lbn-ayzym-avrgny-wxrm10
-Price: 14.90 ILS
-Availability: In stock
-
-לבן עיזים קרמי ועשיר בטעם, מיוצר אורגנית. מזין ועדין על הקיבה, מושלם לבוקר עם פירות טריים.
 
 ---
 

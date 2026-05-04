@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.zappy5.app</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 04 May 2026 18:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:21:12 GMT</lastBuildDate>
+    <item>
+      <g:id>333181d6-4ae7-44a9-9a5f-281ded0be2a8</g:id>
+      <g:title>כריך אבוקדו</g:title>
+      <g:description>כריך אבוקדו</g:description>
+      <g:link>https://boker-tari.zappy5.app/product/kryk-abvkdv-k4n20h</g:link>
+      <g:image_link>https://boker-tari.zappy5.app/assets/image-product-image-1777918826371-v8uyvs.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>סנדויצ&apos;ים </g:product_type>
+    </item>
     <item>
       <g:id>2fb79b3a-e667-4fce-b222-1b8250ab1f6f</g:id>
       <g:title>כריך בולגרית</g:title>
@@ -748,17 +761,6 @@
       <g:brand>בוקר טרי</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>סנדויצ&apos;ים </g:product_type>
-    </item>
-    <item>
-      <g:id>9f5b4c8a-d3f2-4717-8c2c-7cd37f9db2b5</g:id>
-      <g:title>לבן עיזים אורגני</g:title>
-      <g:description>לבן עיזים קרמי ועשיר בטעם, מיוצר אורגנית. מזין ועדין על הקיבה, מושלם לבוקר עם פירות טריים.</g:description>
-      <g:link>https://boker-tari.zappy5.app/product/lbn-ayzym-avrgny-wxrm10</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>14.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>בוקר טרי</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
     </item>
   </channel>
 </rss>

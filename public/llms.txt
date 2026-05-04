@@ -75,6 +75,13 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 59**
 
+### כריך אבוקדו
+https://boker-tari.zappy5.app/product/kryk-abvkdv-k4n20h
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: סנדויצ'ים 
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918826371-v8uyvs.webp
+
 ### כריך בולגרית
 https://boker-tari.zappy5.app/product/kryk-bvlgryt-nk4khd
 - Price: 0.00 ILS
@@ -480,12 +487,6 @@ https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-zsnl69
 - Category: סנדויצ'ים 
 - Description: חמאת בוטנים טחונה טרייה, ללא תוספת סוכר ושמן. עשירה בחלבון ושומנים טובים — מריחה אידיאלית על לחם מחיטה מלאה.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877918377-p9c98k.webp
-
-### לבן עיזים אורגני
-https://boker-tari.zappy5.app/product/lbn-ayzym-avrgny-wxrm10
-- Price: 14.90 ILS
-- Availability: In stock
-- Description: לבן עיזים קרמי ועשיר בטעם, מיוצר אורגנית. מזין ועדין על הקיבה, מושלם לבוקר עם פירות טריים.
 
 ---
 
