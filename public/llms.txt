@@ -73,7 +73,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 95**
+**Total active products: 91**
 
 ### לחם פרוס 
 https://boker-tari.zappy5.app/product/lchm-prvs-viq62u
@@ -706,34 +706,6 @@ https://boker-tari.zappy5.app/product/lchm-mchyth-mlah-rnw234
 - Availability: In stock
 - SKU: BREAD-001
 - Description: לחם מחיטה מלאה אפוי טרי, עשיר בסיבים תזונתיים. קרום פריך וסמוך, ריחני ומזין. אפייה יומית טרייה.
-
-### גבינת קוטג' 5%
-https://boker-tari.zappy5.app/product/gbynt-kvtg-5-p3cyci
-- Price: 9.90 ILS
-- Availability: In stock
-- SKU: DAIRY-004
-- Description: גבינת קוטג' קרמית ועדינה, 5% שומן. דלה בקלוריות, עשירה בחלבון. מתאימה לממרח על לחם או עם ירקות טריים.
-
-### גבינה צהובה אמנטל
-https://boker-tari.zappy5.app/product/gbynh-tshvbh-amntl-swf9pw
-- Price: 18.90 ILS
-- Availability: In stock
-- SKU: DAIRY-003
-- Description: גבינה צהובה אמנטל שווייצרית, פרוסה עבה ועשירה בטעם. מושלמת לכריכים, אומלטים ולצלחת גבינות בוקר.
-
-### יוגורט יווני טבעי
-https://boker-tari.zappy5.app/product/yvgvrt-yvvny-tbay-lg02if
-- Price: 12.90 ILS
-- Availability: In stock
-- SKU: DAIRY-002
-- Description: יוגורט יווני סמיך ועשיר, 5% שומן. עשיר בחלבון ופרוביוטיקה. מושלם עם דבש, פירות טריים וגרנולה.
-
-### חלב טרי 3% שומן
-https://boker-tari.zappy5.app/product/chlb-try-3-shvmn-zyqrnf
-- Price: 7.90 ILS
-- Availability: In stock
-- SKU: DAIRY-001
-- Description: חלב טרי איכותי 3% שומן, מפרות מרעה חופשי. עשיר בסידן וחלבון, מושלם לשתייה, לקפה ולדגני בוקר.
 
 ---
 

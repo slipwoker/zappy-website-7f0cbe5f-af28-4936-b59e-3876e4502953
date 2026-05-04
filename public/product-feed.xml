@@ -4,7 +4,7 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.zappy5.app</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 04 May 2026 18:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:12:25 GMT</lastBuildDate>
     <item>
       <g:id>4c709038-8f2f-4ef8-af01-f5b345ba515d</g:id>
       <g:title>לחם פרוס </g:title>
@@ -1109,50 +1109,6 @@
       <g:condition>new</g:condition>
       <g:brand>בוקר טרי</g:brand>
       <g:mpn>BREAD-001</g:mpn>
-    </item>
-    <item>
-      <g:id>87c01c2e-6dc4-4734-a0a5-d839a23aadca</g:id>
-      <g:title>גבינת קוטג&apos; 5%</g:title>
-      <g:description>גבינת קוטג&apos; קרמית ועדינה, 5% שומן. דלה בקלוריות, עשירה בחלבון. מתאימה לממרח על לחם או עם ירקות טריים.</g:description>
-      <g:link>https://boker-tari.zappy5.app/product/gbynt-kvtg-5-p3cyci</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>9.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>בוקר טרי</g:brand>
-      <g:mpn>DAIRY-004</g:mpn>
-    </item>
-    <item>
-      <g:id>0415450d-5f26-43a7-8e39-eb959fed874e</g:id>
-      <g:title>גבינה צהובה אמנטל</g:title>
-      <g:description>גבינה צהובה אמנטל שווייצרית, פרוסה עבה ועשירה בטעם. מושלמת לכריכים, אומלטים ולצלחת גבינות בוקר.</g:description>
-      <g:link>https://boker-tari.zappy5.app/product/gbynh-tshvbh-amntl-swf9pw</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>18.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>בוקר טרי</g:brand>
-      <g:mpn>DAIRY-003</g:mpn>
-    </item>
-    <item>
-      <g:id>2d88fff9-2a2b-43d0-9b19-9da2ebfc966f</g:id>
-      <g:title>יוגורט יווני טבעי</g:title>
-      <g:description>יוגורט יווני סמיך ועשיר, 5% שומן. עשיר בחלבון ופרוביוטיקה. מושלם עם דבש, פירות טריים וגרנולה.</g:description>
-      <g:link>https://boker-tari.zappy5.app/product/yvgvrt-yvvny-tbay-lg02if</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>12.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>בוקר טרי</g:brand>
-      <g:mpn>DAIRY-002</g:mpn>
-    </item>
-    <item>
-      <g:id>af17620a-e091-40da-ac8c-fa4a0a44dfec</g:id>
-      <g:title>חלב טרי 3% שומן</g:title>
-      <g:description>חלב טרי איכותי 3% שומן, מפרות מרעה חופשי. עשיר בסידן וחלבון, מושלם לשתייה, לקפה ולדגני בוקר.</g:description>
-      <g:link>https://boker-tari.zappy5.app/product/chlb-try-3-shvmn-zyqrnf</g:link>
-      <g:availability>in_stock</g:availability>
-      <g:price>7.90 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>בוקר טרי</g:brand>
-      <g:mpn>DAIRY-001</g:mpn>
     </item>
   </channel>
 </rss>
