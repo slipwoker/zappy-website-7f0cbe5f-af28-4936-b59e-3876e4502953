@@ -12894,6 +12894,8 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     font-size: 44px;
   }
 }
+/* Batch: Show WhatsApp floating button on all screen sizes (desktop + mobile) */
+.whatsapp-float { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; position: fixed; bottom: 28px; left: 28px; width: 58px; height: 58px; background-color: #25D366; border-radius: 50%; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(37,211,102,0.45); z-index: 9999; transition: transform 0.2s ease, box-shadow 0.2s ease; text-decoration: none; } .whatsapp-float:hover { transform: scale(1.1); box-shadow: 0 8px 28px rgba(37,211,102,0.6); } .whatsapp-float .fa-whatsapp { font-size: 30px; color: #ffffff; line-height: 1; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
