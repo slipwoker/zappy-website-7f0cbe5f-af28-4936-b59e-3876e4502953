@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 82**
+**Total active products: 83**
+
+### מים בטעם תפוח
+https://boker-tari.zappy5.app/product/mym-btam-tpvch-eg05mu
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777923466514-bxqbn.webp
 
 ### בקבוק מים מנרליים נביעות
 https://boker-tari.zappy5.app/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
