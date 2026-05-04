@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:14:08.938Z",
+  "generated_at": "2026-05-04T18:15:36.694Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 58,
+  "count": 59,
   "products": [
+    {
+      "id": "2fb79b3a-e667-4fce-b222-1b8250ab1f6f",
+      "slug": "kryk-bvlgryt-nk4khd",
+      "name": "כריך בולגרית",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777918495377-ed3712.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/kryk-bvlgryt-nk4khd",
+      "categories": [
+        "סנדויצ'ים "
+      ],
+      "updated_at": "2026-05-04T18:15:05.783Z"
+    },
     {
       "id": "4c709038-8f2f-4ef8-af01-f5b345ba515d",
       "slug": "lchm-prvs-viq62u",

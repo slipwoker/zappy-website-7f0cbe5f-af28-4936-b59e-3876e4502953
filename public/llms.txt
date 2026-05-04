@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 58**
+**Total active products: 59**
+
+### כריך בולגרית
+https://boker-tari.zappy5.app/product/kryk-bvlgryt-nk4khd
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: סנדויצ'ים 
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918495377-ed3712.webp
 
 ### לחם פרוס 
 https://boker-tari.zappy5.app/product/lchm-prvs-viq62u
