@@ -75,8 +75,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 95**
 
-### לחם לבן פרוס אנגל
-https://boker-tari.zappy5.app/product/lchm-lbn-prvs-angl-gijmtw
+### לחם פרוס 
+https://boker-tari.zappy5.app/product/lchm-prvs-viq62u
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם

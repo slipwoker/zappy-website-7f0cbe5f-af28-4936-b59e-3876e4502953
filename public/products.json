@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:08:18.051Z",
+  "generated_at": "2026-05-04T18:10:02.057Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 95,
   "products": [
     {
       "id": "4c709038-8f2f-4ef8-af01-f5b345ba515d",
-      "slug": "lchm-lbn-prvs-angl-gijmtw",
-      "name": "לחם לבן פרוס אנגל",
+      "slug": "lchm-prvs-viq62u",
+      "name": "לחם פרוס ",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-lbn-prvs-angl-gijmtw",
+      "url": "https://boker-tari.zappy5.app/product/lchm-prvs-viq62u",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T18:07:47.129Z"
+      "updated_at": "2026-05-04T18:09:31.283Z"
     },
     {
       "id": "439311df-6a32-480d-8a4a-fcb7bc802b6e",
