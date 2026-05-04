@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 79**
+**Total active products: 80**
+
+### בקבוק ענבים
+https://boker-tari.zappy5.app/product/bkbvk-anbym-1erxir
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777923074716-mhf1d.webp
 
 ### בקבוק אפרסק  FUZE
 https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k

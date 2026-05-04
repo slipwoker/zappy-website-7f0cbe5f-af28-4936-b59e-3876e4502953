@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בקבוק ענבים
+URL: https://boker-tari.zappy5.app/product/bkbvk-anbym-1erxir
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### בקבוק אפרסק  FUZE
 URL: https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k
 Price: 0.00 ILS
