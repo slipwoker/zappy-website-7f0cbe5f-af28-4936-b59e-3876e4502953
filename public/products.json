@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T19:22:57.614Z",
+  "generated_at": "2026-05-04T19:23:52.254Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 74,
@@ -31,7 +31,7 @@
     },
     {
       "id": "dfa4c879-8f92-4518-918e-21c3780666a9",
-      "slug": "pchyt-kvkh-kvlh-0wqode",
+      "slug": "pchyt-kvkh-kvlh-t4ltd3",
       "name": "פחית קוקה קולה",
       "name_translations": {},
       "description": "",
@@ -43,15 +43,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777922414202-ffwkct.webp"
+        "https://boker-tari.zappy5.app/assets/product-1777922595795-o9xyss.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-0wqode",
+      "url": "https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-t4ltd3",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:20:26.747Z"
+      "updated_at": "2026-05-04T19:23:21.471Z"
     },
     {
       "id": "395d733c-4bf7-4fd4-8d27-da93be6978d0",
