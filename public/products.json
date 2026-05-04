@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:55:53.960Z",
+  "generated_at": "2026-05-04T16:58:18.778Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 72,
+  "count": 73,
   "products": [
+    {
+      "id": "88135842-1a6e-4f6a-8165-8557c4876533",
+      "slug": "chlh-mtvkh-z1oydu",
+      "name": "חלה מתוקה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777913859073-3l4qs2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/chlh-mtvkh-z1oydu",
+      "categories": [
+        "חלות"
+      ],
+      "updated_at": "2026-05-04T16:57:47.888Z"
+    },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
       "slug": "chlh-fhta4k",
