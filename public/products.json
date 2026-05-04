@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T17:23:30.669Z",
+  "generated_at": "2026-05-04T17:24:49.721Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 86,
+  "count": 87,
   "products": [
+    {
+      "id": "936d7bad-e133-42e6-9354-13e842e223ce",
+      "slug": "shvkv-bnnh-lyldym-ytbth-kmu6m1",
+      "name": "שוקו בננה לילדים יטבתה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777915446073-g5ejvj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-ytbth-kmu6m1",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T17:24:18.567Z"
+    },
     {
       "id": "c8cf454c-3b8b-4316-96d8-420d532ebc19",
       "slug": "shvkv-bnnh-lyldym-tnvbh-4kbdm3",
