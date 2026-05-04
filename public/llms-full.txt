@@ -5534,8 +5534,15 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### קוטג' תנובה 250 גרם
+URL: https://boker-tari.zappy5.app/product/kvtg-tnvbh-250-grm-4gjbfd
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### קוראסון שוקולד גדול
-URL: https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-evqavt
+URL: https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4
 Price: 0.00 ILS
 Availability: In stock
 

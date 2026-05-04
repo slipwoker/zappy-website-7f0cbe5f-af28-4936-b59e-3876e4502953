@@ -73,10 +73,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 88**
+**Total active products: 89**
+
+### קוטג' תנובה 250 גרם
+https://boker-tari.zappy5.app/product/kvtg-tnvbh-250-grm-4gjbfd
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1777917254022-pek1g.webp
 
 ### קוראסון שוקולד גדול
-https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-evqavt
+https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קוראסים ומתוקים

@@ -1,13 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T17:27:08.277Z",
+  "generated_at": "2026-05-04T17:54:57.486Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 88,
+  "count": 89,
   "products": [
     {
+      "id": "80b6561c-63d5-4f48-acd6-f5142dbea2fb",
+      "slug": "kvtg-tnvbh-250-grm-4gjbfd",
+      "name": "קוטג' תנובה 250 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777917254022-pek1g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/kvtg-tnvbh-250-grm-4gjbfd",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T17:54:31.112Z"
+    },
+    {
       "id": "eb0d2e2f-b562-4883-89e6-09ba2d5b5f6b",
-      "slug": "kvrasvn-shvkvld-gdvl-evqavt",
+      "slug": "kvrasvn-shvkvld-gdvl-z7f0u4",
       "name": "קוראסון שוקולד גדול",
       "name_translations": {},
       "description": "",
@@ -23,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-evqavt",
+      "url": "https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4",
       "categories": [
         "קוראסים ומתוקים"
       ],
-      "updated_at": "2026-05-04T17:26:37.381Z"
+      "updated_at": "2026-05-04T17:50:39.451Z"
     },
     {
       "id": "936d7bad-e133-42e6-9354-13e842e223ce",
