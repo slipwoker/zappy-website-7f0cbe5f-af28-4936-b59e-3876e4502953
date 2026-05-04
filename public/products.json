@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T19:31:55.159Z",
+  "generated_at": "2026-05-04T19:33:03.123Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 80,
+  "count": 81,
   "products": [
+    {
+      "id": "6e3a425d-1769-4332-abe0-d3f1b95c0470",
+      "slug": "bkbvk-ashkvlyvt-oksgc2",
+      "name": "בקבוק אשכוליות",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777923143660-drwc7f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/bkbvk-ashkvlyvt-oksgc2",
+      "categories": [
+        "שתייה קלה"
+      ],
+      "updated_at": "2026-05-04T19:32:32.250Z"
+    },
     {
       "id": "dd0d8611-0b2d-4079-b192-f3e2c8b466ee",
       "slug": "bkbvk-anbym-1erxir",
