@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### אצבעות גבינה צהובה עמק
+URL: https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### גבינה צהובה 28% 200 גרם תנובה
 URL: https://boker-tari.zappy5.app/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5
 Price: 0.00 ILS

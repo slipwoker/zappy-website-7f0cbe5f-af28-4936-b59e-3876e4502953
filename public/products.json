@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:03:37.275Z",
+  "generated_at": "2026-05-04T18:06:53.121Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 93,
+  "count": 94,
   "products": [
+    {
+      "id": "439311df-6a32-480d-8a4a-fcb7bc802b6e",
+      "slug": "atsbavt-gbynh-tshvbh-amk-1gcmoo",
+      "name": "אצבעות גבינה צהובה עמק",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777917923454-9rh7l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T18:06:21.764Z"
+    },
     {
       "id": "dface20c-c6d7-4b39-927f-81239d60d589",
       "slug": "gbynh-tshvbh-28-200-grm-tnvbh-v630d5",
