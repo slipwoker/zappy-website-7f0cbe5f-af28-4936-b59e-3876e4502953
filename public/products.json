@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:19:19.372Z",
+  "generated_at": "2026-05-04T16:20:37.385Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 61,
   "products": [
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
-      "slug": "bvrks-tpvch-admh-msadvt-hu22l5",
+      "slug": "bvrks-tpvch-admh-msadvt-yz5pro",
       "name": "בורקס תפוח אדמה מסעדות",
       "name_translations": {},
       "description": "",
@@ -18,14 +18,16 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777911579073-f29txc.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-hu22l5",
+      "url": "https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-yz5pro",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-04T16:18:48.385Z"
+      "updated_at": "2026-05-04T16:20:06.524Z"
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
