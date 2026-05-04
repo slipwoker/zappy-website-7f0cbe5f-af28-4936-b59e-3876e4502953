@@ -223,6 +223,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="תשלום">
     <meta name="twitter:description" content="תשלום">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://boker-tari.zappy5.app#organization","name":"בוקר טרי","url":"https://boker-tari.zappy5.app","description":"https://bokertari.lovable.app/auth\r\n‏תבדוק את האתר ותסיים את מה שחסר","contactPoint":[{"@type":"ContactPoint","contactType":"customer service","email":"bokertari20@gmail.com","telephone":"0544370239"}]},{"@type":"WebSite","@id":"https://boker-tari.zappy5.app#website","url":"https://boker-tari.zappy5.app","name":"בוקר טרי","publisher":{"@id":"https://boker-tari.zappy5.app#organization"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://boker-tari.zappy5.app"},{"@type":"ListItem","position":2,"name":"Checkout","item":"https://boker-tari.zappy5.app/checkout"}]}]}</script>
     <meta property="og:type" content="website">
   <meta property="og:locale" content="he_IL">
   
@@ -314,9 +315,7 @@
     window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";
     // Preview pages are served by the Zappy server itself (localhost in dev), so use that base.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
-      ? "https://api.zappy5.com"
-      : "https://api.zappy5.com";
+    window.ZAPPY_API_BASE = "https://api.zappy5.com";
   </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">
