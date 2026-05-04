@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בקבוק שוקו יטבתה ליטר
+URL: https://boker-tari.zappy5.app/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### בקבוק שוקו תנובה ליטר
 URL: https://boker-tari.zappy5.app/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
 Price: 0.00 ILS

@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 80**
+**Total active products: 81**
+
+### בקבוק שוקו יטבתה ליטר
+https://boker-tari.zappy5.app/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1777914765537-nla2e.webp
 
 ### בקבוק שוקו תנובה ליטר
 https://boker-tari.zappy5.app/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
