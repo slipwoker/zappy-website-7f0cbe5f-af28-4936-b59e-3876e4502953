@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### חלב 3% בקבוק יוטבתה
+URL: https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-24gdf8
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### חלב 3% קרטון תנובה
 URL: https://boker-tari.zappy5.app/product/chlb-3-krtvn-tnvbh-3ivenh
 Price: 0.00 ILS
