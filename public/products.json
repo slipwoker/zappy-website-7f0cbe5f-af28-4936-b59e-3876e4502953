@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T17:16:07.514Z",
+  "generated_at": "2026-05-04T17:17:55.304Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 83,
+  "count": 84,
   "products": [
+    {
+      "id": "03450516-7d72-4e0d-8002-d6649b6e4919",
+      "slug": "shvkv-bnnh-lytr-tnvbh-4q5nxi",
+      "name": "שוקו בננה ליטר תנובה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777915016141-nvn9n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-4q5nxi",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T17:17:23.555Z"
+    },
     {
       "id": "cc1824ac-ff18-40ba-8d40-03e1faa76b98",
       "slug": "bkbvk-shvkv-lyldym-ytbth-eyzlr6",
