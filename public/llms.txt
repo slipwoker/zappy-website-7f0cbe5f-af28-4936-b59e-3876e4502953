@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 52**
+**Total active products: 53**
+
+### לחמניית גבטה שאור
+https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908367744-wa4plt.webp
 
 ### לחמניית גבטה דגנים
 https://boker-tari.zappy5.app/product/lchmnyyt-gbth-dgnym-zeopio
