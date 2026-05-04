@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T17:58:07.397Z",
+  "generated_at": "2026-05-04T18:02:39.179Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 91,
+  "count": 92,
   "products": [
+    {
+      "id": "c3d3e5f4-d36c-44bc-b85f-edf3258f0040",
+      "slug": "gbynh-tshvbh-22-200-grm-tnvbh-enju7m",
+      "name": "גבינה צהובה 22% 200 גרם תנובה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777917716892-xpnnwg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T18:02:08.303Z"
+    },
     {
       "id": "4d32b418-fe3a-428f-b44c-438904189623",
       "slug": "kvtg-tnvbh-9-250-grm-44c2xq",
