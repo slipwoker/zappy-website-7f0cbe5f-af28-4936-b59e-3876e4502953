@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 66**
+**Total active products: 67**
+
+### עוגת קינמון
+https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: קוראסים ומתוקים
+- Image: https://boker-tari.zappy5.app/assets/product-1777920971624-kejxn.webp
 
 ### פיתות
 https://boker-tari.zappy5.app/product/pytvt-t7sr43

@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:44:48.967Z",
+  "generated_at": "2026-05-04T18:56:50.013Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 66,
+  "count": 67,
   "products": [
+    {
+      "id": "0a5e18f3-d911-487a-bcb0-8db143abf8a5",
+      "slug": "avgt-kynmvn-9cqm9j",
+      "name": "עוגת קינמון",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777920971624-kejxn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j",
+      "categories": [
+        "קוראסים ומתוקים"
+      ],
+      "updated_at": "2026-05-04T18:56:19.042Z"
+    },
     {
       "id": "34cb07c6-c3b0-46bd-a40b-11a319b253c5",
       "slug": "pytvt-t7sr43",

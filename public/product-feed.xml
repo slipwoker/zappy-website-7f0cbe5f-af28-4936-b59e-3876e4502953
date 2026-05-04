@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.zappy5.app</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 04 May 2026 18:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:56:50 GMT</lastBuildDate>
+    <item>
+      <g:id>0a5e18f3-d911-487a-bcb0-8db143abf8a5</g:id>
+      <g:title>עוגת קינמון</g:title>
+      <g:description>עוגת קינמון</g:description>
+      <g:link>https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j</g:link>
+      <g:image_link>https://boker-tari.zappy5.app/assets/product-1777920971624-kejxn.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>קוראסים ומתוקים</g:product_type>
+    </item>
     <item>
       <g:id>34cb07c6-c3b0-46bd-a40b-11a319b253c5</g:id>
       <g:title>פיתות</g:title>
