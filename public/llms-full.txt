@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### לחם לבן פרוס אנגל
+URL: https://boker-tari.zappy5.app/product/lchm-lbn-prvs-angl-gijmtw
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### אצבעות גבינה צהובה עמק
 URL: https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
 Price: 0.00 ILS
