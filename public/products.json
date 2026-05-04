@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:56:50.013Z",
+  "generated_at": "2026-05-04T19:00:29.466Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 67,
+  "count": 68,
   "products": [
+    {
+      "id": "fe6db7ab-8d0e-4068-b3de-0355aa80472b",
+      "slug": "gbynyvt-marz-kvpsa-wp7uk8",
+      "name": "גביניות מארז קופסא ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777921152551-w40m8j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/gbynyvt-marz-kvpsa-wp7uk8",
+      "categories": [
+        "קוראסים ומתוקים"
+      ],
+      "updated_at": "2026-05-04T18:59:58.584Z"
+    },
     {
       "id": "0a5e18f3-d911-487a-bcb0-8db143abf8a5",
       "slug": "avgt-kynmvn-9cqm9j",
