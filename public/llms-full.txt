@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בורקס גבינה מסעדות
+URL: https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-oprhqq
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### אצבעות תפוחי עץ
 URL: https://boker-tari.zappy5.app/product/atsbavt-tpvchy-ats-oz76nx
 Price: 0.00 ILS
