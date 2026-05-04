@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### חצי בגט
+URL: https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### לחמניית גבטה שאור
 URL: https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje
 Price: 0.00 ILS

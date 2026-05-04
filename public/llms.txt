@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 53**
+**Total active products: 54**
+
+### חצי בגט
+https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908489198-kjj5ml.webp
 
 ### לחמניית גבטה שאור
 https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje
