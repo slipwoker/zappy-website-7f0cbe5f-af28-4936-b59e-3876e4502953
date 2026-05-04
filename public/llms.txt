@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 63**
+**Total active products: 64**
+
+### לחמנייה אצבע קמח מלא
+https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-yojluf
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://boker-tari.zappy5.app/assets/product-1777919851344-vzr3uk.webp
 
 ### לחמנייה שומשום עגולה קשר 
 https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-8vuolt

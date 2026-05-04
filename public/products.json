@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T18:32:39.274Z",
+  "generated_at": "2026-05-04T18:38:12.671Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 63,
+  "count": 64,
   "products": [
+    {
+      "id": "22d2d160-5bc8-4dbd-b7ad-10455e0e3b31",
+      "slug": "lchmnyyh-atsba-kmch-mla-yojluf",
+      "name": "לחמנייה אצבע קמח מלא",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777919851344-vzr3uk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-yojluf",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T18:37:41.829Z"
+    },
     {
       "id": "f9f2ae8f-ddc2-4052-9592-a8c75ed1d96d",
       "slug": "lchmnyyh-shvmshvm-agvlh-kshr-8vuolt",
