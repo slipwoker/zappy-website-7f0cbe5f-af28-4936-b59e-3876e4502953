@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T17:09:17.620Z",
+  "generated_at": "2026-05-04T17:10:46.944Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 78,
+  "count": 79,
   "products": [
+    {
+      "id": "9f5899eb-94cb-4903-8620-04a48fbbff04",
+      "slug": "shvkv-shkyt-ytbth-ge1pvc",
+      "name": "שוקו שקית יטבתה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777914588178-fw0xgg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/shvkv-shkyt-ytbth-ge1pvc",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T17:10:15.999Z"
+    },
     {
       "id": "3a839e1b-22a0-43d4-b7fc-fcfc7217542d",
       "slug": "shvkv-shkyt-tnvbh-zk8zyc",

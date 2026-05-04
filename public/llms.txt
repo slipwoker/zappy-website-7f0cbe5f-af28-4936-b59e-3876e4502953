@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 78**
+**Total active products: 79**
+
+### שוקו שקית יטבתה
+https://boker-tari.zappy5.app/product/shvkv-shkyt-ytbth-ge1pvc
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1777914588178-fw0xgg.webp
 
 ### שוקו שקית תנובה
 https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc
