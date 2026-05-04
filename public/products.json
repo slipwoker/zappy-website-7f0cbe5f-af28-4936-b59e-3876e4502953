@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:32:08.159Z",
+  "generated_at": "2026-05-04T16:34:23.209Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 63,
+  "count": 64,
   "products": [
+    {
+      "id": "326a0908-3051-4f3e-bf14-f2780e6fc7ac",
+      "slug": "lchmnyyt-byyglh-eve6qm",
+      "name": "לחמניית בייגלה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777912405128-9tqfto.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-eve6qm",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T16:33:52.095Z"
+    },
     {
       "id": "947f50fd-ee0c-4fd5-98d2-bb05f36c238c",
       "slug": "bvrks-pytsh-msadvt-t428d6",

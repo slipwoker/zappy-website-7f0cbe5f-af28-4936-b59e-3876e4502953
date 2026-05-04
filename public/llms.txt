@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 63**
+**Total active products: 64**
+
+### לחמניית בייגלה
+https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-eve6qm
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912405128-9tqfto.webp
 
 ### בורקס פיצה מסעדות
 https://boker-tari.zappy5.app/product/bvrks-pytsh-msadvt-t428d6
