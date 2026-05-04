@@ -145,8 +145,8 @@ https://boker-tari.zappy5.app/product/svdh-a65pnm
 - Category: שתייה קלה
 - Image: https://boker-tari.zappy5.app/assets/product-1777922854201-q2kmue.webp
 
-### פחית ספרייט זירו 
-https://boker-tari.zappy5.app/product/pchyt-spryyt-zyrv-muwcq8
+### פחית ספרייט ziro
+https://boker-tari.zappy5.app/product/pchyt-spryyt-ziro-4poszs
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
@@ -159,8 +159,8 @@ https://boker-tari.zappy5.app/product/pchyt-spryyt-f6n055
 - Category: שתייה קלה
 - Image: https://boker-tari.zappy5.app/assets/product-1777922710744-uh12yl.webp
 
-### פחית זירו קוקה קולה
-https://boker-tari.zappy5.app/product/pchyt-zyrv-kvkh-kvlh-fammcm
+### פחית ziro קוקה קולה
+https://boker-tari.zappy5.app/product/pchyt-ziro-kvkh-kvlh-n0u7la
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה

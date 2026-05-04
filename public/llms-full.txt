@@ -5633,8 +5633,8 @@ Availability: In stock
 
 ---
 
-### פחית ספרייט זירו 
-URL: https://boker-tari.zappy5.app/product/pchyt-spryyt-zyrv-muwcq8
+### פחית ספרייט ziro
+URL: https://boker-tari.zappy5.app/product/pchyt-spryyt-ziro-4poszs
 Price: 0.00 ILS
 Availability: In stock
 
@@ -5647,8 +5647,8 @@ Availability: In stock
 
 ---
 
-### פחית זירו קוקה קולה
-URL: https://boker-tari.zappy5.app/product/pchyt-zyrv-kvkh-kvlh-fammcm
+### פחית ziro קוקה קולה
+URL: https://boker-tari.zappy5.app/product/pchyt-ziro-kvkh-kvlh-n0u7la
 Price: 0.00 ILS
 Availability: In stock
 
