@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בורקס פיצה מסעדות
+URL: https://boker-tari.zappy5.app/product/bvrks-pytsh-msadvt-t428d6
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### בורקס תרד וגבינה מסעדות
 URL: https://boker-tari.zappy5.app/product/bvrks-trd-vgbynh-msadvt-w3an3u
 Price: 0.00 ILS
