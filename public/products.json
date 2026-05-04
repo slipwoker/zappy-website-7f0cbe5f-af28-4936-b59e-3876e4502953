@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T19:25:53.057Z",
+  "generated_at": "2026-05-04T19:26:45.749Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 76,
+  "count": 77,
   "products": [
+    {
+      "id": "968a81ac-8881-4e3a-952e-c0f623b068b0",
+      "slug": "pchyt-spryyt-zyrv-muwcq8",
+      "name": "פחית ספרייט זירו ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777922767279-70rzl8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/pchyt-spryyt-zyrv-muwcq8",
+      "categories": [
+        "שתייה קלה"
+      ],
+      "updated_at": "2026-05-04T19:26:14.495Z"
+    },
     {
       "id": "f53b320f-478c-422f-8e37-7e1b22f40887",
       "slug": "pchyt-spryyt-f6n055",
