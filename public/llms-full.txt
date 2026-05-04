@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בקבוק תות בננה
+URL: https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### מים בטעם ענבים
 URL: https://boker-tari.zappy5.app/product/mym-btam-anbym-58pi2f
 Price: 0.00 ILS

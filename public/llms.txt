@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 85**
+**Total active products: 86**
+
+### בקבוק תות בננה
+https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: שתייה קלה
+- Image: https://boker-tari.zappy5.app/assets/product-1777923791766-hmr7zq.webp
 
 ### מים בטעם ענבים
 https://boker-tari.zappy5.app/product/mym-btam-anbym-58pi2f

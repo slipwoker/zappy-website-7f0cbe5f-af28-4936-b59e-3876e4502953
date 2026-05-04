@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T19:42:10.875Z",
+  "generated_at": "2026-05-04T19:43:51.973Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 85,
+  "count": 86,
   "products": [
+    {
+      "id": "d20f9cca-0ed9-40ea-9c9d-2d8b16cfec8c",
+      "slug": "bkbvk-tvt-bnnh-thwbt6",
+      "name": "בקבוק תות בננה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777923791766-hmr7zq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6",
+      "categories": [
+        "שתייה קלה"
+      ],
+      "updated_at": "2026-05-04T19:43:20.814Z"
+    },
     {
       "id": "d551130a-27ca-41e6-971c-99a581fa1f35",
       "slug": "mym-btam-anbym-58pi2f",
