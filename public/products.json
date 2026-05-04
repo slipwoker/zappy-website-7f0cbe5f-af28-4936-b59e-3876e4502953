@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:34:23.209Z",
+  "generated_at": "2026-05-04T16:38:02.021Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 64,
+  "count": 65,
   "products": [
+    {
+      "id": "003ab954-b098-46e2-89e2-598420efe398",
+      "slug": "byyglh-rvmny-wus2ph",
+      "name": "בייגלה רומני ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777912635756-7g9jq5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/byyglh-rvmny-wus2ph",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-04T16:37:30.834Z"
+    },
     {
       "id": "326a0908-3051-4f3e-bf14-f2780e6fc7ac",
       "slug": "lchmnyyt-byyglh-eve6qm",

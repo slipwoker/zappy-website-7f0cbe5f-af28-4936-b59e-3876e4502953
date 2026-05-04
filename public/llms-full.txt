@@ -5534,6 +5534,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בייגלה רומני 
+URL: https://boker-tari.zappy5.app/product/byyglh-rvmny-wus2ph
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### לחמניית בייגלה
 URL: https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-eve6qm
 Price: 0.00 ILS
