@@ -5534,8 +5534,8 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
-### רוסטיק בהיר
-URL: https://boker-tari.zappy5.app/product/rvstyk-bhyr-bqiacv
+### לחמניית רוסטיק בהיר
+URL: https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-5pxxgu
 Price: 0.00 ILS
 Availability: In stock
 

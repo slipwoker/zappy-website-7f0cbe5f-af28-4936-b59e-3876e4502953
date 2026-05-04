@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T15:30:13.611Z",
+  "generated_at": "2026-05-04T15:32:49.175Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 55,
   "products": [
     {
       "id": "dbc49e97-be41-4dae-b49b-ab2462068cc2",
-      "slug": "rvstyk-bhyr-bqiacv",
-      "name": "רוסטיק בהיר",
+      "slug": "lchmnyyt-rvstyk-bhyr-5pxxgu",
+      "name": "לחמניית רוסטיק בהיר",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908568485-ohfwgh.webp"
+        "https://boker-tari.zappy5.app/assets/image-product-image-1777908720313-vud60q.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/rvstyk-bhyr-bqiacv",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-5pxxgu",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T15:29:42.764Z"
+      "updated_at": "2026-05-04T15:32:18.350Z"
     },
     {
       "id": "efa40968-15e5-440d-a96b-3ed05af9a923",

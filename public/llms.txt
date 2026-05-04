@@ -75,12 +75,12 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 55**
 
-### רוסטיק בהיר
-https://boker-tari.zappy5.app/product/rvstyk-bhyr-bqiacv
+### לחמניית רוסטיק בהיר
+https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-5pxxgu
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908568485-ohfwgh.webp
+- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908720313-vud60q.webp
 
 ### חצי בגט
 https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta
