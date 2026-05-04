@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-04T16:51:11.155Z",
+  "generated_at": "2026-05-04T16:52:57.572Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 70,
+  "count": 71,
   "products": [
+    {
+      "id": "ee6be3d2-52f2-49b2-a326-9c55c5edf182",
+      "slug": "chlb-1-krtvn-tnvbh-zxo81t",
+      "name": "חלב 1% קרטון תנובה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1777913537501-87ojzj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-zxo81t",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-04T16:52:26.149Z"
+    },
     {
       "id": "1f285708-ac00-43fe-ac77-8e55631104d1",
       "slug": "chlb-dl-lktvz-ytbth-4jyh2f",
