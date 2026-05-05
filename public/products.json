@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-05T08:23:27.771Z",
+  "generated_at": "2026-05-05T10:25:27.154Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 87,
@@ -1373,7 +1373,7 @@
     },
     {
       "id": "32c3d0ce-af33-4a42-b7e8-01b0f4e11d3e",
-      "slug": "chlb-3-bkbvk-yvtbth-24gdf8",
+      "slug": "chlb-3-bkbvk-yvtbth-7tlw2b",
       "name": "חלב 3% בקבוק יוטבתה",
       "name_translations": {},
       "description": "",
@@ -1385,15 +1385,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913167942-ze81q.webp"
+        "https://boker-tari.zappy5.app/assets/product-1777976689607-ooypr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-24gdf8",
+      "url": "https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-7tlw2b",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T16:46:49.901Z"
+      "updated_at": "2026-05-05T10:24:56.319Z"
     },
     {
       "id": "a32f020b-9225-4c08-89a6-6c51fd3a3951",

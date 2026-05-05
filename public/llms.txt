@@ -474,11 +474,11 @@ https://boker-tari.zappy5.app/product/chlb-1-bkbvk-yvtbth-dqi0er
 - Image: https://boker-tari.zappy5.app/assets/product-1777913246024-7pucp.webp
 
 ### חלב 3% בקבוק יוטבתה
-https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-24gdf8
+https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-7tlw2b
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777913167942-ze81q.webp
+- Image: https://boker-tari.zappy5.app/assets/product-1777976689607-ooypr.webp
 
 ### חלב 3% קרטון תנובה
 https://boker-tari.zappy5.app/product/chlb-3-krtvn-tnvbh-3ivenh
