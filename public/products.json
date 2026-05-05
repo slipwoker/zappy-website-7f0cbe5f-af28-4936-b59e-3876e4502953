@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-05T08:15:23.204Z",
+  "generated_at": "2026-05-05T08:18:31.491Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 87,
@@ -1905,7 +1905,7 @@
     },
     {
       "id": "518a5b64-6c20-4c72-8fde-f53f87446e08",
-      "slug": "lchmnyyt-atsba-0eeg20",
+      "slug": "lchmnyyt-atsba-tytpqy",
       "name": "לחמניית אצבע",
       "name_translations": {},
       "description": "",
@@ -1917,15 +1917,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777878115216-7cbwvh.webp"
+        "https://boker-tari.zappy5.app/assets/product-1777969074716-dtn01m.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-atsba-0eeg20",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-atsba-tytpqy",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T07:02:04.201Z"
+      "updated_at": "2026-05-05T08:18:00.396Z"
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
