@@ -571,7 +571,7 @@ Description: בוקר טרי מביא לכם את המוצרים האורגני�
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -1083,7 +1083,7 @@ Description: גלו מי אנחנו ולמה בוקר טרי הפכה למותג
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -1673,7 +1673,7 @@ Description: אורח חיים בריא מתחיל בבוקר. גלו טיפים
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -2096,7 +2096,7 @@ bokertari20@gmail.com
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -2325,7 +2325,7 @@ Description: המוצרים שלנו - בוקר טרי
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -2555,7 +2555,7 @@ Description: עגלת הקניות שלך
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -2968,7 +2968,7 @@ Description: תשלום
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -3205,7 +3205,7 @@ Description: התחברות לקוחות
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -3597,7 +3597,7 @@ Description: החשבון שלי
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -3851,7 +3851,7 @@ Description: תודה על ההזמנה
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -4134,7 +4134,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -4366,7 +4366,7 @@ Description: פרטי המוצר - בוקר טרי
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -4622,7 +4622,7 @@ Description: מוצרים - בוקר טרי
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -4946,7 +4946,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -5254,7 +5254,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
@@ -5581,7 +5581,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - bokertari20@gmail.com
 
-- 0544370239
+- 054600127
 
 - [business_address]
 
