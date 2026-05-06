@@ -349,7 +349,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,9 +855,9 @@
   <div class="lifestyle-overview-container">
     <!-- Header -->
     <header class="lifestyle-overview-header">
-      <p><span class="lifestyle-overview-eyebrow" ></span></p><h3><span style="font-weight: normal;"><font color="#3674b3">אורח חיים</font></span></h3>
-      <p></p><h1 class="lifestyle-overview-title" ><font color="#800000">הבוקר שלך מתחיל כאן</font></h1>
-      <p class="lifestyle-overview-subtitle" ></p><h3 ><b><font color="#3674b3">בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר מזינה היא הבסיס לכל יום מוצלח. המוצרים שלנו מלווים אותך מהרגע שעיניך נפקחות — עם מרכיבים אמיתיים, ומוצרים טריים. ואנרגיה להמשך היום</font></b></h3><p></p>
+      <p><span class="lifestyle-overview-eyebrow" style=""></span></p><h3><span style="font-weight: normal;"><font color="#3674b3">אורח חיים</font></span></h3>
+      <p></p><h1 class="lifestyle-overview-title" style=""><font color="#800000">הבוקר שלך מתחיל כאן</font></h1>
+      <p class="lifestyle-overview-subtitle" style=""></p><h3 style=""><b><font color="#3674b3">בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר מזינה היא הבסיס לכל יום מוצלח. המוצרים שלנו מלווים אותך מהרגע שעיניך נפקחות — עם מרכיבים אמיתיים, ומוצרים טריים. ואנרגיה להמשך היום</font></b></h3><p></p>
     </header>
 
     <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="transition: background 0.3s, backdrop-filter 0.3s, -webkit-backdrop-filter 0.3s; display: none !important; background-image: initial !important; background-position: initial !important; background-size: initial !important; background-repeat: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">
@@ -875,7 +875,7 @@
       <!-- Start panel (right in RTL) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--start">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-1" data-context="A person doing a morning yoga stretch on a wooden balcony at sunrise, golden warm light, fresh green smoothie on a small table beside them, healthy lifestyle morning ritual, warm peach and orange tones, editorial magazine photography style" width="400" height="520" src="/assets/site-lifestyle-overview-image-1.webp" alt="שגרת בוקר בריאה — יוגה ותנועה עם בוקר טרי" data-element-type="image" data-element-id="img-1778027545114-9x45lv5rd" >
+          <img data-placeholder="lifestyle-overview-image-1" data-context="A person doing a morning yoga stretch on a wooden balcony at sunrise, golden warm light, fresh green smoothie on a small table beside them, healthy lifestyle morning ritual, warm peach and orange tones, editorial magazine photography style" width="400" height="520" src="/assets/site-lifestyle-overview-image-1.webp" alt="שגרת בוקר בריאה — יוגה ותנועה עם בוקר טרי" data-element-type="image" data-element-id="img-1778027545114-9x45lv5rd" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">תנועה ואנרגיה</figcaption>
       </figure>
@@ -883,7 +883,7 @@
       <!-- Center panel (largest) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--center">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-2" data-context="A beautifully styled breakfast table with fresh organic ingredients: acai bowls, granola, fresh fruits, honey drizzle, green leaves, warm morning sunlight streaming across a marble surface, premium editorial food photography, warm cream and golden tones, בוקר טרי brand feel" width="600" height="700" src="/assets/site-lifestyle-overview-image-2.webp" alt="ארוחת בוקר טרי עם מוצרים אורגניים טבעיים" data-element-type="image" data-element-id="img-1778027545114-bpeyt4r2l" >
+          <img data-placeholder="lifestyle-overview-image-2" data-context="A beautifully styled breakfast table with fresh organic ingredients: acai bowls, granola, fresh fruits, honey drizzle, green leaves, warm morning sunlight streaming across a marble surface, premium editorial food photography, warm cream and golden tones, בוקר טרי brand feel" width="600" height="700" src="/assets/site-lifestyle-overview-image-2.webp" alt="ארוחת בוקר טרי עם מוצרים אורגניים טבעיים" data-element-type="image" data-element-id="img-1778027545114-bpeyt4r2l" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">תזונה אמיתית</figcaption>
       </figure>
@@ -891,7 +891,7 @@
       <!-- End panel (left in RTL) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--end">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-3" data-context="Close-up of hands holding a glass jar filled with overnight oats topped with fresh berries, chia seeds, and a drizzle of honey, soft morning window light, natural textures, warm and inviting, premium lifestyle photography, organic ingredients visible" width="400" height="520" src="/assets/site-lifestyle-overview-image-3.webp" alt="מוצרי בוקר טרי — שיבולת שועל עם פירות טריים" data-element-type="image" data-element-id="img-1778027545114-4hqbv2gn2" >
+          <img data-placeholder="lifestyle-overview-image-3" data-context="Close-up of hands holding a glass jar filled with overnight oats topped with fresh berries, chia seeds, and a drizzle of honey, soft morning window light, natural textures, warm and inviting, premium lifestyle photography, organic ingredients visible" width="400" height="520" src="/assets/site-lifestyle-overview-image-3.webp" alt="מוצרי בוקר טרי — שיבולת שועל עם פירות טריים" data-element-type="image" data-element-id="img-1778027545114-4hqbv2gn2" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">מרכיבים נבחרים</figcaption>
       </figure>
@@ -932,7 +932,7 @@
       <!-- Text Column (START / right in RTL) -->
       <div class="lss-text-col">
         <div class="lss-label">שגרת בוקר בריאה</div>
-        <h2 class="lss-heading" ><font color="#800000">הבוקר שלך,<br>המסגרת שלנו</font></h2>
+        <h2 class="lss-heading" style=""><font color="#800000">הבוקר שלך,<br>המסגרת שלנו</font></h2>
         <p class="lss-intro">ב<strong>בוקר טרי</strong> אנחנו מאמינים שהבוקר הוא הרגע שמגדיר את כל היום. לכן יצרנו מסגרת של תמיכה שמחברת בין תזונה אמיתית, שגרה מודעת ואיכות חיים מוגברת — בלי מאמץ מיותר.</p>
 
         <div class="lss-pillars">
@@ -950,7 +950,7 @@
             <div class="lss-pillar-number">02</div>
             <div class="lss-pillar-content">
               <h3 class="lss-pillar-title">פשטות בהחלטות הבריאות</h3>
-              <p class="lss-pillar-text" >בחירות תזונתיות לא צריכות להיות מורכבות. אנחנו בחרנו עבורכם מרכיבים&nbsp; מובחרים, ניסחנו מתכונים שמתאימים לאורח חיים עמוס, וארזנו הכל בצורה שמקלה על ההחלטה — כך שהבוקר שלכם יתחיל ברוגע ולא בבלבול.</p>
+              <p class="lss-pillar-text" style="">בחירות תזונתיות לא צריכות להיות מורכבות. אנחנו בחרנו עבורכם מרכיבים&nbsp; מובחרים, ניסחנו מתכונים שמתאימים לאורח חיים עמוס, וארזנו הכל בצורה שמקלה על ההחלטה — כך שהבוקר שלכם יתחיל ברוגע ולא בבלבול.</p>
             </div>
           </article>
 
@@ -959,7 +959,7 @@
             <div class="lss-pillar-number">03</div>
             <div class="lss-pillar-content">
               <h3 class="lss-pillar-title">שדרוג איכות השגרה היומית</h3>
-              <p class="lss-pillar-text" >כשהבוקר מתחיל נכון, כל השאר נופל למקומו. מוצרים&nbsp; לארוחת בוקר שלנו הם לא רק מזון — הם טקס. רגע של נוכחות, של טעם אמיתי, של הנאה שקטה לפני שהיום ממריא. כי שגרה טובה מתחילה בפרטים הקטנים.</p>
+              <p class="lss-pillar-text" style="">כשהבוקר מתחיל נכון, כל השאר נופל למקומו. מוצרים&nbsp; לארוחת בוקר שלנו הם לא רק מזון — הם טקס. רגע של נוכחות, של טעם אמיתי, של הנאה שקטה לפני שהיום ממריא. כי שגרה טובה מתחילה בפרטים הקטנים.</p>
             </div>
           </article>
         </div>
@@ -968,10 +968,10 @@
       <!-- Images Column (END / left in RTL) -->
       <div class="lss-images-col">
         <figure class="lss-img-top">
-          <img data-placeholder="lifestyle-services-image-1" data-context="A close-up editorial food photograph of a fresh, vibrant morning bowl filled with granola, seasonal fruits, honey drizzle, and seeds on a warm cream linen surface. Natural morning light, soft shadows, premium organic breakfast aesthetic, warm peach and green tones." width="560" height="380" src="/assets/site-lifestyle-services-image-1.webp" alt="קערת בוקר טרי עם גרנולה ופירות עונתיים" data-element-type="image" data-element-id="img-1778027545114-i5rk4x9wo" >
+          <img data-placeholder="lifestyle-services-image-1" data-context="A close-up editorial food photograph of a fresh, vibrant morning bowl filled with granola, seasonal fruits, honey drizzle, and seeds on a warm cream linen surface. Natural morning light, soft shadows, premium organic breakfast aesthetic, warm peach and green tones." width="560" height="380" src="/assets/site-lifestyle-services-image-1.webp" alt="קערת בוקר טרי עם גרנולה ופירות עונתיים" data-element-type="image" data-element-id="img-1778027545114-i5rk4x9wo" style="">
         </figure>
         <figure class="lss-img-bottom">
-          <img data-placeholder="lifestyle-services-image-2" data-context="An editorial lifestyle photograph of a woman in activewear holding a glass jar of overnight oats or smoothie in a bright morning kitchen. Warm golden sunlight streaming through a window, fresh herbs and fruits on the counter, movement and energy, healthy morning ritual feel." width="560" height="300" src="/assets/site-lifestyle-services-image-2.webp" alt="שגרת בוקר בריאה ופעילה" data-element-type="image" data-element-id="img-1778027545114-qzb3ww94i" >
+          <img data-placeholder="lifestyle-services-image-2" data-context="An editorial lifestyle photograph of a woman in activewear holding a glass jar of overnight oats or smoothie in a bright morning kitchen. Warm golden sunlight streaming through a window, fresh herbs and fruits on the counter, movement and energy, healthy morning ritual feel." width="560" height="300" src="/assets/site-lifestyle-services-image-2.webp" alt="שגרת בוקר בריאה ופעילה" data-element-type="image" data-element-id="img-1778027545114-qzb3ww94i" style="">
         </figure>
       </div>
 
@@ -1019,7 +1019,7 @@
         </div>
         <div class="lifestyle-audience-card-body">
           <h3 class="lifestyle-audience-card-title">מאמיני האורגני</h3>
-          <p class="lifestyle-audience-card-text" >אתם קוראים תוויות, בוחרים בקפידה ומחפשים מוצרים שמכבדים את הגוף ואת הסביבה. בוקר טרי מציע מוצרים לארוחת בוקר שמגיעים ישירות מהמקור — ללא תוספים מיותרים, עם שקיפות מלאה על כל רכיב.</p>
+          <p class="lifestyle-audience-card-text" style="">אתם קוראים תוויות, בוחרים בקפידה ומחפשים מוצרים שמכבדים את הגוף ואת הסביבה. בוקר טרי מציע מוצרים לארוחת בוקר שמגיעים ישירות מהמקור — ללא תוספים מיותרים, עם שקיפות מלאה על כל רכיב.</p>
         </div>
       </article>
 
@@ -1040,7 +1040,7 @@
         </div>
         <div class="lifestyle-audience-card-body">
           <h3 class="lifestyle-audience-card-title">אנשי שגרת הבוקר</h3>
-          <p class="lifestyle-audience-card-text" >הבוקר שלכם הוא טקס — מהכוס הראשונה ועד לארוחה שמכינה אתכם ליום. אתם מחפשים מוצרים שמשתלבים בשגרת בוקר&nbsp; בצורה טבעית, מהירה ומהנה. בוקר טרי נולד בשבילכם.</p>
+          <p class="lifestyle-audience-card-text" style="">הבוקר שלכם הוא טקס — מהכוס הראשונה ועד לארוחה שמכינה אתכם ליום. אתם מחפשים מוצרים שמשתלבים בשגרת בוקר&nbsp; בצורה טבעית, מהירה ומהנה. בוקר טרי נולד בשבילכם.</p>
         </div>
         <div class="lifestyle-audience-card-badge">הכי פופולרי</div>
       </article>
@@ -1059,7 +1059,7 @@
         </div>
         <div class="lifestyle-audience-card-body">
           <h3 class="lifestyle-audience-card-title">ספורטאי הביצועים הנקיים</h3>
-          <p class="lifestyle-audience-card-text" >אתם יודעים שמה שנכנס לגוף לפני האימון קובע את התוצאה. אתם מחפשים אנרגיה אמיתית ממקורות טבעיים, בלי סוכר מיותר ובלי פשרות. בוקר טרי מספק את הבסיס התזונתי שמניע ביצועים יומיומיים מלאים.</p>
+          <p class="lifestyle-audience-card-text" style="">אתם יודעים שמה שנכנס לגוף לפני האימון קובע את התוצאה. אתם מחפשים אנרגיה אמיתית ממקורות טבעיים, בלי סוכר מיותר ובלי פשרות. בוקר טרי מספק את הבסיס התזונתי שמניע ביצועים יומיומיים מלאים.</p>
         </div>
       </article>
 
@@ -1087,8 +1087,8 @@
 <section class="lifestyle-faq-section" data-layout-spec="אורח חיים-faq" dir="rtl" id="lifestyle-faq-section">
   <div class="lifestyle-faq-container">
     <div class="lifestyle-faq-header">
-      <p class="zappy-editable"><span class="lifestyle-faq-label" style="color: rgb(74, 74, 74) !important;">שאלות נפוצות</span>
-      </p><h2 class="lifestyle-faq-title">כל מה שרצית לדעת על <em>בוקר טרי</em></h2>
+      <p><span class="lifestyle-faq-label" style="color: rgb(74, 74, 74) !important;">שאלות נפוצות</span>
+      </p><h2 class="lifestyle-faq-title" style=""><font color="#800000">כל מה שרצית לדעת על <em><font color="#800000">בוקר טרי</font></em></font></h2>
       <p class="lifestyle-faq-subtitle">שאלות שחוזרות על עצמן — ותשובות כנות, ישירות ומלאות אהבה לבוקר שלכם</p>
     </div>
 
@@ -1140,7 +1140,7 @@
           </p><h3>כיצד אתם שומרים על סטנדרט האיכות?</h3>
         </div>
         <div class="lifestyle-faq-a">
-          <p >יש לנו רשימת עקרונות פשוטה: מרכיב שאי אפשר לבטא אותו בקלות — לא נכנס. לא אצלנו. כל מנה נטעמת לפני שהיא יוצאת, בכל יום מחדש.</p>
+          <p style="">יש לנו רשימת עקרונות פשוטה: מרכיב שאי אפשר לבטא אותו בקלות — לא נכנס. לא אצלנו. כל מנה נטעמת לפני שהיא יוצאת, בכל יום מחדש.</p>
         </div>
       </article>
 
@@ -1191,7 +1191,7 @@
     <!-- Section heading -->
     <header class="lrs-header">
       <p class="lrs-eyebrow">חוויות אמיתיות</p>
-      <h2 class="lrs-title" ><font color="#800000">מה אומרים אלה שכבר התחילו את הבוקר אחרת</font></h2>
+      <h2 class="lrs-title" style=""><font color="#800000">מה אומרים אלה שכבר התחילו את הבוקר אחרת</font></h2>
       <div class="lrs-title-accent" aria-hidden="true"></div>
     </header>
 
@@ -1208,7 +1208,7 @@
         </div>
 
         <blockquote class="lrs-review-text">
-          <p >כבר שמונה חודשים שאני מתחילה כל בוקר עם המוצרים של בוקר טרי, ועדיין אני מתרגשת לפתוח את המקרר בבוקר. מה שמפתיע אותי הכי הרבה זה לא רק הטעם – אלא כמה קל לשמור על שגרת בוקר כשהאוכל עצמו כל כך טעים. אני לא מרגישה שאני מוותרת על שום דבר. להפך – כל ביס מרגיש כמו פינוק שגם עושה לי טוב. זה שינה לגמרי את היחס שלי לארוחת הבוקר.</p>
+          <p style="">כבר שמונה חודשים שאני מתחילה כל בוקר עם המוצרים של בוקר טרי, ועדיין אני מתרגשת לפתוח את המקרר בבוקר. מה שמפתיע אותי הכי הרבה זה לא רק הטעם – אלא כמה קל לשמור על שגרת בוקר כשהאוכל עצמו כל כך טעים. אני לא מרגישה שאני מוותרת על שום דבר. להפך – כל ביס מרגיש כמו פינוק שגם עושה לי טוב. זה שינה לגמרי את היחס שלי לארוחת הבוקר.</p>
         </blockquote>
 
         <footer class="lrs-review-footer">
@@ -1232,7 +1232,7 @@
         </div>
 
         <blockquote class="lrs-review-text">
-          <p >הייתי סקפטי בהתחלה – כמה פעמים כבר ניסיתי מוצרים לארוחת בוקר שהבטיחו הכל ונתנו מעט. עם בוקר טרי הרגשתי הבדל כבר בשבוע הראשון. לא רק בגוף – גם בראש. אני מגיע לעבודה עם אנרגיה שמחזיקה אותי עד הצהריים, בלי את הצניחה שהייתה אחרי הקפה הראשון. הסיפור כאן הוא האיכות האמיתית של הרכיבים – אתה מרגיש שמישהו באמת חשב על מה שנכנס לאוכל הזה.</p>
+          <p style="">הייתי סקפטי בהתחלה – כמה פעמים כבר ניסיתי מוצרים לארוחת בוקר שהבטיחו הכל ונתנו מעט. עם בוקר טרי הרגשתי הבדל כבר בשבוע הראשון. לא רק בגוף – גם בראש. אני מגיע לעבודה עם אנרגיה שמחזיקה אותי עד הצהריים, בלי את הצניחה שהייתה אחרי הקפה הראשון. הסיפור כאן הוא האיכות האמיתית של הרכיבים – אתה מרגיש שמישהו באמת חשב על מה שנכנס לאוכל הזה.</p>
         </blockquote>
 
         <footer class="lrs-review-footer">
@@ -1241,7 +1241,7 @@
           </div>
           <div class="lrs-attribution">
             <span class="lrs-author-name">אורי ב.</span>
-            <span class="lrs-author-detail" >נהריה · לקוח קבועה</span>
+            <span class="lrs-author-detail" style="">נהריה · לקוח קבועה</span>
           </div>
         </footer>
       </article>
@@ -1270,7 +1270,7 @@
           <div class="footer-logo-wrap">
             
           </div>
-          <p class="footer-tagline" >מתחילים את הבוקר טרי,&nbsp;<br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
+          <p class="footer-tagline" style="">מתחילים את הבוקר טרי,&nbsp;<br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
             <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777698485129-t7brae6ep" data-icon-type="fontawesome"></i></a>
@@ -1283,7 +1283,7 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>ניווט מהיר
           </h4>
-          <ul class="footer-links" ><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
+          <ul class="footer-links" style=""><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
         </div>
 
         <!-- Column 3: Contact Info -->
@@ -1291,13 +1291,13 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>יצירת קשר
           </h4>
-          <ul class="footer-contact" ><li>
+          <ul class="footer-contact" style=""><li>
               <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1777698485129-6wxyuex94" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
               <span class="contact-text"><a href="mailto:bokertari20@gmail.com">bokertari20@gmail.com</a></span>
             </li><li>
               <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
-              <span class="contact-text"><a href="tel:0544370239" >054600127</a></span>
-            </li><li><a href="/" ><span class="contact-icon"></span>
+              <span class="contact-text"><a href="tel:0544370239" style="">054600127</a></span>
+            </li><li><a href="/" style=""><span class="contact-icon"></span>
               <span class="contact-text">[business_address]</span></a></li></ul>
         </div>
 
@@ -1306,10 +1306,10 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>בוקר טרי
           </h4>
-          <p class="footer-about-text" >חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
+          <p class="footer-about-text" style="">חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
+          <p class="footer-hours" style=""><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
         </div>
 
       </div>
