@@ -349,7 +349,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -867,7 +867,7 @@
 
     <!-- Image Column (END = LEFT in RTL) -->
     <figure class="contact-intro-figure">
-      <img data-placeholder="contact-contact-intro-image-1" data-context="A serene natural morning scene for a premium Israeli breakfast brand called Boker Tari (Fresh Morning). Show a wooden table outdoors or near a sunlit window with fresh organic breakfast ingredients: a bowl of granola with fresh berries, a glass of orange juice catching morning light, a small jar of honey, and green leaves. Warm golden sunrise light, soft shadows, shallow depth of field, editorial food photography style, warm cream and amber tones." width="600" height="700" src="/assets/site-contact-contact-intro-image-1.webp" alt="בוקר טרי — תמונת בוקר טבעי ואורגני" class="contact-intro-img" data-element-type="image" data-element-id="img-1778025762677-cltho6hsh" >
+      <img data-placeholder="contact-contact-intro-image-1" data-context="A serene natural morning scene for a premium Israeli breakfast brand called Boker Tari (Fresh Morning). Show a wooden table outdoors or near a sunlit window with fresh organic breakfast ingredients: a bowl of granola with fresh berries, a glass of orange juice catching morning light, a small jar of honey, and green leaves. Warm golden sunrise light, soft shadows, shallow depth of field, editorial food photography style, warm cream and amber tones." width="600" height="700" src="/assets/site-contact-contact-intro-image-1.webp" alt="בוקר טרי — תמונת בוקר טבעי ואורגני" class="contact-intro-img" data-element-type="image" data-element-id="img-1778025762677-cltho6hsh" style="">
       <figcaption class="contact-intro-figcaption">כל בוקר מתחיל בטרי</figcaption>
     </figure>
   </div>
@@ -911,7 +911,7 @@
           <h3 class="contact-detail-title">טלפון</h3>
           <p class="contact-detail-label">דברו איתנו ישירות</p>
           <p><a href="tel:0544370239" class="contact-detail-link btn btn-ghost" style="color: rgb(74, 74, 74) !important; outline: none; border-color: transparent !important; background-color: transparent !important; background-image: none !important;" data-native-element="true" data-element-id="btn-1778024994053-3sz8nx9eo" data-element-type="button">0544370239</a>
-          </p><p class="contact-detail-note" >&nbsp;<b>ימים א–ה&nbsp;<span style="font-size: 0.875rem;">בין 09:00–18:00</span></b><br><span style="font-size: 14px;"><b>&nbsp;יום ו -12:00-9:00<br></b></span><br></p>
+          </p><p class="contact-detail-note" style="">&nbsp;<b>ימים א–ה&nbsp;<span style="font-size: 0.875rem;">בין 09:00–18:00</span></b><br><span style="font-size: 14px;"><b>&nbsp;יום ו -12:00-9:00<br></b></span><br></p>
         </div>
       </article>
 
@@ -927,7 +927,7 @@
           <h3 class="contact-detail-title">מיקום ושעות</h3>
           <p class="contact-detail-label">אנחנו כאן עבורכם</p>
           <address class="contact-detail-address">[business_address]</address>
-          <p class="contact-detail-note" ><b>משלוחים באזור נהריה והסביבה כרגע</b></p>
+          <p class="contact-detail-note" style=""><b>משלוחים באזור נהריה והסביבה כרגע</b></p>
         </div>
       </article>
 
@@ -1054,11 +1054,11 @@
   </div>
 </section>
 
-<section class="contact-reassurance-section" data-layout-spec="צור קשר-reassurance" dir="rtl">
+<section class="contact-reassurance-section" data-layout-spec="צור קשר-reassurance" dir="rtl" id="contact-reassurance-section">
   <div class="contact-reassurance-container">
     <div class="contact-reassurance-header">
       <h2 class="contact-reassurance-title">כל פנייה מתקבלת בלב פתוח</h2>
-      <p class="contact-reassurance-subtitle">אנחנו מאמינים שכל שיחה היא הזדמנות לחיבור אמיתי. בין אם יש לך שאלה, רעיון לשיתוף פעולה, או סתם רצון להכיר — אנחנו כאן, ומחכים לשמוע.</p>
+      <p class="contact-reassurance-subtitle" style="">אנחנו מאמינים שכל שיחה היא הזדמנות לחיבור אמיתי. בין אם יש לך שאלה.<br>או סתם רצון להכיר — אנחנו כאן, ומחכים לשמוע.</p>
     </div>
     <div class="contact-reassurance-row">
       <div class="contact-reassurance-item">
@@ -1068,7 +1068,7 @@
       <div class="contact-reassurance-divider" aria-hidden="true"></div>
       <div class="contact-reassurance-item">
         <span class="contact-reassurance-dot"></span>
-        <p class="contact-reassurance-point">שותפויות נבנות על ערכים משותפים של טריות, בריאות ואותנטיות</p>
+        
       </div>
       <div class="contact-reassurance-divider" aria-hidden="true"></div>
       <div class="contact-reassurance-item">
@@ -1119,7 +1119,7 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>ניווט מהיר
           </h4>
-          <ul class="footer-links" ><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
+          <ul class="footer-links" style=""><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
         </div>
 
         <!-- Column 3: Contact Info -->
@@ -1134,7 +1134,7 @@
             </li>
             <li>
               <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome"></i></span>
-              <span class="contact-text"><a href="tel:0544370239" >0544370239</a></span>
+              <span class="contact-text"><a href="tel:0544370239" style="">0544370239</a></span>
             </li>
             <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
               <span class="contact-text">[business_address]</span></a></li>
@@ -1149,7 +1149,7 @@
           <p class="footer-about-text">חוויה עריכתית פרימיום שמשלבת חמימות שחר, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – שישי: 07:00 – 18:00</b></p>
+          <p class="footer-hours" style=""><b>ראשון – שישי: 07:00 – 18:00</b></p>
         </div>
 
       </div>
