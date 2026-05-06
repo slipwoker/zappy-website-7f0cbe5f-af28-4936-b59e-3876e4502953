@@ -339,7 +339,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
     <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -399,7 +399,7 @@
     </nav>
   
     <main>
-    <section class="legal-page-content privacy-policy">
+    <section class="legal-page-content privacy-policy" id="legal-page-content" style="margin-top: -72px !important; padding-top: 72px !important;">
   <div class="container">
 
         <h1>מדיניות פרטיות</h1>
@@ -472,7 +472,7 @@
             <ul>
                 <li><strong>חברה:</strong> בוקר טרי</li>
                 <li><strong>אימייל:</strong> <a href="mailto:bokertari20@gmail.com">bokertari20@gmail.com</a></li>
-                <li><strong>טלפון:</strong> <a href="tel:0544370239">0544370239</a></li>
+                <li><strong>טלפון:</strong> <a href="tel:0544370239" data-native-element="true" data-element-id="btn-1778028818313-elil7o0dj" data-element-type="button" style="outline: none;">054600127</a></li>
                 <li><strong>כתובת:</strong> [business_address]</li>
             </ul>
             <p><strong>רשם מאגרי המידע:</strong> לתלונות ניתן לפנות לרשם מאגרי המידע במשרד המשפטים</p>
@@ -493,7 +493,7 @@
           <div class="footer-logo-wrap">
             
           </div>
-          <p class="footer-tagline" >מתחילים את הבוקר טרי,&nbsp;<br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
+          <p class="footer-tagline" style="">מתחילים את הבוקר טרי,&nbsp;<br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
             <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777698485129-t7brae6ep" data-icon-type="fontawesome"></i></a>
@@ -506,7 +506,7 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>ניווט מהיר
           </h4>
-          <ul class="footer-links" ><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
+          <ul class="footer-links" style=""><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
         </div>
 
         <!-- Column 3: Contact Info -->
@@ -514,13 +514,13 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>יצירת קשר
           </h4>
-          <ul class="footer-contact" ><li>
+          <ul class="footer-contact" style=""><li>
               <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1777698485129-6wxyuex94" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
               <span class="contact-text"><a href="mailto:bokertari20@gmail.com">bokertari20@gmail.com</a></span>
             </li><li>
               <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
-              <span class="contact-text"><a href="tel:0544370239" >054600127</a></span>
-            </li><li><a href="/" ><span class="contact-icon"></span>
+              <span class="contact-text"><a href="tel:0544370239" style="">054600127</a></span>
+            </li><li><a href="/" style=""><span class="contact-icon"></span>
               <span class="contact-text">[business_address]</span></a></li></ul>
         </div>
 
@@ -529,10 +529,10 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>בוקר טרי
           </h4>
-          <p class="footer-about-text" >חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
+          <p class="footer-about-text" style="">חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
+          <p class="footer-hours" style=""><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
         </div>
 
       </div>
