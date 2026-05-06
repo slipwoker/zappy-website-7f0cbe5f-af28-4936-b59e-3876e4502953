@@ -349,7 +349,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "7f0cbe5f-af28-4936-b59e-3876e4502953";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -828,7 +828,7 @@
 </script>
   
   <main>
-    <section class="lifestyle-overview-section" data-layout-spec="אורח חיים-overview" dir="rtl">
+    <section class="lifestyle-overview-section" data-layout-spec="אורח חיים-overview" dir="rtl" id="lifestyle-overview-section" style="margin-top: -72px !important; padding-top: 72px !important;">
   <!-- Decorative botanical leaf motif -->
   <svg class="lifestyle-overview-botanical-leaf" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 280" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M110 10 C160 40 200 100 190 160 C180 220 130 260 110 270 C90 260 40 220 30 160 C20 100 60 40 110 10Z" stroke="#2A7FB5" stroke-width="1.5" fill="none" opacity="0.12"></path>
@@ -855,17 +855,17 @@
   <div class="lifestyle-overview-container">
     <!-- Header -->
     <header class="lifestyle-overview-header">
-      <span class="lifestyle-overview-eyebrow">אורח חיים</span>
-      <h1 class="lifestyle-overview-title">הבוקר שלך מתחיל כאן</h1>
-      <p class="lifestyle-overview-subtitle">בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר בריאה היא הבסיס לכל יום מוצלח. המוצרים שלנו מלווים אותך מהרגע שעיניך נפקחות — עם מרכיבים אמיתיים, טעמים טבעיים, ואנרגיה שמגיעה מהטבע עצמו.</p>
+      <p><span class="lifestyle-overview-eyebrow">אורח חיים</span>
+      </p><h1 class="lifestyle-overview-title">הבוקר שלך מתחיל כאן</h1>
+      <p class="lifestyle-overview-subtitle" style=""></p><h3><b>בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר מזינה היא הבסיס לכל יום מוצלח. המוצרים שלנו מלווים אותך מהרגע שעיניך נפקחות — עם מרכיבים אמיתיים, ומוצרים טריים. ואנרגיה להמשך היום</b></h3><p></p>
     </header>
 
-    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="display:none">
+    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="transition: background 0.3s, backdrop-filter 0.3s, -webkit-backdrop-filter 0.3s; display: none !important; background-image: initial !important; background-position: initial !important; background-size: initial !important; background-repeat: initial !important; background-attachment: initial !important; background-origin: initial !important; background-clip: initial !important;">
       <div class="catalog-menu-container">
-        <a href="/products" class="catalog-menu-item catalog-menu-all">כל המוצרים</a>
-        <div class="catalog-menu-categories" id="zappy-category-links">
+        <p class="zappy-editable"><a href="/products" class="catalog-menu-item catalog-menu-all" style="color: rgb(74, 74, 74) !important;">כל המוצרים</a>
+        </p><div class="catalog-menu-categories" id="zappy-category-links" dir="rtl" style="direction: rtl !important;">
           <!-- Categories will be loaded dynamically -->
-        </div>
+        <a href="/category/pastries" class="catalog-menu-item" data-category-id="78151d43-1231-4a96-93e5-f8c4adb10097" data-category-slug="pastries" dir="rtl">בורקסים</a><a href="/category/breadchallah" class="catalog-menu-item" data-category-id="ce14aaf5-0d4d-4a1e-8989-14fad942c05e" data-category-slug="breadchallah" dir="rtl">חלות</a><a href="/category/bread" class="catalog-menu-item" data-category-id="7ba78a58-34ff-46cd-9d4f-c8044f23563e" data-category-slug="bread" dir="rtl">לחם</a><a href="/category/dairy-products" class="catalog-menu-item" data-category-id="fa3e3137-d0b3-464a-a3eb-563b8d7161da" data-category-slug="dairy-products" dir="rtl">מוצרי חלב</a><a href="/category/sandwiches" class="catalog-menu-item" data-category-id="cb9c1cdf-2913-4d62-944f-700c161a4633" data-category-slug="sandwiches" dir="rtl">סנדויצ'ים </a><a href="/category/pastries-and-sweets" class="catalog-menu-item" data-category-id="ce0929d1-faf5-4116-a217-ac498c15a287" data-category-slug="pastries-and-sweets" dir="rtl">קוראסים ומתוקים</a><a href="/category/soft-drinks" class="catalog-menu-item" data-category-id="abb3764e-c379-4e20-8283-edf4760f3757" data-category-slug="soft-drinks" dir="rtl">שתייה קלה</a></div>
       </div>
     </nav>
   
@@ -875,7 +875,7 @@
       <!-- Start panel (right in RTL) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--start">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-1" data-context="A person doing a morning yoga stretch on a wooden balcony at sunrise, golden warm light, fresh green smoothie on a small table beside them, healthy lifestyle morning ritual, warm peach and orange tones, editorial magazine photography style" width="400" height="520" src="/assets/site-lifestyle-overview-image-1.webp" alt="שגרת בוקר בריאה — יוגה ותנועה עם בוקר טרי">
+          <img data-placeholder="lifestyle-overview-image-1" data-context="A person doing a morning yoga stretch on a wooden balcony at sunrise, golden warm light, fresh green smoothie on a small table beside them, healthy lifestyle morning ritual, warm peach and orange tones, editorial magazine photography style" width="400" height="520" src="/assets/site-lifestyle-overview-image-1.webp" alt="שגרת בוקר בריאה — יוגה ותנועה עם בוקר טרי" data-element-type="image" data-element-id="img-1778027545114-9x45lv5rd" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">תנועה ואנרגיה</figcaption>
       </figure>
@@ -883,7 +883,7 @@
       <!-- Center panel (largest) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--center">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-2" data-context="A beautifully styled breakfast table with fresh organic ingredients: acai bowls, granola, fresh fruits, honey drizzle, green leaves, warm morning sunlight streaming across a marble surface, premium editorial food photography, warm cream and golden tones, בוקר טרי brand feel" width="600" height="700" src="/assets/site-lifestyle-overview-image-2.webp" alt="ארוחת בוקר טרי עם מוצרים אורגניים טבעיים">
+          <img data-placeholder="lifestyle-overview-image-2" data-context="A beautifully styled breakfast table with fresh organic ingredients: acai bowls, granola, fresh fruits, honey drizzle, green leaves, warm morning sunlight streaming across a marble surface, premium editorial food photography, warm cream and golden tones, בוקר טרי brand feel" width="600" height="700" src="/assets/site-lifestyle-overview-image-2.webp" alt="ארוחת בוקר טרי עם מוצרים אורגניים טבעיים" data-element-type="image" data-element-id="img-1778027545114-bpeyt4r2l" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">תזונה אמיתית</figcaption>
       </figure>
@@ -891,7 +891,7 @@
       <!-- End panel (left in RTL) -->
       <figure class="lifestyle-overview-panel lifestyle-overview-panel--side lifestyle-overview-panel--end">
         <div class="lifestyle-overview-img-wrap">
-          <img data-placeholder="lifestyle-overview-image-3" data-context="Close-up of hands holding a glass jar filled with overnight oats topped with fresh berries, chia seeds, and a drizzle of honey, soft morning window light, natural textures, warm and inviting, premium lifestyle photography, organic ingredients visible" width="400" height="520" src="/assets/site-lifestyle-overview-image-3.webp" alt="מוצרי בוקר טרי — שיבולת שועל עם פירות טריים">
+          <img data-placeholder="lifestyle-overview-image-3" data-context="Close-up of hands holding a glass jar filled with overnight oats topped with fresh berries, chia seeds, and a drizzle of honey, soft morning window light, natural textures, warm and inviting, premium lifestyle photography, organic ingredients visible" width="400" height="520" src="/assets/site-lifestyle-overview-image-3.webp" alt="מוצרי בוקר טרי — שיבולת שועל עם פירות טריים" data-element-type="image" data-element-id="img-1778027545114-4hqbv2gn2" style="">
         </div>
         <figcaption class="lifestyle-overview-panel-caption">מרכיבים נבחרים</figcaption>
       </figure>
@@ -1268,9 +1268,9 @@
         <!-- Column 1: Company Info -->
         <div class="footer-col footer-brand">
           <div class="footer-logo-wrap">
-            <img src="/assets/general-logo.webp" alt="בוקר טרי" class="logo" data-element-type="image" data-element-id="img-1777698485130-x3rn93y8c" data-zappy-footer-image="true">
+            
           </div>
-          <p class="footer-tagline" >מתחילים את הבוקר טרי,&nbsp;<br>בריא ומלא השראה.</p>
+          <p class="footer-tagline" style="">מתחילים את הבוקר טרי,&nbsp;<br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
             <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777698485129-t7brae6ep" data-icon-type="fontawesome"></i></a>
@@ -1283,7 +1283,7 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>ניווט מהיר
           </h4>
-          <ul class="footer-links" ><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
+          <ul class="footer-links" style=""><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
         </div>
 
         <!-- Column 3: Contact Info -->
@@ -1291,18 +1291,14 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>יצירת קשר
           </h4>
-          <ul class="footer-contact">
-            <li>
-              <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1777698485129-6wxyuex94" data-icon-type="fontawesome"></i></span>
+          <ul class="footer-contact" style=""><li>
+              <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1777698485129-6wxyuex94" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
               <span class="contact-text"><a href="mailto:bokertari20@gmail.com">bokertari20@gmail.com</a></span>
-            </li>
-            <li>
-              <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome"></i></span>
-              <span class="contact-text"><a href="tel:0544370239" >054600127</a></span>
-            </li>
-            <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-              <span class="contact-text">[business_address]</span></a></li>
-          </ul>
+            </li><li>
+              <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
+              <span class="contact-text"><a href="tel:0544370239" style="">054600127</a></span>
+            </li><li><a href="/" style=""><span class="contact-icon"></span>
+              <span class="contact-text">[business_address]</span></a></li></ul>
         </div>
 
         <!-- Column 4: About Blurb -->
@@ -1313,7 +1309,7 @@
           <p class="footer-about-text">חוויה עריכתית פרימיום שמשלבת חמימות שחר, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
+          <p class="footer-hours" style=""><b>ראשון – חמישי: 09:00 – 18:00</b><br><b>שישי -&nbsp; 12:00-9:00</b></p>
         </div>
 
       </div>
