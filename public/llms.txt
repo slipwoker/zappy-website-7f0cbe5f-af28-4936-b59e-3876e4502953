@@ -660,10 +660,11 @@ https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877167787-yn1d33.webp
 
 ### טוסט צהובה בייגלה 
-https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-72bqpg
+https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
+- Description: זיתים, גיבנה צהובה, רוטב עגבניות *** במקרה של חוסר בכריך אצל הספק נספק כריך חלופי באופן אוטומטי.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877405981-gl0wh7.webp
 
 ### כריך ביצה קשה
