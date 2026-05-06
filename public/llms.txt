@@ -653,35 +653,31 @@ https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876710541-i5pkqt.webp
 
 ### כריך גבינה צהובה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-kkizmf
-- Price: 10.90 ILS
+https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
-- Description: כריך גבינה צהובה עם ירקות
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877167787-yn1d33.webp
 
 ### טוסט צהובה בייגלה 
-https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-ybvigf
-- Price: 6.90 ILS
+https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-72bqpg
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
-- Description: בייגלה ירושלמי אותנטי, פריך מבחוץ ורך מבפנים עם שומשום. ארוחת בוקר ישראלית קלאסית עם גבינה לבנה וזיתים.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877405981-gl0wh7.webp
 
 ### כריך ביצה קשה
-https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-6d5u6i
-- Price: 19.90 ILS
+https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
-- Description: לחם שיפון מחיטת שיפון מלאה, סמיך ועשיר בסיבים. בריא ומשביע, מושלם עם חמאה וגבינה או עם אבוקדו.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877616578-w867a1.webp
 
 ### כריך פסטרמה ובקר
-https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-zsnl69
-- Price: 22.90 ILS
+https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
-- Description: חמאת בוטנים טחונה טרייה, ללא תוספת סוכר ושמן. עשירה בחלבון ושומנים טובים — מריחה אידיאלית על לחם מחיטה מלאה.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877918377-p9c98k.webp
 
 ---

@@ -6162,38 +6162,30 @@ Availability: In stock
 ---
 
 ### כריך גבינה צהובה עם ירקות
-URL: https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-kkizmf
-Price: 10.90 ILS
+URL: https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
+Price: 20.00 ILS
 Availability: In stock
-
-כריך גבינה צהובה עם ירקות
 
 ---
 
 ### טוסט צהובה בייגלה 
-URL: https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-ybvigf
-Price: 6.90 ILS
+URL: https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-72bqpg
+Price: 20.00 ILS
 Availability: In stock
-
-בייגלה ירושלמי אותנטי, פריך מבחוץ ורך מבפנים עם שומשום. ארוחת בוקר ישראלית קלאסית עם גבינה לבנה וזיתים.
 
 ---
 
 ### כריך ביצה קשה
-URL: https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-6d5u6i
-Price: 19.90 ILS
+URL: https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4
+Price: 20.00 ILS
 Availability: In stock
-
-לחם שיפון מחיטת שיפון מלאה, סמיך ועשיר בסיבים. בריא ומשביע, מושלם עם חמאה וגבינה או עם אבוקדו.
 
 ---
 
 ### כריך פסטרמה ובקר
-URL: https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-zsnl69
-Price: 22.90 ILS
+URL: https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9
+Price: 20.00 ILS
 Availability: In stock
-
-חמאת בוטנים טחונה טרייה, ללא תוספת סוכר ושמן. עשירה בחלבון ושומנים טובים — מריחה אידיאלית על לחם מחיטה מלאה.
 
 ---
 

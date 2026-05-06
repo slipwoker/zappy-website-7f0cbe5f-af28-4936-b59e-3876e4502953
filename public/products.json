@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T10:52:28.327Z",
+  "generated_at": "2026-05-06T10:53:32.255Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 87,
@@ -1977,15 +1977,15 @@
     },
     {
       "id": "926d455f-6462-460b-883e-ee5222c73786",
-      "slug": "kryk-gbynh-tshvbh-am-yrkvt-kkizmf",
+      "slug": "kryk-gbynh-tshvbh-am-yrkvt-5mbexg",
       "name": "כריך גבינה צהובה עם ירקות",
       "name_translations": {},
-      "description": "<p>כריך גבינה צהובה עם ירקות</p>",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 10.9,
-      "base_price": 10.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1993,23 +1993,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-kkizmf",
+      "url": "https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:47:32.822Z"
+      "updated_at": "2026-05-06T10:52:34.052Z"
     },
     {
       "id": "7717df2d-0051-4800-9c06-2292474bc170",
-      "slug": "tvst-tshvbh-byyglh-ybvigf",
+      "slug": "tvst-tshvbh-byyglh-72bqpg",
       "name": "טוסט צהובה בייגלה ",
       "name_translations": {},
-      "description": "<p>בייגלה ירושלמי אותנטי, פריך מבחוץ ורך מבפנים עם שומשום. ארוחת בוקר ישראלית קלאסית עם גבינה לבנה וזיתים.</p>",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 6.9,
-      "base_price": 6.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2017,23 +2017,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-ybvigf",
+      "url": "https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-72bqpg",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:50:33.852Z"
+      "updated_at": "2026-05-06T10:52:48.706Z"
     },
     {
       "id": "82adefb5-a159-4e9b-8996-64142fa91e3c",
-      "slug": "kryk-bytsh-kshh-6d5u6i",
+      "slug": "kryk-bytsh-kshh-rgcce4",
       "name": "כריך ביצה קשה",
       "name_translations": {},
-      "description": "<p>לחם שיפון מחיטת שיפון מלאה, סמיך ועשיר בסיבים. בריא ומשביע, מושלם עם חמאה וגבינה או עם אבוקדו.</p>",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 19.9,
-      "base_price": 19.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2041,23 +2041,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-6d5u6i",
+      "url": "https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:53:53.879Z"
+      "updated_at": "2026-05-06T10:53:01.339Z"
     },
     {
       "id": "777860a7-be8b-49a5-82a7-26704df0f226",
-      "slug": "kryk-pstrmh-vbkr-zsnl69",
+      "slug": "kryk-pstrmh-vbkr-kndeh9",
       "name": "כריך פסטרמה ובקר",
       "name_translations": {},
-      "description": "<p>חמאת בוטנים טחונה טרייה, ללא תוספת סוכר ושמן. עשירה בחלבון ושומנים טובים — מריחה אידיאלית על לחם מחיטה מלאה.</p>",
+      "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 22.9,
-      "base_price": 22.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2065,11 +2065,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-zsnl69",
+      "url": "https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:58:50.813Z"
+      "updated_at": "2026-05-06T10:53:17.379Z"
     }
   ]
 }
