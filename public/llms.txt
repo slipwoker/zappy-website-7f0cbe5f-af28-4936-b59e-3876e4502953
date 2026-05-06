@@ -638,15 +638,15 @@ https://boker-tari.zappy5.app/product/lchmnyyt-atsba-tytpqy
 - Image: https://boker-tari.zappy5.app/assets/product-1777969074716-dtn01m.webp
 
 ### כריך חביתה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-s2nurr
-- Price: 27.90 ILS
+https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876574331-s6ylb9.webp
 
 ### כריך טונה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-g2pur0
-- Price: 26.90 ILS
+https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl
+- Price: 20.00 ILS
 - Availability: In stock
 - Category: סנדויצ'ים 
 - Description: כריך טונה איכותי עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.

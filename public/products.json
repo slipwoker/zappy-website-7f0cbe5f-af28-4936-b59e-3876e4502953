@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T10:51:48.827Z",
+  "generated_at": "2026-05-06T10:52:28.327Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 87,
@@ -1929,15 +1929,15 @@
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
-      "slug": "kryk-chbyth-am-yrkvt-s2nurr",
+      "slug": "kryk-chbyth-am-yrkvt-u1deos",
       "name": "כריך חביתה עם ירקות",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 27.9,
-      "base_price": 27.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1945,23 +1945,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-s2nurr",
+      "url": "https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:43:36.827Z"
+      "updated_at": "2026-05-06T10:51:57.536Z"
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
-      "slug": "kryk-tvnh-am-yrkvt-g2pur0",
+      "slug": "kryk-tvnh-am-yrkvt-9e4zfl",
       "name": "כריך טונה עם ירקות",
       "name_translations": {},
-      "description": "<p><strong>כריך טונה איכותי  עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.</strong></p>",
+      "description": "<p><br></p>",
       "short_description": "כריך טונה איכותי  עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.\n",
       "sku": null,
       "brand": null,
-      "price": 26.9,
-      "base_price": 26.9,
+      "price": 20,
+      "base_price": 20,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1969,11 +1969,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-g2pur0",
+      "url": "https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl",
       "categories": [
         "סנדויצ'ים "
       ],
-      "updated_at": "2026-05-04T06:43:00.132Z"
+      "updated_at": "2026-05-06T10:52:21.450Z"
     },
     {
       "id": "926d455f-6462-460b-883e-ee5222c73786",
