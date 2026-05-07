@@ -593,17 +593,19 @@ https://boker-tari.zappy5.app/product/lchm-prnh-q6kohc
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777909030815-v5414j.webp
 
 ### לחמניית רוסטיק כהה
-https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-2uas9t
+https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-t0tdjh
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: יצרן / מותג: מאפית המשפחה מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי השגחה: בד"ץ בית יוסף
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908834960-3t2nnm.webp
 
 ### לחמניית רוסטיק בהיר
-https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-5pxxgu
+https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-565b99
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: יצרן / מותג: מאפית המשפחה מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי השגחה: בד"ץ בית יוסף
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908720313-vud60q.webp
 
 ### חצי בגט
