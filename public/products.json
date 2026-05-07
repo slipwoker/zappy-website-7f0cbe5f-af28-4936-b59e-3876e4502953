@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T07:22:58.546Z",
+  "generated_at": "2026-05-07T09:34:56.587Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -1953,11 +1953,11 @@
     },
     {
       "id": "518a5b64-6c20-4c72-8fde-f53f87446e08",
-      "slug": "lchmnyyt-atsba-tytpqy",
+      "slug": "lchmnyyt-atsba-cs30kx",
       "name": "לחמניית אצבע",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: מאפית דגנית - עין בר\nמכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה.\nמידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה.\nעלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן.\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 2,
@@ -1969,11 +1969,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-atsba-tytpqy",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-atsba-cs30kx",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-05T08:18:00.396Z"
+      "updated_at": "2026-05-07T09:34:25.819Z"
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
