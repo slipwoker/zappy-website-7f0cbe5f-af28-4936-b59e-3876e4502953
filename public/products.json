@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T07:01:16.086Z",
+  "generated_at": "2026-05-07T07:15:09.019Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -743,7 +743,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-abvkdv-ncn3z1",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-07T07:00:45.019Z"
     },
@@ -767,7 +767,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-bvlgryt-chb3xd",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:51:39.688Z"
     },
@@ -1995,7 +1995,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:51:57.536Z"
     },
@@ -2019,7 +2019,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:52:21.450Z"
     },
@@ -2043,7 +2043,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:52:34.052Z"
     },
@@ -2067,7 +2067,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:57:13.720Z"
     },
@@ -2091,7 +2091,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:53:01.339Z"
     },
@@ -2115,7 +2115,7 @@
       "stock_status": "in_stock",
       "url": "https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9",
       "categories": [
-        "סנדויצ'ים "
+        "כריכים"
       ],
       "updated_at": "2026-05-06T10:53:17.379Z"
     }

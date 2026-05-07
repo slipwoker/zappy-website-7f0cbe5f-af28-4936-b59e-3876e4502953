@@ -288,7 +288,7 @@ https://boker-tari.zappy5.app/product/lchmnyyt-hmbvrgr-mm91tw
 https://boker-tari.zappy5.app/product/kryk-abvkdv-ncn3z1
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Description: לחמנייה שמנייה טרייה ואבוקדו טרי שרק נקטף מהעץ חומרי הגלם הכי איכותיים {רק בעונה}
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918826371-v8uyvs.webp
 
@@ -296,7 +296,7 @@ https://boker-tari.zappy5.app/product/kryk-abvkdv-ncn3z1
 https://boker-tari.zappy5.app/product/kryk-bvlgryt-chb3xd
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918495377-ed3712.webp
 
 ### לחם פרוס 
@@ -655,14 +655,14 @@ https://boker-tari.zappy5.app/product/lchmnyyt-atsba-tytpqy
 https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876574331-s6ylb9.webp
 
 ### כריך טונה עם ירקות
 https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Description: כריך טונה איכותי עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876710541-i5pkqt.webp
 
@@ -670,14 +670,14 @@ https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl
 https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877167787-yn1d33.webp
 
 ### טוסט צהובה בייגלה 
 https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Description: זיתים, גיבנה צהובה, רוטב עגבניות *** במקרה של חוסר בכריך אצל הספק נספק כריך חלופי באופן אוטומטי.
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877405981-gl0wh7.webp
 
@@ -685,14 +685,14 @@ https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4
 https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877616578-w867a1.webp
 
 ### כריך פסטרמה ובקר
 https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9
 - Price: 20.00 ILS
 - Availability: In stock
-- Category: סנדויצ'ים 
+- Category: כריכים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877918377-p9c98k.webp
 
 ---
