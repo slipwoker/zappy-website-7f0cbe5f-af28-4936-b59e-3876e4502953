@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:50:06.221Z",
+  "generated_at": "2026-05-07T09:52:21.563Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -1493,11 +1493,11 @@
     },
     {
       "id": "003ab954-b098-46e2-89e2-598420efe398",
-      "slug": "byyglh-rvmny-wus2ph",
+      "slug": "byyglh-rvmny-9rjcnj",
       "name": "בייגלה רומני ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: בייגלה רומני פריך וזהוב, מצופה שומשום קלוי שמוסיף קרCrunch עדין וניחוח אגוזי. מושלם לנשנוש, לאירוח או לצד מטבלים ומשקאות.\nקמח חיטה (מכיל גלוטן), מים, סוכר, מלח, שומן צמחי (בחלקו מוקשה), מתחלבים E471 , E322, מלח לימון E330, חומר משמר E200, שמרים E491, שומשום, משפרי אפייה E481 E471, E300, תמצית חמאה פרופילן גליקול, חומר טעם וריח, צבע מאכל בטא קרוטן E10a, מווסת חומציות E524.\nהשגחה: רבנות חולון",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -1509,19 +1509,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/byyglh-rvmny-wus2ph",
+      "url": "https://boker-tari.zappy5.app/product/byyglh-rvmny-9rjcnj",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T16:37:30.834Z"
+      "updated_at": "2026-05-07T09:51:20.955Z"
     },
     {
       "id": "326a0908-3051-4f3e-bf14-f2780e6fc7ac",
-      "slug": "lchmnyyt-byyglh-eve6qm",
+      "slug": "lchmnyyt-byyglh-jyu9hq",
       "name": "לחמניית בייגלה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות.\nרכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום.\nמידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום.\nהשגחה: רבנות חולון",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -1533,11 +1533,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-eve6qm",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-jyu9hq",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T16:33:52.095Z"
+      "updated_at": "2026-05-07T09:51:50.655Z"
     },
     {
       "id": "947f50fd-ee0c-4fd5-98d2-bb05f36c238c",

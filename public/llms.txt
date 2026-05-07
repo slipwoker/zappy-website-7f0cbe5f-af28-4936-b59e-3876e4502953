@@ -518,17 +518,19 @@ https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-bv1peg
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912956177-hnb53n.webp
 
 ### בייגלה רומני 
-https://boker-tari.zappy5.app/product/byyglh-rvmny-wus2ph
+https://boker-tari.zappy5.app/product/byyglh-rvmny-9rjcnj
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה רומני פריך וזהוב, מצופה שומשום קלוי שמוסיף קרCrunch עדין וניחוח אגוזי. מושלם לנשנוש, לאירוח או לצד מטבלים ומשקאות. קמח חיטה (מכיל גלוטן), מים, סוכר, מלח, שומן צמחי (בחלקו מוקשה), מתחלבים E471 , E322, מלח לימון E330, חומר משמר E200, שמרים E491, שומשום, משפרי אפייה E481 E471, E300, תמצית חמאה פרופילן גליקול, חומר טעם וריח, צבע מאכל בטא קרוטן E10a, מווסת חומציות E524. השגחה: רבנות חולון
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912635756-7g9jq5.webp
 
 ### לחמניית בייגלה
-https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-eve6qm
+https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-jyu9hq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום. מידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום. השגחה: רבנות חולון
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912405128-9tqfto.webp
 
 ### בורקס פיצה מסעדות
