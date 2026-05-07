@@ -264,10 +264,11 @@ https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-8vuolt
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777919515775-kfujf7.webp
 
 ### לחמנייה עגולה קשר
-https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-5o2o9z
+https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-br4m8u
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, שמנים ושומנים מהצומח, מלח שולחן, לתת שעורה, קמח סויה, מתחלב (E481), חומר משמר (קלציום פרופיונט), אנזימים, ויטמין C השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777919437790-l7w5fe.webp
 
 ### לחמנייה אצבע שומשום
@@ -646,11 +647,11 @@ https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-dlcwko
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777878345565-i77bwv.webp
 
 ### לחמניית אצבע
-https://boker-tari.zappy5.app/product/lchmnyyt-atsba-cs30kx
+https://boker-tari.zappy5.app/product/lchmnyyt-atsba-dbcc59
 - Price: 2.00 ILS
 - Availability: In stock
 - Category: לחם
-- Description: יצרן / מותג: מאפית דגנית - עין בר מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה. מידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן. השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
+- Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה. מידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן. השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://boker-tari.zappy5.app/assets/product-1777969074716-dtn01m.webp
 
 ### כריך חביתה עם ירקות
