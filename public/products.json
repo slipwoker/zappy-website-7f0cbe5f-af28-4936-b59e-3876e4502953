@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:53:14.348Z",
+  "generated_at": "2026-05-07T09:53:59.676Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -1685,11 +1685,11 @@
     },
     {
       "id": "10d1044e-c949-442c-9354-5750336da86c",
-      "slug": "lchm-prnh-euuzx4",
+      "slug": "lchm-prnh-q6kohc",
       "name": "לחם פרנה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: מאפיית ברון\nמכיל: מאפה פריך וזהוב, עם טעם עשיר ונימוח שממלא כל נשנוש בהנאה. מושלם לצד קפה או תה, כפינוק אישי או כתוספת חגיגית לאירוח.\nקמח חיטה (גלוטן), מים, שמן סויה, סוכר, גלוטן (גלוטן-חיטה), מלח, שמרים, משפר אפייה (מתחלב: E481, אנזימים, מעכב חמצון, E300 , חומר משמר(קלציום פרפיונט), חומר תפיחה (סויה ביקרבונט), אנזימים.\nמידע על אלרגנים:\nמכיל: גלוטן (חיטה), סויה\nעלול להכיל: גלוטן (שיבולתת שועל, שעורה, שיפון), שומשום\nהשגחה: הרב לנדא",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -1701,11 +1701,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-prnh-euuzx4",
+      "url": "https://boker-tari.zappy5.app/product/lchm-prnh-q6kohc",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T15:37:31.714Z"
+      "updated_at": "2026-05-07T09:53:28.838Z"
     },
     {
       "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
