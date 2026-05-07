@@ -644,10 +644,11 @@ https://boker-tari.zappy5.app/product/lchm-shypvn-khh-h2cgo3
 - Description: לחם שיפון כהה מסורתי, עשיר בסיבים תזונתיים ובטעם עמוק ואותנטי
 
 ### לחמניית שמינייה
-https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-dlcwko
+https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-hrna02
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
+- Description: יצרן / מותג: אדרי יוסף מכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים
 - Image: https://boker-tari.zappy5.app/assets/image-product-image-1777878345565-i77bwv.webp
 
 ### לחמניית אצבע

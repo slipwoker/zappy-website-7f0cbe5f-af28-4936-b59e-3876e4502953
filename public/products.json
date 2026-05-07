@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:45:00.393Z",
+  "generated_at": "2026-05-07T09:46:04.917Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -1929,11 +1929,11 @@
     },
     {
       "id": "cc58fdf8-031c-4c0e-9072-abaa81cd98e0",
-      "slug": "lchmnyyt-shmynyyh-dlcwko",
+      "slug": "lchmnyyt-shmynyyh-hrna02",
       "name": "לחמניית שמינייה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: אדרי יוסף\nמכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -1945,11 +1945,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-dlcwko",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-hrna02",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T07:06:01.815Z"
+      "updated_at": "2026-05-07T09:45:32.997Z"
     },
     {
       "id": "518a5b64-6c20-4c72-8fde-f53f87446e08",
