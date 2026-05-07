@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T10:12:37.837Z",
+  "generated_at": "2026-05-07T10:18:22.023Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 91,
+  "count": 92,
   "products": [
+    {
+      "id": "ffd7fc01-0a9a-4ece-80c8-e0b121980f33",
+      "slug": "pyth-btsl-uh0euh",
+      "name": "פיתה בצל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1778149033710-8mir4p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/pyth-btsl-uh0euh",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-07T10:17:26.399Z"
+    },
     {
       "id": "7df93b62-c077-4281-b923-e61cac14cf38",
       "slug": "pyth-zatr-mgxwcx",
@@ -31,7 +55,7 @@
     },
     {
       "id": "c9c43213-4d8d-4fb7-85ee-60b0e409c010",
-      "slug": "chtsy-bgt-a8pr1b",
+      "slug": "chtsy-bgt-8dybbc",
       "name": "חצי בגט",
       "name_translations": {},
       "description": "",
@@ -47,11 +71,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-a8pr1b",
+      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-8dybbc",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:56:40.028Z"
+      "updated_at": "2026-05-07T10:17:50.962Z"
     },
     {
       "id": "63d5bcc0-6210-4984-bb4e-7af91376f96d",
