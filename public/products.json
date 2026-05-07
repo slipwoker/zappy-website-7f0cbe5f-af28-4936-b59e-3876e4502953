@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:41:24.471Z",
+  "generated_at": "2026-05-07T09:43:03.393Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -557,11 +557,11 @@
     },
     {
       "id": "34cb07c6-c3b0-46bd-a40b-11a319b253c5",
-      "slug": "5-pytvt-h7duaa",
+      "slug": "5-pytvt-vmp9fk",
       "name": "5 פיתות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "\nמכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר, שמרים, מלח, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), אנזימים לאפייה, חומר תפיחה (ii 500 E) .\nמידע על רכיבים אלרגנים: מכיל חיטה – גלוטן.\nעלול להכיל : שעורה – גלוטן, כוסמין – גלוטן, שיפון – גלוטן, שומשום, סויה.\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -573,11 +573,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/5-pytvt-h7duaa",
+      "url": "https://boker-tari.zappy5.app/product/5-pytvt-vmp9fk",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-05T08:14:52.302Z"
+      "updated_at": "2026-05-07T09:42:32.637Z"
     },
     {
       "id": "8d1954f5-b8b9-4d5f-8a40-037d6cdc5db5",
