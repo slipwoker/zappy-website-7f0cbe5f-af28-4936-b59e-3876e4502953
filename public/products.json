@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T10:10:35.965Z",
+  "generated_at": "2026-05-07T10:12:37.837Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 91,
   "products": [
     {
       "id": "7df93b62-c077-4281-b923-e61cac14cf38",
-      "slug": "pyth-btsl-zrud6f",
-      "name": "פיתה בצל",
+      "slug": "pyth-zatr-mgxwcx",
+      "name": "פיתה זעתר",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: פיתה זעתר רכיבים: קמח חיטה (גלוטן), מים, שמן זית, זעתר, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pyth-btsl-zrud6f",
+      "url": "https://boker-tari.zappy5.app/product/pyth-zatr-mgxwcx",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T10:10:04.883Z"
+      "updated_at": "2026-05-07T10:12:06.847Z"
     },
     {
       "id": "c9c43213-4d8d-4fb7-85ee-60b0e409c010",
