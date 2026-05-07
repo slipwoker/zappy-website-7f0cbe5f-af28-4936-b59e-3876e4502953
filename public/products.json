@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:44:01.106Z",
+  "generated_at": "2026-05-07T09:45:00.393Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -605,11 +605,11 @@
     },
     {
       "id": "22d2d160-5bc8-4dbd-b7ad-10455e0e3b31",
-      "slug": "lchmnyyh-atsba-kmch-mla-yojluf",
+      "slug": "lchmnyyh-atsba-kmch-mla-lwqmbb",
       "name": "לחמנייה אצבע קמח מלא",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח חיטה מלא (קמח חיטה, סובין ונבט חיטה), (100% מהקמח, 63% מהלחמנייה)(מכיל גלוטן), מים, שמרים, גלוטן חיטה, שמנים ושומנים מהצומח, סוכר לבן, מלח שולחן, גרעיני פישתן, שיבולת שועל, גרעיני חמניות, לתת שעורה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), חומר מתחלב ,(E481) מווסת חומציות ( חומצת לימון), חומצה אסקורבית, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -621,11 +621,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-yojluf",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-lwqmbb",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T18:37:41.829Z"
+      "updated_at": "2026-05-07T09:44:29.335Z"
     },
     {
       "id": "f9f2ae8f-ddc2-4052-9592-a8c75ed1d96d",
