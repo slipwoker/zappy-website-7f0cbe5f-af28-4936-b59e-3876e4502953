@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T09:38:11.663Z",
+  "generated_at": "2026-05-07T09:41:24.471Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 89,
@@ -629,11 +629,11 @@
     },
     {
       "id": "f9f2ae8f-ddc2-4052-9592-a8c75ed1d96d",
-      "slug": "lchmnyyh-shvmshvm-agvlh-kshr-8vuolt",
+      "slug": "lchmnyyh-shvmshvm-agvlh-kshr-j5awoc",
       "name": "לחמנייה שומשום עגולה קשר ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: בוטיק האופה בעמ\nמכיל: רכיבים:קמח חיטה לבן (מכיל גלוטן) ,מים ,סוכר לבן, שמרים, גלוטן חיטה, שמן צמחי (סויה), מלח שולחן, אבקת סויה, חומר מתחלב (E481), מעכב חמצון (E300), חומר משמר (E282), שומשום (2%), אנזימים לאפייה.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -645,11 +645,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-8vuolt",
+      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T18:32:08.335Z"
+      "updated_at": "2026-05-07T09:40:53.650Z"
     },
     {
       "id": "42b2df10-c677-479c-a786-f3fd55e5365a",
