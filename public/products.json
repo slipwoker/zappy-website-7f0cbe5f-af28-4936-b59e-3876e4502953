@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-07T10:18:22.023Z",
+  "generated_at": "2026-05-07T10:19:26.465Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
   "count": 92,
@@ -55,7 +55,7 @@
     },
     {
       "id": "c9c43213-4d8d-4fb7-85ee-60b0e409c010",
-      "slug": "chtsy-bgt-8dybbc",
+      "slug": "chtsy-bgt-71ncl1",
       "name": "חצי בגט",
       "name_translations": {},
       "description": "",
@@ -67,15 +67,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778147759097-b3pwk2.webp"
+        "https://boker-tari.zappy5.app/assets/product-1778149128989-0vmvxvr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-8dybbc",
+      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-71ncl1",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T10:17:50.962Z"
+      "updated_at": "2026-05-07T10:18:55.519Z"
     },
     {
       "id": "63d5bcc0-6210-4984-bb4e-7af91376f96d",
