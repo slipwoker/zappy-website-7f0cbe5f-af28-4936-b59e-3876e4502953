@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T19:00:51.556Z",
+  "generated_at": "2026-05-07T06:34:44.659Z",
   "base_url": "https://boker-tari.zappy5.app",
   "currency": "ILS",
-  "count": 87,
+  "count": 88,
   "products": [
+    {
+      "id": "7d9dba20-a3a9-4500-a45b-c354ee87e7fe",
+      "slug": "gbynh-tshvbh-amk-28-200-grm-5kpuvi",
+      "name": "גבינה צהובה עמק 28% 200 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.zappy5.app/assets/product-1778135640106-shjcvb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi",
+      "categories": [
+        "מוצרי חלב"
+      ],
+      "updated_at": "2026-05-07T06:34:13.776Z"
+    },
     {
       "id": "7bd9c503-2f80-4d2f-b77c-fee7ff1d6dde",
       "slug": "bkbvk-schvt-tpvzym-va5k7c",
