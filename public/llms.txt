@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 88**
+**Total active products: 89**
+
+### גבינה צהובה עמק 28% 400 גרם
+https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.zappy5.app/assets/product-1778135856679-u63qyf.webp
 
 ### גבינה צהובה עמק 28% 200 גרם
 https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi
