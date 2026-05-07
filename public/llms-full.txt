@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### חצי בגט
+URL: https://boker-tari.zappy5.app/product/chtsy-bgt-a8pr1b
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### גבינה צהובה עמק 28% 400 גרם
 URL: https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
 Price: 0.00 ILS

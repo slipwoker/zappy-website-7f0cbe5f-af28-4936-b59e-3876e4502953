@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 89**
+**Total active products: 90**
+
+### חצי בגט
+https://boker-tari.zappy5.app/product/chtsy-bgt-a8pr1b
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Description: יצרן / מותג: מאפית המשפחה מכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח. רכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום השגחה: בד"ץ בית יוסף
+- Image: https://boker-tari.zappy5.app/assets/product-1778147759097-b3pwk2.webp
 
 ### גבינה צהובה עמק 28% 400 גרם
 https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
