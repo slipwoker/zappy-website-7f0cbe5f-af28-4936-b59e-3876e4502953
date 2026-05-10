@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T17:03:59.801Z",
+  "generated_at": "2026-05-10T23:43:08.499Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 93,
   "products": [
     {
       "id": "cd959a0f-92ec-430d-8650-47ae06954212",
-      "slug": "avg-ftgoje",
-      "name": "עוג",
+      "slug": "avgyvt-agvzynh-36flyt",
+      "name": "עוגיות אגוזינה",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -19,15 +19,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.co.il/assets/product-1778432481667-3phkpj.webp"
+        "https://boker-tari.co.il/assets/product-1778456474405-4fb0u.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://boker-tari.co.il/product/avg-ftgoje",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-agvzynh-36flyt",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-10T17:03:28.757Z"
+      "updated_at": "2026-05-10T23:42:37.533Z"
     },
     {
       "id": "ffd7fc01-0a9a-4ece-80c8-e0b121980f33",

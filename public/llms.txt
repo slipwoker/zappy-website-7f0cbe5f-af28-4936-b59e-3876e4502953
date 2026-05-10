@@ -75,12 +75,12 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 93**
 
-### עוג
-https://boker-tari.co.il/product/avg-ftgoje
+### עוגיות אגוזינה
+https://boker-tari.co.il/product/avgyvt-agvzynh-36flyt
 - Price: 0.00 ILS
-- Availability: Out of stock
+- Availability: In stock
 - Category: עוגיות
-- Image: https://boker-tari.co.il/assets/product-1778432481667-3phkpj.webp
+- Image: https://boker-tari.co.il/assets/product-1778456474405-4fb0u.webp
 
 ### פיתה בצל
 https://boker-tari.co.il/product/pyth-btsl-uh0euh
