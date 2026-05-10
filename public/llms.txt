@@ -78,7 +78,7 @@ Information about WCAG compliance and accessibility features.
 ### עוג
 https://boker-tari.co.il/product/avg-ftgoje
 - Price: 0.00 ILS
-- Availability: In stock
+- Availability: Out of stock
 - Category: עוגיות
 - Image: https://boker-tari.co.il/assets/product-1778432481667-3phkpj.webp
 

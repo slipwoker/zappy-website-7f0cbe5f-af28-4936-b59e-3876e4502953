@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T17:02:37.481Z",
+  "generated_at": "2026-05-10T17:03:59.801Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 93,
@@ -21,13 +21,13 @@
       "images": [
         "https://boker-tari.co.il/assets/product-1778432481667-3phkpj.webp"
       ],
-      "in_stock": true,
-      "stock_status": "in_stock",
+      "in_stock": false,
+      "stock_status": "out_of_stock",
       "url": "https://boker-tari.co.il/product/avg-ftgoje",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-10T17:02:06.549Z"
+      "updated_at": "2026-05-10T17:03:28.757Z"
     },
     {
       "id": "ffd7fc01-0a9a-4ece-80c8-e0b121980f33",

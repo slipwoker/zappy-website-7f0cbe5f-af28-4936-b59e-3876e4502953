@@ -4,14 +4,14 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.co.il</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Sun, 10 May 2026 17:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:03:59 GMT</lastBuildDate>
     <item>
       <g:id>cd959a0f-92ec-430d-8650-47ae06954212</g:id>
       <g:title>עוג</g:title>
       <g:description>עוג</g:description>
       <g:link>https://boker-tari.co.il/product/avg-ftgoje</g:link>
       <g:image_link>https://boker-tari.co.il/assets/product-1778432481667-3phkpj.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>0.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>בוקר טרי</g:brand>
