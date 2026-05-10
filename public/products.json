@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T23:47:48.706Z",
+  "generated_at": "2026-05-10T23:48:52.811Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 98,
+  "count": 99,
   "products": [
+    {
+      "id": "4018886a-fc5c-4990-a53b-0caac33e3a6c",
+      "slug": "avgyvt-chtypy-kshyv-anns-sjx8kn",
+      "name": "עוגיות חטיפי קשיו אננס",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-chtypy-kshyv-anns-sjx8kn",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-10T23:48:21.786Z"
+    },
     {
       "id": "87a494d8-7f7a-48c4-887d-de81580f1f1b",
       "slug": "avgyvt-alph-chvrs-rybt-chlb-26s2ct",
