@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://boker-tari.co.il</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Sun, 10 May 2026 23:46:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:47:48 GMT</lastBuildDate>
+    <item>
+      <g:id>87a494d8-7f7a-48c4-887d-de81580f1f1b</g:id>
+      <g:title>עוגיות אלפה חורס ריבת חלב</g:title>
+      <g:description>עוגיות אלפה חורס ריבת חלב</g:description>
+      <g:link>https://boker-tari.co.il/product/avgyvt-alph-chvrs-rybt-chlb-26s2ct</g:link>
+      <g:image_link>https://boker-tari.co.il/assets/product-1778456807726-6uotf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>עוגיות</g:product_type>
+    </item>
     <item>
       <g:id>b753875f-5c80-49bf-8258-de271514cf6e</g:id>
       <g:title>עוגיות בטעם שוקולד עם אגוזי לוז</g:title>

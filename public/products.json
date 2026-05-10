@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T23:46:52.900Z",
+  "generated_at": "2026-05-10T23:47:48.706Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 97,
+  "count": 98,
   "products": [
+    {
+      "id": "87a494d8-7f7a-48c4-887d-de81580f1f1b",
+      "slug": "avgyvt-alph-chvrs-rybt-chlb-26s2ct",
+      "name": "עוגיות אלפה חורס ריבת חלב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778456807726-6uotf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-alph-chvrs-rybt-chlb-26s2ct",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-10T23:47:17.467Z"
+    },
     {
       "id": "b753875f-5c80-49bf-8258-de271514cf6e",
       "slug": "avgyvt-btam-shvkvld-am-agvzy-lvz-evvncn",
