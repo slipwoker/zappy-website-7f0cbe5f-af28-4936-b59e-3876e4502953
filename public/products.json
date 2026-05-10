@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T12:30:00.844Z",
-  "base_url": "https://boker-tari.zappy5.app",
+  "generated_at": "2026-05-10T17:01:15.407Z",
+  "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 92,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778149033710-8mir4p.webp"
+        "https://boker-tari.co.il/assets/product-1778149033710-8mir4p.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pyth-btsl-uh0euh",
+      "url": "https://boker-tari.co.il/product/pyth-btsl-uh0euh",
       "categories": [
         "לחם"
       ],
@@ -43,11 +43,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778148585834-kl2tsh.webp"
+        "https://boker-tari.co.il/assets/product-1778148585834-kl2tsh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pyth-zatr-mgxwcx",
+      "url": "https://boker-tari.co.il/product/pyth-zatr-mgxwcx",
       "categories": [
         "לחם"
       ],
@@ -67,11 +67,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778149128989-0vmvxvr.webp"
+        "https://boker-tari.co.il/assets/product-1778149128989-0vmvxvr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-71ncl1",
+      "url": "https://boker-tari.co.il/product/chtsy-bgt-71ncl1",
       "categories": [
         "לחם"
       ],
@@ -91,11 +91,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778135856679-u63qyf.webp"
+        "https://boker-tari.co.il/assets/product-1778135856679-u63qyf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq",
       "categories": [
         "מוצרי חלב"
       ],
@@ -115,11 +115,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778135640106-shjcvb.webp"
+        "https://boker-tari.co.il/assets/product-1778135640106-shjcvb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi",
       "categories": [
         "מוצרי חלב"
       ],
@@ -139,11 +139,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923868045-e5t1ql.webp"
+        "https://boker-tari.co.il/assets/product-1777923868045-e5t1ql.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-schvt-tpvzym-va5k7c",
+      "url": "https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-va5k7c",
       "categories": [
         "שתייה קלה"
       ],
@@ -163,11 +163,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923791766-hmr7zq.webp"
+        "https://boker-tari.co.il/assets/product-1777923791766-hmr7zq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6",
+      "url": "https://boker-tari.co.il/product/bkbvk-tvt-bnnh-thwbt6",
       "categories": [
         "שתייה קלה"
       ],
@@ -187,11 +187,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923686778-lmoihm.webp"
+        "https://boker-tari.co.il/assets/product-1777923686778-lmoihm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/mym-btam-anbym-58pi2f",
+      "url": "https://boker-tari.co.il/product/mym-btam-anbym-58pi2f",
       "categories": [
         "שתייה קלה"
       ],
@@ -211,11 +211,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923610923-ilx8.webp"
+        "https://boker-tari.co.il/assets/product-1777923610923-ilx8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/mym-btam-aprsk-qb7i34",
+      "url": "https://boker-tari.co.il/product/mym-btam-aprsk-qb7i34",
       "categories": [
         "שתייה קלה"
       ],
@@ -235,11 +235,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923466514-bxqbn.webp"
+        "https://boker-tari.co.il/assets/product-1777923466514-bxqbn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/mym-btam-tpvch-eg05mu",
+      "url": "https://boker-tari.co.il/product/mym-btam-tpvch-eg05mu",
       "categories": [
         "שתייה קלה"
       ],
@@ -259,11 +259,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923355254-eb02jm.webp"
+        "https://boker-tari.co.il/assets/product-1777923355254-eb02jm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq",
+      "url": "https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq",
       "categories": [
         "שתייה קלה"
       ],
@@ -283,11 +283,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923143660-drwc7f.webp"
+        "https://boker-tari.co.il/assets/product-1777923143660-drwc7f.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-ashkvlyvt-oksgc2",
+      "url": "https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2",
       "categories": [
         "שתייה קלה"
       ],
@@ -307,11 +307,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777923074716-mhf1d.webp"
+        "https://boker-tari.co.il/assets/product-1777923074716-mhf1d.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-anbym-1erxir",
+      "url": "https://boker-tari.co.il/product/bkbvk-anbym-1erxir",
       "categories": [
         "שתייה קלה"
       ],
@@ -331,11 +331,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922963999-f3wn6.webp"
+        "https://boker-tari.co.il/assets/product-1777922963999-f3wn6.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k",
+      "url": "https://boker-tari.co.il/product/bkbvk-aprsk-fuze-uf456k",
       "categories": [
         "שתייה קלה"
       ],
@@ -355,11 +355,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922854201-q2kmue.webp"
+        "https://boker-tari.co.il/assets/product-1777922854201-q2kmue.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/svdh-a65pnm",
+      "url": "https://boker-tari.co.il/product/svdh-a65pnm",
       "categories": [
         "שתייה קלה"
       ],
@@ -379,11 +379,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922767279-70rzl8.webp"
+        "https://boker-tari.co.il/assets/product-1777922767279-70rzl8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-spryyt-ziro-4poszs",
+      "url": "https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs",
       "categories": [
         "שתייה קלה"
       ],
@@ -403,11 +403,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922710744-uh12yl.webp"
+        "https://boker-tari.co.il/assets/product-1777922710744-uh12yl.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-spryyt-f6n055",
+      "url": "https://boker-tari.co.il/product/pchyt-spryyt-f6n055",
       "categories": [
         "שתייה קלה"
       ],
@@ -427,11 +427,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922645803-2myyxf.webp"
+        "https://boker-tari.co.il/assets/product-1777922645803-2myyxf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-ziro-kvkh-kvlh-n0u7la",
+      "url": "https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la",
       "categories": [
         "שתייה קלה"
       ],
@@ -451,11 +451,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922541454-oncyi.webp"
+        "https://boker-tari.co.il/assets/product-1777922541454-oncyi.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-panth-kth6g5",
+      "url": "https://boker-tari.co.il/product/pchyt-panth-kth6g5",
       "categories": [
         "שתייה קלה"
       ],
@@ -475,11 +475,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922595795-o9xyss.webp"
+        "https://boker-tari.co.il/assets/product-1777922595795-o9xyss.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-t4ltd3",
+      "url": "https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3",
       "categories": [
         "שתייה קלה"
       ],
@@ -499,11 +499,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922063504-u0iwwb.webp"
+        "https://boker-tari.co.il/assets/product-1777922063504-u0iwwb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa",
+      "url": "https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa",
       "categories": [
         "מוצרי חלב"
       ],
@@ -523,11 +523,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777922012085-yjcs7l.webp"
+        "https://boker-tari.co.il/assets/product-1777922012085-yjcs7l.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8",
+      "url": "https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8",
       "categories": [
         "מוצרי חלב"
       ],
@@ -547,11 +547,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777921348136-8ktgna.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777921348136-8ktgna.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kynmvnym-bmarz-mvu2pf",
+      "url": "https://boker-tari.co.il/product/kynmvnym-bmarz-mvu2pf",
       "categories": [],
       "updated_at": "2026-05-04T19:02:38.799Z"
     },
@@ -569,11 +569,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777921256930-myoypd.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777921256930-myoypd.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-myny-bmarz-y2obd7",
+      "url": "https://boker-tari.co.il/product/kvrasvn-shvkvld-myny-bmarz-y2obd7",
       "categories": [
         "קוראסים ומתוקים"
       ],
@@ -593,11 +593,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777921152551-w40m8j.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777921152551-w40m8j.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynyvt-marz-kvpsa-wp7uk8",
+      "url": "https://boker-tari.co.il/product/gbynyvt-marz-kvpsa-wp7uk8",
       "categories": [
         "קוראסים ומתוקים"
       ],
@@ -617,11 +617,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777920971624-kejxn.webp"
+        "https://boker-tari.co.il/assets/product-1777920971624-kejxn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j",
+      "url": "https://boker-tari.co.il/product/avgt-kynmvn-9cqm9j",
       "categories": [
         "קוראסים ומתוקים"
       ],
@@ -641,11 +641,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777920232448-07zva8.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777920232448-07zva8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/5-pytvt-vmp9fk",
+      "url": "https://boker-tari.co.il/product/5-pytvt-vmp9fk",
       "categories": [
         "לחם"
       ],
@@ -665,11 +665,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777920111534-uxenri.webp"
+        "https://boker-tari.co.il/assets/product-1777920111534-uxenri.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-kshr-mtvkh-ql04ae",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-ql04ae",
       "categories": [
         "לחם"
       ],
@@ -689,11 +689,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777919851344-vzr3uk.webp"
+        "https://boker-tari.co.il/assets/product-1777919851344-vzr3uk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-lwqmbb",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-atsba-kmch-mla-lwqmbb",
       "categories": [
         "לחם"
       ],
@@ -713,11 +713,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777919515775-kfujf7.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777919515775-kfujf7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc",
       "categories": [
         "לחם"
       ],
@@ -737,11 +737,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777919437790-l7w5fe.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777919437790-l7w5fe.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-br4m8u",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-br4m8u",
       "categories": [
         "לחם"
       ],
@@ -761,11 +761,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777969139331-925hn.webp"
+        "https://boker-tari.co.il/assets/product-1777969139331-925hn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyh-atsba-shvmshvm-p0h3t4",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-p0h3t4",
       "categories": [
         "לחם"
       ],
@@ -785,11 +785,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777919127287-zze7rb.webp"
+        "https://boker-tari.co.il/assets/product-1777919127287-zze7rb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-hmbvrgr-jljdns",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns",
       "categories": [
         "לחם"
       ],
@@ -809,11 +809,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777918826371-v8uyvs.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777918826371-v8uyvs.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-abvkdv-vozf5d",
+      "url": "https://boker-tari.co.il/product/kryk-abvkdv-vozf5d",
       "categories": [
         "כריכים"
       ],
@@ -833,11 +833,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777918495377-ed3712.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777918495377-ed3712.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-bvlgryt-chb3xd",
+      "url": "https://boker-tari.co.il/product/kryk-bvlgryt-chb3xd",
       "categories": [
         "כריכים"
       ],
@@ -857,11 +857,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777918059391-lerrb9.webp"
+        "https://boker-tari.co.il/assets/product-1777918059391-lerrb9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-prvs-zwf9uk",
+      "url": "https://boker-tari.co.il/product/lchm-prvs-zwf9uk",
       "categories": [
         "לחם"
       ],
@@ -881,11 +881,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917923454-9rh7l.webp"
+        "https://boker-tari.co.il/assets/product-1777917923454-9rh7l.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo",
+      "url": "https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo",
       "categories": [
         "מוצרי חלב"
       ],
@@ -905,11 +905,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917777808-1ttx4.webp"
+        "https://boker-tari.co.il/assets/product-1777917777808-1ttx4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5",
       "categories": [
         "מוצרי חלב"
       ],
@@ -929,11 +929,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917716892-xpnnwg.webp"
+        "https://boker-tari.co.il/assets/product-1777917716892-xpnnwg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m",
       "categories": [
         "מוצרי חלב"
       ],
@@ -953,11 +953,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917446091-s40s7.webp"
+        "https://boker-tari.co.il/assets/product-1777917446091-s40s7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvtg-tnvbh-9-250-grm-44c2xq",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-44c2xq",
       "categories": [
         "מוצרי חלב"
       ],
@@ -977,11 +977,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917379123-t5n1go.webp"
+        "https://boker-tari.co.il/assets/product-1777917379123-t5n1go.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvtg-tnvbh-5-250-grm-t2crhy",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1001,11 +1001,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777917254022-pek1g.webp"
+        "https://boker-tari.co.il/assets/product-1777917254022-pek1g.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvtg-tnvbh-3-250-grm-f20yli",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1025,11 +1025,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777915586252-qzrfks.webp"
+        "https://boker-tari.co.il/assets/product-1777915586252-qzrfks.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4",
+      "url": "https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4",
       "categories": [
         "קוראסים ומתוקים"
       ],
@@ -1049,11 +1049,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777915446073-g5ejvj.webp"
+        "https://boker-tari.co.il/assets/product-1777915446073-g5ejvj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-ytbth-kmu6m1",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1073,11 +1073,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777915366637-32o6mz.webp"
+        "https://boker-tari.co.il/assets/product-1777915366637-32o6mz.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1097,11 +1097,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777915224083-b7oe9a.webp"
+        "https://boker-tari.co.il/assets/product-1777915224083-b7oe9a.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-ytbth-b8fh63",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1121,11 +1121,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777915154312-93vz6.webp"
+        "https://boker-tari.co.il/assets/product-1777915154312-93vz6.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-uul94y",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lytr-tnvbh-uul94y",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1145,11 +1145,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914929024-ve31i.webp"
+        "https://boker-tari.co.il/assets/product-1777914929024-ve31i.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1169,11 +1169,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914861910-ldgqd.webp"
+        "https://boker-tari.co.il/assets/product-1777914861910-ldgqd.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1193,11 +1193,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914765537-nla2e.webp"
+        "https://boker-tari.co.il/assets/product-1777914765537-nla2e.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-shvkv-ytbth-lytr-9hnxrg",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1217,11 +1217,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914688919-v9rmv.webp"
+        "https://boker-tari.co.il/assets/product-1777914688919-v9rmv.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1241,11 +1241,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914588178-fw0xgg.webp"
+        "https://boker-tari.co.il/assets/product-1777914588178-fw0xgg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-shkyt-ytbth-ge1pvc",
+      "url": "https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1265,11 +1265,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914514527-edqoul.webp"
+        "https://boker-tari.co.il/assets/product-1777914514527-edqoul.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc",
+      "url": "https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-zk8zyc",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1289,11 +1289,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777914369991-amf3kg.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777914369991-amf3kg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-prvsh-2yujm2",
+      "url": "https://boker-tari.co.il/product/chlh-prvsh-2yujm2",
       "categories": [
         "חלות"
       ],
@@ -1313,11 +1313,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914202819-4si4e9.webp"
+        "https://boker-tari.co.il/assets/product-1777914202819-4si4e9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-myny-9ku3vs",
+      "url": "https://boker-tari.co.il/product/chlh-myny-9ku3vs",
       "categories": [
         "חלות"
       ],
@@ -1337,11 +1337,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777914078272-d496e.webp"
+        "https://boker-tari.co.il/assets/product-1777914078272-d496e.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-klvah-3t9krs",
+      "url": "https://boker-tari.co.il/product/chlh-klvah-3t9krs",
       "categories": [
         "חלות"
       ],
@@ -1361,11 +1361,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913993061-z8wwfl.webp"
+        "https://boker-tari.co.il/assets/product-1777913993061-z8wwfl.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-kvsmyn-lv1qcq",
+      "url": "https://boker-tari.co.il/product/chlh-kvsmyn-lv1qcq",
       "categories": [
         "חלות"
       ],
@@ -1385,11 +1385,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913859073-3l4qs2.webp"
+        "https://boker-tari.co.il/assets/product-1777913859073-3l4qs2.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-mtvkh-z1oydu",
+      "url": "https://boker-tari.co.il/product/chlh-mtvkh-z1oydu",
       "categories": [
         "חלות"
       ],
@@ -1409,11 +1409,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913714272-nix1rf.webp"
+        "https://boker-tari.co.il/assets/product-1777913714272-nix1rf.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlh-fhta4k",
+      "url": "https://boker-tari.co.il/product/chlh-fhta4k",
       "categories": [
         "חלות"
       ],
@@ -1433,11 +1433,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913537501-87ojzj.webp"
+        "https://boker-tari.co.il/assets/product-1777913537501-87ojzj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-3erqqp",
+      "url": "https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1457,11 +1457,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913424866-eneshq.webp"
+        "https://boker-tari.co.il/assets/product-1777913424866-eneshq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-dl-lktvz-ytbth-4jyh2f",
+      "url": "https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1481,11 +1481,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777913246024-7pucp.webp"
+        "https://boker-tari.co.il/assets/product-1777913246024-7pucp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-1-bkbvk-yvtbth-dqi0er",
+      "url": "https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1505,11 +1505,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777976689607-ooypr.webp"
+        "https://boker-tari.co.il/assets/product-1777976689607-ooypr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-7tlw2b",
+      "url": "https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1529,11 +1529,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777913036120-o3djlj.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777913036120-o3djlj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-3-krtvn-tnvbh-3ivenh",
+      "url": "https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1553,11 +1553,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777912956177-hnb53n.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777912956177-hnb53n.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-bv1peg",
+      "url": "https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg",
       "categories": [
         "מוצרי חלב"
       ],
@@ -1577,11 +1577,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777912635756-7g9jq5.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777912635756-7g9jq5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/byyglh-rvmny-9rjcnj",
+      "url": "https://boker-tari.co.il/product/byyglh-rvmny-9rjcnj",
       "categories": [
         "לחם"
       ],
@@ -1601,11 +1601,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777912405128-9tqfto.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777912405128-9tqfto.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-jyu9hq",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq",
       "categories": [
         "לחם"
       ],
@@ -1625,11 +1625,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1778138541550-u30abg.webp"
+        "https://boker-tari.co.il/assets/product-1778138541550-u30abg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bvrks-pytsh-msadvt-1nc6kg",
+      "url": "https://boker-tari.co.il/product/bvrks-pytsh-msadvt-1nc6kg",
       "categories": [
         "בורקסים"
       ],
@@ -1649,11 +1649,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777912126350-h1eap.webp"
+        "https://boker-tari.co.il/assets/product-1777912126350-h1eap.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bvrks-trd-vgbynh-msadvt-w3an3u",
+      "url": "https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-w3an3u",
       "categories": [
         "בורקסים"
       ],
@@ -1673,11 +1673,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777911579073-f29txc.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777911579073-f29txc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-yz5pro",
+      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-yz5pro",
       "categories": [
         "בורקסים"
       ],
@@ -1697,11 +1697,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777911463705-3f7lc9.webp"
+        "https://boker-tari.co.il/assets/product-1777911463705-3f7lc9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-qwkw68",
+      "url": "https://boker-tari.co.il/product/bvrks-gbynh-msadvt-qwkw68",
       "categories": [
         "בורקסים"
       ],
@@ -1721,11 +1721,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777909600440-ewp655.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777909600440-ewp655.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/atsbavt-tpvchy-ats-oz76nx",
+      "url": "https://boker-tari.co.il/product/atsbavt-tpvchy-ats-oz76nx",
       "categories": [
         "בורקסים"
       ],
@@ -1745,11 +1745,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777909222697-meuxfm.webp"
+        "https://boker-tari.co.il/assets/product-1777909222697-meuxfm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-prnh-mirzoa",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-prnh-mirzoa",
       "categories": [
         "לחם"
       ],
@@ -1769,11 +1769,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777909030815-v5414j.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777909030815-v5414j.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-prnh-q6kohc",
+      "url": "https://boker-tari.co.il/product/lchm-prnh-q6kohc",
       "categories": [
         "לחם"
       ],
@@ -1793,11 +1793,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908834960-3t2nnm.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777908834960-3t2nnm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-9hsrz2",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-9hsrz2",
       "categories": [
         "לחם",
         "לחמים מיוחדים"
@@ -1818,11 +1818,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908720313-vud60q.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777908720313-vud60q.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-565b99",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99",
       "categories": [
         "לחם"
       ],
@@ -1842,11 +1842,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908489198-kjj5ml.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777908489198-kjj5ml.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta",
+      "url": "https://boker-tari.co.il/product/chtsy-bgt-irnqta",
       "categories": [
         "לחם"
       ],
@@ -1866,11 +1866,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908367744-wa4plt.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777908367744-wa4plt.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje",
       "categories": [
         "לחם"
       ],
@@ -1890,11 +1890,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777908295016-xx41fq.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777908295016-xx41fq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-gbth-dgnym-zeopio",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio",
       "categories": [
         "לחם"
       ],
@@ -1916,7 +1916,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmym-2xnkx1",
+      "url": "https://boker-tari.co.il/product/lchmym-2xnkx1",
       "categories": [],
       "updated_at": "2026-05-04T07:23:18.300Z"
     },
@@ -1936,7 +1936,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-pvktsh-ashby-tybvl-iizy35",
+      "url": "https://boker-tari.co.il/product/lchm-pvktsh-ashby-tybvl-iizy35",
       "categories": [],
       "updated_at": "2026-05-04T07:21:51.603Z"
     },
@@ -1956,7 +1956,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-shavr-mchyth-mlah-r9qvc0",
+      "url": "https://boker-tari.co.il/product/lchm-shavr-mchyth-mlah-r9qvc0",
       "categories": [],
       "updated_at": "2026-05-04T07:21:51.574Z"
     },
@@ -1976,7 +1976,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-mchyth-mlah-u9r73t",
+      "url": "https://boker-tari.co.il/product/lchm-mchyth-mlah-u9r73t",
       "categories": [],
       "updated_at": "2026-05-04T07:21:51.544Z"
     },
@@ -1996,7 +1996,7 @@
       "images": [],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchm-shypvn-khh-h2cgo3",
+      "url": "https://boker-tari.co.il/product/lchm-shypvn-khh-h2cgo3",
       "categories": [],
       "updated_at": "2026-05-04T07:21:51.513Z"
     },
@@ -2014,11 +2014,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777878345565-i77bwv.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777878345565-i77bwv.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-hrna02",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-shmynyyh-hrna02",
       "categories": [
         "לחם"
       ],
@@ -2038,11 +2038,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/product-1777969074716-dtn01m.webp"
+        "https://boker-tari.co.il/assets/product-1777969074716-dtn01m.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/lchmnyyt-atsba-dbcc59",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-atsba-dbcc59",
       "categories": [
         "לחם"
       ],
@@ -2062,11 +2062,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777876574331-s6ylb9.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777876574331-s6ylb9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos",
+      "url": "https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-u1deos",
       "categories": [
         "כריכים"
       ],
@@ -2086,11 +2086,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777876710541-i5pkqt.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777876710541-i5pkqt.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl",
+      "url": "https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-9e4zfl",
       "categories": [
         "כריכים"
       ],
@@ -2110,11 +2110,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777877167787-yn1d33.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777877167787-yn1d33.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg",
+      "url": "https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg",
       "categories": [
         "כריכים"
       ],
@@ -2134,11 +2134,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777877405981-gl0wh7.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777877405981-gl0wh7.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4",
+      "url": "https://boker-tari.co.il/product/tvst-tshvbh-byyglh-69exz4",
       "categories": [
         "כריכים"
       ],
@@ -2158,11 +2158,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777877616578-w867a1.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777877616578-w867a1.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4",
+      "url": "https://boker-tari.co.il/product/kryk-bytsh-kshh-rgcce4",
       "categories": [
         "כריכים"
       ],
@@ -2182,11 +2182,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.zappy5.app/assets/image-product-image-1777877918377-p9c98k.webp"
+        "https://boker-tari.co.il/assets/image-product-image-1777877918377-p9c98k.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9",
+      "url": "https://boker-tari.co.il/product/kryk-pstrmh-vbkr-kndeh9",
       "categories": [
         "כריכים"
       ],

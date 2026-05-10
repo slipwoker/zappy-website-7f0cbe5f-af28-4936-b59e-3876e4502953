@@ -8,65 +8,65 @@
 ## Pages
 
 ### בית
-https://boker-tari.zappy5.app
+https://boker-tari.co.il
 בוקר טרי מביא לכם את המוצרים האורגניים הטובים ביותר לארוחת בוקר. גלו שגרת בוקר בריאה שתשנה את חייכם — הזמינו עכשיו וחוו את ההבדל!
 
 ### אודות
-https://boker-tari.zappy5.app/about
+https://boker-tari.co.il/about
 גלו מי אנחנו ולמה בוקר טרי הפכה למותג שאנשים אוהבים. הכירו את הערכים, החזון והתשוקה שמניעים אותנו להביא לכם בוקר טרי ובריא כל יום מחדש.
 
 ### אורח חיים
-https://boker-tari.zappy5.app/lifestyle
+https://boker-tari.co.il/lifestyle
 אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.
 
 ### צור קשר
-https://boker-tari.zappy5.app/contact
+https://boker-tari.co.il/contact
 יש לכם שאלות על המוצרים האורגניים שלנו? רוצים לדעת יותר על שגרת בוקר בריאה? צוות בוקר טרי כאן בשבילכם — צרו קשר עכשיו ונחזור אליכם בהקדם!
 
 ### Products
-https://boker-tari.zappy5.app/products
+https://boker-tari.co.il/products
 המוצרים שלנו - בוקר טרי
 
 ### Cart
-https://boker-tari.zappy5.app/cart
+https://boker-tari.co.il/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://boker-tari.zappy5.app/checkout
+https://boker-tari.co.il/checkout
 תשלום
 
 ### Login
-https://boker-tari.zappy5.app/login
+https://boker-tari.co.il/login
 התחברות לקוחות
 
 ### Account
-https://boker-tari.zappy5.app/account
+https://boker-tari.co.il/account
 החשבון שלי
 
 ### Order Success
-https://boker-tari.zappy5.app/order-success
+https://boker-tari.co.il/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://boker-tari.zappy5.app/product/:slug
+https://boker-tari.co.il/product/:slug
 פרטי המוצר - בוקר טרי
 
 ### Category
-https://boker-tari.zappy5.app/category/:slug
+https://boker-tari.co.il/category/:slug
 מוצרים - בוקר טרי
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://boker-tari.zappy5.app/privacy
+https://boker-tari.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://boker-tari.zappy5.app/terms
+https://boker-tari.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://boker-tari.zappy5.app/accessibility
+https://boker-tari.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -76,664 +76,664 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 92**
 
 ### פיתה בצל
-https://boker-tari.zappy5.app/product/pyth-btsl-uh0euh
+https://boker-tari.co.il/product/pyth-btsl-uh0euh
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום. השגחה: בד"ץ ירושלים העדה החרדית
-- Image: https://boker-tari.zappy5.app/assets/product-1778149033710-8mir4p.webp
+- Image: https://boker-tari.co.il/assets/product-1778149033710-8mir4p.webp
 
 ### פיתה זעתר
-https://boker-tari.zappy5.app/product/pyth-zatr-mgxwcx
+https://boker-tari.co.il/product/pyth-zatr-mgxwcx
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: פיתה זעתר רכיבים: קמח חיטה (גלוטן), מים, שמן זית, זעתר, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום. השגחה: בד"ץ ירושלים העדה החרדית
-- Image: https://boker-tari.zappy5.app/assets/product-1778148585834-kl2tsh.webp
+- Image: https://boker-tari.co.il/assets/product-1778148585834-kl2tsh.webp
 
 ### חצי בגט
-https://boker-tari.zappy5.app/product/chtsy-bgt-71ncl1
+https://boker-tari.co.il/product/chtsy-bgt-71ncl1
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית המשפחה מכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח. רכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום השגחה: בד"ץ בית יוסף
-- Image: https://boker-tari.zappy5.app/assets/product-1778149128989-0vmvxvr.webp
+- Image: https://boker-tari.co.il/assets/product-1778149128989-0vmvxvr.webp
 
 ### גבינה צהובה עמק 28% 400 גרם
-https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
+https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1778135856679-u63qyf.webp
+- Image: https://boker-tari.co.il/assets/product-1778135856679-u63qyf.webp
 
 ### גבינה צהובה עמק 28% 200 גרם
-https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi
+https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1778135640106-shjcvb.webp
+- Image: https://boker-tari.co.il/assets/product-1778135640106-shjcvb.webp
 
 ### בקבוק סחוט תפוזים
-https://boker-tari.zappy5.app/product/bkbvk-schvt-tpvzym-va5k7c
+https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-va5k7c
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923868045-e5t1ql.webp
+- Image: https://boker-tari.co.il/assets/product-1777923868045-e5t1ql.webp
 
 ### בקבוק תות בננה
-https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6
+https://boker-tari.co.il/product/bkbvk-tvt-bnnh-thwbt6
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923791766-hmr7zq.webp
+- Image: https://boker-tari.co.il/assets/product-1777923791766-hmr7zq.webp
 
 ### מים בטעם ענבים
-https://boker-tari.zappy5.app/product/mym-btam-anbym-58pi2f
+https://boker-tari.co.il/product/mym-btam-anbym-58pi2f
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923686778-lmoihm.webp
+- Image: https://boker-tari.co.il/assets/product-1777923686778-lmoihm.webp
 
 ### מים בטעם אפרסק
-https://boker-tari.zappy5.app/product/mym-btam-aprsk-qb7i34
+https://boker-tari.co.il/product/mym-btam-aprsk-qb7i34
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923610923-ilx8.webp
+- Image: https://boker-tari.co.il/assets/product-1777923610923-ilx8.webp
 
 ### מים בטעם תפוח
-https://boker-tari.zappy5.app/product/mym-btam-tpvch-eg05mu
+https://boker-tari.co.il/product/mym-btam-tpvch-eg05mu
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923466514-bxqbn.webp
+- Image: https://boker-tari.co.il/assets/product-1777923466514-bxqbn.webp
 
 ### בקבוק מים מנרליים נביעות
-https://boker-tari.zappy5.app/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
+https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923355254-eb02jm.webp
+- Image: https://boker-tari.co.il/assets/product-1777923355254-eb02jm.webp
 
 ### בקבוק אשכוליות
-https://boker-tari.zappy5.app/product/bkbvk-ashkvlyvt-oksgc2
+https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923143660-drwc7f.webp
+- Image: https://boker-tari.co.il/assets/product-1777923143660-drwc7f.webp
 
 ### בקבוק ענבים
-https://boker-tari.zappy5.app/product/bkbvk-anbym-1erxir
+https://boker-tari.co.il/product/bkbvk-anbym-1erxir
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777923074716-mhf1d.webp
+- Image: https://boker-tari.co.il/assets/product-1777923074716-mhf1d.webp
 
 ### בקבוק אפרסק  FUZE
-https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k
+https://boker-tari.co.il/product/bkbvk-aprsk-fuze-uf456k
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922963999-f3wn6.webp
+- Image: https://boker-tari.co.il/assets/product-1777922963999-f3wn6.webp
 
 ### סודה 
-https://boker-tari.zappy5.app/product/svdh-a65pnm
+https://boker-tari.co.il/product/svdh-a65pnm
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922854201-q2kmue.webp
+- Image: https://boker-tari.co.il/assets/product-1777922854201-q2kmue.webp
 
 ### פחית ספרייט ziro
-https://boker-tari.zappy5.app/product/pchyt-spryyt-ziro-4poszs
+https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922767279-70rzl8.webp
+- Image: https://boker-tari.co.il/assets/product-1777922767279-70rzl8.webp
 
 ### פחית ספרייט
-https://boker-tari.zappy5.app/product/pchyt-spryyt-f6n055
+https://boker-tari.co.il/product/pchyt-spryyt-f6n055
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922710744-uh12yl.webp
+- Image: https://boker-tari.co.il/assets/product-1777922710744-uh12yl.webp
 
 ### פחית ziro קוקה קולה
-https://boker-tari.zappy5.app/product/pchyt-ziro-kvkh-kvlh-n0u7la
+https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922645803-2myyxf.webp
+- Image: https://boker-tari.co.il/assets/product-1777922645803-2myyxf.webp
 
 ### פחית פאנטה
-https://boker-tari.zappy5.app/product/pchyt-panth-kth6g5
+https://boker-tari.co.il/product/pchyt-panth-kth6g5
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922541454-oncyi.webp
+- Image: https://boker-tari.co.il/assets/product-1777922541454-oncyi.webp
 
 ### פחית קוקה קולה
-https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-t4ltd3
+https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
-- Image: https://boker-tari.zappy5.app/assets/product-1777922595795-o9xyss.webp
+- Image: https://boker-tari.co.il/assets/product-1777922595795-o9xyss.webp
 
 ### גבינה לבנה תנובה 3% 250 גרם
-https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
+https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777922063504-u0iwwb.webp
+- Image: https://boker-tari.co.il/assets/product-1777922063504-u0iwwb.webp
 
 ### גבינה לבנה תנובה 5% 250 גרם
-https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8
+https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777922012085-yjcs7l.webp
+- Image: https://boker-tari.co.il/assets/product-1777922012085-yjcs7l.webp
 
 ### קינמונים במארז
-https://boker-tari.zappy5.app/product/kynmvnym-bmarz-mvu2pf
+https://boker-tari.co.il/product/kynmvnym-bmarz-mvu2pf
 - Price: 0.00 ILS
 - Availability: In stock
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777921348136-8ktgna.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777921348136-8ktgna.webp
 
 ### קוראסון שוקולד מיני במארז
-https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-myny-bmarz-y2obd7
+https://boker-tari.co.il/product/kvrasvn-shvkvld-myny-bmarz-y2obd7
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קוראסים ומתוקים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777921256930-myoypd.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777921256930-myoypd.webp
 
 ### גביניות מארז קופסא 
-https://boker-tari.zappy5.app/product/gbynyvt-marz-kvpsa-wp7uk8
+https://boker-tari.co.il/product/gbynyvt-marz-kvpsa-wp7uk8
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קוראסים ומתוקים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777921152551-w40m8j.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777921152551-w40m8j.webp
 
 ### עוגת קינמון
-https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j
+https://boker-tari.co.il/product/avgt-kynmvn-9cqm9j
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קוראסים ומתוקים
-- Image: https://boker-tari.zappy5.app/assets/product-1777920971624-kejxn.webp
+- Image: https://boker-tari.co.il/assets/product-1777920971624-kejxn.webp
 
 ### 5 פיתות
-https://boker-tari.zappy5.app/product/5-pytvt-vmp9fk
+https://boker-tari.co.il/product/5-pytvt-vmp9fk
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר, שמרים, מלח, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), אנזימים לאפייה, חומר תפיחה (ii 500 E) . מידע על רכיבים אלרגנים: מכיל חיטה – גלוטן. עלול להכיל : שעורה – גלוטן, כוסמין – גלוטן, שיפון – גלוטן, שומשום, סויה. השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777920232448-07zva8.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777920232448-07zva8.webp
 
 ### לחמנייה קשר מתוקה
-https://boker-tari.zappy5.app/product/lchmnyyh-kshr-mtvkh-ql04ae
+https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-ql04ae
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: מכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים
-- Image: https://boker-tari.zappy5.app/assets/product-1777920111534-uxenri.webp
+- Image: https://boker-tari.co.il/assets/product-1777920111534-uxenri.webp
 
 ### לחמנייה אצבע קמח מלא
-https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-lwqmbb
+https://boker-tari.co.il/product/lchmnyyh-atsba-kmch-mla-lwqmbb
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: מכיל: קמח חיטה מלא (קמח חיטה, סובין ונבט חיטה), (100% מהקמח, 63% מהלחמנייה)(מכיל גלוטן), מים, שמרים, גלוטן חיטה, שמנים ושומנים מהצומח, סוכר לבן, מלח שולחן, גרעיני פישתן, שיבולת שועל, גרעיני חמניות, לתת שעורה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), חומר מתחלב ,(E481) מווסת חומציות ( חומצת לימון), חומצה אסקורבית, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ
-- Image: https://boker-tari.zappy5.app/assets/product-1777919851344-vzr3uk.webp
+- Image: https://boker-tari.co.il/assets/product-1777919851344-vzr3uk.webp
 
 ### לחמנייה שומשום עגולה קשר 
-https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc
+https://boker-tari.co.il/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: בוטיק האופה בעמ מכיל: רכיבים:קמח חיטה לבן (מכיל גלוטן) ,מים ,סוכר לבן, שמרים, גלוטן חיטה, שמן צמחי (סויה), מלח שולחן, אבקת סויה, חומר מתחלב (E481), מעכב חמצון (E300), חומר משמר (E282), שומשום (2%), אנזימים לאפייה.
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777919515775-kfujf7.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777919515775-kfujf7.webp
 
 ### לחמנייה עגולה קשר
-https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-br4m8u
+https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-br4m8u
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, שמנים ושומנים מהצומח, מלח שולחן, לתת שעורה, קמח סויה, מתחלב (E481), חומר משמר (קלציום פרופיונט), אנזימים, ויטמין C השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777919437790-l7w5fe.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777919437790-l7w5fe.webp
 
 ### לחמנייה אצבע שומשום
-https://boker-tari.zappy5.app/product/lchmnyyh-atsba-shvmshvm-p0h3t4
+https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-p0h3t4
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית דגנית - עין בר מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה. מידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן. השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
-- Image: https://boker-tari.zappy5.app/assets/product-1777969139331-925hn.webp
+- Image: https://boker-tari.co.il/assets/product-1777969139331-925hn.webp
 
 ### לחמניית המבורגר
-https://boker-tari.zappy5.app/product/lchmnyyt-hmbvrgr-jljdns
+https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית המשפחה מכיל: לחמנייה אווריריות ובעלת קרום זהוב ועדין, מושלמת להכנת המבורגר ביתי עסיסי או כריך טעימים. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, גלוטן (גלוטן), מלח שולחן, משפר טריות, שומשום, שמרים, משפר אפיה. השגחה: בד"ץ ירושלים העדה החרדית
-- Image: https://boker-tari.zappy5.app/assets/product-1777919127287-zze7rb.webp
+- Image: https://boker-tari.co.il/assets/product-1777919127287-zze7rb.webp
 
 ### כריך אבוקדו
-https://boker-tari.zappy5.app/product/kryk-abvkdv-vozf5d
+https://boker-tari.co.il/product/kryk-abvkdv-vozf5d
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
 - Description: לחמנייה שמנייה טרייה ואבוקדו טרי שרק נקטף מהעץ מחומרי הגלם הכי איכותיים. {רק בעונה}
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918826371-v8uyvs.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777918826371-v8uyvs.webp
 
 ### כריך בולגרית
-https://boker-tari.zappy5.app/product/kryk-bvlgryt-chb3xd
+https://boker-tari.co.il/product/kryk-bvlgryt-chb3xd
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777918495377-ed3712.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777918495377-ed3712.webp
 
 ### לחם פרוס 
-https://boker-tari.zappy5.app/product/lchm-prvs-zwf9uk
+https://boker-tari.co.il/product/lchm-prvs-zwf9uk
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית דגנית - עין בר מכיל: קמח חיטה כהה (מכיל גלוטן), מים, שמרים, מלח שולחן, שמנים ושומנים מהצומח, מתחלבים (481E, 471E , לציטין סויה(, חומרים משמר ים ) קלציום פרופיונט, פוטסיום סורבט), קמח סויה, סיבים תזונתיים, מווסת חומציות (חומצה ציטרית), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה. מידע על אלרגניים: מכיל חיטה – גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שיפון – גלוטן, שעורה – גלוטן, כוסמין – גלוטן. השגחה: בד"ץ ירושלים העדה החרדית
-- Image: https://boker-tari.zappy5.app/assets/product-1777918059391-lerrb9.webp
+- Image: https://boker-tari.co.il/assets/product-1777918059391-lerrb9.webp
 
 ### אצבעות גבינה צהובה עמק
-https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
+https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917923454-9rh7l.webp
+- Image: https://boker-tari.co.il/assets/product-1777917923454-9rh7l.webp
 
 ### גבינה צהובה 28% 200 גרם תנובה
-https://boker-tari.zappy5.app/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5
+https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917777808-1ttx4.webp
+- Image: https://boker-tari.co.il/assets/product-1777917777808-1ttx4.webp
 
 ### גבינה צהובה 22% 200 גרם תנובה
-https://boker-tari.zappy5.app/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m
+https://boker-tari.co.il/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917716892-xpnnwg.webp
+- Image: https://boker-tari.co.il/assets/product-1777917716892-xpnnwg.webp
 
 ### קוטג' תנובה 9% 250 גרם
-https://boker-tari.zappy5.app/product/kvtg-tnvbh-9-250-grm-44c2xq
+https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-44c2xq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917446091-s40s7.webp
+- Image: https://boker-tari.co.il/assets/product-1777917446091-s40s7.webp
 
 ### קוטג' תנובה 5% 250 גרם
-https://boker-tari.zappy5.app/product/kvtg-tnvbh-5-250-grm-t2crhy
+https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917379123-t5n1go.webp
+- Image: https://boker-tari.co.il/assets/product-1777917379123-t5n1go.webp
 
 ### קוטג' תנובה 3% 250 גרם
-https://boker-tari.zappy5.app/product/kvtg-tnvbh-3-250-grm-f20yli
+https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777917254022-pek1g.webp
+- Image: https://boker-tari.co.il/assets/product-1777917254022-pek1g.webp
 
 ### קוראסון שוקולד גדול
-https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4
+https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: קוראסים ומתוקים
-- Image: https://boker-tari.zappy5.app/assets/product-1777915586252-qzrfks.webp
+- Image: https://boker-tari.co.il/assets/product-1777915586252-qzrfks.webp
 
 ### שוקו בננה לילדים יטבתה
-https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-ytbth-kmu6m1
+https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777915446073-g5ejvj.webp
+- Image: https://boker-tari.co.il/assets/product-1777915446073-g5ejvj.webp
 
 ### שוקו בננה לילדים תנובה
-https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
+https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777915366637-32o6mz.webp
+- Image: https://boker-tari.co.il/assets/product-1777915366637-32o6mz.webp
 
 ### שוקו בננה ליטר יטבתה
-https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-ytbth-b8fh63
+https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777915224083-b7oe9a.webp
+- Image: https://boker-tari.co.il/assets/product-1777915224083-b7oe9a.webp
 
 ### שוקו בננה ליטר תנובה
-https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-uul94y
+https://boker-tari.co.il/product/shvkv-bnnh-lytr-tnvbh-uul94y
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777915154312-93vz6.webp
+- Image: https://boker-tari.co.il/assets/product-1777915154312-93vz6.webp
 
 ### בקבוק שוקו לילדים יטבתה
-https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6
+https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914929024-ve31i.webp
+- Image: https://boker-tari.co.il/assets/product-1777914929024-ve31i.webp
 
 ### בקבוק שוקו לילדים תנובה
-https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr
+https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914861910-ldgqd.webp
+- Image: https://boker-tari.co.il/assets/product-1777914861910-ldgqd.webp
 
 ### בקבוק שוקו יטבתה ליטר
-https://boker-tari.zappy5.app/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
+https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914765537-nla2e.webp
+- Image: https://boker-tari.co.il/assets/product-1777914765537-nla2e.webp
 
 ### בקבוק שוקו תנובה ליטר
-https://boker-tari.zappy5.app/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
+https://boker-tari.co.il/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914688919-v9rmv.webp
+- Image: https://boker-tari.co.il/assets/product-1777914688919-v9rmv.webp
 
 ### שוקו שקית יטבתה
-https://boker-tari.zappy5.app/product/shvkv-shkyt-ytbth-ge1pvc
+https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914588178-fw0xgg.webp
+- Image: https://boker-tari.co.il/assets/product-1777914588178-fw0xgg.webp
 
 ### שוקו שקית תנובה
-https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc
+https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-zk8zyc
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777914514527-edqoul.webp
+- Image: https://boker-tari.co.il/assets/product-1777914514527-edqoul.webp
 
 ### חלה פרוסה
-https://boker-tari.zappy5.app/product/chlh-prvsh-2yujm2
+https://boker-tari.co.il/product/chlh-prvsh-2yujm2
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777914369991-amf3kg.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777914369991-amf3kg.webp
 
 ### חלה מיני
-https://boker-tari.zappy5.app/product/chlh-myny-9ku3vs
+https://boker-tari.co.il/product/chlh-myny-9ku3vs
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/product-1777914202819-4si4e9.webp
+- Image: https://boker-tari.co.il/assets/product-1777914202819-4si4e9.webp
 
 ### חלה קלועה
-https://boker-tari.zappy5.app/product/chlh-klvah-3t9krs
+https://boker-tari.co.il/product/chlh-klvah-3t9krs
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/product-1777914078272-d496e.webp
+- Image: https://boker-tari.co.il/assets/product-1777914078272-d496e.webp
 
 ### חלה כוסמין
-https://boker-tari.zappy5.app/product/chlh-kvsmyn-lv1qcq
+https://boker-tari.co.il/product/chlh-kvsmyn-lv1qcq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/product-1777913993061-z8wwfl.webp
+- Image: https://boker-tari.co.il/assets/product-1777913993061-z8wwfl.webp
 
 ### חלה מתוקה
-https://boker-tari.zappy5.app/product/chlh-mtvkh-z1oydu
+https://boker-tari.co.il/product/chlh-mtvkh-z1oydu
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/product-1777913859073-3l4qs2.webp
+- Image: https://boker-tari.co.il/assets/product-1777913859073-3l4qs2.webp
 
 ### חלה
-https://boker-tari.zappy5.app/product/chlh-fhta4k
+https://boker-tari.co.il/product/chlh-fhta4k
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
-- Image: https://boker-tari.zappy5.app/assets/product-1777913714272-nix1rf.webp
+- Image: https://boker-tari.co.il/assets/product-1777913714272-nix1rf.webp
 
 ### חלב 1% קרטון תנובה
-https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-3erqqp
+https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777913537501-87ojzj.webp
+- Image: https://boker-tari.co.il/assets/product-1777913537501-87ojzj.webp
 
 ### חלב דל לקטוז יטבתה
-https://boker-tari.zappy5.app/product/chlb-dl-lktvz-ytbth-4jyh2f
+https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777913424866-eneshq.webp
+- Image: https://boker-tari.co.il/assets/product-1777913424866-eneshq.webp
 
 ### חלב 1% בקבוק יוטבתה
-https://boker-tari.zappy5.app/product/chlb-1-bkbvk-yvtbth-dqi0er
+https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777913246024-7pucp.webp
+- Image: https://boker-tari.co.il/assets/product-1777913246024-7pucp.webp
 
 ### חלב 3% בקבוק יוטבתה
-https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-7tlw2b
+https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/product-1777976689607-ooypr.webp
+- Image: https://boker-tari.co.il/assets/product-1777976689607-ooypr.webp
 
 ### חלב 3% קרטון תנובה
-https://boker-tari.zappy5.app/product/chlb-3-krtvn-tnvbh-3ivenh
+https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777913036120-o3djlj.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777913036120-o3djlj.webp
 
 ### חלב 1% קרטון תנובה
-https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-bv1peg
+https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912956177-hnb53n.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777912956177-hnb53n.webp
 
 ### בייגלה רומני 
-https://boker-tari.zappy5.app/product/byyglh-rvmny-9rjcnj
+https://boker-tari.co.il/product/byyglh-rvmny-9rjcnj
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה רומני פריך וזהוב, מצופה שומשום קלוי שמוסיף קרCrunch עדין וניחוח אגוזי. מושלם לנשנוש, לאירוח או לצד מטבלים ומשקאות. קמח חיטה (מכיל גלוטן), מים, סוכר, מלח, שומן צמחי (בחלקו מוקשה), מתחלבים E471 , E322, מלח לימון E330, חומר משמר E200, שמרים E491, שומשום, משפרי אפייה E481 E471, E300, תמצית חמאה פרופילן גליקול, חומר טעם וריח, צבע מאכל בטא קרוטן E10a, מווסת חומציות E524. השגחה: רבנות חולון
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912635756-7g9jq5.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777912635756-7g9jq5.webp
 
 ### לחמניית בייגלה
-https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-jyu9hq
+https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום. מידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום. השגחה: רבנות חולון
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777912405128-9tqfto.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777912405128-9tqfto.webp
 
 ### בורקס פיצה מסעדות
-https://boker-tari.zappy5.app/product/bvrks-pytsh-msadvt-1nc6kg
+https://boker-tari.co.il/product/bvrks-pytsh-msadvt-1nc6kg
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
-- Image: https://boker-tari.zappy5.app/assets/product-1778138541550-u30abg.webp
+- Image: https://boker-tari.co.il/assets/product-1778138541550-u30abg.webp
 
 ### בורקס תרד וגבינה מסעדות
-https://boker-tari.zappy5.app/product/bvrks-trd-vgbynh-msadvt-w3an3u
+https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-w3an3u
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
-- Image: https://boker-tari.zappy5.app/assets/product-1777912126350-h1eap.webp
+- Image: https://boker-tari.co.il/assets/product-1777912126350-h1eap.webp
 
 ### בורקס תפוח אדמה מסעדות
-https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-yz5pro
+https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-yz5pro
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777911579073-f29txc.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777911579073-f29txc.webp
 
 ### בורקס גבינה מסעדות
-https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-qwkw68
+https://boker-tari.co.il/product/bvrks-gbynh-msadvt-qwkw68
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
-- Image: https://boker-tari.zappy5.app/assets/product-1777911463705-3f7lc9.webp
+- Image: https://boker-tari.co.il/assets/product-1777911463705-3f7lc9.webp
 
 ### אצבעות תפוחי עץ
-https://boker-tari.zappy5.app/product/atsbavt-tpvchy-ats-oz76nx
+https://boker-tari.co.il/product/atsbavt-tpvchy-ats-oz76nx
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777909600440-ewp655.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777909600440-ewp655.webp
 
 ### לחמניית פרנה
-https://boker-tari.zappy5.app/product/lchmnyyt-prnh-mirzoa
+https://boker-tari.co.il/product/lchmnyyt-prnh-mirzoa
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפיית ברון מכיל: מאפה פריך וזהוב, עם טעם עשיר ונימוח שממלא כל נשנוש בהנאה. מושלם לצד קפה או תה, כפינוק אישי או כתוספת חגיגית לאירוח. קמח חיטה (גלוטן), מים, שמן סויה, סוכר, גלוטן (גלוטן-חיטה), מלח, שמרים, משפר אפייה (מתחלב: E481, אנזימים, מעכב חמצון, E300 , חומר משמר(קלציום פרפיונט), חומר תפיחה (סויה ביקרבונט), אנזימים. מידע על אלרגנים: מכיל: גלוטן (חיטה), סויה עלול להכיל: גלוטן (שיבולתת שועל, שעורה, שיפון), שומשום השגחה: הרב לנדא
-- Image: https://boker-tari.zappy5.app/assets/product-1777909222697-meuxfm.webp
+- Image: https://boker-tari.co.il/assets/product-1777909222697-meuxfm.webp
 
 ### לחם פרנה
-https://boker-tari.zappy5.app/product/lchm-prnh-q6kohc
+https://boker-tari.co.il/product/lchm-prnh-q6kohc
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפיית ברון מכיל: מאפה פריך וזהוב, עם טעם עשיר ונימוח שממלא כל נשנוש בהנאה. מושלם לצד קפה או תה, כפינוק אישי או כתוספת חגיגית לאירוח. קמח חיטה (גלוטן), מים, שמן סויה, סוכר, גלוטן (גלוטן-חיטה), מלח, שמרים, משפר אפייה (מתחלב: E481, אנזימים, מעכב חמצון, E300 , חומר משמר(קלציום פרפיונט), חומר תפיחה (סויה ביקרבונט), אנזימים. מידע על אלרגנים: מכיל: גלוטן (חיטה), סויה עלול להכיל: גלוטן (שיבולתת שועל, שעורה, שיפון), שומשום השגחה: הרב לנדא
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777909030815-v5414j.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777909030815-v5414j.webp
 
 ### לחמניית רוסטיק כהה
-https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-9hsrz2
+https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-9hsrz2
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית המשפחה מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי השגחה: בד"ץ בית יוסף
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908834960-3t2nnm.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777908834960-3t2nnm.webp
 
 ### לחמניית רוסטיק בהיר
-https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-565b99
+https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: מאפית המשפחה מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי השגחה: בד"ץ בית יוסף
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908720313-vud60q.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777908720313-vud60q.webp
 
 ### חצי בגט
-https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta
+https://boker-tari.co.il/product/chtsy-bgt-irnqta
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908489198-kjj5ml.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777908489198-kjj5ml.webp
 
 ### לחמניית גבטה שאור
-https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje
+https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908367744-wa4plt.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777908367744-wa4plt.webp
 
 ### לחמניית גבטה דגנים
-https://boker-tari.zappy5.app/product/lchmnyyt-gbth-dgnym-zeopio
+https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777908295016-xx41fq.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777908295016-xx41fq.webp
 
 ### לחמים
-https://boker-tari.zappy5.app/product/lchmym-2xnkx1
+https://boker-tari.co.il/product/lchmym-2xnkx1
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: לחמים טריים ואיכותיים
 
 ### לחם פוקצ'ה עשבי תיבול
-https://boker-tari.zappy5.app/product/lchm-pvktsh-ashby-tybvl-iizy35
+https://boker-tari.co.il/product/lchm-pvktsh-ashby-tybvl-iizy35
 - Price: 18.90 ILS
 - Availability: In stock
 - Description: פוקצ'ה איטלקית רכה עם עשבי תיבול טריים, שמן זית כתית ומלח ים גס
 
 ### לחם שאור מחיטה מלאה
-https://boker-tari.zappy5.app/product/lchm-shavr-mchyth-mlah-r9qvc0
+https://boker-tari.co.il/product/lchm-shavr-mchyth-mlah-r9qvc0
 - Price: 22.90 ILS
 - Availability: In stock
 - Description: לחם שאור מסורתי מחיטה מלאה, תוסס באופן טבעי, עם טעם עמוק ומרקם מושלם
 
 ### לחם מחיטה מלאה
-https://boker-tari.zappy5.app/product/lchm-mchyth-mlah-u9r73t
+https://boker-tari.co.il/product/lchm-mchyth-mlah-u9r73t
 - Price: 14.90 ILS
 - Availability: In stock
 - Description: לחם בריא מחיטה מלאה, עשיר בסיבים ובחומרים מזינים, אפוי טרי מדי יום
 
 ### לחם שיפון כהה
-https://boker-tari.zappy5.app/product/lchm-shypvn-khh-h2cgo3
+https://boker-tari.co.il/product/lchm-shypvn-khh-h2cgo3
 - Price: 16.90 ILS
 - Availability: In stock
 - Description: לחם שיפון כהה מסורתי, עשיר בסיבים תזונתיים ובטעם עמוק ואותנטי
 
 ### לחמניית שמינייה
-https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-hrna02
+https://boker-tari.co.il/product/lchmnyyt-shmynyyh-hrna02
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: אדרי יוסף מכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777878345565-i77bwv.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777878345565-i77bwv.webp
 
 ### לחמניית אצבע
-https://boker-tari.zappy5.app/product/lchmnyyt-atsba-dbcc59
+https://boker-tari.co.il/product/lchmnyyt-atsba-dbcc59
 - Price: 2.00 ILS
 - Availability: In stock
 - Category: לחם
 - Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה. מידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן. השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
-- Image: https://boker-tari.zappy5.app/assets/product-1777969074716-dtn01m.webp
+- Image: https://boker-tari.co.il/assets/product-1777969074716-dtn01m.webp
 
 ### כריך חביתה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos
+https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-u1deos
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876574331-s6ylb9.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777876574331-s6ylb9.webp
 
 ### כריך טונה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl
+https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-9e4zfl
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
 - Description: כריך טונה איכותי עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777876710541-i5pkqt.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777876710541-i5pkqt.webp
 
 ### כריך גבינה צהובה עם ירקות
-https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
+https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877167787-yn1d33.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777877167787-yn1d33.webp
 
 ### טוסט צהובה בייגלה 
-https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4
+https://boker-tari.co.il/product/tvst-tshvbh-byyglh-69exz4
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
 - Description: זיתים, גיבנה צהובה, רוטב עגבניות *** במקרה של חוסר בכריך אצל הספק נספק כריך חלופי באופן אוטומטי.
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877405981-gl0wh7.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777877405981-gl0wh7.webp
 
 ### כריך ביצה קשה
-https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4
+https://boker-tari.co.il/product/kryk-bytsh-kshh-rgcce4
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877616578-w867a1.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777877616578-w867a1.webp
 
 ### כריך פסטרמה ובקר
-https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9
+https://boker-tari.co.il/product/kryk-pstrmh-vbkr-kndeh9
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
-- Image: https://boker-tari.zappy5.app/assets/image-product-image-1777877918377-p9c98k.webp
+- Image: https://boker-tari.co.il/assets/image-product-image-1777877918377-p9c98k.webp
 
 ---
 
@@ -755,8 +755,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://boker-tari.zappy5.app/sitemap.xml
-- Robots: https://boker-tari.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://boker-tari.zappy5.app/llms-full.txt
-- Products (JSON): https://boker-tari.zappy5.app/products.json
-- Products (Google Merchant RSS): https://boker-tari.zappy5.app/product-feed.xml
+- Sitemap (XML): https://boker-tari.co.il/sitemap.xml
+- Robots: https://boker-tari.co.il/robots.txt
+- Flattened page text (for LLMs): https://boker-tari.co.il/llms-full.txt
+- Products (JSON): https://boker-tari.co.il/products.json
+- Products (Google Merchant RSS): https://boker-tari.co.il/product-feed.xml

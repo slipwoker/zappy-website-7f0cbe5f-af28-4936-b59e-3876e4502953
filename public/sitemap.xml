@@ -1,643 +1,643 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://boker-tari.zappy5.app</loc>
+    <loc>https://boker-tari.co.il</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/about</loc>
+    <loc>https://boker-tari.co.il/about</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/lifestyle</loc>
+    <loc>https://boker-tari.co.il/lifestyle</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/contact</loc>
+    <loc>https://boker-tari.co.il/contact</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/products</loc>
+    <loc>https://boker-tari.co.il/products</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/cart</loc>
+    <loc>https://boker-tari.co.il/cart</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/checkout</loc>
+    <loc>https://boker-tari.co.il/checkout</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/login</loc>
+    <loc>https://boker-tari.co.il/login</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/account</loc>
+    <loc>https://boker-tari.co.il/account</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/order-success</loc>
+    <loc>https://boker-tari.co.il/order-success</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/:slug</loc>
+    <loc>https://boker-tari.co.il/product/:slug</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/category/:slug</loc>
+    <loc>https://boker-tari.co.il/category/:slug</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/privacy</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://boker-tari.zappy5.app/terms</loc>
+    <loc>https://boker-tari.co.il/privacy</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/accessibility</loc>
+    <loc>https://boker-tari.co.il/terms</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pyth-btsl-uh0euh</loc>
+    <loc>https://boker-tari.co.il/accessibility</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://boker-tari.co.il/product/pyth-btsl-uh0euh</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pyth-zatr-mgxwcx</loc>
+    <loc>https://boker-tari.co.il/product/pyth-zatr-mgxwcx</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chtsy-bgt-71ncl1</loc>
+    <loc>https://boker-tari.co.il/product/chtsy-bgt-71ncl1</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-schvt-tpvzym-va5k7c</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-va5k7c</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-tvt-bnnh-thwbt6</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-tvt-bnnh-thwbt6</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/mym-btam-anbym-58pi2f</loc>
+    <loc>https://boker-tari.co.il/product/mym-btam-anbym-58pi2f</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/mym-btam-aprsk-qb7i34</loc>
+    <loc>https://boker-tari.co.il/product/mym-btam-aprsk-qb7i34</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/mym-btam-tpvch-eg05mu</loc>
+    <loc>https://boker-tari.co.il/product/mym-btam-tpvch-eg05mu</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-ashkvlyvt-oksgc2</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-anbym-1erxir</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-anbym-1erxir</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-aprsk-fuze-uf456k</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-aprsk-fuze-uf456k</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/svdh-a65pnm</loc>
+    <loc>https://boker-tari.co.il/product/svdh-a65pnm</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pchyt-spryyt-ziro-4poszs</loc>
+    <loc>https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pchyt-spryyt-f6n055</loc>
+    <loc>https://boker-tari.co.il/product/pchyt-spryyt-f6n055</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pchyt-ziro-kvkh-kvlh-n0u7la</loc>
+    <loc>https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pchyt-panth-kth6g5</loc>
+    <loc>https://boker-tari.co.il/product/pchyt-panth-kth6g5</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/pchyt-kvkh-kvlh-t4ltd3</loc>
+    <loc>https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kynmvnym-bmarz-mvu2pf</loc>
+    <loc>https://boker-tari.co.il/product/kynmvnym-bmarz-mvu2pf</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-myny-bmarz-y2obd7</loc>
+    <loc>https://boker-tari.co.il/product/kvrasvn-shvkvld-myny-bmarz-y2obd7</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynyvt-marz-kvpsa-wp7uk8</loc>
+    <loc>https://boker-tari.co.il/product/gbynyvt-marz-kvpsa-wp7uk8</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/avgt-kynmvn-9cqm9j</loc>
+    <loc>https://boker-tari.co.il/product/avgt-kynmvn-9cqm9j</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/5-pytvt-vmp9fk</loc>
+    <loc>https://boker-tari.co.il/product/5-pytvt-vmp9fk</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyh-kshr-mtvkh-ql04ae</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-ql04ae</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyh-atsba-kmch-mla-lwqmbb</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyh-atsba-kmch-mla-lwqmbb</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyh-agvlh-kshr-br4m8u</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-br4m8u</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyh-atsba-shvmshvm-p0h3t4</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-p0h3t4</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-hmbvrgr-jljdns</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-abvkdv-vozf5d</loc>
+    <loc>https://boker-tari.co.il/product/kryk-abvkdv-vozf5d</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-bvlgryt-chb3xd</loc>
+    <loc>https://boker-tari.co.il/product/kryk-bvlgryt-chb3xd</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-prvs-zwf9uk</loc>
+    <loc>https://boker-tari.co.il/product/lchm-prvs-zwf9uk</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/atsbavt-gbynh-tshvbh-amk-1gcmoo</loc>
+    <loc>https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m</loc>
+    <loc>https://boker-tari.co.il/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kvtg-tnvbh-9-250-grm-44c2xq</loc>
+    <loc>https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-44c2xq</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kvtg-tnvbh-5-250-grm-t2crhy</loc>
+    <loc>https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kvtg-tnvbh-3-250-grm-f20yli</loc>
+    <loc>https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kvrasvn-shvkvld-gdvl-z7f0u4</loc>
+    <loc>https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-ytbth-kmu6m1</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-ytbth-b8fh63</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-bnnh-lytr-tnvbh-uul94y</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-bnnh-lytr-tnvbh-uul94y</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-shvkv-ytbth-lytr-9hnxrg</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl</loc>
+    <loc>https://boker-tari.co.il/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-shkyt-ytbth-ge1pvc</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/shvkv-shkyt-tnvbh-zk8zyc</loc>
+    <loc>https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-zk8zyc</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-prvsh-2yujm2</loc>
+    <loc>https://boker-tari.co.il/product/chlh-prvsh-2yujm2</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-myny-9ku3vs</loc>
+    <loc>https://boker-tari.co.il/product/chlh-myny-9ku3vs</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-klvah-3t9krs</loc>
+    <loc>https://boker-tari.co.il/product/chlh-klvah-3t9krs</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-kvsmyn-lv1qcq</loc>
+    <loc>https://boker-tari.co.il/product/chlh-kvsmyn-lv1qcq</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-mtvkh-z1oydu</loc>
+    <loc>https://boker-tari.co.il/product/chlh-mtvkh-z1oydu</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlh-fhta4k</loc>
+    <loc>https://boker-tari.co.il/product/chlh-fhta4k</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-3erqqp</loc>
+    <loc>https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-dl-lktvz-ytbth-4jyh2f</loc>
+    <loc>https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-1-bkbvk-yvtbth-dqi0er</loc>
+    <loc>https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-3-bkbvk-yvtbth-7tlw2b</loc>
+    <loc>https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-3-krtvn-tnvbh-3ivenh</loc>
+    <loc>https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chlb-1-krtvn-tnvbh-bv1peg</loc>
+    <loc>https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/byyglh-rvmny-9rjcnj</loc>
+    <loc>https://boker-tari.co.il/product/byyglh-rvmny-9rjcnj</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-byyglh-jyu9hq</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bvrks-pytsh-msadvt-1nc6kg</loc>
+    <loc>https://boker-tari.co.il/product/bvrks-pytsh-msadvt-1nc6kg</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bvrks-trd-vgbynh-msadvt-w3an3u</loc>
+    <loc>https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-w3an3u</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bvrks-tpvch-admh-msadvt-yz5pro</loc>
+    <loc>https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-yz5pro</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/bvrks-gbynh-msadvt-qwkw68</loc>
+    <loc>https://boker-tari.co.il/product/bvrks-gbynh-msadvt-qwkw68</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/atsbavt-tpvchy-ats-oz76nx</loc>
+    <loc>https://boker-tari.co.il/product/atsbavt-tpvchy-ats-oz76nx</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-prnh-mirzoa</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-prnh-mirzoa</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-prnh-q6kohc</loc>
+    <loc>https://boker-tari.co.il/product/lchm-prnh-q6kohc</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-khh-9hsrz2</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-9hsrz2</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-rvstyk-bhyr-565b99</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/chtsy-bgt-irnqta</loc>
+    <loc>https://boker-tari.co.il/product/chtsy-bgt-irnqta</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-gbth-shavr-7jqbje</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-gbth-dgnym-zeopio</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmym-2xnkx1</loc>
+    <loc>https://boker-tari.co.il/product/lchmym-2xnkx1</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-pvktsh-ashby-tybvl-iizy35</loc>
+    <loc>https://boker-tari.co.il/product/lchm-pvktsh-ashby-tybvl-iizy35</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-shavr-mchyth-mlah-r9qvc0</loc>
+    <loc>https://boker-tari.co.il/product/lchm-shavr-mchyth-mlah-r9qvc0</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-mchyth-mlah-u9r73t</loc>
+    <loc>https://boker-tari.co.il/product/lchm-mchyth-mlah-u9r73t</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchm-shypvn-khh-h2cgo3</loc>
+    <loc>https://boker-tari.co.il/product/lchm-shypvn-khh-h2cgo3</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-shmynyyh-hrna02</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-shmynyyh-hrna02</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/lchmnyyt-atsba-dbcc59</loc>
+    <loc>https://boker-tari.co.il/product/lchmnyyt-atsba-dbcc59</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-chbyth-am-yrkvt-u1deos</loc>
+    <loc>https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-u1deos</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-tvnh-am-yrkvt-9e4zfl</loc>
+    <loc>https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-9e4zfl</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg</loc>
+    <loc>https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-5mbexg</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/tvst-tshvbh-byyglh-69exz4</loc>
+    <loc>https://boker-tari.co.il/product/tvst-tshvbh-byyglh-69exz4</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-bytsh-kshh-rgcce4</loc>
+    <loc>https://boker-tari.co.il/product/kryk-bytsh-kshh-rgcce4</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://boker-tari.zappy5.app/product/kryk-pstrmh-vbkr-kndeh9</loc>
+    <loc>https://boker-tari.co.il/product/kryk-pstrmh-vbkr-kndeh9</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
