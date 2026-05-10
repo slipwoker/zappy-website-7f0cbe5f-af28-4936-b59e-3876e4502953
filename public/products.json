@@ -1,10 +1,56 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T23:48:52.811Z",
+  "generated_at": "2026-05-10T23:52:23.682Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 99,
+  "count": 101,
   "products": [
+    {
+      "id": "5f531617-305e-4159-8144-8b24e9c7392d",
+      "slug": "avgyvt-chtypy-kshyv-anns-copy-mlvjvd",
+      "name": "עוגיות חטיפי קשיו אננס (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-chtypy-kshyv-anns-copy-mlvjvd",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-10T23:52:23.385Z"
+    },
+    {
+      "id": "d170df5e-8ea0-4c63-a6d1-da2467237d0c",
+      "slug": "avgyvt-mtbavt-agvzy-lvz-kshyv-vshbby-kvkvs-tamm92",
+      "name": "עוגיות מטבעות אגוזי לוז קשיו ושבבי קוקוס ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778457059810-vjgfx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-mtbavt-agvzy-lvz-kshyv-vshbby-kvkvs-tamm92",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-10T23:51:52.821Z"
+    },
     {
       "id": "4018886a-fc5c-4990-a53b-0caac33e3a6c",
       "slug": "avgyvt-chtypy-kshyv-anns-sjx8kn",
