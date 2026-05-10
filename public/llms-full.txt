@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות אוזניים מיני שוקולד
+URL: https://boker-tari.co.il/product/avgyvt-avznyym-myny-shvkvld-h4ek2r
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### עוגיות אוזניים
 URL: https://boker-tari.co.il/product/avgyvt-avznyym-cz3bh0
 Price: 0.00 ILS

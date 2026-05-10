@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T23:43:59.030Z",
+  "generated_at": "2026-05-10T23:44:52.224Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 94,
+  "count": 95,
   "products": [
+    {
+      "id": "c072a871-e7fa-47a4-a4ec-11d3a2132f9f",
+      "slug": "avgyvt-avznyym-myny-shvkvld-h4ek2r",
+      "name": "עוגיות אוזניים מיני שוקולד",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778456625869-oetvym.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-avznyym-myny-shvkvld-h4ek2r",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-10T23:44:21.038Z"
+    },
     {
       "id": "0fb91dd5-1cc9-4ae4-9d8a-1943f670faac",
       "slug": "avgyvt-avznyym-cz3bh0",

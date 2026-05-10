@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 94**
+**Total active products: 95**
+
+### עוגיות אוזניים מיני שוקולד
+https://boker-tari.co.il/product/avgyvt-avznyym-myny-shvkvld-h4ek2r
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: עוגיות
+- Image: https://boker-tari.co.il/assets/product-1778456625869-oetvym.webp
 
 ### עוגיות אוזניים
 https://boker-tari.co.il/product/avgyvt-avznyym-cz3bh0
