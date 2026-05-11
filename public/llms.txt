@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 129**
+**Total active products: 130**
+
+### מקלות בייגלה
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-byyglh-7rh6iy
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778539389710-jcuho6.webp
 
 ### לחם כוסמין מלא פרוס 
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-mla-prvs-gqa9iq
