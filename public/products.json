@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:55:41.078Z",
+  "generated_at": "2026-05-11T23:59:02.406Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -3269,11 +3269,11 @@
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
-      "slug": "kryk-chbyth-am-yrkvt-u1deos",
+      "slug": "kryk-chbyth-am-yrkvt-dm2ah9",
       "name": "כריך חביתה עם ירקות",
       "name_translations": {},
       "description": "<p><br></p>",
-      "short_description": null,
+      "short_description": "מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת, ",
       "sku": null,
       "brand": null,
       "price": 20,
@@ -3285,11 +3285,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-chbyth-am-yrkvt-u1deos",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-chbyth-am-yrkvt-dm2ah9",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-06T10:51:57.536Z"
+      "updated_at": "2026-05-11T23:58:31.532Z"
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",

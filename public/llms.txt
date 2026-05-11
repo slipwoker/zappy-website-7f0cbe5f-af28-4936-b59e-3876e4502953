@@ -1072,10 +1072,11 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-atsba-d
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777969074716-dtn01m.webp
 
 ### כריך חביתה עם ירקות
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-chbyth-am-yrkvt-u1deos
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-chbyth-am-yrkvt-dm2ah9
 - Price: 20.00 ILS
 - Availability: In stock
 - Category: כריכים
+- Description: מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת,
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777876574331-s6ylb9.webp
 
 ### כריך טונה עם ירקות
