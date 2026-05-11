@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:48:30.121Z",
+  "generated_at": "2026-05-11T23:49:04.150Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2881,11 +2881,11 @@
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
-      "slug": "bvrks-tpvch-admh-msadvt-yz5pro",
+      "slug": "bvrks-tpvch-admh-msadvt-pmt8xx",
       "name": "בורקס תפוח אדמה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה\nהשגחה: חוג חתם סופר פתח תקווה",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2897,11 +2897,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-tpvch-admh-msadvt-yz5pro",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-tpvch-admh-msadvt-pmt8xx",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-04T16:20:06.524Z"
+      "updated_at": "2026-05-11T23:48:33.393Z"
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
@@ -2929,7 +2929,7 @@
     },
     {
       "id": "c797c272-fd63-4a7a-bb3c-921a8da915c8",
-      "slug": "atsbavt-tpvchy-ats-oz76nx",
+      "slug": "atsbavt-tpvchy-ats-k3wmp2",
       "name": "אצבעות תפוחי עץ",
       "name_translations": {},
       "description": "",
@@ -2945,11 +2945,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/atsbavt-tpvchy-ats-oz76nx",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/atsbavt-tpvchy-ats-k3wmp2",
       "categories": [
-        "בורקסים"
+        "קוראסים ומתוקים"
       ],
-      "updated_at": "2026-05-04T15:46:54.225Z"
+      "updated_at": "2026-05-11T23:48:57.207Z"
     },
     {
       "id": "f1f1a9fd-490c-442c-97ed-8139a40a5c13",
