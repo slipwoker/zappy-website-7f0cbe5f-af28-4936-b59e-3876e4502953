@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:06:39.356Z",
+  "generated_at": "2026-05-11T23:08:31.657Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 136,
+  "count": 137,
   "products": [
+    {
+      "id": "85204c0c-d83b-4c2b-809d-d892d5cc329c",
+      "slug": "mklvt-shvm-fedy7r",
+      "name": "מקלות שום",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778540861780-2lszt7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-shvm-fedy7r",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-11T23:08:00.705Z"
+    },
     {
       "id": "d7c66812-6c86-47ec-91bc-9cbe30aadf65",
       "slug": "pyth-myny-bys-rd4vxi",
