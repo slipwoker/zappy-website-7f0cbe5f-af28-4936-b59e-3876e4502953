@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:32:16.876Z",
+  "generated_at": "2026-05-11T00:34:17.550Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 106,
+  "count": 107,
   "products": [
+    {
+      "id": "221cbda1-603b-4798-9c60-8604bcbbc42d",
+      "slug": "avgyvt-shrvny-shkdym-9tftcf",
+      "name": "עוגיות סהרוני שקדים",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778459612330-i4yzlo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-shrvny-shkdym-9tftcf",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-11T00:33:46.365Z"
+    },
     {
       "id": "e330c26a-728a-4d96-b5ba-874fc3a9dbe7",
       "slug": "avgyvt-avznyym-myny-vnyl-um8ool",
