@@ -934,10 +934,11 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-byyglh-
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777912405128-9tqfto.webp
 
 ### בורקס פיצה מסעדות
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-pytsh-msadvt-1nc6kg
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-pytsh-msadvt-t8yr26
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
+- Description: מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה ,זיתים, אורגנו השגחה: חוג חתם סופר פתח תקווה
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778138541550-u30abg.webp
 
 ### בורקס תרד וגבינה מסעדות

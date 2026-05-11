@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:49:28.256Z",
+  "generated_at": "2026-05-11T23:50:10.116Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2833,11 +2833,11 @@
     },
     {
       "id": "947f50fd-ee0c-4fd5-98d2-bb05f36c238c",
-      "slug": "bvrks-pytsh-msadvt-1nc6kg",
+      "slug": "bvrks-pytsh-msadvt-t8yr26",
       "name": "בורקס פיצה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה ,זיתים, אורגנו\nהשגחה: חוג חתם סופר פתח תקווה",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2849,11 +2849,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-pytsh-msadvt-1nc6kg",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-pytsh-msadvt-t8yr26",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-07T07:22:27.616Z"
+      "updated_at": "2026-05-11T23:49:39.213Z"
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
