@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 100**
+**Total active products: 101**
+
+### עוגיות שומשומית
+https://boker-tari.co.il/product/avgyvt-shvmshvmyt-d8cp5r
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: עוגיות
+- Image: https://boker-tari.co.il/assets/product-1778458114472-wb9ys8.webp
 
 ### עוגיות מטבעות אגוזי לוז קשיו ושבבי קוקוס 
 https://boker-tari.co.il/product/avgyvt-mtbavt-agvzy-lvz-kshyv-vshbby-kvkvs-tamm92
