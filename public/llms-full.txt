@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות סהרוני שקדים
+URL: https://boker-tari.co.il/product/avgyvt-shrvny-shkdym-wq8nyk
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### עוגיות טחינה ללא תוספת סוכר
 URL: https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-89zx1q
 Price: 0.00 ILS
