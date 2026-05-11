@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:54:00.307Z",
+  "generated_at": "2026-05-11T21:56:08.921Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 127,
+  "count": 128,
   "products": [
+    {
+      "id": "3d91a00e-0aa0-42eb-822e-0321e973f9c9",
+      "slug": "lchm-dgnym-prvs-agmy-avxpxi",
+      "name": "לחם דגנים פרוס אגמי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778536523194-pquxc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-avxpxi",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T21:55:37.853Z"
+    },
     {
       "id": "94cec63d-80e4-41e3-94b2-9d6401c6c38d",
       "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6",
