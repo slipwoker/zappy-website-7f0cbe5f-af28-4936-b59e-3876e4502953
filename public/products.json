@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T13:41:40.611Z",
+  "generated_at": "2026-05-11T13:43:59.768Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 117,
+  "count": 118,
   "products": [
+    {
+      "id": "d4a2cd71-a31d-4f74-9193-5250bf61ef71",
+      "slug": "shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb",
+      "name": "שישיית לחמניות מיני ללא גלוטן ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778506993601-qwd5tr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb",
+      "categories": [
+        " ללא גלוטן"
+      ],
+      "updated_at": "2026-05-11T13:43:28.827Z"
+    },
     {
       "id": "0817872d-dcb9-4c39-a0f5-1f3257669a5c",
       "slug": "rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-331029",
