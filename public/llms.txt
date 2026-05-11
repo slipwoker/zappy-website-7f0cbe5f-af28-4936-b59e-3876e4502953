@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 125**
+**Total active products: 126**
+
+### 6 יחדות פיתה כוסמין
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/6-ychdvt-pyth-kvsmyn-o1zjzt
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Description: רכיבים: קמח כוסמין מלא (100% מסך קמחים, 41% ממשקל הפתיחה), מים, גלוטן חיטה, סיבים שיבולת שועל, לתת חיט, מחמצת כוסמין, שמרים, מלח ים, קלציום קרבונט טבעי, ויטמין C, אנזימים מידע על אלרגנים: גלוטן (חיטה, כוסמין, שיבולת שועל). עלול להכיל: שקדים, אגוזים, שומשום, סויה, שאריות ביצים.
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778535667437-jrck6b.webp
 
 ### לחם אוקראיני לחם מיוחדים קמח שיפון דוידוביץ'
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-avkrayny-lchm-myvchdym-kmch-shypvn-dvydvbyts-pjyi1o

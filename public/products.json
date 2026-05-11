@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:38:21.740Z",
+  "generated_at": "2026-05-11T21:43:04.266Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 125,
+  "count": 126,
   "products": [
+    {
+      "id": "85aa1216-38cb-4c10-be31-242f57e3425a",
+      "slug": "6-ychdvt-pyth-kvsmyn-o1zjzt",
+      "name": "6 יחדות פיתה כוסמין",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רכיבים: קמח כוסמין מלא (100% מסך קמחים, 41% ממשקל הפתיחה), מים, גלוטן חיטה, סיבים שיבולת שועל, לתת חיט, מחמצת כוסמין, שמרים, מלח ים, קלציום קרבונט טבעי, ויטמין C, אנזימים\n\nמידע על אלרגנים: גלוטן (חיטה, כוסמין, שיבולת שועל). \n\nעלול להכיל: שקדים, אגוזים, שומשום, סויה, שאריות ביצים.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778535667437-jrck6b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/6-ychdvt-pyth-kvsmyn-o1zjzt",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T21:42:32.670Z"
+    },
     {
       "id": "945b7288-baa3-46cb-8103-d254fb2643fa",
       "slug": "lchm-avkrayny-lchm-myvchdym-kmch-shypvn-dvydvbyts-pjyi1o",
