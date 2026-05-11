@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T18:30:39.393Z",
+  "generated_at": "2026-05-11T18:35:32.384Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 119,
+  "count": 120,
   "products": [
+    {
+      "id": "5e938ea1-e364-47d5-af07-58b8f42bde17",
+      "slug": "pyth-pytsh-eoyyyj",
+      "name": "פיתה פיצה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה . אורגנו\nהשגחה: חוג חתם סופר פתח תקווה",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778524348564-zhsahr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-eoyyyj",
+      "categories": [
+        "לחם"
+      ],
+      "updated_at": "2026-05-11T18:35:01.435Z"
+    },
     {
       "id": "deb66570-49b5-424d-9bac-e4399da3a976",
       "slug": "pyth-shvm-gb0qlr",

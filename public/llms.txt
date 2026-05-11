@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 119**
+**Total active products: 120**
+
+### פיתה פיצה
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-eoyyyj
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Description: מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה . אורגנו השגחה: חוג חתם סופר פתח תקווה
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778524348564-zhsahr.webp
 
 ### פיתה שום
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-shvm-gb0qlr
