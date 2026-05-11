@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:50:03.180Z",
+  "generated_at": "2026-05-11T00:51:38.307Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 113,
+  "count": 114,
   "products": [
+    {
+      "id": "d61d2692-cd5a-44cc-a4ec-804e7914814a",
+      "slug": "avgyvt-tchynh-lla-tvspt-svkr-89zx1q",
+      "name": "עוגיות טחינה ללא תוספת סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778460658855-204xli.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-89zx1q",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-11T00:51:07.361Z"
+    },
     {
       "id": "5fc2457d-0353-47fb-bda9-9500aae135ca",
       "slug": "avgyvt-gryybh-lla-tvspt-svkr-t7azvv",
