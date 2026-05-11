@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:52:18.634Z",
+  "generated_at": "2026-05-11T21:54:00.307Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 127,
   "products": [
     {
       "id": "94cec63d-80e4-41e3-94b2-9d6401c6c38d",
-      "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx",
-      "name": "לחם קל מקמח חיטה מלא ושיפון מלא",
+      "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6",
+      "name": "לחם קל מקמח חיטה מלא ושיפון מלא פרוס דוידוביץ'",
       "name_translations": {},
       "description": "",
       "short_description": "מים, קמח חיטה מלא (32% ממשקל הלחם, 60% ממשקל הקמחים) (מכיל גלוטן), קמח שיפון מלא (11% ממשקל הלחם, 20% ממשקל הקמחים) (מכיל גלוטן), קמח חיטה כהה (מכיל גלוטן), סיבים תזונתיים, חלבון צמחי (מכיל גלוטן), מלח שולחן, שמרים, חומרים משמרים: קלציום פרופיונט ופוטסיום סורבט, מתחלב E481, מווסת חומציות: חומצת לימון, אנזימים, חומר לטיפול בקמח: חומצה אסקורבית(ויטמיןC)",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6",
       "categories": [
         "לחמים מיוחדים"
       ],
-      "updated_at": "2026-05-11T21:51:47.825Z"
+      "updated_at": "2026-05-11T21:53:29.448Z"
     },
     {
       "id": "85aa1216-38cb-4c10-be31-242f57e3425a",

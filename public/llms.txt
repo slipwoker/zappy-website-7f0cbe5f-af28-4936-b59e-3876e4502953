@@ -75,8 +75,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 127**
 
-### לחם קל מקמח חיטה מלא ושיפון מלא
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx
+### לחם קל מקמח חיטה מלא ושיפון מלא פרוס דוידוביץ'
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחמים מיוחדים
