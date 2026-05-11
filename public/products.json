@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T18:35:32.384Z",
+  "generated_at": "2026-05-11T18:49:42.286Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 120,
   "products": [
     {
       "id": "5e938ea1-e364-47d5-af07-58b8f42bde17",
-      "slug": "pyth-pytsh-eoyyyj",
+      "slug": "pyth-pytsh-j4z1qy",
       "name": "פיתה פיצה",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-eoyyyj",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-j4z1qy",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T18:35:01.435Z"
+      "updated_at": "2026-05-11T18:49:11.421Z"
     },
     {
       "id": "deb66570-49b5-424d-9bac-e4399da3a976",
