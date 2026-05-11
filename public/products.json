@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T01:04:56.440Z",
+  "generated_at": "2026-05-11T01:07:31.270Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 116,
@@ -127,7 +127,7 @@
     },
     {
       "id": "ee628511-b7a2-470d-98e6-64b89e6d955c",
-      "slug": "avgyvt-sndvvyts-rybh-od3pyv",
+      "slug": "avgyvt-sndvvyts-rybh-spnrzn",
       "name": "עוגיות סנדוויץ' ריבה",
       "name_translations": {},
       "description": "",
@@ -139,15 +139,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.co.il/assets/product-1778460270510-i5eop3.webp"
+        "https://boker-tari.co.il/assets/product-1778461610911-o31vu.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgyvt-sndvvyts-rybh-od3pyv",
+      "url": "https://boker-tari.co.il/product/avgyvt-sndvvyts-rybh-spnrzn",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-11T00:44:38.718Z"
+      "updated_at": "2026-05-11T01:07:00.527Z"
     },
     {
       "id": "386e4ccc-7c7a-47a8-a916-8af187fad191",
