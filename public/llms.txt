@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 140**
+**Total active products: 141**
+
+### לחם מחמצת שיפון זיתים שלם
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-shypvn-zytym-shlm-v86hjk
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778542173481-je424.webp
 
 ### לחם מחמצת כוסמין שלם
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-kvsmyn-shlm-5r059w
