@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:57:16.573Z",
+  "generated_at": "2026-05-11T22:41:17.436Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 128,
+  "count": 129,
   "products": [
+    {
+      "id": "c3d097e7-c79a-48ef-bc6b-2e42e5c43ab4",
+      "slug": "lchm-kvsmyn-mla-prvs-gqa9iq",
+      "name": "לחם כוסמין מלא פרוס ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מים, קמח כוסמין מלא (גלוטן) (100% ממשקל הקמחים), סיבים תזונתיים, שמרים לאפייה, גלוטן חיטה, מלח שולחן, משפר אפייה [(חומרים משמרים (202E, 282E), סויה, מתחלב (481E), מעכבי חמצון – חומצת לימון, אנזימים, מעכבי חמצון (300E)], מחמצת שיפון.\n\nמידע על אלרגנים:\nמכיל: (כוסמין, חיטה, שיפון, שיבולת שועל) – גלוטן, סויה.\n\nעלול להכיל: שומשום, (שעורה) – גלוטן.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778536742238-6t8p2i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-mla-prvs-gqa9iq",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T22:40:46.195Z"
+    },
     {
       "id": "3d91a00e-0aa0-42eb-822e-0321e973f9c9",
       "slug": "lchm-dgnym-prvs-agmy-x09hw9",
