@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות חטיפי קשיו ושקדים ללא תוספת סוכר
+URL: https://boker-tari.co.il/product/avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### עוגיות סהרוני שקדים
 URL: https://boker-tari.co.il/product/avgyvt-shrvny-shkdym-wq8nyk
 Price: 0.00 ILS
