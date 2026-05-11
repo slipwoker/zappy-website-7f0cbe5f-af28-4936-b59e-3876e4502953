@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:14:34.747Z",
+  "generated_at": "2026-05-11T23:24:04.389Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 139,
+  "count": 140,
   "products": [
+    {
+      "id": "516aafaf-ad66-4927-9c1c-1b64a4457d1d",
+      "slug": "lchm-kvsmyn-shlm-pklkuf",
+      "name": "לחם כוסמין שלם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קמח כוסמין מלא (מכיל גלוטן) (100% מסך הקמחים, 43% ממשקל המוצר), מים, משפר אפייה (מכיל גלוטן חיטה ושיפון) [גלוטן חיטה, מחמצות (חיטה שיפון), מלח, חומר טיפול בקמח (קלציום קרבונט), חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), מתחלב (E-481), אנזימים, מעכב חמצון (חומצה אסקורבית)], פתיתי שיפון מלא, גרעיני פשתן מלא, סולת חיטה, שמרים, גלוטן חיטה.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778541776996-hy7uz8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-shlm-pklkuf",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T23:23:33.652Z"
+    },
     {
       "id": "8175cc30-50f8-428e-bbb3-106e588c9a14",
       "slug": "bgt-rvstyk-lbn-nrfv4a",

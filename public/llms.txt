@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 139**
+**Total active products: 140**
+
+### לחם כוסמין שלם
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-shlm-pklkuf
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Description: קמח כוסמין מלא (מכיל גלוטן) (100% מסך הקמחים, 43% ממשקל המוצר), מים, משפר אפייה (מכיל גלוטן חיטה ושיפון) [גלוטן חיטה, מחמצות (חיטה שיפון), מלח, חומר טיפול בקמח (קלציום קרבונט), חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), מתחלב (E-481), אנזימים, מעכב חמצון (חומצה אסקורבית)], פתיתי שיפון מלא, גרעיני פשתן מלא, סולת חיטה, שמרים, גלוטן חיטה.
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778541776996-hy7uz8.webp
 
 ### בגט רוסטיק לבן
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-lbn-nrfv4a
