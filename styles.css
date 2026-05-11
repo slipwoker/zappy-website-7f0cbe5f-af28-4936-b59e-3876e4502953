@@ -21476,6 +21476,39 @@ nav.zappy-catalog-menu .catalog-menu-categories a {
 .zappy-catalog-menu.scrolled .catalog-menu-all {
   color: var(--text-dark) !important;
 }
+
+@media (max-width: 768px) {
+.nav-menu.active {
+  position: fixed !important;
+  top: 0 !important;
+  right: 0 !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  height: 100dvh !important;
+  max-height: 100dvh !important;
+  width: 100vw !important;
+  z-index: 9999 !important;
+  overflow-y: auto !important;
+  padding-top: 70px !important;
+}
+}
+/* Batch: Fix mobile nav menu to cover full screen on all pages including category pages */
+@media (max-width: 768px) {
+  /* Fix mobile nav menu to cover full screen height on all pages including category pages */
+  .nav-menu.active {
+    position: fixed !important;
+    top: 0 !important;
+    right: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    height: 100dvh !important;
+    max-height: 100dvh !important;
+    width: 100vw !important;
+    z-index: 9999 !important;
+    overflow-y: auto !important;
+    padding-top: 70px !important;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
