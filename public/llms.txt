@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 104**
+**Total active products: 105**
+
+### עוגיות שכבות בטעם לוטוס מתוקן
+https://boker-tari.co.il/product/avgyvt-shkbvt-btam-lvtvs-mtvkn-5qifb8
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: עוגיות
+- Image: https://boker-tari.co.il/assets/product-1778459380975-p7qrkp.webp
 
 ### עוגיות פרפריות שבבי אגוזי לוז חלבי
 https://boker-tari.co.il/product/avgyvt-prpryvt-shbby-agvzy-lvz-chlby-jlv3wr
