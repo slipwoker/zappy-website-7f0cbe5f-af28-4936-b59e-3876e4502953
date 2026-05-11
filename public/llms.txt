@@ -73,7 +73,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 141**
+**Total active products: 142**
+
+### לחם מחמצת אגוזים קלמטה  שלם
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-8iu98l
+- Price: 0.00 ILS
+- Availability: In stock
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778542376419-5ifou5.webp
 
 ### לחם מחמצת שיפון זיתים שלם
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-shypvn-zytym-shlm-v86hjk
