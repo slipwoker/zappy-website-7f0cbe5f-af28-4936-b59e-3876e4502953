@@ -1,37 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T11:39:25.458Z",
+  "generated_at": "2026-05-11T11:40:51.648Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 117,
+  "count": 116,
   "products": [
-    {
-      "id": "f63cb270-272b-41f3-b516-c4a45a8a64c8",
-      "slug": "tst-shl-zapy-odxsyp",
-      "name": "טסט של זאפי",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778461457905-00wpdo.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/tst-shl-zapy-odxsyp",
-      "categories": [
-        "עוגיות",
-        "חלות",
-        "לחם מחמצת",
-        "שתייה קלה"
-      ],
-      "updated_at": "2026-05-11T11:03:13.470Z"
-    },
     {
       "id": "7235dca4-fcfd-409a-969c-6d9e353be13b",
       "slug": "avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1",
