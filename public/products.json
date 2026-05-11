@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:45:37.442Z",
+  "generated_at": "2026-05-11T23:46:17.414Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2569,11 +2569,11 @@
     },
     {
       "id": "6c1b9e85-e9fe-4fef-8e59-1849ed5e9c0c",
-      "slug": "chlh-kvsmyn-lv1qcq",
+      "slug": "chlh-kvsmyn-sm0kp3",
       "name": "חלה כוסמין",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלה עשויה מקמח כוסמין מלא, רכה ואוורירית עם קרום זהוב וניחוח טבעי. מושלמת לארוחת בוקר, להכנת כריכים או כפינוק לצד הקפה והתה.\nקמח כוסמין (מלא או לבן), מים, שמרים, מלח וסוכר\nהשגחה: בד\"ץ ירושלים העדה החרדית",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2585,11 +2585,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-kvsmyn-lv1qcq",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-kvsmyn-sm0kp3",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T17:00:12.220Z"
+      "updated_at": "2026-05-11T23:45:46.606Z"
     },
     {
       "id": "88135842-1a6e-4f6a-8165-8557c4876533",
