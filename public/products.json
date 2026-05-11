@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T22:48:42.678Z",
+  "generated_at": "2026-05-11T22:50:02.751Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 131,
   "products": [
     {
       "id": "7ed5dcd7-7d4f-4a45-8ce7-1a0a4bc49b00",
-      "slug": "dvnats-uf0r7w",
+      "slug": "dvnats-de9mir",
       "name": "דונאטס",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dvnats-uf0r7w",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dvnats-de9mir",
       "categories": [
         "קוראסים ומתוקים"
       ],
-      "updated_at": "2026-05-11T22:48:11.571Z"
+      "updated_at": "2026-05-11T22:49:31.897Z"
     },
     {
       "id": "e6670f71-d2df-43b6-b177-851038248883",
