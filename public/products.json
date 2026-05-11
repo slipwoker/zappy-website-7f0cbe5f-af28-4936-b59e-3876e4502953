@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T12:08:10.763Z",
+  "generated_at": "2026-05-11T13:41:09.389Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 116,
+  "count": 117,
   "products": [
+    {
+      "id": "0817872d-dcb9-4c39-a0f5-1f3257669a5c",
+      "slug": "rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-gu9sbu",
+      "name": "רביעיית לחמניות המבורגר ללא גלוטן ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778506827662-0o77rk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-gu9sbu",
+      "categories": [
+        " ללא גלוטן"
+      ],
+      "updated_at": "2026-05-11T13:40:38.099Z"
+    },
     {
       "id": "7235dca4-fcfd-409a-969c-6d9e353be13b",
       "slug": "avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1",

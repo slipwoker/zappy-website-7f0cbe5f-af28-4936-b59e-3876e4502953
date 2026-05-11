@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 116**
+**Total active products: 117**
+
+### רביעיית לחמניות המבורגר ללא גלוטן 
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-gu9sbu
+- Price: 0.00 ILS
+- Availability: In stock
+- Category:  ללא גלוטן
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778506827662-0o77rk.webp
 
 ### עוגיות חטיפי קשיו ושקדים ללא תוספת סוכר
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1
