@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:08:31.657Z",
+  "generated_at": "2026-05-11T23:12:54.214Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 137,
+  "count": 138,
   "products": [
+    {
+      "id": "fd4201e3-ae63-44d9-b18b-4c85e5f49e6b",
+      "slug": "bgt-rvstyk-kmch-mla-vg43k5",
+      "name": "בגט רוסטיק קמח מלא",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778541134161-hqcvhm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-kmch-mla-vg43k5",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T23:12:23.230Z"
+    },
     {
       "id": "85204c0c-d83b-4c2b-809d-d892d5cc329c",
       "slug": "mklvt-shvm-fedy7r",

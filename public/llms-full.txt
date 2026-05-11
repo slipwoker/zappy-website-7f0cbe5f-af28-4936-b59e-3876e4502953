@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בגט רוסטיק קמח מלא
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-kmch-mla-vg43k5
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### מקלות שום
 URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-shvm-fedy7r
 Price: 0.00 ILS

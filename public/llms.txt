@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 137**
+**Total active products: 138**
+
+### בגט רוסטיק קמח מלא
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-kmch-mla-vg43k5
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778541134161-hqcvhm.webp
 
 ### מקלות שום
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-shvm-fedy7r
