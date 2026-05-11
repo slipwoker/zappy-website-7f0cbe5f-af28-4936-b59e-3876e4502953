@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:02:54.193Z",
+  "generated_at": "2026-05-11T00:04:57.630Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 100,
@@ -79,7 +79,7 @@
     },
     {
       "id": "b753875f-5c80-49bf-8258-de271514cf6e",
-      "slug": "avgyvt-btam-shvkvld-am-agvzy-lvz-evvncn",
+      "slug": "avgyvt-btam-shvkvld-am-agvzy-lvz-04evx1",
       "name": "עוגיות בטעם שוקולד עם אגוזי לוז",
       "name_translations": {},
       "description": "",
@@ -91,15 +91,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.co.il/assets/product-1778456749851-smdh1f.webp"
+        "https://boker-tari.co.il/assets/product-1778457857801-7zxsg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgyvt-btam-shvkvld-am-agvzy-lvz-evvncn",
+      "url": "https://boker-tari.co.il/product/avgyvt-btam-shvkvld-am-agvzy-lvz-04evx1",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-10T23:46:22.005Z"
+      "updated_at": "2026-05-11T00:04:26.738Z"
     },
     {
       "id": "67b704fc-8791-4f69-9e0b-607f15c698a7",
