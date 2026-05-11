@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 101**
+**Total active products: 102**
+
+###  קפוצ'ינו
+https://boker-tari.co.il/product/kpvtsynv-kno3v4
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: עוגיות
+- Image: https://boker-tari.co.il/assets/product-1778458828635-h29glj.webp
 
 ### עוגיות שומשומית
 https://boker-tari.co.il/product/avgyvt-shvmshvmyt-d8cp5r
