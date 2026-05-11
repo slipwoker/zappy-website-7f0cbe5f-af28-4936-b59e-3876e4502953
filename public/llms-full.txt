@@ -5572,14 +5572,14 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### שישיית לחמניות מיני ללא גלוטן 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### רביעיית לחמניות המבורגר ללא גלוטן 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-331029
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka
 Price: 0.00 ILS
 Availability: In stock
 

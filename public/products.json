@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T13:43:59.768Z",
+  "generated_at": "2026-05-11T18:13:42.091Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 118,
   "products": [
     {
       "id": "d4a2cd71-a31d-4f74-9193-5250bf61ef71",
-      "slug": "shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb",
+      "slug": "shyshyyt-lchmnyvt-myny-lla-glvtn-0swten",
       "name": "שישיית לחמניות מיני ללא גלוטן ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "רכיבים: עמילנים למאכל (טפיוקה, תפו\"א), מים, שמן סויה מזוכך, קמח סויה, מסמיכים (E1414, קסנטן גאם), ביצים, שמרים לאפיה, שומשום, סיבים תזונתיים (צלולוז), סוכר לבן, מלח שולחן, מווסת חומציות (E270), מתפיח (E500ii).\n\nמידע על אלרגנים: מיכל סויה, ביצים, שומשום.\n\nעלול להכיל אגוזים, חלב.\n\nמשקל: 420 גרם.\n\nכשר פרווה בהשגחת הרבנות יבנה, בהשגחת הבדץ.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -23,19 +23,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten",
       "categories": [
         " ללא גלוטן"
       ],
-      "updated_at": "2026-05-11T13:43:28.827Z"
+      "updated_at": "2026-05-11T18:13:11.225Z"
     },
     {
       "id": "0817872d-dcb9-4c39-a0f5-1f3257669a5c",
-      "slug": "rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-331029",
+      "slug": "rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka",
       "name": "רביעיית לחמניות המבורגר ללא גלוטן ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "רכיבים: עמילני תפוח אדמה, תירס וטפיוקה, מים, שמן צמחי, ביצים, שמרים, קמח סויה, סוכר, מיצב צמחי קסנטן, מלח, סיבים תזונתיים, חומר תפיחה סודיום ביקרבונט, שומשום.\nאלרגניים: מכיל ביצים, סויה ושומשום, עשוי להכיל אגוזים.\n\nמשקל: 350 גרם (4 יח')",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-331029",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka",
       "categories": [
         " ללא גלוטן"
       ],
-      "updated_at": "2026-05-11T13:41:09.726Z"
+      "updated_at": "2026-05-11T18:13:37.729Z"
     },
     {
       "id": "7235dca4-fcfd-409a-969c-6d9e353be13b",

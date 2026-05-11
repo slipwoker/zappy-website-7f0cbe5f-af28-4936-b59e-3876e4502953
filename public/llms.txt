@@ -76,17 +76,19 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 118**
 
 ### שישיית לחמניות מיני ללא גלוטן 
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-fqzepb
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten
 - Price: 0.00 ILS
 - Availability: In stock
 - Category:  ללא גלוטן
+- Description: רכיבים: עמילנים למאכל (טפיוקה, תפו"א), מים, שמן סויה מזוכך, קמח סויה, מסמיכים (E1414, קסנטן גאם), ביצים, שמרים לאפיה, שומשום, סיבים תזונתיים (צלולוז), סוכר לבן, מלח שולחן, מווסת חומציות (E270), מתפיח (E500ii). מידע על אלרגנים: מיכל סויה, ביצים, שומשום. עלול להכיל אגוזים, חלב. משקל: 420 גרם. כשר פרווה בהשגחת הרבנות יבנה, בהשגחת הבדץ.
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778506993601-qwd5tr.webp
 
 ### רביעיית לחמניות המבורגר ללא גלוטן 
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-331029
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka
 - Price: 0.00 ILS
 - Availability: In stock
 - Category:  ללא גלוטן
+- Description: רכיבים: עמילני תפוח אדמה, תירס וטפיוקה, מים, שמן צמחי, ביצים, שמרים, קמח סויה, סוכר, מיצב צמחי קסנטן, מלח, סיבים תזונתיים, חומר תפיחה סודיום ביקרבונט, שומשום. אלרגניים: מכיל ביצים, סויה ושומשום, עשוי להכיל אגוזים. משקל: 350 גרם (4 יח')
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778506827662-0o77rk.webp
 
 ### עוגיות חטיפי קשיו ושקדים ללא תוספת סוכר
