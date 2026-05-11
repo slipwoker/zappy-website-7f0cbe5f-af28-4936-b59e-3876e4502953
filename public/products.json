@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:02:32.884Z",
+  "generated_at": "2026-05-11T23:03:54.603Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 135,
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
-      "slug": "lchmnyyt-rvstyk-khh-o6c5qi",
+      "slug": "lchmnyyt-rvstyk-khh-zpllyg",
       "name": "לחמניית רוסטיק כהה",
       "name_translations": {},
       "description": "",
@@ -2827,11 +2827,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-o6c5qi",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-zpllyg",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T23:02:02.008Z"
+      "updated_at": "2026-05-11T23:03:23.625Z"
     },
     {
       "id": "dbc49e97-be41-4dae-b49b-ab2462068cc2",
