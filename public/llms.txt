@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 133**
+**Total active products: 134**
+
+### פרס ריקוטה (עוגת גבינה) במשקל 
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/prs-rykvth-avgt-gbynh-bmshkl-v09do2
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: קוראסים ומתוקים
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778540107968-tjxmjd.webp
 
 ### עוגת פרס פרג במשקל 
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgt-prs-prg-bmshkl-adkbdg
