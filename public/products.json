@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:39:13.847Z",
+  "generated_at": "2026-05-11T23:44:21.992Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
   "products": [
     {
       "id": "852a66fc-6186-4d6c-affe-c3444d125b0b",
-      "slug": "chlt-hbyt-btabvn-lnp3a0",
+      "slug": "chlt-hbyt-btabvn-5w81xa",
       "name": "חלת הבית בטאבון",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-lnp3a0",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-5w81xa",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:38:42.754Z"
+      "updated_at": "2026-05-11T23:44:09.412Z"
     },
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
@@ -2497,11 +2497,11 @@
     },
     {
       "id": "0f7e958e-d4bc-48fd-a956-779cc6ff0445",
-      "slug": "chlh-prvsh-2yujm2",
+      "slug": "chlh-prvsh-z0e7q9",
       "name": "חלה פרוסה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2513,11 +2513,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-2yujm2",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-z0e7q9",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T17:07:04.451Z"
+      "updated_at": "2026-05-11T23:43:51.165Z"
     },
     {
       "id": "b4ffaabf-1705-45cd-bc92-942b4e9db1bb",

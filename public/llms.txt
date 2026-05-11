@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 143**
 
 ### חלת הבית בטאבון
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-lnp3a0
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-5w81xa
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
+- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778542714491-4tuea7.webp
 
 ### לחם מחמצת אגוזים קלמטה  שלם
@@ -827,10 +828,11 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-shkyt-tnvb
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777914514527-edqoul.webp
 
 ### חלה פרוסה
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-2yujm2
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-z0e7q9
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
+- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777914369991-amf3kg.webp
 
 ### חלה מיני
