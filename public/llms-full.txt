@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות פרפריות שבבי אגוזי לוז חלבי
+URL: https://boker-tari.co.il/product/avgyvt-prpryvt-shbby-agvzy-lvz-chlby-jlv3wr
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### עוגיות פצצות שוקולד
 URL: https://boker-tari.co.il/product/avgyvt-ptstsvt-shvkvld-2x4ons
 Price: 0.00 ILS
