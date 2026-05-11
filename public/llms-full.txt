@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות טחינה ללא תוספת סוכר (Copy)
+URL: https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-copy-xychvp
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### עוגיות שומשומיות ללא תוספת סוכר
 URL: https://boker-tari.co.il/product/avgyvt-shvmshvmyvt-lla-tvspt-svkr-6xm1le
 Price: 0.00 ILS
