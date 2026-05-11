@@ -6307,14 +6307,14 @@ Availability: In stock
 ---
 
 ### חלה מיני
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-9ku3vs
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-z1ldp4
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה קלועה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-3t9krs
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-t3tpkl
 Price: 0.00 ILS
 Availability: In stock
 
@@ -6328,7 +6328,7 @@ Availability: In stock
 ---
 
 ### חלה מתוקה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-z1oydu
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-41glcz
 Price: 0.00 ILS
 Availability: In stock
 

@@ -836,17 +836,19 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-z0e7q
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777914369991-amf3kg.webp
 
 ### חלה מיני
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-9ku3vs
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-z1ldp4
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
+- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777914202819-4si4e9.webp
 
 ### חלה קלועה
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-3t9krs
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-t3tpkl
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
+- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777914078272-d496e.webp
 
 ### חלה כוסמין
@@ -857,10 +859,11 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-kvsmyn-lv1q
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777913993061-z8wwfl.webp
 
 ### חלה מתוקה
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-z1oydu
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-41glcz
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: חלות
+- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777913859073-3l4qs2.webp
 
 ### חלה

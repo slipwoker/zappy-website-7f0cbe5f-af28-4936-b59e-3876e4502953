@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:44:21.992Z",
+  "generated_at": "2026-05-11T23:44:55.468Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2521,11 +2521,11 @@
     },
     {
       "id": "b4ffaabf-1705-45cd-bc92-942b4e9db1bb",
-      "slug": "chlh-myny-9ku3vs",
+      "slug": "chlh-myny-z1ldp4",
       "name": "חלה מיני",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2537,19 +2537,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-9ku3vs",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-z1ldp4",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T17:03:45.032Z"
+      "updated_at": "2026-05-11T23:44:24.721Z"
     },
     {
       "id": "57d084bf-83b0-46cc-b267-2b0625ea67cf",
-      "slug": "chlh-klvah-3t9krs",
+      "slug": "chlh-klvah-t3tpkl",
       "name": "חלה קלועה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2561,11 +2561,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-3t9krs",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-t3tpkl",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T17:01:49.761Z"
+      "updated_at": "2026-05-11T23:44:37.024Z"
     },
     {
       "id": "6c1b9e85-e9fe-4fef-8e59-1849ed5e9c0c",
@@ -2593,11 +2593,11 @@
     },
     {
       "id": "88135842-1a6e-4f6a-8165-8557c4876533",
-      "slug": "chlh-mtvkh-z1oydu",
+      "slug": "chlh-mtvkh-41glcz",
       "name": "חלה מתוקה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2609,11 +2609,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-z1oydu",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-41glcz",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T16:57:47.888Z"
+      "updated_at": "2026-05-11T23:44:53.118Z"
     },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
