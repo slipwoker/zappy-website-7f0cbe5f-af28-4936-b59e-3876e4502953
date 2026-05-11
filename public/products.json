@@ -1,34 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:56:54.562Z",
+  "generated_at": "2026-05-11T00:59:44.765Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 117,
+  "count": 116,
   "products": [
-    {
-      "id": "14ef475c-d3c3-4e7f-a827-e84d526efc9c",
-      "slug": "avgyvt-tchynh-lla-tvspt-svkr-copy-xychvp",
-      "name": "עוגיות טחינה ללא תוספת סוכר (Copy)",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1778460658855-204xli.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-copy-xychvp",
-      "categories": [
-        "עוגיות"
-      ],
-      "updated_at": "2026-05-11T00:56:23.693Z"
-    },
     {
       "id": "fb954002-f460-4c5c-b1c1-b298e2165994",
       "slug": "avgyvt-shvmshvmyvt-lla-tvspt-svkr-6xm1le",
@@ -79,7 +55,7 @@
     },
     {
       "id": "d61d2692-cd5a-44cc-a4ec-804e7914814a",
-      "slug": "avgyvt-tchynh-lla-tvspt-svkr-89zx1q",
+      "slug": "avgyvt-tchynh-lla-tvspt-svkr-z4uxvj",
       "name": "עוגיות טחינה ללא תוספת סוכר",
       "name_translations": {},
       "description": "",
@@ -91,15 +67,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.co.il/assets/product-1778460658855-204xli.webp"
+        "https://boker-tari.co.il/assets/product-1778461144060-0v3r8f.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-89zx1q",
+      "url": "https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-z4uxvj",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-11T00:51:07.361Z"
+      "updated_at": "2026-05-11T00:59:13.677Z"
     },
     {
       "id": "5fc2457d-0353-47fb-bda9-9500aae135ca",
