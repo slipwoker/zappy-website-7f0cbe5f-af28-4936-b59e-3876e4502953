@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### פוקצה פסטו שמיר בולגרית וירקות קלויים 
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pvktsh-pstv-shmyr-bvlgryt-vyrkvt-klvyym-aermp7
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### פיתה פיצה
 URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-j4z1qy
 Price: 0.00 ILS
