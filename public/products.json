@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:49:51.386Z",
+  "generated_at": "2026-05-11T21:52:18.634Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 127,
   "products": [
     {
       "id": "94cec63d-80e4-41e3-94b2-9d6401c6c38d",
-      "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4",
+      "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx",
       "name": "לחם קל מקמח חיטה מלא ושיפון מלא",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4",
-      "categories": [],
-      "updated_at": "2026-05-11T21:49:20.443Z"
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T21:51:47.825Z"
     },
     {
       "id": "85aa1216-38cb-4c10-be31-242f57e3425a",

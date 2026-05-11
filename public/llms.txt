@@ -76,9 +76,10 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 127**
 
 ### לחם קל מקמח חיטה מלא ושיפון מלא
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-jishjx
 - Price: 0.00 ILS
 - Availability: In stock
+- Category: לחמים מיוחדים
 - Description: מים, קמח חיטה מלא (32% ממשקל הלחם, 60% ממשקל הקמחים) (מכיל גלוטן), קמח שיפון מלא (11% ממשקל הלחם, 20% ממשקל הקמחים) (מכיל גלוטן), קמח חיטה כהה (מכיל גלוטן), סיבים תזונתיים, חלבון צמחי (מכיל גלוטן), מלח שולחן, שמרים, חומרים משמרים: קלציום פרופיונט ופוטסיום סורבט, מתחלב E481, מווסת חומציות: חומצת לימון, אנזימים, חומר לטיפול בקמח: חומצה אסקורבית(ויטמיןC)
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778535933695-0ipjt.webp
 
