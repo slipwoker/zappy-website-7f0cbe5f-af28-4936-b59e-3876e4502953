@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T22:56:01.908Z",
+  "generated_at": "2026-05-11T23:02:05.356Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 134,
+  "count": 135,
   "products": [
+    {
+      "id": "a5755d7f-4fb5-4c99-b8fa-8ed594c83829",
+      "slug": "plvtyb-prnh-dkh-oqw7g9",
+      "name": "פלוטיב (פרנה דקה)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778540478658-j45dm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/plvtyb-prnh-dkh-oqw7g9",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T23:01:34.207Z"
+    },
     {
       "id": "ab7ead39-648a-4f3a-ac81-b57326b60fba",
       "slug": "prs-rykvth-avgt-gbynh-bmshkl-v09do2",
@@ -2787,7 +2811,7 @@
     },
     {
       "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
-      "slug": "lchmnyyt-rvstyk-khh-9hsrz2",
+      "slug": "lchmnyyt-rvstyk-khh-o6c5qi",
       "name": "לחמניית רוסטיק כהה",
       "name_translations": {},
       "description": "",
@@ -2803,12 +2827,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-9hsrz2",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-o6c5qi",
       "categories": [
-        "לחם",
-        "לחמים מיוחדים"
+        "לחם"
       ],
-      "updated_at": "2026-05-10T12:28:45.613Z"
+      "updated_at": "2026-05-11T23:02:02.008Z"
     },
     {
       "id": "dbc49e97-be41-4dae-b49b-ab2462068cc2",

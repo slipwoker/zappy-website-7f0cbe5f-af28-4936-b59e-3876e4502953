@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 134**
+**Total active products: 135**
+
+### פלוטיב (פרנה דקה)
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/plvtyb-prnh-dkh-oqw7g9
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778540478658-j45dm.webp
 
 ### פרס ריקוטה (עוגת גבינה) במשקל 
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/prs-rykvth-avgt-gbynh-bmshkl-v09do2
@@ -915,7 +922,7 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-prnh-q6kohc
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777909030815-v5414j.webp
 
 ### לחמניית רוסטיק כהה
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-9hsrz2
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-o6c5qi
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחם
