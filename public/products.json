@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T19:05:42.320Z",
+  "generated_at": "2026-05-11T19:10:18.428Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 123,
+  "count": 124,
   "products": [
+    {
+      "id": "cc95ca90-08a6-410e-bdd6-722d14ef2aa9",
+      "slug": "lchm-kvsmyn-prvs-dvydvbyts-lgbhc7",
+      "name": "לחם כוסמין  פרוס דוידוביץ' ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קמח כוסמין מלא (מכיל גלוטן) (100% מסך הקמחים, 43% ממשקל המוצר), מים, משפר אפייה (מכיל גלוטן חיטה ושיפון) [גלוטן חיטה, מחמצות (חיטה שיפון), מלח, חומר טיפול בקמח (קלציום קרבונט), חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), מתחלב (E-481), אנזימים, מעכב חמצון (חומצה אסקורבית)], פתיתי שיפון מלא, גרעיני פשתן מלא, סולת חיטה, שמרים, גלוטן חיטה.",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778526461773-9dv0n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-prvs-dvydvbyts-lgbhc7",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T19:09:47.482Z"
+    },
     {
       "id": "5c8f86d4-a0c8-4a54-9277-bd04c800ad05",
       "slug": "dgnym-lchm-prvs-agmy-o8rf2q",
