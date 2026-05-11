@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:35:57.181Z",
+  "generated_at": "2026-05-11T23:39:13.847Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 142,
+  "count": 143,
   "products": [
+    {
+      "id": "852a66fc-6186-4d6c-affe-c3444d125b0b",
+      "slug": "chlt-hbyt-btabvn-lnp3a0",
+      "name": "חלת הבית בטאבון",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778542714491-4tuea7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-lnp3a0",
+      "categories": [
+        "חלות"
+      ],
+      "updated_at": "2026-05-11T23:38:42.754Z"
+    },
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
       "slug": "lchm-mchmtst-agvzym-klmth-shlm-a81c46",

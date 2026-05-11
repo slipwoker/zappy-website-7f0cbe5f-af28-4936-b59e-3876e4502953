@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 142**
+**Total active products: 143**
+
+### חלת הבית בטאבון
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-lnp3a0
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: חלות
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778542714491-4tuea7.webp
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-a81c46
