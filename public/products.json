@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:21:08.757Z",
+  "generated_at": "2026-05-11T00:21:51.727Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 102,
   "products": [
     {
       "id": "3ba839e3-895c-4812-a80f-47fc72771a6b",
-      "slug": "kpvtsynv-kno3v4",
-      "name": " קפוצ'ינו",
+      "slug": "avgyvt-kpvtsynv-wq1sao",
+      "name": " עוגיות קפוצ'ינו",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kpvtsynv-kno3v4",
+      "url": "https://boker-tari.co.il/product/avgyvt-kpvtsynv-wq1sao",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-11T00:20:37.557Z"
+      "updated_at": "2026-05-11T00:21:20.842Z"
     },
     {
       "id": "c6d8deda-2431-46a9-b636-ecab908748e6",
