@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### בגט רוסטיק לבן
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-lbn-nrfv4a
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### בגט רוסטיק קמח מלא
 URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-kmch-mla-vg43k5
 Price: 0.00 ILS
