@@ -73,7 +73,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 102**
+**Total active products: 103**
+
+### עוגיות פצצות שוקולד
+https://boker-tari.co.il/product/avgyvt-ptstsvt-shvkvld-2x4ons
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: עוגיות
+- Image: https://boker-tari.co.il/assets/product-1778459039036-72dbv.webp
 
 ###  עוגיות קפוצ'ינו
 https://boker-tari.co.il/product/avgyvt-kpvtsynv-wq1sao

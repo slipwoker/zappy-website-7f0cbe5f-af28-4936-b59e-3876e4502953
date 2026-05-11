@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### עוגיות פצצות שוקולד
+URL: https://boker-tari.co.il/product/avgyvt-ptstsvt-shvkvld-2x4ons
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ###  עוגיות קפוצ'ינו
 URL: https://boker-tari.co.il/product/avgyvt-kpvtsynv-wq1sao
 Price: 0.00 ILS
