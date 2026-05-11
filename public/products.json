@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:41:19.438Z",
+  "generated_at": "2026-05-11T00:43:34.406Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 109,
+  "count": 110,
   "products": [
+    {
+      "id": "386e4ccc-7c7a-47a8-a916-8af187fad191",
+      "slug": "avgyvt-shvkvld-tsyps-cg7qlh",
+      "name": "עוגיות שוקולד צ'יפס",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778460174117-2h4bni.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-shvkvld-tsyps-cg7qlh",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-11T00:43:03.443Z"
+    },
     {
       "id": "975c44e6-bbe5-4d42-9879-c6cd39257ced",
       "slug": "avgyvt-agvzynh-lla-tvspt-svkr-3wev5h",
