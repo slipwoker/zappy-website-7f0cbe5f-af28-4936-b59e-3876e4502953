@@ -4,7 +4,20 @@
     <title>בוקר טרי</title>
     <link>https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com</link>
     <description>Product feed for בוקר טרי</description>
-    <lastBuildDate>Mon, 11 May 2026 22:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:51:32 GMT</lastBuildDate>
+    <item>
+      <g:id>0539c0a7-6034-4bbe-81aa-54edb8c696bf</g:id>
+      <g:title>סמבוסק פיצה</g:title>
+      <g:description>סמבוסק פיצה</g:description>
+      <g:link>https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/smbvsk-pytsh-rclo75</g:link>
+      <g:image_link>https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778539838775-35at6k.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>בוקר טרי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>לחם</g:product_type>
+    </item>
     <item>
       <g:id>7ed5dcd7-7d4f-4a45-8ce7-1a0a4bc49b00</g:id>
       <g:title>דונאטס</g:title>
