@@ -75,8 +75,8 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 117**
 
-### עוגיות חטיפי קשיו ושקדים ללא תוספת סוכר (Copy)
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-copy-hqz36g
+### טסט של זאפי
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/tst-shl-zapy-odxsyp
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: עוגיות
