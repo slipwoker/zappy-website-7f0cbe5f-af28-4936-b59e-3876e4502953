@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:34:17.550Z",
+  "generated_at": "2026-05-11T00:36:57.075Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 107,
+  "count": 108,
   "products": [
+    {
+      "id": "e70a1aab-47a5-414b-acdf-da8918aba864",
+      "slug": "avgyvt-shvkvld-agvzy-lvz-lla-tvspt-svkr-5da40v",
+      "name": "עוגיות שוקולד אגוזי לוז ללא תוספת סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778459777257-zgbss9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-shvkvld-agvzy-lvz-lla-tvspt-svkr-5da40v",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-11T00:36:25.949Z"
+    },
     {
       "id": "221cbda1-603b-4798-9c60-8604bcbbc42d",
       "slug": "avgyvt-shrvny-shkdym-9tftcf",
