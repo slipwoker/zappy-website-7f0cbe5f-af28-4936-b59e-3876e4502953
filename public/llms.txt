@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 118**
+**Total active products: 119**
+
+### פיתה שום
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-shvm-x29mss
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחם
+- Description: יצרן / מותג: קובטיס דברי מאפה מכיל: פיתה שום רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שום, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום. השגחה: בד"ץ ירושלים העדה החרדית
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778524139200-apfmn9.webp
 
 ### שישיית לחמניות מיני ללא גלוטן 
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten
