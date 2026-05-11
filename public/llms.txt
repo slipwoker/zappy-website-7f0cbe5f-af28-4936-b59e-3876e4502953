@@ -955,10 +955,11 @@ https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-tpvch-admh
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/image-product-image-1777911579073-f29txc.webp
 
 ### בורקס גבינה מסעדות
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-gbynh-msadvt-qwkw68
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-gbynh-msadvt-l05442
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: בורקסים
+- Description: מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה השגחה: חוג חתם סופר פתח תקווה
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1777911463705-3f7lc9.webp
 
 ### אצבעות תפוחי עץ

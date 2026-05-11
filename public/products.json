@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:46:17.414Z",
+  "generated_at": "2026-05-11T23:47:30.913Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2905,11 +2905,11 @@
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
-      "slug": "bvrks-gbynh-msadvt-qwkw68",
+      "slug": "bvrks-gbynh-msadvt-l05442",
       "name": "בורקס גבינה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה\nהשגחה: חוג חתם סופר פתח תקווה",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2921,11 +2921,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-gbynh-msadvt-qwkw68",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-gbynh-msadvt-l05442",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-04T16:17:50.842Z"
+      "updated_at": "2026-05-11T23:46:59.730Z"
     },
     {
       "id": "c797c272-fd63-4a7a-bb3c-921a8da915c8",
