@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:44:55.468Z",
+  "generated_at": "2026-05-11T23:45:23.948Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2617,11 +2617,11 @@
     },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
-      "slug": "chlh-fhta4k",
+      "slug": "chlh-7308id",
       "name": "חלה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2633,11 +2633,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-fhta4k",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-7308id",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-04T16:55:23.136Z"
+      "updated_at": "2026-05-11T23:45:06.575Z"
     },
     {
       "id": "ee6be3d2-52f2-49b2-a326-9c55c5edf182",
