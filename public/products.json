@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:43:04.266Z",
+  "generated_at": "2026-05-11T21:49:51.386Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 126,
+  "count": 127,
   "products": [
+    {
+      "id": "94cec63d-80e4-41e3-94b2-9d6401c6c38d",
+      "slug": "lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4",
+      "name": "לחם קל מקמח חיטה מלא ושיפון מלא",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מים, קמח חיטה מלא (32% ממשקל הלחם, 60% ממשקל הקמחים) (מכיל גלוטן), קמח שיפון מלא (11% ממשקל הלחם, 20% ממשקל הקמחים) (מכיל גלוטן), קמח חיטה כהה (מכיל גלוטן), סיבים תזונתיים, חלבון צמחי (מכיל גלוטן), מלח שולחן, שמרים, חומרים משמרים: קלציום פרופיונט ופוטסיום סורבט, מתחלב E481, מווסת חומציות: חומצת לימון, אנזימים, חומר לטיפול בקמח: חומצה אסקורבית(ויטמיןC)",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778535933695-0ipjt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4",
+      "categories": [],
+      "updated_at": "2026-05-11T21:49:20.443Z"
+    },
     {
       "id": "85aa1216-38cb-4c10-be31-242f57e3425a",
       "slug": "6-ychdvt-pyth-kvsmyn-o1zjzt",

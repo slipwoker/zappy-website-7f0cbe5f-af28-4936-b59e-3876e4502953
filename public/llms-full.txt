@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### לחם קל מקמח חיטה מלא ושיפון מלא
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-fgksg4
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### 6 יחדות פיתה כוסמין
 URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/6-ychdvt-pyth-kvsmyn-o1zjzt
 Price: 0.00 ILS
