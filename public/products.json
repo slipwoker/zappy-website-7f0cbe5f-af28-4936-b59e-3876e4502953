@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:04:57.630Z",
+  "generated_at": "2026-05-11T00:07:34.129Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 100,
@@ -103,7 +103,7 @@
     },
     {
       "id": "67b704fc-8791-4f69-9e0b-607f15c698a7",
-      "slug": "avgyvt-byskvty-shvkvld-uvs9v8",
+      "slug": "avgyvt-byskvty-shvkvld-kcqh4w",
       "name": "עוגיות ביסקוטי שוקולד",
       "name_translations": {},
       "description": "",
@@ -115,15 +115,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://boker-tari.co.il/assets/product-1778456703973-mxu669.webp"
+        "https://boker-tari.co.il/assets/product-1778458011556-5asedc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgyvt-byskvty-shvkvld-uvs9v8",
+      "url": "https://boker-tari.co.il/product/avgyvt-byskvty-shvkvld-kcqh4w",
       "categories": [
         "עוגיות"
       ],
-      "updated_at": "2026-05-10T23:45:27.578Z"
+      "updated_at": "2026-05-11T00:07:02.985Z"
     },
     {
       "id": "c072a871-e7fa-47a4-a4ec-11d3a2132f9f",
