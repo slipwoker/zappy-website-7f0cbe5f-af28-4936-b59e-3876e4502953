@@ -73,7 +73,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 122**
+**Total active products: 123**
+
+### דגנים לחם פרוס אגמי
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dgnym-lchm-prvs-agmy-o8rf2q
+- Price: 0.00 ILS
+- Availability: In stock
+- Category: לחמים מיוחדים
+- Description: מים, קמח חיטה מלא (מכיל גלוטן )[100% מסךהקמחים, 32% ממשקל המוצר ], גרעיני חיטה מלאה לאחר השרייה(11.5% )(גרעיני חיטה,מים),גרעיני פשתן,סולת חיטה(5%),משפר אפייה[גלוטן חיטה,מלח,קמח תירס,קמח אורז,מחמצת שיפון(מכיל גלוטן),מתחלבים(E471,E481),חומרים משמרים(קלציום פרופיונט,פוטסיום סורבט),חומר טיפול בקמח(קלציום קרבונט)אנזימים,מעכב חמצון (חומצה אסקורבית),תערובת גרעינים(4.2%)[שיבולת שועל(מכיל גלוטן),קינואה,דוחן,כוסמת],משפר אפיה[גלוטן חיטה,קמח תירס ,קמח אורז,מלח,חומר טיפול בקמח(קלציום קרבונט),מחמצת שיפון,משמר
+- Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778526296312-4eq2dp.webp
 
 ### פוקצ"ה אריסה שמיר בולגרית וירקות קלויים 
 https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pvktsh-arysh-shmyr-bvlgryt-vyrkvt-klvyym-6kqqau

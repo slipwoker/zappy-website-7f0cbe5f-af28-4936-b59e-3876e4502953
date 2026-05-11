@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T18:59:14.169Z",
+  "generated_at": "2026-05-11T19:05:42.320Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
-  "count": 122,
+  "count": 123,
   "products": [
+    {
+      "id": "5c8f86d4-a0c8-4a54-9277-bd04c800ad05",
+      "slug": "dgnym-lchm-prvs-agmy-o8rf2q",
+      "name": "דגנים לחם פרוס אגמי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מים, קמח חיטה מלא (מכיל גלוטן )[100% מסךהקמחים, 32% ממשקל המוצר ], גרעיני חיטה מלאה לאחר השרייה(11.5% )(גרעיני חיטה,מים),גרעיני פשתן,סולת חיטה(5%),משפר אפייה[גלוטן חיטה,מלח,קמח תירס,קמח אורז,מחמצת שיפון(מכיל גלוטן),מתחלבים(E471,E481),חומרים משמרים(קלציום פרופיונט,פוטסיום סורבט),חומר טיפול בקמח(קלציום קרבונט)אנזימים,מעכב חמצון (חומצה אסקורבית),תערובת גרעינים(4.2%)[שיבולת שועל(מכיל גלוטן),קינואה,דוחן,כוסמת],משפר אפיה[גלוטן חיטה,קמח תירס ,קמח אורז,מלח,חומר טיפול בקמח(קלציום קרבונט),מחמצת שיפון,משמר",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778526296312-4eq2dp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dgnym-lchm-prvs-agmy-o8rf2q",
+      "categories": [
+        "לחמים מיוחדים"
+      ],
+      "updated_at": "2026-05-11T19:05:11.313Z"
+    },
     {
       "id": "14a406b9-bfbe-4256-a35c-45bee8cacfa8",
       "slug": "pvktsh-arysh-shmyr-bvlgryt-vyrkvt-klvyym-6kqqau",

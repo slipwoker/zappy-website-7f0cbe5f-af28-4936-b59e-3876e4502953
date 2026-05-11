@@ -5571,6 +5571,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Product Catalog
 
+### דגנים לחם פרוס אגמי
+URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dgnym-lchm-prvs-agmy-o8rf2q
+Price: 0.00 ILS
+Availability: In stock
+
+---
+
 ### פוקצ"ה אריסה שמיר בולגרית וירקות קלויים 
 URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pvktsh-arysh-shmyr-bvlgryt-vyrkvt-klvyym-6kqqau
 Price: 0.00 ILS
