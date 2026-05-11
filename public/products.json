@@ -1,10 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T00:45:09.568Z",
+  "generated_at": "2026-05-11T00:47:24.423Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 111,
+  "count": 112,
   "products": [
+    {
+      "id": "888ce092-b26d-4ad1-a621-5df1c4952921",
+      "slug": "avgyvt-avznyym-myny-vnyl-lla-tvspt-svkr-qizb8f",
+      "name": "עוגיות אוזניים מיני וניל ללא תוספת סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://boker-tari.co.il/assets/product-1778460405451-grwug.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://boker-tari.co.il/product/avgyvt-avznyym-myny-vnyl-lla-tvspt-svkr-qizb8f",
+      "categories": [
+        "עוגיות"
+      ],
+      "updated_at": "2026-05-11T00:46:53.415Z"
+    },
     {
       "id": "ee628511-b7a2-470d-98e6-64b89e6d955c",
       "slug": "avgyvt-sndvvyts-rybh-od3pyv",
