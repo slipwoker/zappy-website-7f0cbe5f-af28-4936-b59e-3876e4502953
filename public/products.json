@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T18:29:43.777Z",
+  "generated_at": "2026-05-11T18:30:39.393Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 119,
   "products": [
     {
       "id": "deb66570-49b5-424d-9bac-e4399da3a976",
-      "slug": "pyth-shvm-x29mss",
+      "slug": "pyth-shvm-gb0qlr",
       "name": "פיתה שום",
       "name_translations": {},
       "description": "",
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-shvm-x29mss",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-shvm-gb0qlr",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T18:29:12.786Z"
+      "updated_at": "2026-05-11T18:30:08.486Z"
     },
     {
       "id": "d4a2cd71-a31d-4f74-9193-5250bf61ef71",
