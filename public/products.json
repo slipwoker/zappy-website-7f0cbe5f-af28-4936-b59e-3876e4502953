@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:33:37.023Z",
+  "generated_at": "2026-05-11T23:35:57.181Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 142,
   "products": [
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
-      "slug": "lchm-mchmtst-agvzym-klmth-shlm-8iu98l",
+      "slug": "lchm-mchmtst-agvzym-klmth-shlm-a81c46",
       "name": "לחם מחמצת אגוזים קלמטה  שלם",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-8iu98l",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-a81c46",
       "categories": [],
-      "updated_at": "2026-05-11T23:33:05.939Z"
+      "updated_at": "2026-05-11T23:35:26.271Z"
     },
     {
       "id": "2e4c5eb9-945e-400a-b7a7-daadd3358370",
