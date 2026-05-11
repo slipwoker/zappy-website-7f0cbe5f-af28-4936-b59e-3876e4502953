@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:47:30.913Z",
+  "generated_at": "2026-05-11T23:48:30.121Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2857,11 +2857,11 @@
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
-      "slug": "bvrks-trd-vgbynh-msadvt-w3an3u",
+      "slug": "bvrks-trd-vgbynh-msadvt-8cxz8i",
       "name": "בורקס תרד וגבינה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: גבינת קשקבל, גבינה פטה, תרד,שמן זית\nהשגחה: חוג חתם סופר פתח תקווה",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -2873,11 +2873,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-trd-vgbynh-msadvt-w3an3u",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-trd-vgbynh-msadvt-8cxz8i",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-04T16:28:53.604Z"
+      "updated_at": "2026-05-11T23:47:59.092Z"
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
