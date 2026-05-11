@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:59:02.406Z",
+  "generated_at": "2026-05-11T23:59:47.919Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -2041,11 +2041,11 @@
     },
     {
       "id": "2fb79b3a-e667-4fce-b222-1b8250ab1f6f",
-      "slug": "kryk-bvlgryt-chb3xd",
+      "slug": "kryk-bvlgryt-vrsx2e",
       "name": "כריך בולגרית",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: תכולה: עגבניות, מלפפון בולגרית, ",
       "sku": null,
       "brand": null,
       "price": 20,
@@ -2057,11 +2057,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-bvlgryt-chb3xd",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-bvlgryt-vrsx2e",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-06T10:51:39.688Z"
+      "updated_at": "2026-05-11T23:59:17.098Z"
     },
     {
       "id": "4c709038-8f2f-4ef8-af01-f5b345ba515d",
