@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T23:55:03.400Z",
+  "generated_at": "2026-05-11T23:55:41.078Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -3293,11 +3293,11 @@
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
-      "slug": "kryk-tvnh-am-yrkvt-9e4zfl",
+      "slug": "kryk-tvnh-am-yrkvt-8xoyrp",
       "name": "כריך טונה עם ירקות",
       "name_translations": {},
       "description": "<p><br></p>",
-      "short_description": "כריך טונה איכותי  עם לחמניית שמנייה טרייה עם מלפפון ועגבנייה.\n",
+      "short_description": "מכיל: ביצים,גלוטן,דגים,חלבון סויה,חומר משמר E211,חומר משמר E202,טונה,ירקות,לחם,מלפפון חמוץ,מיונז,סויה,שומשום,תבלינים\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n*** במקרה של חוסר בכריך אצל הספק נספק כריך חלופי באופן אוטומטי.\nהשגחה: רבנות מקומית מודיעין מכבים-רעות",
       "sku": null,
       "brand": null,
       "price": 20,
@@ -3309,11 +3309,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-tvnh-am-yrkvt-9e4zfl",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-tvnh-am-yrkvt-8xoyrp",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-06T10:52:21.450Z"
+      "updated_at": "2026-05-11T23:55:10.088Z"
     },
     {
       "id": "926d455f-6462-460b-883e-ee5222c73786",
