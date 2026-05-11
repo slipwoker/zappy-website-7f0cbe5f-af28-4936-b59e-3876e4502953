@@ -76,10 +76,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 128**
 
 ### לחם דגנים פרוס אגמי
-https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-avxpxi
+https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-x09hw9
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחמים מיוחדים
+- Description: מים, קמח חיטה מלא(50% ממשקל הקמחים,19% ממשקל הלחם)[מכיל גלוטן],2מח שיפון מלא(50% ממשקל הקמחים,19% ממשקל הלחם)[מכיל גלוטן],גלוטן חיטה,תערובת גרעינים7%(2.3% פשתן,2.3% שיבולת שועל[מכיל גלוטן],2.3% גרעיני חמניה),סיבים תזונתיים,שמרים,מלח,חומרים משמרים(E202,E282),קמח סויה,מתחלב(E481),מעכבי חמצון(E330,E300),אנזימים.
 - Image: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/assets/product-1778536523194-pquxc.webp
 
 ### לחם קל מקמח חיטה מלא ושיפון מלא פרוס דוידוביץ'

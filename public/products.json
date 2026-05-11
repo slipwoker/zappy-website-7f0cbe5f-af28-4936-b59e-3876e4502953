@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-11T21:56:08.921Z",
+  "generated_at": "2026-05-11T21:57:16.573Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 128,
   "products": [
     {
       "id": "3d91a00e-0aa0-42eb-822e-0321e973f9c9",
-      "slug": "lchm-dgnym-prvs-agmy-avxpxi",
+      "slug": "lchm-dgnym-prvs-agmy-x09hw9",
       "name": "לחם דגנים פרוס אגמי",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מים, קמח חיטה מלא(50% ממשקל הקמחים,19% ממשקל הלחם)[מכיל גלוטן],2מח שיפון מלא(50% ממשקל הקמחים,19% ממשקל הלחם)[מכיל גלוטן],גלוטן חיטה,תערובת גרעינים7%(2.3% פשתן,2.3% שיבולת שועל[מכיל גלוטן],2.3% גרעיני חמניה),סיבים תזונתיים,שמרים,מלח,חומרים משמרים(E202,E282),קמח סויה,מתחלב(E481),מעכבי חמצון(E330,E300),אנזימים.",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -23,11 +23,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-avxpxi",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-x09hw9",
       "categories": [
         "לחמים מיוחדים"
       ],
-      "updated_at": "2026-05-11T21:55:37.853Z"
+      "updated_at": "2026-05-11T21:56:45.691Z"
     },
     {
       "id": "94cec63d-80e4-41e3-94b2-9d6401c6c38d",
