@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-12T00:05:55.885Z",
+  "generated_at": "2026-05-12T00:06:31.478Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -79,7 +79,7 @@
     },
     {
       "id": "516aafaf-ad66-4927-9c1c-1b64a4457d1d",
-      "slug": "lchm-mchmtst-kvsmyn-shlm-5r059w",
+      "slug": "lchm-mchmtst-kvsmyn-shlm-hkvotz",
       "name": "לחם מחמצת כוסמין שלם",
       "name_translations": {},
       "description": "",
@@ -95,11 +95,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-kvsmyn-shlm-5r059w",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-kvsmyn-shlm-hkvotz",
       "categories": [
-        "לחמים מיוחדים"
+        "לחם מחמצת"
       ],
-      "updated_at": "2026-05-11T23:27:04.278Z"
+      "updated_at": "2026-05-12T00:06:00.637Z"
     },
     {
       "id": "8175cc30-50f8-428e-bbb3-106e588c9a14",
