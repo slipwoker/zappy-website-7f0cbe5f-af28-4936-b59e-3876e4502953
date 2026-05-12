@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-12T00:00:48.979Z",
+  "generated_at": "2026-05-12T00:03:06.456Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -53,11 +53,11 @@
     },
     {
       "id": "2e4c5eb9-945e-400a-b7a7-daadd3358370",
-      "slug": "lchm-mchmtst-shypvn-zytym-shlm-v86hjk",
+      "slug": "lchm-mchmtst-shypvn-zytym-shlm-wg803u",
       "name": "לחם מחמצת שיפון זיתים שלם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: לחם מחמצת עשוי מקמח שיפון וזיתים, פריך מבחוץ ורך ונימוח מבפנים, עם טעם אגוזי טבעי ועשיר. מושלם להכנת כריכים, לצד ארוחות או כפינוק בריא בבית.\nרכיבים: קמח שיפון (גלוטן), מים, מחמצת שיפון (גלוטן), קמח חיטה (גלוטן), גלוטן (גלוטן), מלח שולחן, סילאן תמרים, לתת חיטה (גלוטן), משפר אפיה, שמרים.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -69,11 +69,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-shypvn-zytym-shlm-v86hjk",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-shypvn-zytym-shlm-wg803u",
       "categories": [
         "לחמים מיוחדים"
       ],
-      "updated_at": "2026-05-11T23:29:42.840Z"
+      "updated_at": "2026-05-12T00:02:35.491Z"
     },
     {
       "id": "516aafaf-ad66-4927-9c1c-1b64a4457d1d",
