@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-12T00:04:31.083Z",
+  "generated_at": "2026-05-12T00:05:44.851Z",
   "base_url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com",
   "currency": "ILS",
   "count": 143,
@@ -31,11 +31,11 @@
     },
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
-      "slug": "lchm-mchmtst-agvzym-klmth-shlm-zunn1v",
+      "slug": "lchm-mchmtst-agvzym-klmth-shlm-5jyrub",
       "name": "לחם מחמצת אגוזים קלמטה  שלם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: לחם מחמצת פריך מבחוץ ורך מבפנים, עם זיתי קמלטה עסיסיים שמוסיפים טעם עשיר ומרקם ייחודי. מושלם להכנת כריכים, לצד ארוחות או כפינוק ביתי ומפנק.\nרכיבים: קמח חיטה (גלוטן), מים, מחמצת שיפון (גלוטן), זית קלמטה, מלח שולחן, גלוטן (גלוטן), לתת חיטה (גלוטן), משפר אפיה. מידע על אלרגנים: גלוטן (חיטה, שיפון) עלול להכיל: אגוזים (אגוז מלך), שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-zunn1v",
+      "url": "https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub",
       "categories": [
-        "לחמים מיוחדים"
+        "לחם מחמצת"
       ],
-      "updated_at": "2026-05-12T00:04:00.063Z"
+      "updated_at": "2026-05-12T00:05:25.022Z"
     },
     {
       "id": "2e4c5eb9-945e-400a-b7a7-daadd3358370",
