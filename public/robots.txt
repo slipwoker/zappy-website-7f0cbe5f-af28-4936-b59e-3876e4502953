@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/sitemap.xml
+Sitemap: https://boker-tari.co.il/sitemap.xml

@@ -3,13 +3,13 @@
 https://bokertari.lovable.app/auth
 ‏תבדוק את האתר ותסיים את מה שחסר
 
-Source: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com
+Source: https://boker-tari.co.il
 
 ---
 
 ## בוקר טרי — בוקר טרי
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com
+URL: https://boker-tari.co.il
 Description: בוקר טרי מביא לכם את המוצרים האורגניים הטובים ביותר לארוחת בוקר. גלו שגרת בוקר בריאה שתשנה את חייכם — הזמינו עכשיו וחוו את ההבדל!
 
 בוקר טרי — בוקר טרי
@@ -626,7 +626,7 @@ Description: בוקר טרי מביא לכם את המוצרים האורגני�
 
 ## הסיפור שמאחורי כל ביס טרי — בוקר טרי
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/about
+URL: https://boker-tari.co.il/about
 Description: גלו מי אנחנו ולמה בוקר טרי הפכה למותג שאנשים אוהבים. הכירו את הערכים, החזון והתשוקה שמניעים אותנו להביא לכם בוקר טרי ובריא כל יום מחדש.
 
 הסיפור שמאחורי כל ביס טרי — בוקר טרי
@@ -1137,7 +1137,7 @@ Description: גלו מי אנחנו ולמה בוקר טרי הפכה למותג
 
 ## שדרגו את שגרת הבוקר שלכם לרמה אחרת — בוקר טרי
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/lifestyle
+URL: https://boker-tari.co.il/lifestyle
 Description: אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.
 
 שדרגו את שגרת הבוקר שלכם לרמה אחרת — בוקר טרי
@@ -1736,7 +1736,7 @@ Description: אורח חיים בריא מתחיל בבוקר. גלו טיפים
 
 ## דברו איתנו ונתחיל יחד בוקר טוב יותר — בוקר טרי
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/contact
+URL: https://boker-tari.co.il/contact
 Description: יש לכם שאלות על המוצרים האורגניים שלנו? רוצים לדעת יותר על שגרת בוקר בריאה? צוות בוקר טרי כאן בשבילכם — צרו קשר עכשיו ונחזור אליכם בהקדם!
 
 דברו איתנו ונתחיל יחד בוקר טוב יותר — בוקר טרי
@@ -2149,7 +2149,7 @@ bokertari20@gmail.com
 
 ## מוצרים
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/products
+URL: https://boker-tari.co.il/products
 Description: המוצרים שלנו - בוקר טרי
 
 מוצרים - בוקר טרי
@@ -2399,7 +2399,7 @@ Description: המוצרים שלנו - בוקר טרי
 
 ## עגלת קניות
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/cart
+URL: https://boker-tari.co.il/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - בוקר טרי
@@ -2625,7 +2625,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/checkout
+URL: https://boker-tari.co.il/checkout
 Description: תשלום
 
 תשלום - בוקר טרי
@@ -3034,7 +3034,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/login
+URL: https://boker-tari.co.il/login
 Description: התחברות לקוחות
 
 התחברות - בוקר טרי
@@ -3267,7 +3267,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/account
+URL: https://boker-tari.co.il/account
 Description: החשבון שלי
 
 החשבון שלי - בוקר טרי
@@ -3655,7 +3655,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/order-success
+URL: https://boker-tari.co.il/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - בוקר טרי
@@ -3905,7 +3905,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/return-policy
+URL: https://boker-tari.co.il/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - בוקר טרי
@@ -4013,7 +4013,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 # מדיניות החזרת מוצרים
 
 
-עדכון אחרון: 11.5.2026
+עדכון אחרון: 14.5.2026
 
 
 
@@ -4184,7 +4184,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/:slug
+URL: https://boker-tari.co.il/product/:slug
 Description: פרטי המוצר - בוקר טרי
 
 פרטי המוצר - בוקר טרי
@@ -4412,7 +4412,7 @@ Description: פרטי המוצר - בוקר טרי
 
 ## מוצרים
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/category/:slug
+URL: https://boker-tari.co.il/category/:slug
 Description: מוצרים - בוקר טרי
 
 מוצרים - בוקר טרי
@@ -4664,7 +4664,7 @@ Description: מוצרים - בוקר טרי
 
 ## מדיניות פרטיות
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/privacy
+URL: https://boker-tari.co.il/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4959,7 +4959,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/accessibility
+URL: https://boker-tari.co.il/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5263,7 +5263,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/terms
+URL: https://boker-tari.co.il/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5582,917 +5582,917 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### חלת הבית בטאבון
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlt-hbyt-btabvn-5w81xa
+URL: https://boker-tari.co.il/product/chlt-hbyt-btabvn-5w81xa
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם מחמצת אגוזים קלמטה  שלם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub
+URL: https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם מחמצת שיפון זיתים שלם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-shypvn-zytym-shlm-1qczjk
+URL: https://boker-tari.co.il/product/lchm-mchmtst-shypvn-zytym-shlm-1qczjk
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם מחמצת כוסמין שלם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchmtst-kvsmyn-shlm-hkvotz
+URL: https://boker-tari.co.il/product/lchm-mchmtst-kvsmyn-shlm-hkvotz
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בגט רוסטיק לבן
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-lbn-nrfv4a
+URL: https://boker-tari.co.il/product/bgt-rvstyk-lbn-nrfv4a
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בגט רוסטיק קמח מלא
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bgt-rvstyk-kmch-mla-vg43k5
+URL: https://boker-tari.co.il/product/bgt-rvstyk-kmch-mla-vg43k5
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### מקלות שום
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-shvm-fedy7r
+URL: https://boker-tari.co.il/product/mklvt-shvm-fedy7r
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פיתה מיני ביס
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-myny-bys-rd4vxi
+URL: https://boker-tari.co.il/product/pyth-myny-bys-rd4vxi
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פלוטיב (פרנה דקה)
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/plvtyb-prnh-dkh-oqw7g9
+URL: https://boker-tari.co.il/product/plvtyb-prnh-dkh-oqw7g9
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פרס ריקוטה (עוגת גבינה) במשקל 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/prs-rykvth-avgt-gbynh-bmshkl-v09do2
+URL: https://boker-tari.co.il/product/prs-rykvth-avgt-gbynh-bmshkl-v09do2
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגת פרס פרג במשקל 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgt-prs-prg-bmshkl-adkbdg
+URL: https://boker-tari.co.il/product/avgt-prs-prg-bmshkl-adkbdg
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### סמבוסק פיצה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/smbvsk-pytsh-rclo75
+URL: https://boker-tari.co.il/product/smbvsk-pytsh-rclo75
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### דונאטס
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dvnats-de9mir
+URL: https://boker-tari.co.il/product/dvnats-de9mir
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### מקלות בייגלה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mklvt-byyglh-7rh6iy
+URL: https://boker-tari.co.il/product/mklvt-byyglh-7rh6iy
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם כוסמין מלא פרוס 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-mla-prvs-gqa9iq
+URL: https://boker-tari.co.il/product/lchm-kvsmyn-mla-prvs-gqa9iq
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם דגנים פרוס אגמי
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-dgnym-prvs-agmy-x09hw9
+URL: https://boker-tari.co.il/product/lchm-dgnym-prvs-agmy-x09hw9
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם קל מקמח חיטה מלא ושיפון מלא פרוס דוידוביץ'
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6
+URL: https://boker-tari.co.il/product/lchm-kl-mkmch-chyth-mla-vshypvn-mla-prvs-dvydvbyts-vqjeh6
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### 6 יחדות פיתה כוסמין
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/6-ychdvt-pyth-kvsmyn-o1zjzt
+URL: https://boker-tari.co.il/product/6-ychdvt-pyth-kvsmyn-o1zjzt
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם אוקראיני לחם מיוחדים קמח שיפון דוידוביץ'
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-avkrayny-lchm-myvchdym-kmch-shypvn-dvydvbyts-pjyi1o
+URL: https://boker-tari.co.il/product/lchm-avkrayny-lchm-myvchdym-kmch-shypvn-dvydvbyts-pjyi1o
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם כוסמין  פרוס דוידוביץ' 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-kvsmyn-prvs-dvydvbyts-lgbhc7
+URL: https://boker-tari.co.il/product/lchm-kvsmyn-prvs-dvydvbyts-lgbhc7
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### דגנים לחם פרוס אגמי
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/dgnym-lchm-prvs-agmy-o8rf2q
+URL: https://boker-tari.co.il/product/dgnym-lchm-prvs-agmy-o8rf2q
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פוקצ"ה אריסה שמיר בולגרית וירקות קלויים 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pvktsh-arysh-shmyr-bvlgryt-vyrkvt-klvyym-6kqqau
+URL: https://boker-tari.co.il/product/pvktsh-arysh-shmyr-bvlgryt-vyrkvt-klvyym-6kqqau
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פוקצה פסטו שמיר בולגרית וירקות קלויים 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pvktsh-pstv-shmyr-bvlgryt-vyrkvt-klvyym-aermp7
+URL: https://boker-tari.co.il/product/pvktsh-pstv-shmyr-bvlgryt-vyrkvt-klvyym-aermp7
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פיתה פיצה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-pytsh-j4z1qy
+URL: https://boker-tari.co.il/product/pyth-pytsh-j4z1qy
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פיתה שום
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-shvm-gb0qlr
+URL: https://boker-tari.co.il/product/pyth-shvm-gb0qlr
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שישיית לחמניות מיני ללא גלוטן 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten
+URL: https://boker-tari.co.il/product/shyshyyt-lchmnyvt-myny-lla-glvtn-0swten
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### רביעיית לחמניות המבורגר ללא גלוטן 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka
+URL: https://boker-tari.co.il/product/rbyayyt-lchmnyvt-hmbvrgr-lla-glvtn-sa38ka
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות חטיפי קשיו ושקדים ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1
+URL: https://boker-tari.co.il/product/avgyvt-chtypy-kshyv-vshkdym-lla-tvspt-svkr-whgus1
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות סהרוני שקדים ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shrvny-shkdym-lla-tvspt-svkr-4pa3iu
+URL: https://boker-tari.co.il/product/avgyvt-shrvny-shkdym-lla-tvspt-svkr-4pa3iu
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות טחינה ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-tchynh-lla-tvspt-svkr-z4uxvj
+URL: https://boker-tari.co.il/product/avgyvt-tchynh-lla-tvspt-svkr-z4uxvj
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות גרייבה ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-gryybh-lla-tvspt-svkr-t7azvv
+URL: https://boker-tari.co.il/product/avgyvt-gryybh-lla-tvspt-svkr-t7azvv
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אוזניים מיני וניל ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-avznyym-myny-vnyl-lla-tvspt-svkr-qizb8f
+URL: https://boker-tari.co.il/product/avgyvt-avznyym-myny-vnyl-lla-tvspt-svkr-qizb8f
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות סנדוויץ' ריבה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-sndvvyts-rybh-spnrzn
+URL: https://boker-tari.co.il/product/avgyvt-sndvvyts-rybh-spnrzn
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות שוקולד צ'יפס
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shvkvld-tsyps-cg7qlh
+URL: https://boker-tari.co.il/product/avgyvt-shvkvld-tsyps-cg7qlh
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אגוזינה ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-agvzynh-lla-tvspt-svkr-3wev5h
+URL: https://boker-tari.co.il/product/avgyvt-agvzynh-lla-tvspt-svkr-3wev5h
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות שוקולד אגוזי לוז ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shvkvld-agvzy-lvz-lla-tvspt-svkr-5da40v
+URL: https://boker-tari.co.il/product/avgyvt-shvkvld-agvzy-lvz-lla-tvspt-svkr-5da40v
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות סהרוני שקדים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shrvny-shkdym-9tftcf
+URL: https://boker-tari.co.il/product/avgyvt-shrvny-shkdym-9tftcf
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אוזניים מיני וניל
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-avznyym-myny-vnyl-um8ool
+URL: https://boker-tari.co.il/product/avgyvt-avznyym-myny-vnyl-um8ool
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות שכבות בטעם לוטוס 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shkbvt-btam-lvtvs-xv6i2k
+URL: https://boker-tari.co.il/product/avgyvt-shkbvt-btam-lvtvs-xv6i2k
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות פרפריות שבבי אגוזי לוז חלבי
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-prpryvt-shbby-agvzy-lvz-chlby-jlv3wr
+URL: https://boker-tari.co.il/product/avgyvt-prpryvt-shbby-agvzy-lvz-chlby-jlv3wr
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות פצצות שוקולד
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-ptstsvt-shvkvld-2x4ons
+URL: https://boker-tari.co.il/product/avgyvt-ptstsvt-shvkvld-2x4ons
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ###  עוגיות קפוצ'ינו
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-kpvtsynv-wq1sao
+URL: https://boker-tari.co.il/product/avgyvt-kpvtsynv-wq1sao
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות שומשומית
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-shvmshvmyt-d8cp5r
+URL: https://boker-tari.co.il/product/avgyvt-shvmshvmyt-d8cp5r
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות מטבעות אגוזי לוז קשיו ושבבי קוקוס 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-mtbavt-agvzy-lvz-kshyv-vshbby-kvkvs-tamm92
+URL: https://boker-tari.co.il/product/avgyvt-mtbavt-agvzy-lvz-kshyv-vshbby-kvkvs-tamm92
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות חטיפי קשיו אננס
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-chtypy-kshyv-anns-ytygzk
+URL: https://boker-tari.co.il/product/avgyvt-chtypy-kshyv-anns-ytygzk
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אלפה חורס ריבת חלב
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-alph-chvrs-rybt-chlb-26s2ct
+URL: https://boker-tari.co.il/product/avgyvt-alph-chvrs-rybt-chlb-26s2ct
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות בטעם שוקולד עם אגוזי לוז
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-btam-shvkvld-am-agvzy-lvz-04evx1
+URL: https://boker-tari.co.il/product/avgyvt-btam-shvkvld-am-agvzy-lvz-04evx1
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות ביסקוטי שוקולד
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-byskvty-shvkvld-kcqh4w
+URL: https://boker-tari.co.il/product/avgyvt-byskvty-shvkvld-kcqh4w
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אוזניים מיני שוקולד ללא תוספת סוכר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-avznyym-myny-shvkvld-lla-tvspt-svkr-ptfa0n
+URL: https://boker-tari.co.il/product/avgyvt-avznyym-myny-shvkvld-lla-tvspt-svkr-ptfa0n
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אוזניים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-avznyym-cz3bh0
+URL: https://boker-tari.co.il/product/avgyvt-avznyym-cz3bh0
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגיות אגוזינה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgyvt-agvzynh-36flyt
+URL: https://boker-tari.co.il/product/avgyvt-agvzynh-36flyt
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פיתה בצל
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-btsl-uh0euh
+URL: https://boker-tari.co.il/product/pyth-btsl-uh0euh
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פיתה זעתר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pyth-zatr-mgxwcx
+URL: https://boker-tari.co.il/product/pyth-zatr-mgxwcx
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חצי בגט
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chtsy-bgt-71ncl1
+URL: https://boker-tari.co.il/product/chtsy-bgt-71ncl1
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה צהובה עמק 28% 400 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
+URL: https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה צהובה עמק 28% 200 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi
+URL: https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-200-grm-5kpuvi
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק סחוט תפוזים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-schvt-tpvzym-va5k7c
+URL: https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-va5k7c
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק תות בננה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-tvt-bnnh-thwbt6
+URL: https://boker-tari.co.il/product/bkbvk-tvt-bnnh-thwbt6
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### מים בטעם ענבים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mym-btam-anbym-58pi2f
+URL: https://boker-tari.co.il/product/mym-btam-anbym-58pi2f
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### מים בטעם אפרסק
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mym-btam-aprsk-qb7i34
+URL: https://boker-tari.co.il/product/mym-btam-aprsk-qb7i34
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### מים בטעם תפוח
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/mym-btam-tpvch-eg05mu
+URL: https://boker-tari.co.il/product/mym-btam-tpvch-eg05mu
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק מים מנרליים נביעות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
+URL: https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק אשכוליות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-ashkvlyvt-oksgc2
+URL: https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק ענבים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-anbym-1erxir
+URL: https://boker-tari.co.il/product/bkbvk-anbym-1erxir
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק אפרסק  FUZE
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-aprsk-fuze-uf456k
+URL: https://boker-tari.co.il/product/bkbvk-aprsk-fuze-uf456k
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### סודה 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/svdh-a65pnm
+URL: https://boker-tari.co.il/product/svdh-a65pnm
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פחית ספרייט ziro
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pchyt-spryyt-ziro-4poszs
+URL: https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פחית ספרייט
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pchyt-spryyt-f6n055
+URL: https://boker-tari.co.il/product/pchyt-spryyt-f6n055
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פחית ziro קוקה קולה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pchyt-ziro-kvkh-kvlh-n0u7la
+URL: https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פחית פאנטה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pchyt-panth-kth6g5
+URL: https://boker-tari.co.il/product/pchyt-panth-kth6g5
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### פחית קוקה קולה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/pchyt-kvkh-kvlh-t4ltd3
+URL: https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה לבנה תנובה 3% 250 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
+URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה לבנה תנובה 5% 250 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8
+URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קינמונים במארז
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kynmvnym-bmarz-mvu2pf
+URL: https://boker-tari.co.il/product/kynmvnym-bmarz-mvu2pf
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קוראסון שוקולד מיני במארז
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kvrasvn-shvkvld-myny-bmarz-y2obd7
+URL: https://boker-tari.co.il/product/kvrasvn-shvkvld-myny-bmarz-y2obd7
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גביניות מארז קופסא 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynyvt-marz-kvpsa-wp7uk8
+URL: https://boker-tari.co.il/product/gbynyvt-marz-kvpsa-wp7uk8
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### עוגת קינמון
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/avgt-kynmvn-9cqm9j
+URL: https://boker-tari.co.il/product/avgt-kynmvn-9cqm9j
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### 5 פיתות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/5-pytvt-vmp9fk
+URL: https://boker-tari.co.il/product/5-pytvt-vmp9fk
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמנייה קשר מתוקה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyh-kshr-mtvkh-ql04ae
+URL: https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-ql04ae
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמנייה אצבע קמח מלא
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyh-atsba-kmch-mla-lwqmbb
+URL: https://boker-tari.co.il/product/lchmnyyh-atsba-kmch-mla-lwqmbb
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמנייה שומשום עגולה קשר 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc
+URL: https://boker-tari.co.il/product/lchmnyyh-shvmshvm-agvlh-kshr-j5awoc
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמנייה עגולה קשר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyh-agvlh-kshr-br4m8u
+URL: https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-br4m8u
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמנייה אצבע שומשום
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyh-atsba-shvmshvm-p0h3t4
+URL: https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-p0h3t4
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית המבורגר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-hmbvrgr-jljdns
+URL: https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך אבוקדו
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-abvkdv-vozf5d
+URL: https://boker-tari.co.il/product/kryk-abvkdv-vozf5d
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך בולגרית
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-bvlgryt-vrsx2e
+URL: https://boker-tari.co.il/product/kryk-bvlgryt-vrsx2e
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם פרוס 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-prvs-zwf9uk
+URL: https://boker-tari.co.il/product/lchm-prvs-zwf9uk
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### אצבעות גבינה צהובה עמק
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
+URL: https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה צהובה 28% 200 גרם תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5
+URL: https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### גבינה צהובה 22% 200 גרם תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m
+URL: https://boker-tari.co.il/product/gbynh-tshvbh-22-200-grm-tnvbh-enju7m
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קוטג' תנובה 9% 250 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kvtg-tnvbh-9-250-grm-44c2xq
+URL: https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-44c2xq
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קוטג' תנובה 5% 250 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kvtg-tnvbh-5-250-grm-t2crhy
+URL: https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קוטג' תנובה 3% 250 גרם
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kvtg-tnvbh-3-250-grm-f20yli
+URL: https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### קוראסון שוקולד גדול
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kvrasvn-shvkvld-gdvl-z7f0u4
+URL: https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו בננה לילדים יטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-bnnh-lyldym-ytbth-kmu6m1
+URL: https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו בננה לילדים תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
+URL: https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו בננה ליטר יטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-bnnh-lytr-ytbth-b8fh63
+URL: https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו בננה ליטר תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-bnnh-lytr-tnvbh-uul94y
+URL: https://boker-tari.co.il/product/shvkv-bnnh-lytr-tnvbh-uul94y
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שוקו לילדים יטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6
+URL: https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-ytbth-eyzlr6
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שוקו לילדים תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr
+URL: https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שוקו יטבתה ליטר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
+URL: https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בקבוק שוקו תנובה ליטר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
+URL: https://boker-tari.co.il/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו שקית יטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-shkyt-ytbth-ge1pvc
+URL: https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### שוקו שקית תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/shvkv-shkyt-tnvbh-zk8zyc
+URL: https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-zk8zyc
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה פרוסה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-prvsh-z0e7q9
+URL: https://boker-tari.co.il/product/chlh-prvsh-z0e7q9
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה מיני
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-myny-z1ldp4
+URL: https://boker-tari.co.il/product/chlh-myny-z1ldp4
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה קלועה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-klvah-t3tpkl
+URL: https://boker-tari.co.il/product/chlh-klvah-t3tpkl
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה כוסמין
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-kvsmyn-sm0kp3
+URL: https://boker-tari.co.il/product/chlh-kvsmyn-sm0kp3
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה מתוקה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-mtvkh-41glcz
+URL: https://boker-tari.co.il/product/chlh-mtvkh-41glcz
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlh-7308id
+URL: https://boker-tari.co.il/product/chlh-7308id
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב 1% קרטון תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-1-krtvn-tnvbh-3erqqp
+URL: https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב דל לקטוז יטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-dl-lktvz-ytbth-4jyh2f
+URL: https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב 1% בקבוק יוטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-1-bkbvk-yvtbth-dqi0er
+URL: https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב 3% בקבוק יוטבתה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-3-bkbvk-yvtbth-7tlw2b
+URL: https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב 3% קרטון תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-3-krtvn-tnvbh-3ivenh
+URL: https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חלב 1% קרטון תנובה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chlb-1-krtvn-tnvbh-bv1peg
+URL: https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בייגלה רומני 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/byyglh-rvmny-9rjcnj
+URL: https://boker-tari.co.il/product/byyglh-rvmny-9rjcnj
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית בייגלה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-byyglh-jyu9hq
+URL: https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בורקס פיצה מסעדות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-pytsh-msadvt-t8yr26
+URL: https://boker-tari.co.il/product/bvrks-pytsh-msadvt-t8yr26
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בורקס תרד וגבינה מסעדות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-trd-vgbynh-msadvt-8cxz8i
+URL: https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-8cxz8i
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בורקס תפוח אדמה מסעדות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-tpvch-admh-msadvt-pmt8xx
+URL: https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-pmt8xx
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### בורקס גבינה מסעדות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/bvrks-gbynh-msadvt-l05442
+URL: https://boker-tari.co.il/product/bvrks-gbynh-msadvt-l05442
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### אצבעות תפוחי עץ
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/atsbavt-tpvchy-ats-k3wmp2
+URL: https://boker-tari.co.il/product/atsbavt-tpvchy-ats-k3wmp2
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית פרנה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-prnh-mirzoa
+URL: https://boker-tari.co.il/product/lchmnyyt-prnh-mirzoa
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחם פרנה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-prnh-q6kohc
+URL: https://boker-tari.co.il/product/lchm-prnh-q6kohc
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית רוסטיק כהה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-khh-zpllyg
+URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-zpllyg
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית רוסטיק בהיר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-rvstyk-bhyr-565b99
+URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### חצי בגט
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/chtsy-bgt-irnqta
+URL: https://boker-tari.co.il/product/chtsy-bgt-irnqta
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית גבטה שאור
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-gbth-shavr-7jqbje
+URL: https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית גבטה דגנים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-gbth-dgnym-zeopio
+URL: https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמים
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmym-2xnkx1
+URL: https://boker-tari.co.il/product/lchmym-2xnkx1
 Price: 0.00 ILS
 Availability: In stock
 
@@ -6501,7 +6501,7 @@ Availability: In stock
 ---
 
 ### לחם פוקצ'ה עשבי תיבול
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-pvktsh-ashby-tybvl-iizy35
+URL: https://boker-tari.co.il/product/lchm-pvktsh-ashby-tybvl-iizy35
 Price: 18.90 ILS
 Availability: In stock
 
@@ -6510,7 +6510,7 @@ Availability: In stock
 ---
 
 ### לחם שאור מחיטה מלאה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-shavr-mchyth-mlah-r9qvc0
+URL: https://boker-tari.co.il/product/lchm-shavr-mchyth-mlah-r9qvc0
 Price: 22.90 ILS
 Availability: In stock
 
@@ -6519,7 +6519,7 @@ Availability: In stock
 ---
 
 ### לחם מחיטה מלאה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-mchyth-mlah-u9r73t
+URL: https://boker-tari.co.il/product/lchm-mchyth-mlah-u9r73t
 Price: 14.90 ILS
 Availability: In stock
 
@@ -6528,7 +6528,7 @@ Availability: In stock
 ---
 
 ### לחם שיפון כהה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchm-shypvn-khh-h2cgo3
+URL: https://boker-tari.co.il/product/lchm-shypvn-khh-h2cgo3
 Price: 16.90 ILS
 Availability: In stock
 
@@ -6537,56 +6537,56 @@ Availability: In stock
 ---
 
 ### לחמניית שמינייה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-shmynyyh-hrna02
+URL: https://boker-tari.co.il/product/lchmnyyt-shmynyyh-hrna02
 Price: 0.00 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית אצבע
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/lchmnyyt-atsba-dbcc59
+URL: https://boker-tari.co.il/product/lchmnyyt-atsba-dbcc59
 Price: 2.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך חביתה עם ירקות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-chbyth-am-yrkvt-dm2ah9
+URL: https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-dm2ah9
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך טונה עם ירקות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-tvnh-am-yrkvt-8xoyrp
+URL: https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-8xoyrp
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך גבינה צהובה עם ירקות
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-gbynh-tshvbh-am-yrkvt-66hf2n
+URL: https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-66hf2n
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### טוסט צהובה בייגלה 
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/tvst-tshvbh-byyglh-4cuvky
+URL: https://boker-tari.co.il/product/tvst-tshvbh-byyglh-4cuvky
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך ביצה קשה
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-bytsh-kshh-79wkzo
+URL: https://boker-tari.co.il/product/kryk-bytsh-kshh-79wkzo
 Price: 20.00 ILS
 Availability: In stock
 
 ---
 
 ### כריך פסטרמה ובקר
-URL: https://zappy-site-7f0cbe5f-af28-4936-b59e.onrender.com/product/kryk-pstrmh-vbkr-oddyd1
+URL: https://boker-tari.co.il/product/kryk-pstrmh-vbkr-oddyd1
 Price: 20.00 ILS
 Availability: In stock
 
