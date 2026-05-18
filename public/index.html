@@ -248,6 +248,443 @@
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
 
 
+          <style id="zappy-cta-mobile-style">
+            /* Hide CTA list item on desktop (tablets and up) */
+            @media (min-width: 769px) {
+              .nav-cta-item-mobile {
+                display: none !important;
+              }
+            }
+            /* Show CTA list item on mobile */
+            @media (max-width: 768px) {
+              .nav-cta-item-mobile {
+                display: list-item !important;
+              }
+            }
+          </style>
+        
+          <style id="zappy-nested-menu-style">
+            /* Desktop only: vertically center nav items */
+            @media (min-width: 769px) {
+              .nav-menu,
+              #navMenu {
+                align-items: center !important;
+              }
+            }
+            
+            /* Menu Group styling (non-clickable parent) - TOP LEVEL ONLY with ultra-specific selector */
+            .nav-menu > li > .menu-group-title,
+            #navMenu > li > .menu-group-title {
+              display: inline-block !important;
+              padding: 0.5rem 1rem !important;
+              color: var(--nav-color) !important;
+              font-weight: 500 !important;
+              line-height: 1.7 !important;
+              cursor: default !important;
+              user-select: none !important;
+              vertical-align: middle !important;
+              text-decoration: none !important;
+              margin: 0 !important;
+              transition: color 0.3s ease !important;
+            }
+            
+            .nav-menu > li > .menu-group-title:hover,
+            #navMenu > li > .menu-group-title:hover {
+              color: var(--nav-hover-color) !important;
+            }
+            
+            /* Desktop: show submenu on Menu Group hover */
+            li:has(.menu-group-title):hover > .sub-menu {
+              opacity: 1 !important;
+              visibility: visible !important;
+              transform: translateY(0) !important;
+              pointer-events: auto !important; /* Enable interaction when hovering */
+            }
+            
+            /* Hide menu items marked as hidden (overrides hover states) */
+            .zappy-hidden-menu-item,
+            li:has(.menu-group-title):hover > .sub-menu .zappy-hidden-menu-item {
+              display: none !important;
+              opacity: 0 !important;
+              visibility: hidden !important;
+              pointer-events: none !important;
+            }
+            
+            /* Keep submenu visible when hovering over the submenu itself */
+            .sub-menu:hover {
+              opacity: 1 !important;
+              visibility: visible !important;
+              pointer-events: auto !important;
+            }
+            
+            /* Nested dropdown menu styles - using more specific selectors */
+            .nav-menu .sub-menu,
+            nav .sub-menu,
+            .navbar .sub-menu {
+              display: block !important; /* Ensure submenu is in the DOM */
+              position: absolute !important;
+              top: 100%;
+              left: 0;
+              right: auto;
+              min-width: 200px;
+              background: white;
+              box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+              border-radius: 8px;
+              padding: 8px 0;
+              margin-top: 0px; /* Remove gap to prevent hover loss */
+              opacity: 0 !important;
+              visibility: hidden !important;
+              transform: translateY(-10px);
+              transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+              z-index: 1000;
+              list-style: none;
+              pointer-events: none; /* Prevent interaction when hidden */
+            }
+            
+            /* RTL (Hebrew/Arabic) submenu positioning - align to right instead of left */
+            [dir="rtl"] .nav-menu .sub-menu,
+            [dir="rtl"] nav .sub-menu,
+            [dir="rtl"] .navbar .sub-menu,
+            html[lang="he"] .nav-menu .sub-menu,
+            html[lang="he"] nav .sub-menu,
+            html[lang="he"] .navbar .sub-menu,
+            html[lang="ar"] .nav-menu .sub-menu,
+            html[lang="ar"] nav .sub-menu,
+            html[lang="ar"] .navbar .sub-menu {
+              left: auto;
+              right: 0;
+            }
+            
+            /* Show submenu on parent hover - more specific selectors */
+            .nav-menu li:hover > .sub-menu,
+            nav li:hover > .sub-menu,
+            .navbar li:hover > .sub-menu {
+              opacity: 1 !important;
+              visibility: visible !important;
+              transform: translateY(0) !important;
+              pointer-events: auto !important; /* Enable interaction when visible */
+            }
+            
+            /* Parent item must be relatively positioned */
+            .nav-menu li:has(.sub-menu),
+            nav li:has(.sub-menu),
+            .navbar li:has(.sub-menu) {
+              position: relative;
+            }
+            
+            /* Style for submenu items */
+            .sub-menu li {
+              list-style: none;
+              margin: 0;
+              padding: 0;
+            }
+            
+            .sub-menu a,
+            .sub-menu .menu-group-title {
+              display: block !important;
+              padding: 10px 12px !important;
+              color: #333 !important;
+              font-weight: 600 !important;
+              text-decoration: none;
+              transition: background-color 0.2s;
+              white-space: nowrap;
+              cursor: default;
+            }
+            
+            .sub-menu a:hover {
+              background-color: #f5f5f5;
+            }
+            
+            /* CRITICAL: Override submenu styles for TOP-LEVEL Menu Groups only - must come AFTER submenu styles */
+            .nav-menu > li > .menu-group-title,
+            #navMenu > li > .menu-group-title {
+              display: inline-block !important;
+              padding: 0.5rem 1rem !important;
+              color: var(--nav-color) !important;
+              font-weight: 500 !important;
+              line-height: 1.7 !important;
+              cursor: default !important;
+              user-select: none !important;
+              vertical-align: middle !important;
+              text-decoration: none !important;
+              margin: 0 !important;
+              transition: color 0.3s ease !important;
+            }
+            
+            .nav-menu > li > .menu-group-title:hover,
+            #navMenu > li > .menu-group-title:hover {
+              color: var(--nav-hover-color) !important;
+              background-color: transparent !important;
+            }
+            
+            /* On mobile, show nested menus as expandable accordion */
+            @media (max-width: 768px) {
+              /* Mobile submenu styling */
+              .nav-menu .sub-menu,
+              nav .sub-menu,
+              .navbar .sub-menu {
+                position: static !important;
+                transform: none !important;
+                box-shadow: none !important;
+                background: transparent !important;
+                margin-top: 0 !important;
+                max-height: 0;
+                overflow: hidden;
+                opacity: 0;
+                visibility: hidden;
+                transition: max-height 0.3s ease, opacity 0.3s ease, visibility 0.3s ease, padding 0.3s ease;
+                padding: 0 !important;
+                border-radius: 0 !important;
+              }
+              
+              /* Expanded state — no internal scroll; parent navMenu scrolls */
+              .sub-menu.mobile-expanded {
+                max-height: none !important;
+                overflow-y: visible !important;
+                opacity: 1 !important;
+                visibility: visible !important;
+                padding: 8px 0 8px 16px !important;
+              }
+              
+              /* RTL padding adjustment */
+              [dir="rtl"] .sub-menu.mobile-expanded,
+              html[lang="he"] .sub-menu.mobile-expanded,
+              html[lang="ar"] .sub-menu.mobile-expanded {
+                padding: 8px 16px 8px 0 !important;
+              }
+              
+              /* Disable hover behavior on mobile */
+              .nav-menu li:hover > .sub-menu,
+              nav li:hover > .sub-menu,
+              .navbar li:hover > .sub-menu {
+                opacity: 0;
+                visibility: hidden;
+                pointer-events: none;
+              }
+              
+              /* Enable visibility for expanded submenus */
+              .nav-menu li > .sub-menu.mobile-expanded,
+              nav li > .sub-menu.mobile-expanded,
+              .navbar li > .sub-menu.mobile-expanded {
+                opacity: 1 !important;
+                visibility: visible !important;
+                pointer-events: auto !important;
+              }
+              
+              .sub-menu a {
+                padding: 10px 0 !important;
+                display: block !important;
+                font-size: 14px !important;
+                white-space: normal !important;
+              }
+              
+              .sub-menu a:hover {
+                background-color: transparent !important;
+              }
+              
+              /* Parent item wrapper - flex layout with relative positioning for absolute toggle */
+              .nav-menu li:has(.sub-menu),
+              nav li:has(.sub-menu),
+              .navbar li:has(.sub-menu) {
+                display: flex !important;
+                flex-wrap: wrap !important;
+                align-items: center !important;
+                position: relative !important;
+                min-height: 44px !important;
+              }
+              
+              /* Parent link - takes full width since toggle is absolute (not a flex child) */
+              .nav-menu li:has(.sub-menu) > a,
+              nav li:has(.sub-menu) > a,
+              .navbar li:has(.sub-menu) > a,
+              .nav-menu > li > .menu-group-title,
+              #navMenu > li > .menu-group-title {
+                flex: 1 !important;
+                min-width: 0 !important;
+              }
+              
+              /* Normalize menu-group-title in mobile nav to match link alignment */
+              .nav-menu > li > .menu-group-title,
+              #navMenu > li > .menu-group-title {
+                padding: 0 !important;
+                line-height: inherit !important;
+              }
+              
+              /* Submenu takes full width below parent */
+              .nav-menu li:has(.sub-menu) > .sub-menu,
+              nav li:has(.sub-menu) > .sub-menu,
+              .navbar li:has(.sub-menu) > .sub-menu {
+                flex-basis: 100% !important;
+                width: 100% !important;
+              }
+              
+              /* HIDE EXISTING CHEVRONS/ARROWS from cloned sites to prevent duplicates */
+              .nav-menu li:has(.sub-menu) > a .fa-chevron-down,
+              .nav-menu li:has(.sub-menu) > a .fa-angle-down,
+              .nav-menu li:has(.sub-menu) > a [class*="chevron"],
+              .nav-menu li:has(.sub-menu) > a [class*="arrow"],
+              nav li:has(.sub-menu) > a [class*="chevron"],
+              nav li:has(.sub-menu) > a [class*="arrow"],
+              #navMenu li:has(.sub-menu) > a [class*="chevron"],
+              #navMenu li:has(.sub-menu) > a [class*="arrow"] {
+                display: none !important;
+                visibility: hidden !important;
+              }
+              
+              /* Toggle arrow button - flex child that stretches to match nav-link height */
+              .mobile-submenu-toggle {
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+                width: 44px !important;
+                height: auto !important;
+                background: transparent !important;
+                border: none !important;
+                cursor: pointer !important;
+                padding: 0 !important;
+                margin: 0 !important;
+                position: static !important;
+                flex-shrink: 0 !important;
+                align-self: stretch !important;
+                z-index: 2 !important;
+                -webkit-tap-highlight-color: transparent;
+              }
+              
+              .mobile-submenu-toggle::after {
+                content: '' !important;
+                display: block !important;
+                width: 0 !important;
+                height: 0 !important;
+                border-left: 6px solid transparent !important;
+                border-right: 6px solid transparent !important;
+                border-top: 7px solid currentColor !important;
+                transition: transform 0.3s ease !important;
+              }
+              
+              /* Rotate arrow when expanded */
+              .mobile-submenu-toggle.expanded::after {
+                transform: rotate(180deg) !important;
+              }
+            }
+            
+            /* Hide toggle button on desktop */
+            @media (min-width: 769px) {
+              .mobile-submenu-toggle {
+                display: none !important;
+              }
+            }
+          </style>
+          
+          <script id="zappy-mobile-menu-script">
+            // Mobile menu toggle for nested submenus (including Menu Groups)
+            // Uses separate toggle button - link navigates, arrow toggles submenu
+            (function() {
+              function initMobileMenuToggles() {
+                // Only run on mobile
+                if (window.innerWidth > 768) {
+                  // Remove any toggle buttons on desktop
+                  document.querySelectorAll('.mobile-submenu-toggle').forEach(btn => btn.remove());
+                  document.querySelectorAll('.sub-menu.mobile-expanded').forEach(menu => {
+                    menu.classList.remove('mobile-expanded');
+                  });
+                  console.log('[MOBILE MENU] Desktop mode - cleanup done');
+                  return;
+                }
+                
+                console.log('[MOBILE MENU] Initializing mobile menu toggles...');
+                
+                // Find all parent menu items (items with .sub-menu)
+                const menuItemsWithSubmenus = document.querySelectorAll(
+                  '.nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu)'
+                );
+                
+                console.log('[MOBILE MENU] Found', menuItemsWithSubmenus.length, 'items with submenus');
+                
+                menuItemsWithSubmenus.forEach(function(li) {
+                  // Skip if already has toggle button
+                  if (li.querySelector('.mobile-submenu-toggle')) {
+                    return;
+                  }
+                  
+                  const submenu = li.querySelector('.sub-menu');
+                  const parentLink = li.querySelector(':scope > a') || li.querySelector(':scope > .menu-group-title');
+                  
+                  if (!submenu || !parentLink) return;
+                  
+                  // Create toggle button
+                  const toggleBtn = document.createElement('button');
+                  toggleBtn.className = 'mobile-submenu-toggle';
+                  toggleBtn.setAttribute('aria-label', 'Toggle submenu');
+                  toggleBtn.setAttribute('type', 'button');
+
+                  // Insert toggle button after the link
+                  parentLink.insertAdjacentElement('afterend', toggleBtn);
+                  
+                  console.log('[MOBILE MENU] Created toggle button for:', parentLink.textContent?.trim());
+                  
+                  // Handle toggle button click - only toggles submenu
+                  toggleBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    const isExpanded = submenu.classList.contains('mobile-expanded');
+                    
+                    // Close all other submenus first
+                    document.querySelectorAll('.sub-menu.mobile-expanded').forEach(function(menu) {
+                      if (menu !== submenu) {
+                        menu.classList.remove('mobile-expanded');
+                        const otherToggle = menu.parentElement.querySelector('.mobile-submenu-toggle');
+                        if (otherToggle) otherToggle.classList.remove('expanded');
+                      }
+                    });
+                    
+                    // Toggle this submenu
+                    submenu.classList.toggle('mobile-expanded');
+                    toggleBtn.classList.toggle('expanded');
+                    
+                    console.log('[MOBILE MENU] Toggled submenu:', !isExpanded ? 'expanded' : 'collapsed');
+                  });
+                  
+                  // Parent link navigates normally - no preventDefault
+                });
+              }
+              
+              // Initialize on DOM load
+              if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', initMobileMenuToggles);
+              } else {
+                initMobileMenuToggles();
+              }
+              
+              // Re-initialize on window resize (but use debounce to avoid too many calls)
+              let resizeTimer;
+              window.addEventListener('resize', function() {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(initMobileMenuToggles, 250);
+              });
+              
+              // Also initialize when mobile menu becomes visible
+              // This handles cases where the mobile menu is hidden initially
+              const observer = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                  if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+                    const target = mutation.target;
+                    if (target.classList.contains('active') || target.style.display !== 'none') {
+                      console.log('[MOBILE MENU] Mobile menu became visible, re-initializing...');
+                      setTimeout(initMobileMenuToggles, 100);
+                    }
+                  }
+                });
+              });
+              
+              // Observe mobile menu containers
+              const mobileMenus = document.querySelectorAll('.mobile-menu, .nav-menu, #navMenu');
+              mobileMenus.forEach(function(menu) {
+                observer.observe(menu, { attributes: true, attributeFilter: ['class', 'style'] });
+              });
+            })();
+          </script>
+        
     <style id="zappy-announcement-bar-styles">
     /* Announcement Bar Styles */
     .zappy-announcement-bar {
@@ -285,56 +722,6 @@
     }
     </style>
     <link rel="stylesheet" href="/styles.css">
-
-    <style id="zappy-dropdown-submenu-styles">
-      /* ========== DESKTOP DROPDOWN SUBMENU STYLES ========== */
-      /* Base styles for dropdown submenus - parent must be positioned */
-      .nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu) { position: relative; }
-      /* Submenu base - hidden by default */
-      .nav-menu .sub-menu, nav .sub-menu, .navbar .sub-menu, #navMenu .sub-menu { display: block !important; position: absolute !important; top: 100%; left: 0; min-width: 220px; background: white; border-radius: 8px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); padding: 8px 0; opacity: 0; visibility: hidden; transform: translateY(10px); transition: all 0.3s ease; z-index: 1000; list-style: none; pointer-events: none; }
-      /* CRITICAL: Desktop hover styles to show dropdown */
-      .nav-menu li:hover > .sub-menu, nav li:hover > .sub-menu, .navbar li:hover > .sub-menu, #navMenu li:hover > .sub-menu { opacity: 1 !important; visibility: visible !important; transform: translateY(0) !important; pointer-events: auto !important; }
-      /* Submenu item styling */
-      .sub-menu li { list-style: none; margin: 0; padding: 0; }
-      .sub-menu a { display: block !important; padding: 10px 16px !important; color: var(--text-dark, #333) !important; font-weight: 500; text-decoration: none; white-space: nowrap; transition: background-color 0.2s; }
-      .sub-menu .zappy-nav-child > a { padding-left: 28px !important; font-size: 0.9em !important; opacity: 0.85 !important; }
-      [dir="rtl"] .sub-menu .zappy-nav-child > a, html[lang="he"] .sub-menu .zappy-nav-child > a, html[lang="ar"] .sub-menu .zappy-nav-child > a { padding-left: 10px !important; padding-right: 28px !important; }
-      .sub-menu .zappy-nav-parent > a { font-weight: 600 !important; }
-      .sub-menu a:hover { background-color: #f5f5f5; }
-      /* RTL (Hebrew/Arabic) dropdown positioning */
-      [dir="rtl"] .nav-menu .sub-menu, [dir="rtl"] nav .sub-menu, [dir="rtl"] .navbar .sub-menu, html[lang="he"] .nav-menu .sub-menu, html[lang="he"] nav .sub-menu, html[lang="he"] .navbar .sub-menu, html[lang="ar"] .nav-menu .sub-menu, html[lang="ar"] nav .sub-menu, html[lang="ar"] .navbar .sub-menu { left: auto !important; right: 0 !important; }
-      /* Hide empty dropdown menus (exclude catalog sub-menus that use <a> children instead of <li>) */
-      .sub-menu:empty, .sub-menu:not(:has(li:not(.zappy-hidden-menu-item))):not(:has(> a)), .sub-menu:not(:has(li)):not(:has(> a)) { display: none !important; opacity: 0 !important; visibility: hidden !important; pointer-events: none !important; }
-      /* Desktop: show submenu on Menu Group hover */
-      li:has(.menu-group-title):hover > .sub-menu { opacity: 1 !important; visibility: visible !important; transform: translateY(0) !important; pointer-events: auto !important; }
-      /* Menu Group title styling */
-      .nav-menu > li > .menu-group-title, #navMenu > li > .menu-group-title { display: inline-block; padding: 0.5rem 1rem; cursor: default; user-select: none; }
-      
-      /* ========== MOBILE SUBMENU STYLES ========== */
-      @media (max-width: 768px) {
-        .nav-menu .sub-menu, nav .sub-menu, .navbar .sub-menu, #navMenu .sub-menu { position: static !important; transform: none !important; box-shadow: none !important; background: transparent !important; max-height: 0; overflow: hidden; opacity: 0; visibility: hidden; transition: max-height 0.3s ease, opacity 0.3s ease; padding: 0 !important; border-radius: 0 !important; }
-        .navbar .sub-menu.mobile-expanded, .nav-menu .sub-menu.mobile-expanded, #navMenu .sub-menu.mobile-expanded { max-height: none !important; overflow-y: visible !important; opacity: 1 !important; visibility: visible !important; padding: 8px 0 8px 16px !important; }
-        [dir="rtl"] .sub-menu.mobile-expanded, html[lang="he"] .sub-menu.mobile-expanded { padding: 8px 16px 8px 0 !important; }
-        /* Disable hover behavior on mobile */
-        .nav-menu li:hover > .sub-menu, nav li:hover > .sub-menu, .navbar li:hover > .sub-menu, #navMenu li:hover > .sub-menu { opacity: 0; visibility: hidden; pointer-events: none; }
-        .nav-menu li > .sub-menu.mobile-expanded, nav li > .sub-menu.mobile-expanded, .navbar li > .sub-menu.mobile-expanded, #navMenu li > .sub-menu.mobile-expanded { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }
-        .nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu) { display: flex !important; flex-wrap: wrap !important; align-items: center !important; position: relative !important; min-height: 44px !important; }
-        .nav-menu li:has(.sub-menu) > a, nav li:has(.sub-menu) > a, .navbar li:has(.sub-menu) > a, #navMenu li:has(.sub-menu) > a { flex: 1 !important; min-width: 0 !important; }
-        .nav-menu li:has(.sub-menu) > .menu-group-title, nav li:has(.sub-menu) > .menu-group-title, .navbar li:has(.sub-menu) > .menu-group-title, #navMenu li:has(.sub-menu) > .menu-group-title { flex: 1 !important; min-width: 0 !important; padding: 0 !important; line-height: inherit !important; }
-        .nav-menu li:has(.sub-menu) > .sub-menu, nav li:has(.sub-menu) > .sub-menu, .navbar li:has(.sub-menu) > .sub-menu, #navMenu li:has(.sub-menu) > .sub-menu { flex-basis: 100% !important; width: 100% !important; }
-        .nav-menu li:has(.sub-menu) > a [class*="chevron"], .nav-menu li:has(.sub-menu) > a [class*="arrow"], .nav-menu li:has(.sub-menu) > a .fa-chevron-down, .nav-menu li:has(.sub-menu) > a .fa-angle-down, nav li:has(.sub-menu) > a [class*="chevron"], nav li:has(.sub-menu) > a [class*="arrow"], #navMenu li:has(.sub-menu) > a [class*="chevron"], #navMenu li:has(.sub-menu) > a [class*="arrow"] { display: none !important; visibility: hidden !important; }
-        .mobile-submenu-toggle { display: flex !important; align-items: center !important; justify-content: center !important; width: 44px !important; height: auto !important; background: transparent !important; border: none !important; cursor: pointer !important; color: var(--text-light) !important; position: static !important; flex-shrink: 0 !important; align-self: stretch !important; z-index: 2 !important; padding: 0 !important; margin: 0 !important; }
-        .mobile-submenu-toggle::after { content: '' !important; width: 0 !important; height: 0 !important; border-left: 6px solid transparent !important; border-right: 6px solid transparent !important; border-top: 7px solid currentColor !important; transition: transform 0.3s ease !important; }
-        .mobile-submenu-toggle.expanded::after { transform: rotate(180deg) !important; }
-        .sub-menu a { padding: 10px 0 !important; display: block !important; color: var(--text-light) !important; white-space: normal !important; }
-        .sub-menu .zappy-nav-child > a { padding-left: 28px !important; font-size: 0.9em !important; opacity: 0.85 !important; }
-        [dir="rtl"] .sub-menu .zappy-nav-child > a, html[lang="he"] .sub-menu .zappy-nav-child > a, html[lang="ar"] .sub-menu .zappy-nav-child > a { padding-left: 0 !important; padding-right: 28px !important; }
-        .sub-menu .zappy-nav-parent > a { font-weight: 600 !important; }
-        .nav-menu.active, #navMenu.active { max-width: 100vw !important; overflow-x: hidden !important; box-sizing: border-box !important; }
-        .navbar .sub-menu li a, nav.navbar .sub-menu li a, .zappy-products-dropdown .sub-menu a { color: var(--text-light) !important; }
-      }
-      @media (min-width: 769px) { .mobile-submenu-toggle { display: none !important; } }
-    </style>
 
     <style id="zappy-widget-visibility">
       html[dir="rtl"] .whatsapp-float { right: 20px !important; left: auto !important; }
@@ -385,10 +772,10 @@
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
         </button>
         <button class="close-search" id="close-mobile-search">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
         </button>
       </div>
       <div class="search-results" id="mobile-search-results"></div>
@@ -398,16 +785,16 @@
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
-      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+      <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
     <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
-      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+      <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
 
   <button class="phone-header-btn" data-phone="0544600127" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
     </svg>
   </button>
 
@@ -416,27 +803,24 @@
       <a href="/" class="logo-link">
         <img src="/assets/general-logo-1777969372493-rr47yv.webp?v=1777969373397-pc4vds" alt="בוקר טרי" class="logo">
       </a>
-    </div><ul class="nav-menu" id="navMenu"><li><a href="/" data-i18n="nav-home">בית</a></li>
-
-    <li class="menu-item-has-children zappy-products-dropdown">
+    </div><ul class="nav-menu" id="navMenu"><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li class="menu-item-has-children zappy-products-dropdown">
       <a href="/products">
         מוצרים
         <svg class="dropdown-arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M6 9l6 6 6-6"></path>
+          <path d="M6 9l6 6 6-6"/>
         </svg>
       </a>
       <ul class="sub-menu" id="zappy-nav-category-links">
         <li><a href="/products">כל המוצרים</a></li>
         <!-- Categories will be loaded dynamically -->
       </ul>
-    </li>
-  <li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+    </li><li class="menu-group-item"><span class="menu-group-title">חדש תפריט</span></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
 
     
 
@@ -852,7 +1236,7 @@
 </script>
   
   <main>
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="position: relative; overflow: hidden; background-image: linear-gradient(rgba(20, 12, 6, 0), rgba(20, 12, 6, 0)), url(&quot;assets/general-hero-upload-1778094001889.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; --zappy-bg-overlay: rgba(20, 12, 6, 0); --zappy-bg-image: url(&quot;assets/general-hero-upload-1778094001889.webp&quot;); margin-top: -174px !important; padding-top: 174px !important; " data-zappy-bg-type="image" data-zappy-bg-color="" data-zappy-bg-image="assets/general-hero-upload-1778094001889.webp" data-zappy-bg-overlay-color="#140c06" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type="" data-zappy-bg-video-url="" data-element-id="zappy-hero-bg-index-hero-section" data-element-type="background-image">
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="position: relative; overflow: hidden; background-image: linear-gradient(rgba(20, 12, 6, 0), rgba(20, 12, 6, 0)), url(&quot;assets/general-hero-upload-1778094001889.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; --zappy-bg-overlay: rgba(20, 12, 6, 0); --zappy-bg-image: url(&quot;assets/general-hero-upload-1778094001889.webp&quot;); margin-top: -174px !important; padding-top: 174px !important; " data-zappy-bg-type="image" data-zappy-bg-color data-zappy-bg-image="assets/general-hero-upload-1778094001889.webp" data-zappy-bg-overlay-color="#140c06" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type data-zappy-bg-video-url data-element-id="zappy-hero-bg-index-hero-section" data-element-type="background-image">
   <!-- Background Image -->
   <div class="index-hero-bg" style="display: none" data-zappy-original-bg="hidden">
     <div data-zappy-zoom-wrapper="true" data-element-id="img-1778083050863-zb2o3tou3" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="display: none; position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; z-index: 1 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-align="center" data-zappy-zoom-wrapper-width="1763px" data-zappy-zoom-wrapper-height="903px" data-zappy-original-bg="hidden"><img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Premium healthy breakfast scene in warm sunrise morning light. A beautifully styled flat-lay or slightly angled shot featuring a bowl of granola with fresh berries, a glass of fresh orange juice catching golden light, sliced avocado toast on artisan bread, and a small jar of honey on a linen-textured surface. Shallow depth of field, soft bokeh background, warm amber and peach tones, editorial food photography style, natural light streaming from the side, fresh herbs as garnish." width="1400" height="900" src="/assets/site-index-hero-image-1-1778494768246-zuey4v.webp?v=1778494768246" alt="ארוחת בוקר טרייה ובריאה באור שמש זהוב" class="index-hero-img" data-hero-background="true" data-element-type="image" data-element-id="img-1778083050863-zb2o3tou3" style="object-position: 50% 33% !important; width: 100%; height: 100%; object-fit: cover; position: absolute !important; margin: 0px !important; left: 0% !important; top: -15.0798% !important; max-width: none !important; max-height: none !important; display: block !important;" data-zappy-zoom="1" data-zappy-original-width="1762.666748046875" data-zappy-original-height="903.3333740234375" data-zappy-object-position="50% 33%"></div>
@@ -876,10 +1260,10 @@
   <!-- Bottom Divider: atmospheric mist fade to light section -->
   <div class="index-hero-divider-wrapper" aria-hidden="true">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,90 L0,52 Q120,38 240,50 T480,42 Q600,36 720,48 T960,40 Q1080,34 1200,46 T1440,44 L1440,90 Z" fill="var(--bg-light)"></path>
+      <path d="M0,90 L0,52 Q120,38 240,50 T480,42 Q600,36 720,48 T960,40 Q1080,34 1200,46 T1440,44 L1440,90 Z" fill="var(--bg-light)"/>
     </svg>
   </div>
-<p><span class="zappy-announcement-message" ><span style="color: #b3b3b3 !important"><span style="color: #b3b3b3 !important"><span style="color: #008000 !important"><span style="color: #808080 !important"><span style="color: #b3b3b3 !important"><span style="color: #e5e5e5 !important"><span style="color: #e5e5e5 !important"><span style="color: #008080 !important">במידה וחיפשת מןצר ולא מצאתם מוזמנים לפנות עלינו בwachapp</span></span></span></span></span></span></span></span></span></p></section>
+<p><span class="zappy-announcement-message" style><span style="color: #b3b3b3 !important"><span style="color: #b3b3b3 !important"><span style="color: #008000 !important"><span style="color: #808080 !important"><span style="color: #b3b3b3 !important"><span style="color: #e5e5e5 !important"><span style="color: #e5e5e5 !important"><span style="color: #008080 !important">במידה וחיפשת מןצר ולא מצאתם מוזמנים לפנות עלינו בwachapp</span></span></span></span></span></span></span></span></span></p></section>
 
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
@@ -907,30 +1291,30 @@
 <section class="index-features-section" data-layout-spec="בית-features" dir="rtl" id="index-features-section">
   <!-- Botanical leaf decoration top-right -->
   <svg class="index-features-deco index-features-deco--leaf" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 220 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M110 20 C60 40 20 100 30 180 C40 220 80 250 110 240 C140 250 180 220 190 180 C200 100 160 40 110 20Z" stroke="#F5A623" stroke-width="1.5" fill="none" opacity="0.12"></path>
-    <path d="M110 20 L110 240" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M110 80 C90 90 70 110 65 130" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M110 80 C130 90 150 110 155 130" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M110 130 C85 140 65 155 60 170" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M110 130 C135 140 155 155 160 170" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M110 20 C60 40 20 100 30 180 C40 220 80 250 110 240 C140 250 180 220 190 180 C200 100 160 40 110 20Z" stroke="#F5A623" stroke-width="1.5" fill="none" opacity="0.12"/>
+    <path d="M110 20 L110 240" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M110 80 C90 90 70 110 65 130" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M110 80 C130 90 150 110 155 130" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M110 130 C85 140 65 155 60 170" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M110 130 C135 140 155 155 160 170" stroke="#F5A623" stroke-width="1" fill="none" opacity="0.10"/>
   </svg>
 
   <!-- Botanical branch decoration bottom-left -->
   <svg class="index-features-deco index-features-deco--branch" aria-hidden="true" data-no-icon-edit="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M20 160 C50 120 80 100 120 80 C150 65 175 50 190 30" stroke="#C8873A" stroke-width="1.5" fill="none" opacity="0.10"></path>
-    <path d="M60 130 C50 110 40 90 55 70" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M55 70 C45 60 55 45 65 50 C55 55 52 65 55 70Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M100 105 C90 85 95 65 110 55" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M110 55 C100 42 112 30 120 38 C110 42 108 50 110 55Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M140 85 C135 65 142 48 155 42" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M155 42 C148 28 162 18 168 28 C158 32 156 38 155 42Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M20 160 C50 120 80 100 120 80 C150 65 175 50 190 30" stroke="#C8873A" stroke-width="1.5" fill="none" opacity="0.10"/>
+    <path d="M60 130 C50 110 40 90 55 70" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M55 70 C45 60 55 45 65 50 C55 55 52 65 55 70Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M100 105 C90 85 95 65 110 55" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M110 55 C100 42 112 30 120 38 C110 42 108 50 110 55Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M140 85 C135 65 142 48 155 42" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M155 42 C148 28 162 18 168 28 C158 32 156 38 155 42Z" stroke="#C8873A" stroke-width="1" fill="none" opacity="0.10"/>
   </svg>
 
   <div class="index-features-container">
     <!-- Left/Start Column: Intro + Feature Blocks -->
     <div class="index-features-content">
       <div class="index-features-intro">
-        <h1><span class="index-features-eyebrow" ><b>מדוע בוקר טרי</b></span></h1><h2 class="index-features-heading">הבוקר שלך מתחיל
+        <h1><span class="index-features-eyebrow" style><b>מדוע בוקר טרי</b></span></h1><h2 class="index-features-heading">הבוקר שלך מתחיל
 עם הטוב ביותר</h2>
         <p class="index-features-subtext">בוקר טרי נולד מתוך אמונה פשוטה: שגרת בוקר בריאה מתחילה במרכיבים אמיתיים, בטעם אמיתי, ובהרגשה שמחזיקה אותך לאורך כל היום. אנחנו מביאים לשולחן שלך את הטוב ביותר שהטבע מציע — בלי פשרות, בלי תוספות מיותרות.</p>
       </div>
@@ -940,7 +1324,7 @@
         <article class="index-features-block index-features-block--large" data-grid-item-index="0">
           <div class="index-features-block-accent"></div>
           <h3 class="index-features-block-title">יושרת מרכיבים</h3>
-          <p class="index-features-block-text" >כל מוצר בבוקר טרי מכיל רק מה שצריך — מרכיבים&nbsp; שנבחרו בקפידה ממקורות מהימנים.&nbsp; שקיפות מלאה עד לצלחת.</p>
+          <p class="index-features-block-text" style>כל מוצר בבוקר טרי מכיל רק מה שצריך — מרכיבים&nbsp; שנבחרו בקפידה ממקורות מהימנים.&nbsp; שקיפות מלאה עד לצלחת.</p>
         </article>
 
         <div class="index-features-blocks-row zappy-preserve-css-grid zappy-grid-item-nested-grid zappy-grid-item-no-stretch" id="zappy-auto-grid-1778026913732-0v709n" data-zappy-auto-grid="true" data-original-item-width="316" data-original-gap="24px" style="display: grid; --zappy-grid-cols: repeat(2, minmax(0, 1fr)); grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: stretch !important;" data-grid-item-index="1" data-zappy-explicit-columns="true">
@@ -973,25 +1357,25 @@
   <!-- Bottom torn-paper SVG divider transitioning to dark bg-dark section -->
   <div class="index-features-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,70 L0,28 Q30,22 60,30 T130,24 Q170,28 210,20 T290,26 Q330,22 370,30 T450,22 Q490,28 530,20 T610,26 Q650,22 700,30 T780,22 Q820,28 860,20 T940,26 Q980,22 1020,30 T1100,22 Q1140,28 1180,20 T1260,26 Q1300,22 1340,30 T1440,24 L1440,70 Z" fill="#2A211B"></path>
+      <path d="M0,70 L0,28 Q30,22 60,30 T130,24 Q170,28 210,20 T290,26 Q330,22 370,30 T450,22 Q490,28 530,20 T610,26 Q650,22 700,30 T780,22 Q820,28 860,20 T940,26 Q980,22 1020,30 T1100,22 Q1140,28 1180,20 T1260,26 Q1300,22 1340,30 T1440,24 L1440,70 Z" fill="#2A211B"/>
     </svg>
   </div>
 </section>
 
-<section class="index-benefits-section" data-layout-spec="בית-benefits" dir="rtl" id="index-benefits-section" style="position: relative; overflow: hidden; background-color: #1A4F8A; --zappy-bg-color: #1A4F8A" data-zappy-bg-type="color" data-zappy-bg-color="#1A4F8A" data-zappy-bg-image="" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="30" data-zappy-bg-video-type="" data-zappy-bg-video-url="">
+<section class="index-benefits-section" data-layout-spec="בית-benefits" dir="rtl" id="index-benefits-section" style="position: relative; overflow: hidden; background-color: #1A4F8A; --zappy-bg-color: #1A4F8A" data-zappy-bg-type="color" data-zappy-bg-color="#1A4F8A" data-zappy-bg-image data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="30" data-zappy-bg-video-type data-zappy-bg-video-url>
   <!-- Botanical decorative SVG - top right -->
   <svg class="index-benefits-deco-leaf" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M180,10 C160,30 140,60 120,80 C100,100 70,120 40,140 C60,130 90,110 110,90 C130,70 150,40 170,20 Z" stroke="#1A4F8A" stroke-width="1.5" fill="none" opacity="0.18"></path>
-    <path d="M150,5 C130,25 110,55 90,75 C70,95 40,115 10,135" stroke="#1A4F8A" stroke-width="1" fill="none" opacity="0.12"></path>
-    <path d="M120,15 C115,35 108,55 95,72 C82,89 60,102 38,118" stroke="#E8650A" stroke-width="0.8" fill="none" opacity="0.10"></path>
+    <path d="M180,10 C160,30 140,60 120,80 C100,100 70,120 40,140 C60,130 90,110 110,90 C130,70 150,40 170,20 Z" stroke="#1A4F8A" stroke-width="1.5" fill="none" opacity="0.18"/>
+    <path d="M150,5 C130,25 110,55 90,75 C70,95 40,115 10,135" stroke="#1A4F8A" stroke-width="1" fill="none" opacity="0.12"/>
+    <path d="M120,15 C115,35 108,55 95,72 C82,89 60,102 38,118" stroke="#E8650A" stroke-width="0.8" fill="none" opacity="0.10"/>
   </svg>
 
   <!-- Botanical decorative SVG - bottom left -->
   <svg class="index-benefits-deco-branch" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M20,170 C40,150 60,120 80,100 C100,80 130,60 160,40" stroke="#E8650A" stroke-width="1.5" fill="none" opacity="0.15"></path>
-    <path d="M80,100 C70,85 65,70 72,55" stroke="#E8650A" stroke-width="1" fill="none" opacity="0.12"></path>
-    <path d="M110,78 C100,65 96,50 102,35" stroke="#1A4F8A" stroke-width="1" fill="none" opacity="0.10"></path>
-    <path d="M50,130 C42,115 38,98 44,82" stroke="#E8650A" stroke-width="1" fill="none" opacity="0.10"></path>
+    <path d="M20,170 C40,150 60,120 80,100 C100,80 130,60 160,40" stroke="#E8650A" stroke-width="1.5" fill="none" opacity="0.15"/>
+    <path d="M80,100 C70,85 65,70 72,55" stroke="#E8650A" stroke-width="1" fill="none" opacity="0.12"/>
+    <path d="M110,78 C100,65 96,50 102,35" stroke="#1A4F8A" stroke-width="1" fill="none" opacity="0.10"/>
+    <path d="M50,130 C42,115 38,98 44,82" stroke="#E8650A" stroke-width="1" fill="none" opacity="0.10"/>
   </svg>
 
   <!-- Radial glow decorations -->
@@ -1015,9 +1399,9 @@
         <div class="index-benefits-card-inner">
           <div class="index-benefits-card-icon-wrap" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="20" cy="20" r="18" stroke="currentColor" stroke-width="1.2" opacity="0.3"></circle>
-              <path d="M20 8 C20 8 14 14 14 20 C14 26 20 30 20 30 C20 30 26 26 26 20 C26 14 20 8 20 8Z" stroke="currentColor" stroke-width="1.5" fill="none"></path>
-              <path d="M20 14 L20 26 M15 19 C17 17 20 16 23 17" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+              <circle cx="20" cy="20" r="18" stroke="currentColor" stroke-width="1.2" opacity="0.3"/>
+              <path d="M20 8 C20 8 14 14 14 20 C14 26 20 30 20 30 C20 30 26 26 26 20 C26 14 20 8 20 8Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+              <path d="M20 14 L20 26 M15 19 C17 17 20 16 23 17" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
             </svg>
           </div>
           <h3 class="index-benefits-card-title">בוקר יציב, יום מאוזן</h3>
@@ -1030,10 +1414,10 @@
         <div class="index-benefits-card-inner">
           <div class="index-benefits-card-icon-wrap" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 28 C10 28 12 18 20 14 C28 10 32 16 30 24 C28 32 20 34 20 34 C20 34 14 32 10 28Z" stroke="currentColor" stroke-width="1.5" fill="none"></path>
-              <path d="M20 14 C20 14 18 20 20 26" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
-              <circle cx="20" cy="10" r="2.5" stroke="currentColor" stroke-width="1.2" fill="none"></circle>
-              <path d="M16 22 C17.5 21 20 20.5 23 21.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+              <path d="M10 28 C10 28 12 18 20 14 C28 10 32 16 30 24 C28 32 20 34 20 34 C20 34 14 32 10 28Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+              <path d="M20 14 C20 14 18 20 20 26" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+              <circle cx="20" cy="10" r="2.5" stroke="currentColor" stroke-width="1.2" fill="none"/>
+              <path d="M16 22 C17.5 21 20 20.5 23 21.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
             </svg>
           </div>
           <h3 class="index-benefits-card-title">מרכיבים שאפשר לבטוח בהם</h3>
@@ -1046,10 +1430,10 @@
         <div class="index-benefits-card-inner">
           <div class="index-benefits-card-icon-wrap" aria-hidden="true">
             <svg data-element-type="icon" data-icon-type="svg" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M8 32 L8 20 C8 14 12 10 20 10 C28 10 32 14 32 20 L32 32" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"></path>
-              <path d="M14 20 C14 20 16 16 20 16 C24 16 26 20 26 20" stroke="currentColor" stroke-width="1.2" fill="none" stroke-linecap="round"></path>
-              <path d="M6 32 L34 32" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
-              <path d="M20 10 L20 6 M15 8 L17 6 M25 8 L23 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+              <path d="M8 32 L8 20 C8 14 12 10 20 10 C28 10 32 14 32 20 L32 32" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+              <path d="M14 20 C14 20 16 16 20 16 C24 16 26 20 26 20" stroke="currentColor" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+              <path d="M6 32 L34 32" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              <path d="M20 10 L20 6 M15 8 L17 6 M25 8 L23 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
             </svg>
           </div>
           <h3 class="index-benefits-card-title">שגרה שנשארת לאורך זמן</h3>
@@ -1063,7 +1447,7 @@
   <!-- Bottom divider: curved sunrise band transitioning to light section -->
   <div class="index-benefits-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,90 L0,55 C120,35 240,25 360,32 C480,39 600,58 720,60 C840,62 960,48 1080,38 C1200,28 1320,32 1440,42 L1440,90 Z" fill="var(--bg-light)"></path>
+      <path d="M0,90 L0,55 C120,35 240,25 360,32 C480,39 600,58 720,60 C840,62 960,48 1080,38 C1200,28 1320,32 1440,42 L1440,90 Z" fill="var(--bg-light)"/>
     </svg>
   </div>
 
@@ -1096,11 +1480,11 @@
         </blockquote>
         <footer class="tbs-card-footer">
           <div class="tbs-avatar" aria-hidden="true">
-            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של מיכל לוי" data-placeholder="testimonial-avatar-1" data-context="Smiling Israeli woman in her 30s, casual professional, warm natural light portrait, friendly expression" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-8c2fsuihw" data-zappy-footer-image="true" >
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של מיכל לוי" data-placeholder="testimonial-avatar-1" data-context="Smiling Israeli woman in her 30s, casual professional, warm natural light portrait, friendly expression" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-8c2fsuihw" data-zappy-footer-image="true" style>
           </div>
           <div class="tbs-author-info">
             <cite class="tbs-author-name">מיכל לוי</cite>
-            <span class="tbs-author-role" >אמא ל-3, נהריה</span>
+            <span class="tbs-author-role" style>אמא ל-3, נהריה</span>
           </div>
         </footer>
       </article>
@@ -1122,11 +1506,11 @@
         </blockquote>
         <footer class="tbs-card-footer">
           <div class="tbs-avatar" aria-hidden="true">
-            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של רועי כהן" data-placeholder="testimonial-avatar-2" data-context="Fit Israeli man in his late 30s, athletic look, confident smile, natural outdoor light, professional portrait" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-vod7yyidw" data-zappy-footer-image="true" >
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של רועי כהן" data-placeholder="testimonial-avatar-2" data-context="Fit Israeli man in his late 30s, athletic look, confident smile, natural outdoor light, professional portrait" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-vod7yyidw" data-zappy-footer-image="true" style>
           </div>
           <div class="tbs-author-info">
             <cite class="tbs-author-name">רועי כהן</cite>
-            <span class="tbs-author-role" >עורך דין, מעלות</span>
+            <span class="tbs-author-role" style>עורך דין, מעלות</span>
           </div>
         </footer>
       </article>
@@ -1148,11 +1532,11 @@
         </blockquote>
         <footer class="tbs-card-footer">
           <div class="tbs-avatar" aria-hidden="true">
-            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של שירה אברהם" data-placeholder="testimonial-avatar-3" data-context="Cheerful Israeli woman in her 40s, natural makeup, warm smile, soft indoor natural light portrait" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-8yqzpatf0" data-zappy-footer-image="true" >
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="תמונת פרופיל של שירה אברהם" data-placeholder="testimonial-avatar-3" data-context="Cheerful Israeli woman in her 40s, natural makeup, warm smile, soft indoor natural light portrait" class="tbs-avatar-img" data-element-type="image" data-element-id="img-1778026913688-8yqzpatf0" data-zappy-footer-image="true" style>
           </div>
           <div class="tbs-author-info">
             <cite class="tbs-author-name">שירה אברהם</cite>
-            <span class="tbs-author-role" >דיאטנית קלינית, נהריה</span>
+            <span class="tbs-author-role" style>דיאטנית קלינית, נהריה</span>
           </div>
         </footer>
       </article>
@@ -1162,7 +1546,7 @@
     <!-- Trust bar -->
     <div class="tbs-trust-bar" aria-label="נתוני אמון">
       <div class="tbs-trust-item">
-        <span class="tbs-trust-number" >1200+</span>
+        <span class="tbs-trust-number" style>1200+</span>
         <span class="tbs-trust-label">לקוחות מרוצים</span>
       </div>
       <div class="tbs-trust-divider" aria-hidden="true"></div>
@@ -1188,8 +1572,8 @@
     <!-- Intro Row -->
     <div class="index-gallery-intro">
       <div class="index-gallery-intro-text">
-        <h2 class="index-gallery-heading" >רגעים של <em>בוקר טרי</em></h2>
-        <p class="index-gallery-desc" >כל בוקר הוא הזדמנות לפתוח מחדש — עם מרכיבים טריים, ריחות שמחזירים לחיים, ושגרת בוקר שנראית כמו שהיא מרגישה. כאן תוכלו לראות את העולם שאנחנו בונים, כפה לכפה, ספל לספל.</p>
+        <h2 class="index-gallery-heading" style>רגעים של <em>בוקר טרי</em></h2>
+        <p class="index-gallery-desc" style>כל בוקר הוא הזדמנות לפתוח מחדש — עם מרכיבים טריים, ריחות שמחזירים לחיים, ושגרת בוקר שנראית כמו שהיא מרגישה. כאן תוכלו לראות את העולם שאנחנו בונים, כפה לכפה, ספל לספל.</p>
       </div>
       <div class="index-gallery-intro-cta">
         <p class="index-gallery-cta-label">הכירו את הסיפור שלנו</p>
@@ -1202,13 +1586,13 @@
 
       <!-- Wide top image -->
       <figure class="index-gallery-tile index-gallery-tile--wide" data-grid-item-index="0">
-        <img data-placeholder="index-gallery-image-1" data-context="Wide editorial photograph of a beautifully arranged premium breakfast spread on a warm cream linen surface — fresh fruits, artisan bread, small ceramic bowls of honey and seeds, golden morning light streaming in from the right, soft shadows, overhead slightly angled shot, magazine-quality food photography for a healthy breakfast brand called Boker Tari" width="900" height="420" src="/assets/site-index-gallery-image-1-1777925216852-er1s7y.webp?v=1777925216852" alt="מרחב ארוחת בוקר מסודרת עם מרכיבים טריים באור בוקר זהוב" data-element-type="image" data-element-id="img-1777924171394-4j7cydkag" >
+        <img data-placeholder="index-gallery-image-1" data-context="Wide editorial photograph of a beautifully arranged premium breakfast spread on a warm cream linen surface — fresh fruits, artisan bread, small ceramic bowls of honey and seeds, golden morning light streaming in from the right, soft shadows, overhead slightly angled shot, magazine-quality food photography for a healthy breakfast brand called Boker Tari" width="900" height="420" src="/assets/site-index-gallery-image-1-1777925216852-er1s7y.webp?v=1777925216852" alt="מרחב ארוחת בוקר מסודרת עם מרכיבים טריים באור בוקר זהוב" data-element-type="image" data-element-id="img-1777924171394-4j7cydkag" style>
         <div class="index-gallery-tile-overlay"></div>
       </figure>
 
       <!-- Bottom left: tall vertical -->
       <figure class="index-gallery-tile index-gallery-tile--tall" data-grid-item-index="1">
-        <img data-placeholder="index-gallery-image-2" data-context="Tall vertical editorial photo of a person\" s="" hands="" pouring="" fresh="" orange="" juice="" into="" a="" glass="" on="" wooden="" table,="" warm="" sunrise="" light="" from="" window,="" natural="" textures,="" soft="" bokeh="" background,="" intimate="" morning="" ritual="" mood,="" healthy="" life photography="" for="" boker="" tari="" breakfast="" brand'="" width="400" height="560" src="/assets/site-index-gallery-image-2-1777925241676-oc2hi5.webp?v=1777925241676" alt="ידיים מוזגות מיץ תפוזים טרי באור בוקר חם" data-element-type="image" data-element-id="img-1777924171394-g87ma8w5x" >
+        <img data-placeholder="index-gallery-image-2" data-context="Tall vertical editorial photo of a person\" s hands pouring fresh orange juice into a glass on wooden table, warm sunrise light from window, natural textures, soft bokeh background, intimate morning ritual mood, healthy lifestyle photography for boker tari breakfast brand' width="400" height="560" src="/assets/site-index-gallery-image-2-1777925241676-oc2hi5.webp?v=1777925241676" alt="ידיים מוזגות מיץ תפוזים טרי באור בוקר חם" data-element-type="image" data-element-id="img-1777924171394-g87ma8w5x" style>
         <div class="index-gallery-tile-overlay"></div>
       </figure>
 
@@ -1217,7 +1601,7 @@
 
       <!-- Bottom end: small macro texture -->
       <figure class="index-gallery-tile index-gallery-tile--macro" data-grid-item-index="2">
-        <img data-placeholder="index-gallery-image-4" data-context="Close-up macro photograph of organic ingredient textures — chia seeds, rolled oats, dried berries and a drizzle of honey on a stone surface, extreme detail, warm earthy tones, natural light, premium artisan food photography for Boker Tari healthy breakfast brand" width="380" height="320" src="/assets/site-index-gallery-image-4-1777925263185-6b843z.webp?v=1777925263185" alt="מרקמי מרכיבים אורגניים — שיבולת שועל, זרעי צ׳יה ודבש" data-element-type="image" data-element-id="img-1777924171394-soyzvw516" >
+        <img data-placeholder="index-gallery-image-4" data-context="Close-up macro photograph of organic ingredient textures — chia seeds, rolled oats, dried berries and a drizzle of honey on a stone surface, extreme detail, warm earthy tones, natural light, premium artisan food photography for Boker Tari healthy breakfast brand" width="380" height="320" src="/assets/site-index-gallery-image-4-1777925263185-6b843z.webp?v=1777925263185" alt="מרקמי מרכיבים אורגניים — שיבולת שועל, זרעי צ׳יה ודבש" data-element-type="image" data-element-id="img-1777924171394-soyzvw516" style>
         <div class="index-gallery-tile-overlay"></div>
       </figure><figure class="index-gallery-tile" style="background-color: rgb(140, 132, 124) !important; grid-area: auto !important;" data-grid-item-index="3">
         <div data-zappy-zoom-wrapper="true" data-element-id="new-grid-img-1778027190633-0-3xu4byjza" data-element-type="image" data-zappy-zoom-wrapper-width="384px" data-zappy-zoom-wrapper-height="514px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 384px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 514px !important; display: block !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-card-slot-fill="1"><img data-placeholder="image-placeholder" data-context="Close-up macro photograph of organic ingredient textures — chia seeds, rolled oats, dried berries and a drizzle of honey on a stone surface, extreme detail, warm earthy tones, natural light, premium artisan food photography for Boker Tari healthy breakfast brand" width="380" height="320" src="/assets/image-image-placeholder-1778027221080-svvzbq.webp?v=1778027223449" alt="Image placeholder" data-element-type="image" data-element-id="new-grid-img-1778027190633-0-3xu4byjza" style="cursor: pointer; display: block !important; object-fit: cover !important; object-position: 50% 50% !important; margin: 0px !important; left: -1.83133% !important; top: -1.5% !important; width: 103.663% !important; height: 103% !important; max-width: none !important; max-height: none !important; position: absolute !important;" id="new-grid-img-1778027190633-0-3xu4byjza" data-ai-slot="grid-item-image" data-zappy-zoom="1.03" data-zappy-original-width="384" data-zappy-original-height="514" data-zappy-object-position="50% 50%"></div>
@@ -1232,7 +1616,7 @@
   <!-- Bottom brush-like gradient divider -->
   <div class="index-gallery-divider-wrapper">
     <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,90 L0,52 Q120,38 240,50 T480,42 Q600,36 720,48 T960,40 Q1080,34 1200,46 T1440,38 L1440,90 Z" fill="#1A4F8A"></path>
+      <path d="M0,90 L0,52 Q120,38 240,50 T480,42 Q600,36 720,48 T960,40 Q1080,34 1200,46 T1440,38 L1440,90 Z" fill="#1A4F8A"/>
     </svg>
   </div>
 
@@ -1247,12 +1631,12 @@
 
   <div class="index-cta-container">
     <div class="index-cta-content">
-      <p><span class="index-cta-eyebrow" >בוקר טרי</span></p><h2 class="index-cta-heading" style="color: rgb(255, 248, 240) !important;">מוכנים להתחיל את הבוקר<br><br>בצורה הנכונה?</h2>
+      <p><span class="index-cta-eyebrow" style>בוקר טרי</span></p><h2 class="index-cta-heading" style="color: rgb(255, 248, 240) !important;">מוכנים להתחיל את הבוקר<br><br>בצורה הנכונה?</h2>
       <p class="index-cta-body" style="color: rgb(255, 248, 240) !important;">אנחנו מאמינים שכל בוקר הוא הזדמנות חדשה — לאכול טוב יותר, להרגיש טוב יותר, ולהתחיל את היום עם מרץ אמיתי. בין אם אתם מחפשים מוצרים לארוחת בוקר, שיתוף פעולה עסקי, או פשוט רוצים להכיר אותנו קצת יותר — אנחנו כאן.</p>
       <div class="index-cta-actions">
         <a href="/contact" class="index-cta-btn-primary" data-element-type="button" data-element-id="btn-1778026913684-zxtdyinjn" data-native-element="true">
           <span>בואו נדבר</span>
-          <svg data-element-type="icon" data-icon-type="svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+          <svg data-element-type="icon" data-icon-type="svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
         </a>
       </div>
       <p class="index-cta-secondary-text" style="color: rgb(255, 248, 240) !important;">מתעניינים בשיתוף פעולה עסקי או הפצה? <a href="/contact" class="index-cta-link" style="color: rgb(255, 248, 240) !important;">נשמח לשמוע</a></p>
@@ -1271,11 +1655,11 @@
           <div class="footer-logo-wrap">
             
           </div>
-          <p class="footer-tagline" >מתחילים את הבוקר טרי,&nbsp;<br><br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
+          <p class="footer-tagline" style>מתחילים את הבוקר טרי,&nbsp;<br><br>&nbsp; &nbsp; &nbsp;ומלא השראה.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
             <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777698485129-t7brae6ep" data-icon-type="fontawesome"></i></a>
-            <a href="https://wa.me/972544600127" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="12" height="12" viewBox="0 0 16 16" data-icon="formkit:whatsapp" data-iconify="formkit:whatsapp" data-element-type="icon" data-element-id="icon-1777698485129-u4gnl3z0j" data-icon-type="iconify" data-size-adjusted="true" style="width: 12px !important; height: 12px !important; display: inline-block; vertical-align: -0.125em; color: rgb(245, 236, 0);" class="iconify iconify--formkit"><path fill="currentColor" d="M13.95 4.24C11.86 1 7.58.04 4.27 2.05C1.04 4.06 0 8.44 2.09 11.67l.17.26l-.7 2.62l2.62-.7l.26.17c1.13.61 2.36.96 3.58.96c1.31 0 2.62-.35 3.75-1.05c3.23-2.1 4.19-6.39 2.18-9.71Zm-1.83 6.74c-.35.52-.79.87-1.4.96c-.35 0-.79.17-2.53-.52c-1.48-.7-2.71-1.84-3.58-3.15c-.52-.61-.79-1.4-.87-2.19c0-.7.26-1.31.7-1.75c.17-.17.35-.26.52-.26h.44c.17 0 .35 0 .44.35c.17.44.61 1.49.61 1.58c.09.09.05.76-.35 1.14c-.22.25-.26.26-.17.44c.35.52.79 1.05 1.22 1.49c.52.44 1.05.79 1.66 1.05c.17.09.35.09.44-.09c.09-.17.52-.61.7-.79c.17-.17.26-.17.44-.09l1.4.7c.17.09.35.17.44.26c.09.26.09.61-.09.87Z"></path></svg></a>
+            <a href="https://wa.me/972544600127" aria-label="WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="12" height="12" viewBox="0 0 16 16" data-icon="formkit:whatsapp" data-iconify="formkit:whatsapp" data-element-type="icon" data-element-id="icon-1777698485129-u4gnl3z0j" data-icon-type="iconify" data-size-adjusted="true" style="width: 12px !important; height: 12px !important; display: inline-block; vertical-align: -0.125em; color: rgb(245, 236, 0);" class="iconify iconify--formkit"><path fill="currentColor" d="M13.95 4.24C11.86 1 7.58.04 4.27 2.05C1.04 4.06 0 8.44 2.09 11.67l.17.26l-.7 2.62l2.62-.7l.26.17c1.13.61 2.36.96 3.58.96c1.31 0 2.62-.35 3.75-1.05c3.23-2.1 4.19-6.39 2.18-9.71Zm-1.83 6.74c-.35.52-.79.87-1.4.96c-.35 0-.79.17-2.53-.52c-1.48-.7-2.71-1.84-3.58-3.15c-.52-.61-.79-1.4-.87-2.19c0-.7.26-1.31.7-1.75c.17-.17.35-.26.52-.26h.44c.17 0 .35 0 .44.35c.17.44.61 1.49.61 1.58c.09.09.05.76-.35 1.14c-.22.25-.26.26-.17.44c.35.52.79 1.05 1.22 1.49c.52.44 1.05.79 1.66 1.05c.17.09.35.09.44-.09c.09-.17.52-.61.7-.79c.17-.17.26-.17.44-.09l1.4.7c.17.09.35.17.44.26c.09.26.09.61-.09.87Z"/></svg></a>
           </div>
         </div>
 
@@ -1284,7 +1668,7 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>ניווט מהיר
           </h4>
-          <ul class="footer-links" ><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
+          <ul class="footer-links" style><li><a href="/about">אודות</a></li><li><a href="/lifestyle">אורח חיים</a></li><li><a href="/contact">צור קשר</a></li></ul>
         </div>
 
         <!-- Column 3: Contact Info -->
@@ -1292,13 +1676,13 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>יצירת קשר
           </h4>
-          <ul class="footer-contact" ><li>
+          <ul class="footer-contact" style><li>
               <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1777698485129-6wxyuex94" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
               <span class="contact-text"><a href="mailto:bokertari20@gmail.com">bokertari20@gmail.com</a></span>
             </li><li>
               <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1777698485129-d890gxb8n" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
-              <span class="contact-text"><a href="tel:0544600127" >054600127</a></span>
-            </li><li><a href="/" ><span class="contact-icon"></span>
+              <span class="contact-text"><a href="tel:0544600127" style>054600127</a></span>
+            </li><li><a href="/" style><span class="contact-icon"></span>
               <span class="contact-text">[business_address]</span></a></li></ul>
         </div>
 
@@ -1307,10 +1691,10 @@
           <h4 class="footer-heading">
             <span class="heading-accent"></span>בוקר טרי
           </h4>
-          <p class="footer-about-text" >חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
+          <p class="footer-about-text" style>חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br><br><b>שישי -&nbsp; 12:00-9:00</b></p>
+          <p class="footer-hours" style><b>ראשון – חמישי: 09:00 – 18:00</b><br><br><b>שישי -&nbsp; 12:00-9:00</b></p>
         </div>
 
       </div>
