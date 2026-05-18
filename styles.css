@@ -17280,6 +17280,29 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+nav.zappy-catalog-menu .catalog-menu-item,
+nav.zappy-catalog-menu .catalog-menu-all,
+nav.zappy-catalog-menu .catalog-menu-categories a {
+  color: #e00000 !important;
+  font-weight: 700 !important;
+}
+
+.zappy-catalog-menu.scrolled .catalog-menu-item {
+  color: #e00000 !important;
+}
+
+.zappy-catalog-menu.scrolled .catalog-menu-all {
+  color: #e00000 !important;
+}
+
+nav.zappy-catalog-menu .catalog-menu-categories a {
+  color: #e00000 !important;
+}
+
+nav.zappy-catalog-menu .catalog-menu-item {
+  color: #e00000 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
