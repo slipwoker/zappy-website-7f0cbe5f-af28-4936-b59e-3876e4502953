@@ -488,12 +488,12 @@
     // Check if background is transparent or rgba with 0 alpha
     const isTransparent = bgColor === 'transparent' || 
                          bgColor === 'rgba(0, 0, 0, 0)' ||
-                         (bgColor.startsWith('rgba') &amp;&amp; bgColor.includes(', 0)'));
+                         (bgColor.startsWith('rgba') &amp;amp;&amp;amp; bgColor.includes(', 0)'));
     
     if (isTransparent) {
       // Check for background-image or gradient
       const bgImage = computedStyle.backgroundImage;
-      if (bgImage &amp;&amp; bgImage !== 'none') {
+      if (bgImage &amp;amp;&amp;amp; bgImage !== 'none') {
         console.log('[Navbar] Navbar has background image/gradient, using dark text');
         bgColor = 'rgb(240, 240, 240)'; // Assume light background
       } else {
@@ -506,7 +506,7 @@
     
     // Calculate luminance to determine if background is light or dark
     const rgb = bgColor.match(/\d+/g);
-    if (rgb &amp;&amp; rgb.length &gt;= 3) {
+    if (rgb &amp;amp;&amp;amp; rgb.length &amp;gt;= 3) {
       const r = parseInt(rgb[0]);
       const g = parseInt(rgb[1]);
       const b = parseInt(rgb[2]);
@@ -642,7 +642,7 @@
       // ONLY apply inline positioning styles on mobile viewport
       // On desktop, the CSS handles hiding these buttons with display: none
       // Inline styles were breaking desktop layout by overriding CSS
-      const isMobileViewport = window.innerWidth &lt;= 768;
+      const isMobileViewport = window.innerWidth &amp;lt;= 768;
       
       if (mobileToggle) {
         // Icon sizing applies to all viewports for consistency
@@ -833,7 +833,7 @@
       phoneBtn.addEventListener('click', function() {
         // Get phone number from placeholder in page or use default
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
-        const phoneNumber = phoneLinks.length &gt; 0 
+        const phoneNumber = phoneLinks.length &amp;gt; 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
           : '0544370239';
         
@@ -955,7 +955,7 @@
       <!-- Text Column (START / right in RTL) -->
       <div class="lss-text-col">
         <div class="lss-label">שגרת בוקר בריאה</div>
-        <h2 class="lss-heading" >הבוקר שלך,<br></br>המסגרת שלנו</h2>
+        <h2 class="lss-heading" >הבוקר שלך,<br></br><br></br>המסגרת שלנו</h2>
         <p class="lss-intro">ב<strong>בוקר טרי</strong> אנחנו מאמינים שהבוקר הוא הרגע שמגדיר את כל היום. לכן יצרנו מסגרת של תמיכה שמחברת בין תזונה אמיתית, שגרה מודעת ואיכות חיים מוגברת — בלי מאמץ מיותר.</p>
 
         <div class="lss-pillars">
@@ -973,7 +973,7 @@
             <div class="lss-pillar-number">02</div>
             <div class="lss-pillar-content">
               <h3 class="lss-pillar-title">פשטות בהחלטות הבריאות</h3>
-              <p class="lss-pillar-text" >בחירות תזונתיות לא צריכות להיות מורכבות. אנחנו בחרנו עבורכם מרכיבים&amp;nbsp; מובחרים, ניסחנו מתכונים שמתאימים לאורח חיים עמוס, וארזנו הכל בצורה שמקלה על ההחלטה — כך שהבוקר שלכם יתחיל ברוגע ולא בבלבול.</p>
+              <p class="lss-pillar-text" >בחירות תזונתיות לא צריכות להיות מורכבות. אנחנו בחרנו עבורכם מרכיבים&amp;amp;nbsp; מובחרים, ניסחנו מתכונים שמתאימים לאורח חיים עמוס, וארזנו הכל בצורה שמקלה על ההחלטה — כך שהבוקר שלכם יתחיל ברוגע ולא בבלבול.</p>
             </div>
           </article>
 
@@ -982,7 +982,7 @@
             <div class="lss-pillar-number">03</div>
             <div class="lss-pillar-content">
               <h3 class="lss-pillar-title">שדרוג איכות השגרה היומית</h3>
-              <p class="lss-pillar-text" >כשהבוקר מתחיל נכון, כל השאר נופל למקומו. מוצרים&amp;nbsp; לארוחת בוקר שלנו הם לא רק מזון — הם טקס. רגע של נוכחות, של טעם אמיתי, של הנאה שקטה לפני שהיום ממריא. כי שגרה טובה מתחילה בפרטים הקטנים.</p>
+              <p class="lss-pillar-text" >כשהבוקר מתחיל נכון, כל השאר נופל למקומו. מוצרים&amp;amp;nbsp; לארוחת בוקר שלנו הם לא רק מזון — הם טקס. רגע של נוכחות, של טעם אמיתי, של הנאה שקטה לפני שהיום ממריא. כי שגרה טובה מתחילה בפרטים הקטנים.</p>
             </div>
           </article>
         </div>
@@ -1023,7 +1023,7 @@
     <!-- Section heading -->
     <header class="lifestyle-audience-header">
       <span class="lifestyle-audience-eyebrow">למי זה מיועד</span>
-      <h2 class="lifestyle-audience-title">בוקר טרי — לכל מי שמאמין<br></br>שהבוקר מתחיל בבחירה נכונה</h2>
+      <h2 class="lifestyle-audience-title">בוקר טרי — לכל מי שמאמין<br></br><br></br>שהבוקר מתחיל בבחירה נכונה</h2>
     </header>
 
     <!-- Three-card grid -->
@@ -1063,7 +1063,7 @@
         </div>
         <div class="lifestyle-audience-card-body">
           <h3 class="lifestyle-audience-card-title">אנשי שגרת הבוקר</h3>
-          <p class="lifestyle-audience-card-text" >הבוקר שלכם הוא טקס — מהכוס הראשונה ועד לארוחה שמכינה אתכם ליום. אתם מחפשים מוצרים שמשתלבים בשגרת בוקר&amp;nbsp; בצורה טבעית, מהירה ומהנה. בוקר טרי נולד בשבילכם.</p>
+          <p class="lifestyle-audience-card-text" >הבוקר שלכם הוא טקס — מהכוס הראשונה ועד לארוחה שמכינה אתכם ליום. אתם מחפשים מוצרים שמשתלבים בשגרת בוקר&amp;amp;nbsp; בצורה טבעית, מהירה ומהנה. בוקר טרי נולד בשבילכם.</p>
         </div>
         <div class="lifestyle-audience-card-badge">הכי פופולרי</div>
       </article>
@@ -1293,7 +1293,7 @@
           <div class="footer-logo-wrap">
             
           </div>
-          <p class="footer-tagline" >מתחילים את הבוקר טרי,&amp;nbsp;<br></br>&amp;nbsp; &amp;nbsp; &amp;nbsp;ומלא השראה.</p>
+          <p class="footer-tagline" >מתחילים את הבוקר טרי,&amp;amp;nbsp;<br></br><br></br>&amp;amp;nbsp; &amp;amp;nbsp; &amp;amp;nbsp;ומלא השראה.</p>
           <div class="footer-social">
             <a href="#" aria-label="Facebook" style="display:none !important;"><i class="fab fa-facebook-f"></i></a>
             <a href="#" aria-label="Instagram" style="display:none !important;"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1777698485129-t7brae6ep" data-icon-type="fontawesome"></i></a>
@@ -1332,7 +1332,7 @@
           <p class="footer-about-text" >חוויה עריכתית פרימיום שמשלבת חמימות, כנות מרכיבים ומומנטום בוקר בריא לתוך סיפור מותג ויזואלי מרתק.</p>
           <div class="footer-divider-line"></div>
           <p class="footer-hours-label">שעות פעילות</p>
-          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br></br><b>שישי -&amp;nbsp; 12:00-9:00</b></p>
+          <p class="footer-hours" ><b>ראשון – חמישי: 09:00 – 18:00</b><br></br><br></br><b>שישי -&amp;amp;nbsp; 12:00-9:00</b></p>
         </div>
 
       </div>
