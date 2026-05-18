@@ -17327,6 +17327,8 @@ nav.zappy-catalog-menu .catalog-menu-item {
   grid-template-columns: 1fr !important;
 }
 }
+/* Batch: צבע רקע שחור לכרטיסי מוצרים בדפי מוצרים וקטגוריות */
+.products-section .product-card, .category-section .product-card { background-color: #000000 !important; color: #ffffff !important; } .products-section .product-card .product-name, .products-section .product-card .product-title, .products-section .product-card h3, .products-section .product-card p, .products-section .product-card .product-price, .category-section .product-card .product-name, .category-section .product-card .product-title, .category-section .product-card h3, .category-section .product-card p, .category-section .product-card .product-price { color: #ffffff !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
