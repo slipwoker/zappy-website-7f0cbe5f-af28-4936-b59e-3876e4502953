@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 141**
+**Total active products: 142**
+
+### כריך סלט ביצים
+https://boker-tari.co.il/product/kryk-slt-bytsym-rx5asr
+- Price: 14.90 ILS
+- Availability: In stock
+- Category: כריכים
+- Description: מכיל: סלט ביצים,גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמוץ,לחם,ממרח מיונז,שומשום ** רטבים בכריך אינם קבועים ויכולים להשתנות.
 
 ### כריך סלט טונה
 https://boker-tari.co.il/product/kryk-slt-tvnh-ttemxl
