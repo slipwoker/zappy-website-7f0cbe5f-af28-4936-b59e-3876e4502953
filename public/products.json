@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:10:02.224Z",
+  "generated_at": "2026-05-28T08:11:11.546Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -247,11 +247,11 @@
     },
     {
       "id": "0539c0a7-6034-4bbe-81aa-54edb8c696bf",
-      "slug": "smbvsk-pytsh-fydury",
+      "slug": "smbvsk-pytsh-pecjwz",
       "name": "סמבוסק פיצה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "זיתים , גיבנה צהובה, רוטב עגבניות\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
       "sku": null,
       "brand": null,
       "price": 14.9,
@@ -263,11 +263,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/smbvsk-pytsh-fydury",
+      "url": "https://boker-tari.co.il/product/smbvsk-pytsh-pecjwz",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T08:09:30.955Z"
+      "updated_at": "2026-05-28T08:10:40.376Z"
     },
     {
       "id": "7ed5dcd7-7d4f-4a45-8ce7-1a0a4bc49b00",

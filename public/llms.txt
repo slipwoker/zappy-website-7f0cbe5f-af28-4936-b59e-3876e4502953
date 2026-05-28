@@ -153,10 +153,11 @@ https://boker-tari.co.il/product/avgt-prs-prg-bmshkl-adkbdg
 - Image: https://boker-tari.co.il/assets/product-1778540003713-ucwb9d.webp
 
 ### סמבוסק פיצה
-https://boker-tari.co.il/product/smbvsk-pytsh-fydury
+https://boker-tari.co.il/product/smbvsk-pytsh-pecjwz
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים
+- Description: זיתים , גיבנה צהובה, רוטב עגבניות ** רטבים בכריך אינם קבועים ויכולים להשתנות.
 - Image: https://boker-tari.co.il/assets/product-1778539838775-35at6k.webp
 
 ### דונאטס
