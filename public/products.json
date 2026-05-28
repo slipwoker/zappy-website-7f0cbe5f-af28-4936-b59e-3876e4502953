@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:27:23.744Z",
+  "generated_at": "2026-05-28T07:28:06.457Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -2499,15 +2499,15 @@
     },
     {
       "id": "b4ffaabf-1705-45cd-bc92-942b4e9db1bb",
-      "slug": "chlh-myny-z1ldp4",
+      "slug": "chlh-myny-6m3crp",
       "name": "חלה מיני",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 4.9,
+      "base_price": 4.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2515,11 +2515,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-myny-z1ldp4",
+      "url": "https://boker-tari.co.il/product/chlh-myny-6m3crp",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:44:24.721Z"
+      "updated_at": "2026-05-28T07:27:34.879Z"
     },
     {
       "id": "57d084bf-83b0-46cc-b267-2b0625ea67cf",
