@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:41:04.188Z",
+  "generated_at": "2026-05-28T07:41:48.412Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3343,15 +3343,15 @@
     },
     {
       "id": "777860a7-be8b-49a5-82a7-26704df0f226",
-      "slug": "kryk-pstrmh-vbkr-oddyd1",
+      "slug": "kryk-pstrmh-vbkr-2x1xpt",
       "name": "כריך פסטרמה ובקר",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": "מכיל: לחמנייה עם פסטרמה וחזה בקר, פלפל קלוי, מלפפון בחומץ וממרח מיונז וחרדל\nרכיבים: לחמנייה 50% [קמח חיטה לבן (גלוטן), קמח סויה, חומר משמר (E282, E200), שומשום], תערובת אנטיפסטי 17% (פלפל אדום, שמן קנולה מזוכך, מלפפון בחומץ [חומר משמר (E202)], חזה הודו ועוף מעוצב אפוי לח 17% [חומר משמר (E250), צבע מאכל (E160b)], חזה בקר מבושל ומעושן 8% [חומר משמר (ניטריט הנתרן), צבעי מאכל (רכז סלק, אנאטו)], ממרח מיונז חרדל 8% [ביצים, חומר משמר, (E202 ,E211), צבע מאכל(E150a)].\n* הירקות בכריכים לא ידועים מראש ומשת",
       "sku": null,
       "brand": null,
-      "price": 20,
-      "base_price": 20,
+      "price": 15.9,
+      "base_price": 15.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3359,11 +3359,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-pstrmh-vbkr-oddyd1",
+      "url": "https://boker-tari.co.il/product/kryk-pstrmh-vbkr-2x1xpt",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-11T23:53:51.105Z"
+      "updated_at": "2026-05-28T07:41:17.256Z"
     }
   ]
 }
