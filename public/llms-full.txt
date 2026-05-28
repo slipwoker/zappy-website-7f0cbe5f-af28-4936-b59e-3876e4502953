@@ -6324,13 +6324,6 @@ Availability: In stock
 
 ---
 
-### כריך אבוקדו
-URL: https://boker-tari.co.il/product/kryk-abvkdv-vozf5d
-Price: 20.00 ILS
-Availability: In stock
-
----
-
 ### כריך בולגרית
 URL: https://boker-tari.co.il/product/kryk-bvlgryt-vrsx2e
 Price: 20.00 ILS

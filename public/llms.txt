@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 141**
+**Total active products: 140**
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub
@@ -682,14 +682,6 @@ https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns
 - Category: לחם
 - Description: יצרן / מותג: מאפית המשפחה מכיל: לחמנייה אווריריות ובעלת קרום זהוב ועדין, מושלמת להכנת המבורגר ביתי עסיסי או כריך טעימים. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, גלוטן (גלוטן), מלח שולחן, משפר טריות, שומשום, שמרים, משפר אפיה. השגחה: בד"ץ ירושלים העדה החרדית
 - Image: https://boker-tari.co.il/assets/product-1777919127287-zze7rb.webp
-
-### כריך אבוקדו
-https://boker-tari.co.il/product/kryk-abvkdv-vozf5d
-- Price: 20.00 ILS
-- Availability: In stock
-- Category: כריכים
-- Description: לחמנייה שמנייה טרייה ואבוקדו טרי שרק נקטף מהעץ מחומרי הגלם הכי איכותיים. {רק בעונה}
-- Image: https://boker-tari.co.il/assets/image-product-image-1777918826371-v8uyvs.webp
 
 ### כריך בולגרית
 https://boker-tari.co.il/product/kryk-bvlgryt-vrsx2e
