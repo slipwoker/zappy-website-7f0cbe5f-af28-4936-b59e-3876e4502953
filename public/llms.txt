@@ -534,10 +534,11 @@ https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2
 - Image: https://boker-tari.co.il/assets/product-1777923143660-drwc7f.webp
 
 ### בקבוק ענבים
-https://boker-tari.co.il/product/bkbvk-anbym-1erxir
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-anbym-c2biax
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: יצרן / מותג: פריגת מכיל: מים, מיץ ענבים עשוי מרכז (6%), מיץ תפוחים עשוי מרכז (4%), פרוקטוז, סוכר, מווסתי חומציות: חומצת לימון ונתרן ציטראט, צבע מאכל: קרמל, חומרי טעם וריח, רכז גזר סגול לצביעה, מעכב חמצון: חומצה אסקורבית.
 - Image: https://boker-tari.co.il/assets/product-1777923074716-mhf1d.webp
 
 ### בקבוק אפרסק  FUZE

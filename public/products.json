@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:01:03.784Z",
+  "generated_at": "2026-05-28T10:01:43.749Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1493,15 +1493,15 @@
     },
     {
       "id": "dd0d8611-0b2d-4079-b192-f3e2c8b466ee",
-      "slug": "bkbvk-anbym-1erxir",
+      "slug": "bkbvk-anbym-c2biax",
       "name": "בקבוק ענבים",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: פריגת\nמכיל:\nמים, מיץ ענבים עשוי מרכז (6%), מיץ תפוחים עשוי מרכז (4%), פרוקטוז, סוכר, מווסתי חומציות: חומצת לימון ונתרן ציטראט, צבע מאכל: קרמל, חומרי טעם וריח, רכז גזר סגול לצביעה, מעכב חמצון: חומצה אסקורבית.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1509,11 +1509,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-anbym-1erxir",
+      "url": "https://boker-tari.co.il/product/bkbvk-anbym-c2biax",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:31:24.078Z"
+      "updated_at": "2026-05-28T10:01:12.798Z"
     },
     {
       "id": "cc08ab7e-b87f-429a-a8d1-2997d2e79fe4",
