@@ -6562,13 +6562,6 @@ Availability: In stock
 
 ---
 
-### בורקס פיצה מסעדות
-URL: https://boker-tari.co.il/product/bvrks-pytsh-msadvt-sz3fbg
-Price: 0.00 ILS
-Availability: In stock
-
----
-
 ### בורקס תרד וגבינה מסעדות
 URL: https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-8cxz8i
 Price: 0.00 ILS

@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 142**
+**Total active products: 141**
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub
@@ -931,14 +931,6 @@ https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום. מידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום. השגחה: רבנות חולון
 - Image: https://boker-tari.co.il/assets/image-product-image-1777912405128-9tqfto.webp
-
-### בורקס פיצה מסעדות
-https://boker-tari.co.il/product/bvrks-pytsh-msadvt-sz3fbg
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: בורקסים
-- Description: מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה ,זיתים, אורגנו השגחה: חוג חתם סופר פתח תקווה
-- Image: https://boker-tari.co.il/assets/product-1778138541550-u30abg.webp
 
 ### בורקס תרד וגבינה מסעדות
 https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-8cxz8i

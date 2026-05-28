@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:30:59.128Z",
+  "generated_at": "2026-05-28T07:31:38.593Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 142,
+  "count": 141,
   "products": [
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
@@ -2808,30 +2808,6 @@
         "לחם"
       ],
       "updated_at": "2026-05-07T09:51:50.655Z"
-    },
-    {
-      "id": "947f50fd-ee0c-4fd5-98d2-bb05f36c238c",
-      "slug": "bvrks-pytsh-msadvt-sz3fbg",
-      "name": "בורקס פיצה מסעדות",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה ,זיתים, אורגנו\nהשגחה: חוג חתם סופר פתח תקווה",
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1778138541550-u30abg.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-pytsh-msadvt-sz3fbg",
-      "categories": [
-        "בורקסים"
-      ],
-      "updated_at": "2026-05-28T06:52:23.293Z"
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
