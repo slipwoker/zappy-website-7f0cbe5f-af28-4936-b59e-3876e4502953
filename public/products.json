@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-18T08:28:27.793Z",
+  "generated_at": "2026-05-28T06:52:54.267Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2835,7 +2835,7 @@
     },
     {
       "id": "947f50fd-ee0c-4fd5-98d2-bb05f36c238c",
-      "slug": "bvrks-pytsh-msadvt-t8yr26",
+      "slug": "bvrks-pytsh-msadvt-sz3fbg",
       "name": "בורקס פיצה מסעדות",
       "name_translations": {},
       "description": "",
@@ -2851,11 +2851,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-pytsh-msadvt-t8yr26",
+      "url": "https://boker-tari.co.il/product/bvrks-pytsh-msadvt-sz3fbg",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-11T23:49:39.213Z"
+      "updated_at": "2026-05-28T06:52:23.293Z"
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
