@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:48:13.447Z",
+  "generated_at": "2026-05-28T07:52:15.639Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1947,15 +1947,15 @@
     },
     {
       "id": "5cfe1fb2-fbf6-4e88-bd78-a46151f07c73",
-      "slug": "lchmnyyh-atsba-shvmshvm-p0h3t4",
+      "slug": "lchmnyyh-atsba-shvmshvm-nveg1f",
       "name": "לחמנייה אצבע שומשום",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: מאפית דגנית - עין בר\nמכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה.\nמידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה.\nעלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן.\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "יצרן / מותג: מאפית דגנית - עין בר\nמכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה.\nמידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה.\nעלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 2.4,
+      "base_price": 2.4,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1963,11 +1963,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-p0h3t4",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-atsba-shvmshvm-nveg1f",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:34:59.460Z"
+      "updated_at": "2026-05-28T07:51:44.700Z"
     },
     {
       "id": "c311a63c-d6e3-481c-a0c1-8936f676518d",
