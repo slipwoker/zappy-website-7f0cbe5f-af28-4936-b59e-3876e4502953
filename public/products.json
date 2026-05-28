@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:23:12.628Z",
+  "generated_at": "2026-05-28T07:24:08.219Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2547,15 +2547,15 @@
     },
     {
       "id": "57d084bf-83b0-46cc-b267-2b0625ea67cf",
-      "slug": "chlh-klvah-t3tpkl",
+      "slug": "chlh-klvah-fbcb1p",
       "name": "חלה קלועה",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 17.9,
+      "base_price": 17.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2563,11 +2563,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-klvah-t3tpkl",
+      "url": "https://boker-tari.co.il/product/chlh-klvah-fbcb1p",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:44:37.024Z"
+      "updated_at": "2026-05-28T07:23:37.217Z"
     },
     {
       "id": "6c1b9e85-e9fe-4fef-8e59-1849ed5e9c0c",
