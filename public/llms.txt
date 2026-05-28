@@ -153,10 +153,10 @@ https://boker-tari.co.il/product/avgt-prs-prg-bmshkl-adkbdg
 - Image: https://boker-tari.co.il/assets/product-1778540003713-ucwb9d.webp
 
 ### סמבוסק פיצה
-https://boker-tari.co.il/product/smbvsk-pytsh-rclo75
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/smbvsk-pytsh-fydury
+- Price: 14.90 ILS
 - Availability: In stock
-- Category: לחם
+- Category: בורקסים
 - Image: https://boker-tari.co.il/assets/product-1778539838775-35at6k.webp
 
 ### דונאטס
