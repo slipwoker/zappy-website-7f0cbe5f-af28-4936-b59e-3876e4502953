@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:54:09.014Z",
+  "generated_at": "2026-05-28T07:55:09.123Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -31,15 +31,15 @@
     },
     {
       "id": "2e4c5eb9-945e-400a-b7a7-daadd3358370",
-      "slug": "lchm-mchmtst-shypvn-zytym-shlm-1qczjk",
+      "slug": "lchm-mchmtst-shypvn-zytym-shlm-kxvey5",
       "name": "לחם מחמצת שיפון זיתים שלם",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: לחם מחמצת עשוי מקמח שיפון וזיתים, פריך מבחוץ ורך ונימוח מבפנים, עם טעם אגוזי טבעי ועשיר. מושלם להכנת כריכים, לצד ארוחות או כפינוק בריא בבית.\nרכיבים: קמח שיפון (גלוטן), מים, מחמצת שיפון (גלוטן), קמח חיטה (גלוטן), גלוטן (גלוטן), מלח שולחן, סילאן תמרים, לתת חיטה (גלוטן), משפר אפיה, שמרים.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "short_description": "מכיל: לחם מחמצת עשוי מקמח שיפון וזיתים, פריך מבחוץ ורך ונימוח מבפנים, עם טעם אגוזי טבעי ועשיר. מושלם להכנת כריכים, לצד ארוחות או כפינוק בריא בבית.\nרכיבים: קמח שיפון (גלוטן), מים, מחמצת שיפון (גלוטן), קמח חיטה (גלוטן), גלוטן (גלוטן), מלח שולחן, סילאן תמרים, לתת חיטה (גלוטן), משפר אפיה, שמרים.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 21.9,
+      "base_price": 21.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -47,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchm-mchmtst-shypvn-zytym-shlm-1qczjk",
+      "url": "https://boker-tari.co.il/product/lchm-mchmtst-shypvn-zytym-shlm-kxvey5",
       "categories": [
         "לחם מחמצת"
       ],
-      "updated_at": "2026-05-12T00:05:45.779Z"
+      "updated_at": "2026-05-28T07:54:38.119Z"
     },
     {
       "id": "516aafaf-ad66-4927-9c1c-1b64a4457d1d",
