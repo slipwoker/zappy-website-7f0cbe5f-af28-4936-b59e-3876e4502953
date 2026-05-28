@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:25:36.048Z",
+  "generated_at": "2026-05-28T07:27:04.184Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -2475,15 +2475,15 @@
     },
     {
       "id": "0f7e958e-d4bc-48fd-a956-779cc6ff0445",
-      "slug": "chlh-prvsh-z0e7q9",
+      "slug": "chlh-prvsh-tlzkjr",
       "name": "חלה פרוסה",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 9.9,
+      "base_price": 9.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2491,11 +2491,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-prvsh-z0e7q9",
+      "url": "https://boker-tari.co.il/product/chlh-prvsh-tlzkjr",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:43:51.165Z"
+      "updated_at": "2026-05-28T07:26:52.580Z"
     },
     {
       "id": "b4ffaabf-1705-45cd-bc92-942b4e9db1bb",
