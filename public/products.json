@@ -1,58 +1,10 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:25:01.524Z",
+  "generated_at": "2026-05-28T07:25:21.210Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 144,
+  "count": 142,
   "products": [
-    {
-      "id": "9dcd5488-2492-4e37-b90a-883ef4efc544",
-      "slug": "chlt-hbyt-btabvn-copy-mabj2g",
-      "name": "חלת הבית בטאבון (Copy)",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1778542714491-4tuea7.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlt-hbyt-btabvn-copy-mabj2g",
-      "categories": [
-        "חלות"
-      ],
-      "updated_at": "2026-05-28T07:24:50.175Z"
-    },
-    {
-      "id": "852a66fc-6186-4d6c-affe-c3444d125b0b",
-      "slug": "chlt-hbyt-btabvn-5w81xa",
-      "name": "חלת הבית בטאבון",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1778542714491-4tuea7.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlt-hbyt-btabvn-5w81xa",
-      "categories": [
-        "חלות"
-      ],
-      "updated_at": "2026-05-11T23:44:09.412Z"
-    },
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",
       "slug": "lchm-mchmtst-agvzym-klmth-shlm-5jyrub",

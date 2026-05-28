@@ -76,22 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 144**
-
-### חלת הבית בטאבון (Copy)
-https://boker-tari.co.il/product/chlt-hbyt-btabvn-copy-mabj2g
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: חלות
-- Image: https://boker-tari.co.il/assets/product-1778542714491-4tuea7.webp
-
-### חלת הבית בטאבון
-https://boker-tari.co.il/product/chlt-hbyt-btabvn-5w81xa
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: חלות
-- Description: מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים השגחה: בד"ץ ירושלים העדה החרדית,בד"ץ שארית ישראל
-- Image: https://boker-tari.co.il/assets/product-1778542714491-4tuea7.webp
+**Total active products: 142**
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-5jyrub
