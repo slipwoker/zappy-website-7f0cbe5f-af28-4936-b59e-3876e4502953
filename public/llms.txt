@@ -103,10 +103,11 @@ https://boker-tari.co.il/product/lchm-mchmtst-kvsmyn-shlm-ic62w2
 - Image: https://boker-tari.co.il/assets/product-1778541776996-hy7uz8.webp
 
 ### בגט רוסטיק לבן
-https://boker-tari.co.il/product/bgt-rvstyk-lbn-nrfv4a
+https://boker-tari.co.il/product/bgt-rvstyk-lbn-c5wvyx
 - Price: 0.00 ILS
 - Availability: In stock
 - Category: לחמים מיוחדים
+- Description: מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי
 - Image: https://boker-tari.co.il/assets/product-1778541232485-kvtn6.webp
 
 ### בגט רוסטיק קמח מלא

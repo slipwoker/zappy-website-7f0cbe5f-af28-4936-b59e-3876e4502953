@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T08:18:26.954Z",
+  "generated_at": "2026-05-28T09:51:16.420Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -79,11 +79,11 @@
     },
     {
       "id": "8175cc30-50f8-428e-bbb3-106e588c9a14",
-      "slug": "bgt-rvstyk-lbn-nrfv4a",
+      "slug": "bgt-rvstyk-lbn-c5wvyx",
       "name": "בגט רוסטיק לבן",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי",
       "sku": null,
       "brand": null,
       "price": 0,
@@ -95,11 +95,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bgt-rvstyk-lbn-nrfv4a",
+      "url": "https://boker-tari.co.il/product/bgt-rvstyk-lbn-c5wvyx",
       "categories": [
         "לחמים מיוחדים"
       ],
-      "updated_at": "2026-05-11T23:14:03.503Z"
+      "updated_at": "2026-05-28T09:50:47.419Z"
     },
     {
       "id": "fd4201e3-ae63-44d9-b18b-4c85e5f49e6b",
