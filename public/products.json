@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:28:42.121Z",
+  "generated_at": "2026-05-28T07:29:56.423Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -2595,11 +2595,11 @@
     },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
-      "slug": "chlh-bpykvch-mmshlty-ng1xrr",
-      "name": "חלה בפיקוח ממשלתי",
+      "slug": "chlh-mchyr-bpykvch-mmshlty-7waflg",
+      "name": "חלה -מחיר בפיקוח ממשלתי",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\n",
       "sku": null,
       "brand": null,
       "price": 6.62,
@@ -2611,11 +2611,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-bpykvch-mmshlty-ng1xrr",
+      "url": "https://boker-tari.co.il/product/chlh-mchyr-bpykvch-mmshlty-7waflg",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-28T07:28:11.008Z"
+      "updated_at": "2026-05-28T07:29:25.425Z"
     },
     {
       "id": "ee6be3d2-52f2-49b2-a326-9c55c5edf182",
