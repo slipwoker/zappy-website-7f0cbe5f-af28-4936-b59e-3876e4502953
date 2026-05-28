@@ -500,10 +500,11 @@ https://boker-tari.co.il/product/bkbvk-tvt-bnnh-thwbt6
 - Image: https://boker-tari.co.il/assets/product-1777923791766-hmr7zq.webp
 
 ### מים בטעם ענבים
-https://boker-tari.co.il/product/mym-btam-anbym-58pi2f
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/mym-btam-anbym-pq95z5
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: יצרן / מותג: נביעות מכיל: נביעות – מים מינרליים טבעיים ( 94%), פרוקטוז, מווסת חומציות (חומצה ציטרית), חומרי טעם וריח, ויטמינים מקבוצת B (ניאצין, חומצה פאנטותנ ית, B6, חומצה פולית, B12).
 - Image: https://boker-tari.co.il/assets/product-1777923686778-lmoihm.webp
 
 ### מים בטעם אפרסק
