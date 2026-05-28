@@ -507,10 +507,11 @@ https://boker-tari.co.il/product/mym-btam-anbym-58pi2f
 - Image: https://boker-tari.co.il/assets/product-1777923686778-lmoihm.webp
 
 ### מים בטעם אפרסק
-https://boker-tari.co.il/product/mym-btam-aprsk-qb7i34
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/mym-btam-aprsk-sfkxlo
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: יצרן / מותג: נביעות מכיל: מים מינרליים טבעיים (94%), פרוקטוז נוזלי, חומצת מאכל ציטרית, תמציות טעם וריח, ויטמינים מקבוצת B: ניאצין, חומצה פאנטותנית, ויטמין B6, חומצה פולית, ויטמין B12.
 - Image: https://boker-tari.co.il/assets/product-1777923610923-ilx8.webp
 
 ### מים בטעם תפוח
