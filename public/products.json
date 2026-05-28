@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:15:41.694Z",
+  "generated_at": "2026-05-28T10:16:41.392Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1613,15 +1613,15 @@
     },
     {
       "id": "3863f70f-b256-42be-92a3-c896af9424a1",
-      "slug": "pchyt-ziro-kvkh-kvlh-n0u7la",
+      "slug": "pchyt-ziro-kvkh-kvlh-ihkr1r",
       "name": "פחית ziro קוקה קולה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים, פחמן דו-חמצני, צבע מאכל קרמל (E150d), מווסתי חומציות: חומצה זרחתית ותלת-אשלגן ציטראט, ממתיקים: אספרטיים ואססולפאם-קיי, חומרי טעם וריח טבעיים, קפאין.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1629,11 +1629,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la",
+      "url": "https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-ihkr1r",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T20:39:08.286Z"
+      "updated_at": "2026-05-28T10:16:10.438Z"
     },
     {
       "id": "3223a436-7c51-4909-af1f-64d49055dadc",
@@ -1661,15 +1661,15 @@
     },
     {
       "id": "dfa4c879-8f92-4518-918e-21c3780666a9",
-      "slug": "pchyt-kvkh-kvlh-t4ltd3",
+      "slug": "pchyt-kvkh-kvlh-0ubsd5",
       "name": "פחית קוקה קולה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים, סוכר, פחמן דו-חמצני, צבע מאכל קרמל (E150d), מווסת חומציות: חומצה זרחתית, חומרי טעם וריח טבעיים, קפאין .",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1677,11 +1677,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3",
+      "url": "https://boker-tari.co.il/product/pchyt-kvkh-kvlh-0ubsd5",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:23:21.471Z"
+      "updated_at": "2026-05-28T10:15:43.568Z"
     },
     {
       "id": "395d733c-4bf7-4fd4-8d27-da93be6978d0",

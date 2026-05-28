@@ -581,10 +581,11 @@ https://boker-tari.co.il/product/pchyt-spryyt-eyv33q
 - Image: https://boker-tari.co.il/assets/product-1777922710744-uh12yl.webp
 
 ### פחית ziro קוקה קולה
-https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-n0u7la
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-ihkr1r
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, פחמן דו-חמצני, צבע מאכל קרמל (E150d), מווסתי חומציות: חומצה זרחתית ותלת-אשלגן ציטראט, ממתיקים: אספרטיים ואססולפאם-קיי, חומרי טעם וריח טבעיים, קפאין.
 - Image: https://boker-tari.co.il/assets/product-1777922645803-2myyxf.webp
 
 ### פחית פאנטה
@@ -595,10 +596,11 @@ https://boker-tari.co.il/product/pchyt-panth-kth6g5
 - Image: https://boker-tari.co.il/assets/product-1777922541454-oncyi.webp
 
 ### פחית קוקה קולה
-https://boker-tari.co.il/product/pchyt-kvkh-kvlh-t4ltd3
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pchyt-kvkh-kvlh-0ubsd5
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, סוכר, פחמן דו-חמצני, צבע מאכל קרמל (E150d), מווסת חומציות: חומצה זרחתית, חומרי טעם וריח טבעיים, קפאין .
 - Image: https://boker-tari.co.il/assets/product-1777922595795-o9xyss.webp
 
 ### גבינה לבנה תנובה 3% 250 גרם
