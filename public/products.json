@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:10:25.372Z",
+  "generated_at": "2026-05-28T10:14:57.657Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1565,15 +1565,15 @@
     },
     {
       "id": "968a81ac-8881-4e3a-952e-c0f623b068b0",
-      "slug": "pchyt-spryyt-ziro-4poszs",
+      "slug": "pchyt-spryyt-ziro-8fwc7s",
       "name": "פחית ספרייט ziro",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים, פחמן דו-חמצני, חומצת מאכל: לימון, חומרי טעם וריח טבעיים, ממתיקים: אספרטיים ואססולפאם-קיי, מווסת חומציות: מלח לימון.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1581,11 +1581,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs",
+      "url": "https://boker-tari.co.il/product/pchyt-spryyt-ziro-8fwc7s",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T20:39:31.257Z"
+      "updated_at": "2026-05-28T10:14:26.462Z"
     },
     {
       "id": "f53b320f-478c-422f-8e37-7e1b22f40887",

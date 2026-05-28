@@ -565,10 +565,11 @@ https://boker-tari.co.il/product/svdh-5iel2p
 - Image: https://boker-tari.co.il/assets/product-1777922854201-q2kmue.webp
 
 ### פחית ספרייט ziro
-https://boker-tari.co.il/product/pchyt-spryyt-ziro-4poszs
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pchyt-spryyt-ziro-8fwc7s
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, פחמן דו-חמצני, חומצת מאכל: לימון, חומרי טעם וריח טבעיים, ממתיקים: אספרטיים ואססולפאם-קיי, מווסת חומציות: מלח לימון.
 - Image: https://boker-tari.co.il/assets/product-1777922767279-70rzl8.webp
 
 ### פחית ספרייט
