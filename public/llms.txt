@@ -169,8 +169,8 @@ https://boker-tari.co.il/product/avgt-prs-prg-bmshkl-adkbdg
 - Category: קוראסים ומתוקים
 - Image: https://boker-tari.co.il/assets/product-1778540003713-ucwb9d.webp
 
-### סמבוסק פיצה
-https://boker-tari.co.il/product/smbvsk-pytsh-pecjwz
+### סמבוסק פיצה אישי
+https://boker-tari.co.il/product/smbvsk-pytsh-ayshy-0l0ktq
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים
@@ -958,24 +958,24 @@ https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום. מידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום. השגחה: רבנות חולון
 - Image: https://boker-tari.co.il/assets/image-product-image-1777912405128-9tqfto.webp
 
-### בורקס תרד וגבינה מסעדות
-https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-t1e3nz
+### בורקס תרד וגבינה אישי
+https://boker-tari.co.il/product/bvrks-trd-vgbynh-ayshy-o7b56o
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים
 - Description: מכיל: גבינת קשקבל, גבינה פטה, תרד,שמן זית
 - Image: https://boker-tari.co.il/assets/product-1777912126350-h1eap.webp
 
-### בורקס תפוח אדמה מסעדות
-https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-rjra85
+### בורקס תפוח אדמה אישי
+https://boker-tari.co.il/product/bvrks-tpvch-admh-ayshy-spy0jk
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים
 - Description: מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה
 - Image: https://boker-tari.co.il/assets/image-product-image-1777911579073-f29txc.webp
 
-### בורקס גבינה מסעדות
-https://boker-tari.co.il/product/bvrks-gbynh-msadvt-jnrch6
+### בורקס גבינה אישי
+https://boker-tari.co.il/product/bvrks-gbynh-ayshy-bngf6j
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים

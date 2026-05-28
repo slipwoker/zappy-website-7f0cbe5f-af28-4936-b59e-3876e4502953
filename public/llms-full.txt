@@ -5827,8 +5827,8 @@ Availability: In stock
 
 ---
 
-### סמבוסק פיצה
-URL: https://boker-tari.co.il/product/smbvsk-pytsh-pecjwz
+### סמבוסק פיצה אישי
+URL: https://boker-tari.co.il/product/smbvsk-pytsh-ayshy-0l0ktq
 Price: 14.90 ILS
 Availability: In stock
 
@@ -6569,22 +6569,22 @@ Availability: In stock
 
 ---
 
-### בורקס תרד וגבינה מסעדות
-URL: https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-t1e3nz
+### בורקס תרד וגבינה אישי
+URL: https://boker-tari.co.il/product/bvrks-trd-vgbynh-ayshy-o7b56o
 Price: 14.90 ILS
 Availability: In stock
 
 ---
 
-### בורקס תפוח אדמה מסעדות
-URL: https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-rjra85
+### בורקס תפוח אדמה אישי
+URL: https://boker-tari.co.il/product/bvrks-tpvch-admh-ayshy-spy0jk
 Price: 14.90 ILS
 Availability: In stock
 
 ---
 
-### בורקס גבינה מסעדות
-URL: https://boker-tari.co.il/product/bvrks-gbynh-msadvt-jnrch6
+### בורקס גבינה אישי
+URL: https://boker-tari.co.il/product/bvrks-gbynh-ayshy-bngf6j
 Price: 14.90 ILS
 Availability: In stock
 

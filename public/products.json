@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T12:34:05.943Z",
+  "generated_at": "2026-05-28T21:41:11.881Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -295,8 +295,8 @@
     },
     {
       "id": "0539c0a7-6034-4bbe-81aa-54edb8c696bf",
-      "slug": "smbvsk-pytsh-pecjwz",
-      "name": "סמבוסק פיצה",
+      "slug": "smbvsk-pytsh-ayshy-0l0ktq",
+      "name": "סמבוסק פיצה אישי",
       "name_translations": {},
       "description": "",
       "short_description": "זיתים , גיבנה צהובה, רוטב עגבניות\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
@@ -311,11 +311,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/smbvsk-pytsh-pecjwz",
+      "url": "https://boker-tari.co.il/product/smbvsk-pytsh-ayshy-0l0ktq",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T08:10:40.376Z"
+      "updated_at": "2026-05-28T21:41:10.185Z"
     },
     {
       "id": "7ed5dcd7-7d4f-4a45-8ce7-1a0a4bc49b00",
@@ -2835,8 +2835,8 @@
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
-      "slug": "bvrks-trd-vgbynh-msadvt-t1e3nz",
-      "name": "בורקס תרד וגבינה מסעדות",
+      "slug": "bvrks-trd-vgbynh-ayshy-o7b56o",
+      "name": "בורקס תרד וגבינה אישי",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: גבינת קשקבל, גבינה פטה, תרד,שמן זית\n",
@@ -2851,16 +2851,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-t1e3nz",
+      "url": "https://boker-tari.co.il/product/bvrks-trd-vgbynh-ayshy-o7b56o",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T07:32:03.313Z"
+      "updated_at": "2026-05-28T21:40:55.878Z"
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
-      "slug": "bvrks-tpvch-admh-msadvt-rjra85",
-      "name": "בורקס תפוח אדמה מסעדות",
+      "slug": "bvrks-tpvch-admh-ayshy-spy0jk",
+      "name": "בורקס תפוח אדמה אישי",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה\n",
@@ -2875,16 +2875,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-rjra85",
+      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-ayshy-spy0jk",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T07:33:36.061Z"
+      "updated_at": "2026-05-28T21:40:40.931Z"
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
-      "slug": "bvrks-gbynh-msadvt-jnrch6",
-      "name": "בורקס גבינה מסעדות",
+      "slug": "bvrks-gbynh-ayshy-bngf6j",
+      "name": "בורקס גבינה אישי",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה\n",
@@ -2899,11 +2899,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-gbynh-msadvt-jnrch6",
+      "url": "https://boker-tari.co.il/product/bvrks-gbynh-ayshy-bngf6j",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T07:34:15.402Z"
+      "updated_at": "2026-05-28T21:40:25.005Z"
     },
     {
       "id": "c797c272-fd63-4a7a-bb3c-921a8da915c8",
