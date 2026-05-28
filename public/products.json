@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:09:16.137Z",
+  "generated_at": "2026-05-28T10:10:25.372Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1541,7 +1541,7 @@
     },
     {
       "id": "3b77559f-f51e-48a4-a935-4748a051fca9",
-      "slug": "svdh-gatosy",
+      "slug": "svdh-5iel2p",
       "name": "סודה ",
       "name_translations": {},
       "description": "",
@@ -1557,11 +1557,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/svdh-gatosy",
+      "url": "https://boker-tari.co.il/product/svdh-5iel2p",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-28T10:08:44.567Z"
+      "updated_at": "2026-05-28T10:09:54.284Z"
     },
     {
       "id": "968a81ac-8881-4e3a-952e-c0f623b068b0",
