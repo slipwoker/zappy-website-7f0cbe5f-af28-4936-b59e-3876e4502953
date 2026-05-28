@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:39:01.383Z",
+  "generated_at": "2026-05-28T07:41:04.188Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3247,15 +3247,15 @@
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
-      "slug": "kryk-tvnh-am-yrkvt-8xoyrp",
+      "slug": "kryk-tvnh-am-yrkvt-gprgzs",
       "name": "כריך טונה עם ירקות",
       "name_translations": {},
       "description": "<p><br></p>",
-      "short_description": "מכיל: ביצים,גלוטן,דגים,חלבון סויה,חומר משמר E211,חומר משמר E202,טונה,ירקות,לחם,מלפפון חמוץ,מיונז,סויה,שומשום,תבלינים\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n*** במקרה של חוסר בכריך אצל הספק נספק כריך חלופי באופן אוטומטי.\nהשגחה: רבנות מקומית מודיעין מכבים-רעות",
+      "short_description": "מכיל: ביצים,גלוטן,דגים,חלבון סויה,חומר משמר E211,חומר משמר E202,טונה,ירקות,לחם,מלפפון חמוץ,מיונז,סויה,שומשום,תבלינים\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
       "sku": null,
       "brand": null,
-      "price": 20,
-      "base_price": 20,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3263,11 +3263,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-8xoyrp",
+      "url": "https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-gprgzs",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-11T23:55:10.088Z"
+      "updated_at": "2026-05-28T07:40:33.055Z"
     },
     {
       "id": "926d455f-6462-460b-883e-ee5222c73786",
