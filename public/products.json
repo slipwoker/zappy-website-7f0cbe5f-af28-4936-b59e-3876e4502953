@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:55:09.123Z",
+  "generated_at": "2026-05-28T07:55:45.399Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -55,15 +55,15 @@
     },
     {
       "id": "516aafaf-ad66-4927-9c1c-1b64a4457d1d",
-      "slug": "lchm-mchmtst-kvsmyn-shlm-hkvotz",
+      "slug": "lchm-mchmtst-kvsmyn-shlm-j7ne3x",
       "name": "לחם מחמצת כוסמין שלם",
       "name_translations": {},
       "description": "",
       "short_description": "קמח כוסמין מלא (מכיל גלוטן) (100% מסך הקמחים, 43% ממשקל המוצר), מים, משפר אפייה (מכיל גלוטן חיטה ושיפון) [גלוטן חיטה, מחמצות (חיטה שיפון), מלח, חומר טיפול בקמח (קלציום קרבונט), חומרים משמרים (קלציום פרופיונט, פוטסיום סורבט), מתחלב (E-481), אנזימים, מעכב חמצון (חומצה אסקורבית)], פתיתי שיפון מלא, גרעיני פשתן מלא, סולת חיטה, שמרים, גלוטן חיטה.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 21.9,
+      "base_price": 21.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -71,11 +71,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchm-mchmtst-kvsmyn-shlm-hkvotz",
+      "url": "https://boker-tari.co.il/product/lchm-mchmtst-kvsmyn-shlm-j7ne3x",
       "categories": [
         "לחם מחמצת"
       ],
-      "updated_at": "2026-05-12T00:06:00.637Z"
+      "updated_at": "2026-05-28T07:55:14.152Z"
     },
     {
       "id": "8175cc30-50f8-428e-bbb3-106e588c9a14",
