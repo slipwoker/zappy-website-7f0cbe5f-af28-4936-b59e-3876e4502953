@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:31:38.593Z",
+  "generated_at": "2026-05-28T07:32:34.355Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -2811,15 +2811,15 @@
     },
     {
       "id": "ba6f3598-c00b-4e47-835f-d9efc207ef65",
-      "slug": "bvrks-trd-vgbynh-msadvt-8cxz8i",
+      "slug": "bvrks-trd-vgbynh-msadvt-t1e3nz",
       "name": "בורקס תרד וגבינה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: גבינת קשקבל, גבינה פטה, תרד,שמן זית\nהשגחה: חוג חתם סופר פתח תקווה",
+      "short_description": "מכיל: גבינת קשקבל, גבינה פטה, תרד,שמן זית\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2827,11 +2827,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-8cxz8i",
+      "url": "https://boker-tari.co.il/product/bvrks-trd-vgbynh-msadvt-t1e3nz",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-11T23:47:59.092Z"
+      "updated_at": "2026-05-28T07:32:03.313Z"
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
