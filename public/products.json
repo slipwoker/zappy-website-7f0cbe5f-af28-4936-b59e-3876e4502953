@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:13:16.307Z",
+  "generated_at": "2026-05-28T07:23:12.628Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2595,15 +2595,15 @@
     },
     {
       "id": "88135842-1a6e-4f6a-8165-8557c4876533",
-      "slug": "chlh-mtvkh-41glcz",
+      "slug": "chlh-mtvkh-vdhfu1",
       "name": "חלה מתוקה",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 17.9,
+      "base_price": 17.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2611,11 +2611,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-mtvkh-41glcz",
+      "url": "https://boker-tari.co.il/product/chlh-mtvkh-vdhfu1",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:44:53.118Z"
+      "updated_at": "2026-05-28T07:22:41.394Z"
     },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
