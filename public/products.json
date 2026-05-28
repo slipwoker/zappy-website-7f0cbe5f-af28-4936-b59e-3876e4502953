@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:02:38.715Z",
+  "generated_at": "2026-05-28T10:03:37.359Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1325,15 +1325,15 @@
     },
     {
       "id": "7bd9c503-2f80-4d2f-b77c-fee7ff1d6dde",
-      "slug": "bkbvk-schvt-tpvzym-va5k7c",
+      "slug": "bkbvk-schvt-tpvzym-9ldtc6",
       "name": "בקבוק סחוט תפוזים",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: פריגת\nמכיל:\nמים, מיץ (עשוי מרכז) ורכיבים של תפוזים (15%), פרוקטוז, סוכר, חומצה: חומצת לימון, מווסתי חומציות: מלחי לימון (אשלגן ציטרט ונתרן ציטרט), מייצבים: גואר גאם אקצ`יה גאם ואסטר גאם, ויטמין c, צבע מאכל: בטא-קארוטן, חומרי טעם וריח. מכיל 10% או יותר רכיבי פרי.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1341,11 +1341,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-va5k7c",
+      "url": "https://boker-tari.co.il/product/bkbvk-schvt-tpvzym-9ldtc6",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:44:38.183Z"
+      "updated_at": "2026-05-28T10:03:06.064Z"
     },
     {
       "id": "d20f9cca-0ed9-40ea-9c9d-2d8b16cfec8c",
