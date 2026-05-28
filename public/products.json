@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:32:34.355Z",
+  "generated_at": "2026-05-28T07:34:07.349Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -2835,15 +2835,15 @@
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
-      "slug": "bvrks-tpvch-admh-msadvt-pmt8xx",
+      "slug": "bvrks-tpvch-admh-msadvt-rjra85",
       "name": "בורקס תפוח אדמה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה\nהשגחה: חוג חתם סופר פתח תקווה",
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2851,11 +2851,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-pmt8xx",
+      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-rjra85",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-11T23:48:33.393Z"
+      "updated_at": "2026-05-28T07:33:36.061Z"
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
