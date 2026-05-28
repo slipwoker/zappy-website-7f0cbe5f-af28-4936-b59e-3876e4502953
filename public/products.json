@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:44:30.926Z",
+  "generated_at": "2026-05-28T07:47:09.348Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1995,15 +1995,15 @@
     },
     {
       "id": "2fb79b3a-e667-4fce-b222-1b8250ab1f6f",
-      "slug": "kryk-bvlgryt-vrsx2e",
+      "slug": "kryk-bvlgryt-2u4p0n",
       "name": "כריך בולגרית",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: תכולה: עגבניות, מלפפון בולגרית, ",
+      "short_description": "מכיל: תכולה: מוצרלה, עגבניות, \nלחמנייה41%(קמח חיטה לבן (גלוטן), מים, שמן קנולה מזוכך, שמרים, סוכר לבן,מווסת חומציות(סודיום הידרוקסיד), שומשום), *ירקות 25%, מוצרלה 22% שומן (23%) (חלב מפוסטר,חומר משמר ,((E202) ממרח שמנת פסטו 11%(גבינה לבנה רכה 30% שומן(חלב מפוסטר, צבע מאכל (E141ii)), ממרח פסטו(מחית בזיליקום (בזיליקום טרי, שמן סויה מזוכך, מעכב חמצון (E325), מווסתי חומציות (E270,E330), חומר משמר (E200)), שמן קנולה מזוכך, סוכר לבן, שום כתוש (שבבי שום, מים), מלח שולח",
       "sku": null,
       "brand": null,
-      "price": 20,
-      "base_price": 20,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2011,11 +2011,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-bvlgryt-vrsx2e",
+      "url": "https://boker-tari.co.il/product/kryk-bvlgryt-2u4p0n",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-11T23:59:17.098Z"
+      "updated_at": "2026-05-28T07:46:38.167Z"
     },
     {
       "id": "4c709038-8f2f-4ef8-af01-f5b345ba515d",
