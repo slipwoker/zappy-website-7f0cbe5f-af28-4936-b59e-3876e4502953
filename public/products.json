@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:47:09.348Z",
+  "generated_at": "2026-05-28T07:48:13.447Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -3199,15 +3199,15 @@
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
-      "slug": "kryk-chbyth-am-yrkvt-dm2ah9",
+      "slug": "kryk-chbyth-am-yrkvt-va0lpu",
       "name": "כריך חביתה עם ירקות",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": "מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת, ",
       "sku": null,
       "brand": null,
-      "price": 20,
-      "base_price": 20,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3215,11 +3215,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-dm2ah9",
+      "url": "https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-va0lpu",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-11T23:58:31.532Z"
+      "updated_at": "2026-05-28T07:47:42.424Z"
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
