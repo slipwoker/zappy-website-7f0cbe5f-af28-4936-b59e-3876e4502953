@@ -949,11 +949,11 @@ https://boker-tari.co.il/product/bvrks-tpvch-admh-msadvt-rjra85
 - Image: https://boker-tari.co.il/assets/image-product-image-1777911579073-f29txc.webp
 
 ### בורקס גבינה מסעדות
-https://boker-tari.co.il/product/bvrks-gbynh-msadvt-l05442
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bvrks-gbynh-msadvt-jnrch6
+- Price: 14.90 ILS
 - Availability: In stock
 - Category: בורקסים
-- Description: מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה השגחה: חוג חתם סופר פתח תקווה
+- Description: מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה
 - Image: https://boker-tari.co.il/assets/product-1777911463705-3f7lc9.webp
 
 ### אצבעות תפוחי עץ

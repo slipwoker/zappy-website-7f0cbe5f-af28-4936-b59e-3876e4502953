@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:34:07.349Z",
+  "generated_at": "2026-05-28T07:34:46.544Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -2859,15 +2859,15 @@
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
-      "slug": "bvrks-gbynh-msadvt-l05442",
+      "slug": "bvrks-gbynh-msadvt-jnrch6",
       "name": "בורקס גבינה מסעדות",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה\nהשגחה: חוג חתם סופר פתח תקווה",
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2875,11 +2875,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-gbynh-msadvt-l05442",
+      "url": "https://boker-tari.co.il/product/bvrks-gbynh-msadvt-jnrch6",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-11T23:46:59.730Z"
+      "updated_at": "2026-05-28T07:34:15.402Z"
     },
     {
       "id": "c797c272-fd63-4a7a-bb3c-921a8da915c8",
