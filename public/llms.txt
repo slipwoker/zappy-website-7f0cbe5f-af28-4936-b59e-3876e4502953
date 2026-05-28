@@ -573,10 +573,11 @@ https://boker-tari.co.il/product/pchyt-spryyt-ziro-8fwc7s
 - Image: https://boker-tari.co.il/assets/product-1777922767279-70rzl8.webp
 
 ### פחית ספרייט
-https://boker-tari.co.il/product/pchyt-spryyt-f6n055
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pchyt-spryyt-eyv33q
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, סוכר, פחמן דו-חמצני, מווסתי חומציות: חומצת לימון ותלת-נתרן ציטראט (מלח לימון), חומרי טעם וריח טבעיים, מעכב חמצון: חומצה אסקורבית.
 - Image: https://boker-tari.co.il/assets/product-1777922710744-uh12yl.webp
 
 ### פחית ziro קוקה קולה

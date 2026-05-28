@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:14:57.657Z",
+  "generated_at": "2026-05-28T10:15:41.694Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1589,15 +1589,15 @@
     },
     {
       "id": "f53b320f-478c-422f-8e37-7e1b22f40887",
-      "slug": "pchyt-spryyt-f6n055",
+      "slug": "pchyt-spryyt-eyv33q",
       "name": "פחית ספרייט",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים, סוכר, פחמן דו-חמצני, מווסתי חומציות: חומצת לימון ותלת-נתרן ציטראט (מלח לימון), חומרי טעם וריח טבעיים, מעכב חמצון: חומצה אסקורבית.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1605,11 +1605,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pchyt-spryyt-f6n055",
+      "url": "https://boker-tari.co.il/product/pchyt-spryyt-eyv33q",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:25:21.916Z"
+      "updated_at": "2026-05-28T10:15:10.554Z"
     },
     {
       "id": "3863f70f-b256-42be-92a3-c896af9424a1",
