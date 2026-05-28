@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:24:08.219Z",
+  "generated_at": "2026-05-28T07:24:40.792Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2571,15 +2571,15 @@
     },
     {
       "id": "6c1b9e85-e9fe-4fef-8e59-1849ed5e9c0c",
-      "slug": "chlh-kvsmyn-sm0kp3",
+      "slug": "chlh-kvsmyn-5uudqq",
       "name": "חלה כוסמין",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: חלה עשויה מקמח כוסמין מלא, רכה ואוורירית עם קרום זהוב וניחוח טבעי. מושלמת לארוחת בוקר, להכנת כריכים או כפינוק לצד הקפה והתה.\nקמח כוסמין (מלא או לבן), מים, שמרים, מלח וסוכר\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "short_description": "מכיל: חלה עשויה מקמח כוסמין מלא, רכה ואוורירית עם קרום זהוב וניחוח טבעי. מושלמת לארוחת בוקר, להכנת כריכים או כפינוק לצד הקפה והתה.\nקמח כוסמין (מלא או לבן), מים, שמרים, מלח וסוכר\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 19.9,
+      "base_price": 19.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2587,11 +2587,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-kvsmyn-sm0kp3",
+      "url": "https://boker-tari.co.il/product/chlh-kvsmyn-5uudqq",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-11T23:45:46.606Z"
+      "updated_at": "2026-05-28T07:24:30.131Z"
     },
     {
       "id": "88135842-1a6e-4f6a-8165-8557c4876533",
