@@ -79,11 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 141**
 
 ### כריך סלט טונה
-https://boker-tari.co.il/product/kryk-slt-tvnh-olexda
+https://boker-tari.co.il/product/kryk-slt-tvnh-rf2gjd
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: כריכים
 - Description: מכיל: סלט ביצים גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמןץ,ממרח מיונז,סויה,שומשום * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
+- Image: https://boker-tari.co.il/assets/product-1779970903059-8ooas.webp
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-11v1dd
