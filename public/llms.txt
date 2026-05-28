@@ -525,10 +525,11 @@ https://boker-tari.co.il/product/mym-btam-tpvch-mk997g
 - Image: https://boker-tari.co.il/assets/product-1777923466514-bxqbn.webp
 
 ### בקבוק מים מנרליים נביעות
-https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-zc1doq
+- Price: 6.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים מינרליים איכותיים המגיעים מאקוות ההר בגליל העליון. מים מינרלים של נביעות מכילים 23 מ``ג מגנזיום טבעי לליטר מים, מינרל חשוב וחיוני לתפקוד תקין של גוף האדם.
 - Image: https://boker-tari.co.il/assets/product-1777923355254-eb02jm.webp
 
 ### בקבוק אשכוליות
@@ -556,10 +557,11 @@ https://boker-tari.co.il/product/bkbvk-aprsk-fuze-exnb6p
 - Image: https://boker-tari.co.il/assets/product-1777922963999-f3wn6.webp
 
 ### סודה 
-https://boker-tari.co.il/product/svdh-a65pnm
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/svdh-gatosy
+- Price: 6.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, פחמן דו-חמצני, מווסת חומציות: נתרן ביקרבונט
 - Image: https://boker-tari.co.il/assets/product-1777922854201-q2kmue.webp
 
 ### פחית ספרייט ziro

@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:06:41.290Z",
+  "generated_at": "2026-05-28T10:09:16.137Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1445,15 +1445,15 @@
     },
     {
       "id": "c00c2453-70d1-496a-b045-e17887c7b347",
-      "slug": "bkbvk-mym-mnrlyym-nbyavt-j7vbpq",
+      "slug": "bkbvk-mym-mnrlyym-nbyavt-zc1doq",
       "name": "בקבוק מים מנרליים נביעות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים מינרליים איכותיים המגיעים מאקוות ההר בגליל העליון. מים מינרלים של נביעות מכילים 23 מ``ג מגנזיום טבעי לליטר מים, מינרל חשוב וחיוני לתפקוד תקין של גוף האדם. ",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6,
+      "base_price": 6,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1461,11 +1461,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq",
+      "url": "https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-zc1doq",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:36:09.683Z"
+      "updated_at": "2026-05-28T10:08:23.430Z"
     },
     {
       "id": "6e3a425d-1769-4332-abe0-d3f1b95c0470",
@@ -1541,15 +1541,15 @@
     },
     {
       "id": "3b77559f-f51e-48a4-a935-4748a051fca9",
-      "slug": "svdh-a65pnm",
+      "slug": "svdh-gatosy",
       "name": "סודה ",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל:\nמים, פחמן דו-חמצני, מווסת חומציות: נתרן ביקרבונט",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6,
+      "base_price": 6,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1557,11 +1557,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/svdh-a65pnm",
+      "url": "https://boker-tari.co.il/product/svdh-gatosy",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:27:40.708Z"
+      "updated_at": "2026-05-28T10:08:44.567Z"
     },
     {
       "id": "968a81ac-8881-4e3a-952e-c0f623b068b0",

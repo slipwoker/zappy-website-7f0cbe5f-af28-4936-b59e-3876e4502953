@@ -6164,8 +6164,8 @@ Availability: In stock
 ---
 
 ### בקבוק מים מנרליים נביעות
-URL: https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-zc1doq
+Price: 6.00 ILS
 Availability: In stock
 
 ---
@@ -6192,8 +6192,8 @@ Availability: In stock
 ---
 
 ### סודה 
-URL: https://boker-tari.co.il/product/svdh-a65pnm
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/svdh-gatosy
+Price: 6.00 ILS
 Availability: In stock
 
 ---
