@@ -541,10 +541,11 @@ https://boker-tari.co.il/product/bkbvk-anbym-1erxir
 - Image: https://boker-tari.co.il/assets/product-1777923074716-mhf1d.webp
 
 ### בקבוק אפרסק  FUZE
-https://boker-tari.co.il/product/bkbvk-aprsk-fuze-uf456k
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-aprsk-fuze-exnb6p
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: יצרן / מותג: פיוז טי מכיל: מים, סוכר, מווסתי חומציות: חומצת לימון ומלח לימון (E331), תמצית תה טבעית (0.1%), חומרי טעם וריח. לא מכיל פרי.
 - Image: https://boker-tari.co.il/assets/product-1777922963999-f3wn6.webp
 
 ### סודה 
