@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T07:29:56.423Z",
+  "generated_at": "2026-05-28T07:30:59.128Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -2523,11 +2523,11 @@
     },
     {
       "id": "57d084bf-83b0-46cc-b267-2b0625ea67cf",
-      "slug": "chlh-klvah-fbcb1p",
+      "slug": "chlh-klvah-h8q0v5",
       "name": "חלה קלועה",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\n",
       "sku": null,
       "brand": null,
       "price": 17.9,
@@ -2539,11 +2539,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-klvah-fbcb1p",
+      "url": "https://boker-tari.co.il/product/chlh-klvah-h8q0v5",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-28T07:23:37.217Z"
+      "updated_at": "2026-05-28T07:30:01.363Z"
     },
     {
       "id": "6c1b9e85-e9fe-4fef-8e59-1849ed5e9c0c",
@@ -2571,11 +2571,11 @@
     },
     {
       "id": "88135842-1a6e-4f6a-8165-8557c4876533",
-      "slug": "chlh-mtvkh-vdhfu1",
+      "slug": "chlh-mtvkh-6x5qi7",
       "name": "חלה מתוקה",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
+      "short_description": "מכיל: קמח לבן (מכיל גלוטן), מים, שמרים, סוכר לבן, שמנים ושומנים מהצומח, מלח שולחן, קמח סויה, חומרים משמרים (קלציום פרופיונט, פוטסיום סורבאט), מתחלבים (481, E-471), ויטמין C, אנזימים\n",
       "sku": null,
       "brand": null,
       "price": 17.9,
@@ -2587,11 +2587,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlh-mtvkh-vdhfu1",
+      "url": "https://boker-tari.co.il/product/chlh-mtvkh-6x5qi7",
       "categories": [
         "חלות"
       ],
-      "updated_at": "2026-05-28T07:22:41.394Z"
+      "updated_at": "2026-05-28T07:30:28.027Z"
     },
     {
       "id": "6af68168-eff3-4cd2-bf92-8a84a955b487",
