@@ -589,10 +589,11 @@ https://boker-tari.co.il/product/pchyt-ziro-kvkh-kvlh-ihkr1r
 - Image: https://boker-tari.co.il/assets/product-1777922645803-2myyxf.webp
 
 ### פחית פאנטה
-https://boker-tari.co.il/product/pchyt-panth-kth6g5
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pchyt-panth-3emd7g
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: מכיל: מים, סוכר, פרוקטוז, פחמן דו-חמצני, מווסתי חומציות: חומצת לימון ותלת-נתרן ציטראט (מלח לימון), צבע מאכל טבעי: בטא-קרוטן, מייצבים: אקאציה גאם ו- E444, מעכב חמצון: חומצה אסקורבית (ויטמין C), חומרי טעם וריח טבעיים.
 - Image: https://boker-tari.co.il/assets/product-1777922541454-oncyi.webp
 
 ### פחית קוקה קולה
