@@ -527,10 +527,11 @@ https://boker-tari.co.il/product/bkbvk-mym-mnrlyym-nbyavt-j7vbpq
 - Image: https://boker-tari.co.il/assets/product-1777923355254-eb02jm.webp
 
 ### בקבוק אשכוליות
-https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-ashkvlyvt-fj5i08
+- Price: 8.00 ILS
 - Availability: In stock
 - Category: שתייה קלה
+- Description: יצרן / מותג: פריגת מכיל: מים, מיץ אשכוליות (עשוי מרכז) ורכיבים של אשכוליות (14%), פרוקטוז, סוכר, חומצה: חומצת לימון, מווסת חומציות: אשלגן ציטראט, מייצבים: פקטין ואקצ`יה גאם, ויטמין C, חומרי טעם וריח.
 - Image: https://boker-tari.co.il/assets/product-1777923143660-drwc7f.webp
 
 ### בקבוק ענבים

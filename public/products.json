@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T10:01:43.749Z",
+  "generated_at": "2026-05-28T10:02:38.715Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -1469,15 +1469,15 @@
     },
     {
       "id": "6e3a425d-1769-4332-abe0-d3f1b95c0470",
-      "slug": "bkbvk-ashkvlyvt-oksgc2",
+      "slug": "bkbvk-ashkvlyvt-fj5i08",
       "name": "בקבוק אשכוליות",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: פריגת\nמכיל:\nמים, מיץ אשכוליות (עשוי מרכז) ורכיבים של אשכוליות (14%), פרוקטוז, סוכר, חומצה: חומצת לימון, מווסת חומציות: אשלגן ציטראט, מייצבים: פקטין ואקצ`יה גאם, ויטמין C, חומרי טעם וריח.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 8,
+      "base_price": 8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1485,11 +1485,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-ashkvlyvt-oksgc2",
+      "url": "https://boker-tari.co.il/product/bkbvk-ashkvlyvt-fj5i08",
       "categories": [
         "שתייה קלה"
       ],
-      "updated_at": "2026-05-04T19:32:32.250Z"
+      "updated_at": "2026-05-28T10:02:07.622Z"
     },
     {
       "id": "dd0d8611-0b2d-4079-b192-f3e2c8b466ee",
