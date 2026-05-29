@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:13:22.583Z",
+  "generated_at": "2026-05-29T05:14:31.768Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -631,15 +631,15 @@
     },
     {
       "id": "deb66570-49b5-424d-9bac-e4399da3a976",
-      "slug": "pyth-shvm-gb0qlr",
+      "slug": "pyth-shvm-350v19",
       "name": "פיתה שום",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: פיתה שום רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שום, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "short_description": "\nמכיל: פיתה שום רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שום, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 9.9,
+      "base_price": 9.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -647,11 +647,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pyth-shvm-gb0qlr",
+      "url": "https://boker-tari.co.il/product/pyth-shvm-350v19",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T18:30:08.486Z"
+      "updated_at": "2026-05-29T05:14:00.317Z"
     },
     {
       "id": "d4a2cd71-a31d-4f74-9193-5250bf61ef71",
@@ -1277,15 +1277,15 @@
     },
     {
       "id": "ffd7fc01-0a9a-4ece-80c8-e0b121980f33",
-      "slug": "pyth-btsl-uh0euh",
+      "slug": "pyth-btsl-ihciy0",
       "name": "פיתה בצל",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: קובטיס דברי מאפה\nמכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
+      "short_description": "\nמכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 9.9,
+      "base_price": 9.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1293,11 +1293,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pyth-btsl-uh0euh",
+      "url": "https://boker-tari.co.il/product/pyth-btsl-ihciy0",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T10:17:26.399Z"
+      "updated_at": "2026-05-29T05:14:21.606Z"
     },
     {
       "id": "7df93b62-c077-4281-b923-e61cac14cf38",

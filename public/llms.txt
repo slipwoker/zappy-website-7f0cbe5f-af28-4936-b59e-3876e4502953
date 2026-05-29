@@ -279,11 +279,11 @@ https://boker-tari.co.il/product/pyth-pytsh-j4z1qy
 - Image: https://boker-tari.co.il/assets/product-1778524348564-zhsahr.webp
 
 ### פיתה שום
-https://boker-tari.co.il/product/pyth-shvm-gb0qlr
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pyth-shvm-350v19
+- Price: 9.90 ILS
 - Availability: In stock
 - Category: לחם
-- Description: יצרן / מותג: קובטיס דברי מאפה מכיל: פיתה שום רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שום, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום. השגחה: בד"ץ ירושלים העדה החרדית
+- Description: מכיל: פיתה שום רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שום, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.
 - Image: https://boker-tari.co.il/assets/product-1778524139200-apfmn9.webp
 
 ### שישיית לחמניות מיני ללא גלוטן 
@@ -470,11 +470,11 @@ https://boker-tari.co.il/product/avgyvt-agvzynh-36flyt
 - Image: https://boker-tari.co.il/assets/product-1778456474405-4fb0u.webp
 
 ### פיתה בצל
-https://boker-tari.co.il/product/pyth-btsl-uh0euh
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/pyth-btsl-ihciy0
+- Price: 9.90 ILS
 - Availability: In stock
 - Category: לחם
-- Description: יצרן / מותג: קובטיס דברי מאפה מכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום. השגחה: בד"ץ ירושלים העדה החרדית
+- Description: מכיל: פיתה בצל רכיבים: קמח חיטה (גלוטן), מים, שמן זית, שבבי בצל, שמן קנולה מזוכך, סוכר לבן, מלח שולחן, שמרים, משפר אפיה. מידע על אלרגנים: גלוטן(חיטה). עלול להכיל: סויה, שומשום.
 - Image: https://boker-tari.co.il/assets/product-1778149033710-8mir4p.webp
 
 ### פיתה זעתר

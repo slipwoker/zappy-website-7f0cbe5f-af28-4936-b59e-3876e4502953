@@ -5926,8 +5926,8 @@ Availability: In stock
 ---
 
 ### פיתה שום
-URL: https://boker-tari.co.il/product/pyth-shvm-gb0qlr
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/pyth-shvm-350v19
+Price: 9.90 ILS
 Availability: In stock
 
 ---
@@ -6115,8 +6115,8 @@ Availability: In stock
 ---
 
 ### פיתה בצל
-URL: https://boker-tari.co.il/product/pyth-btsl-uh0euh
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/pyth-btsl-ihciy0
+Price: 9.90 ILS
 Availability: In stock
 
 ---
