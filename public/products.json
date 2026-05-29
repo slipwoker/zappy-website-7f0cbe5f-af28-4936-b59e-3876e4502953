@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:50:56.714Z",
+  "generated_at": "2026-05-29T04:52:48.303Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2691,15 +2691,15 @@
     },
     {
       "id": "1f285708-ac00-43fe-ac77-8e55631104d1",
-      "slug": "chlb-dl-lktvz-ytbth-4jyh2f",
+      "slug": "chlb-dl-lktvz-ytbth-w0noc0",
       "name": "חלב דל לקטוז יטבתה",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.9,
+      "base_price": 14.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2707,11 +2707,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f",
+      "url": "https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-w0noc0",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T16:50:38.661Z"
+      "updated_at": "2026-05-29T04:52:17.374Z"
     },
     {
       "id": "efd0fd56-6d8e-4519-9cc5-6622e1f46c0c",
