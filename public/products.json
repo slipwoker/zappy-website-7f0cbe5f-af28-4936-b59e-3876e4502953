@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:04:55.651Z",
+  "generated_at": "2026-05-29T05:05:57.243Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -1923,15 +1923,15 @@
     },
     {
       "id": "8d1954f5-b8b9-4d5f-8a40-037d6cdc5db5",
-      "slug": "lchmnyyh-kshr-mtvkh-p19e1y",
+      "slug": "lchmnyyh-kshr-mtvkh-rt8p01",
       "name": "לחמנייה קשר מתוקה",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים",
       "sku": null,
       "brand": null,
-      "price": 2.8,
-      "base_price": 2.8,
+      "price": 3.9,
+      "base_price": 3.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1939,11 +1939,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-p19e1y",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-rt8p01",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-29T05:04:24.576Z"
+      "updated_at": "2026-05-29T05:05:03.854Z"
     },
     {
       "id": "22d2d160-5bc8-4dbd-b7ad-10455e0e3b31",
@@ -3223,15 +3223,15 @@
     },
     {
       "id": "cc58fdf8-031c-4c0e-9072-abaa81cd98e0",
-      "slug": "lchmnyyt-shmynyyh-hrna02",
+      "slug": "lchmnyyt-shmynyyh-4xak7j",
       "name": "לחמניית שמינייה",
       "name_translations": {},
       "description": "",
       "short_description": "יצרן / מותג: אדרי יוסף\nמכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 3.9,
+      "base_price": 3.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3239,11 +3239,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-shmynyyh-hrna02",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-shmynyyh-4xak7j",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:45:32.997Z"
+      "updated_at": "2026-05-29T05:05:26.184Z"
     },
     {
       "id": "518a5b64-6c20-4c72-8fde-f53f87446e08",
