@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:47:56.903Z",
+  "generated_at": "2026-05-29T04:49:27.864Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2331,15 +2331,15 @@
     },
     {
       "id": "94c82c63-fdbd-4f88-9bac-d2938e6afa57",
-      "slug": "shvkv-bnnh-lytr-ytbth-b8fh63",
+      "slug": "shvkv-bnnh-lytr-ytbth-494o7p",
       "name": "שוקו בננה ליטר יטבתה",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.5,
+      "base_price": 14.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2347,11 +2347,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-494o7p",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:20:33.826Z"
+      "updated_at": "2026-05-29T04:48:56.608Z"
     },
     {
       "id": "03450516-7d72-4e0d-8002-d6649b6e4919",
@@ -2475,15 +2475,15 @@
     },
     {
       "id": "9f5899eb-94cb-4903-8620-04a48fbbff04",
-      "slug": "shvkv-shkyt-ytbth-ge1pvc",
+      "slug": "shvkv-shkyt-ytbth-z1zpsy",
       "name": "שוקו שקית יטבתה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב דל לקטוז (87.4%), מים, קקאו (0.86%), סיבים תזונתיים (אינולין), סוכר, חלבוני מי גבינה, תוסף תזונה: סידן (טרי קלציום ציטרט, 0.075%), מיץ מרוכז מפרי המונק, חומרי טעם וריח, מתחלב (E471), מייצבים ( E466, E407), וויטמיןD (1 מק``ג ל 100 מ``ל). עד 1% לקטוז",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 3.9,
+      "base_price": 3.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2491,11 +2491,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc",
+      "url": "https://boker-tari.co.il/product/shvkv-shkyt-ytbth-z1zpsy",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:10:15.999Z"
+      "updated_at": "2026-05-29T04:48:27.385Z"
     },
     {
       "id": "3a839e1b-22a0-43d4-b7fc-fcfc7217542d",

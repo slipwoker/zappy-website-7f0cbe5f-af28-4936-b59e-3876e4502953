@@ -812,8 +812,8 @@ https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
 - Image: https://boker-tari.co.il/assets/product-1777915366637-32o6mz.webp
 
 ### שוקו בננה ליטר יטבתה
-https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-494o7p
+- Price: 14.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777915224083-b7oe9a.webp
@@ -856,10 +856,11 @@ https://boker-tari.co.il/product/bkbvk-shvkv-tnvbh-lytr-4l5ohl
 - Image: https://boker-tari.co.il/assets/product-1777914688919-v9rmv.webp
 
 ### שוקו שקית יטבתה
-https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/shvkv-shkyt-ytbth-z1zpsy
+- Price: 3.90 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב דל לקטוז (87.4%), מים, קקאו (0.86%), סיבים תזונתיים (אינולין), סוכר, חלבוני מי גבינה, תוסף תזונה: סידן (טרי קלציום ציטרט, 0.075%), מיץ מרוכז מפרי המונק, חומרי טעם וריח, מתחלב (E471), מייצבים ( E466, E407), וויטמיןD (1 מק``ג ל 100 מ``ל). עד 1% לקטוז
 - Image: https://boker-tari.co.il/assets/product-1777914588178-fw0xgg.webp
 
 ### שוקו שקית תנובה

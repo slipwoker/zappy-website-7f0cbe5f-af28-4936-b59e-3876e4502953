@@ -6423,8 +6423,8 @@ Availability: In stock
 ---
 
 ### שוקו בננה ליטר יטבתה
-URL: https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-b8fh63
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/shvkv-bnnh-lytr-ytbth-494o7p
+Price: 14.50 ILS
 Availability: In stock
 
 ---
@@ -6465,8 +6465,8 @@ Availability: In stock
 ---
 
 ### שוקו שקית יטבתה
-URL: https://boker-tari.co.il/product/shvkv-shkyt-ytbth-ge1pvc
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/shvkv-shkyt-ytbth-z1zpsy
+Price: 3.90 ILS
 Availability: In stock
 
 ---
