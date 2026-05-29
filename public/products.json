@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:49:27.864Z",
+  "generated_at": "2026-05-29T04:50:08.988Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2283,15 +2283,15 @@
     },
     {
       "id": "936d7bad-e133-42e6-9354-13e842e223ce",
-      "slug": "shvkv-bnnh-lyldym-ytbth-kmu6m1",
+      "slug": "shvkv-bnnh-lyldym-ytbth-urln3t",
       "name": "שוקו בננה לילדים יטבתה",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6.9,
+      "base_price": 6.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2299,23 +2299,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-urln3t",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:24:18.567Z"
+      "updated_at": "2026-05-29T04:49:37.900Z"
     },
     {
       "id": "c8cf454c-3b8b-4316-96d8-420d532ebc19",
-      "slug": "shvkv-bnnh-lyldym-tnvbh-4kbdm3",
+      "slug": "shvkv-bnnh-lyldym-tnvbh-5iakxr",
       "name": "שוקו בננה לילדים תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב מפוסטר (99%), חומרי טעם וריח, צבע מאכל (בטא קרוטן), מייצבים (קרגינן, ג`לן גאם), מלח, ממתיק מצמח הסטיביה (סטיביול גליקוזיד).",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6.9,
+      "base_price": 6.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2323,11 +2323,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3",
+      "url": "https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-5iakxr",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:22:59.764Z"
+      "updated_at": "2026-05-29T04:49:55.354Z"
     },
     {
       "id": "94c82c63-fdbd-4f88-9bac-d2938e6afa57",

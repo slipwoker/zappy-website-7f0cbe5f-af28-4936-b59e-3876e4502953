@@ -798,17 +798,18 @@ https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4
 - Image: https://boker-tari.co.il/assets/product-1777915586252-qzrfks.webp
 
 ### שוקו בננה לילדים יטבתה
-https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-kmu6m1
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/shvkv-bnnh-lyldym-ytbth-urln3t
+- Price: 6.90 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777915446073-g5ejvj.webp
 
 ### שוקו בננה לילדים תנובה
-https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-4kbdm3
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/shvkv-bnnh-lyldym-tnvbh-5iakxr
+- Price: 6.90 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב מפוסטר (99%), חומרי טעם וריח, צבע מאכל (בטא קרוטן), מייצבים (קרגינן, ג`לן גאם), מלח, ממתיק מצמח הסטיביה (סטיביול גליקוזיד).
 - Image: https://boker-tari.co.il/assets/product-1777915366637-32o6mz.webp
 
 ### שוקו בננה ליטר יטבתה
