@@ -6521,8 +6521,8 @@ Availability: In stock
 ---
 
 ### חלב 1% קרטון תנובה
-URL: https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-dh9kb9
+Price: 6.92 ILS
 Availability: In stock
 
 ---
@@ -6535,15 +6535,15 @@ Availability: In stock
 ---
 
 ### חלב 1% בקבוק יוטבתה
-URL: https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-v0gsw0
+Price: 11.50 ILS
 Availability: In stock
 
 ---
 
 ### חלב 3% בקבוק יוטבתה
-URL: https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-aufclw
+Price: 11.50 ILS
 Availability: In stock
 
 ---

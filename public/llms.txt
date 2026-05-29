@@ -916,8 +916,8 @@ https://boker-tari.co.il/product/chlh-mchyr-bpykvch-mmshlty-7waflg
 - Image: https://boker-tari.co.il/assets/product-1777913714272-nix1rf.webp
 
 ### חלב 1% קרטון תנובה
-https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-3erqqp
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-dh9kb9
+- Price: 6.92 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777913537501-87ojzj.webp
@@ -930,15 +930,15 @@ https://boker-tari.co.il/product/chlb-dl-lktvz-ytbth-4jyh2f
 - Image: https://boker-tari.co.il/assets/product-1777913424866-eneshq.webp
 
 ### חלב 1% בקבוק יוטבתה
-https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-dqi0er
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chlb-1-bkbvk-yvtbth-v0gsw0
+- Price: 11.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777913246024-7pucp.webp
 
 ### חלב 3% בקבוק יוטבתה
-https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-7tlw2b
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-aufclw
+- Price: 11.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777976689607-ooypr.webp
