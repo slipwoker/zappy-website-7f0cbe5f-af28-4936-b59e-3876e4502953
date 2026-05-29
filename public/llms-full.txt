@@ -5743,6 +5743,13 @@ bokertari20@gmail.com
 
 ## Product Catalog
 
+### גבינה לבנה 9% תנובה
+URL: https://boker-tari.co.il/product/gbynh-lbnh-9-tnvbh-oqf664
+Price: 11.90 ILS
+Availability: In stock
+
+---
+
 ### כריך סלט ביצים
 URL: https://boker-tari.co.il/product/kryk-slt-bytsym-6nfwco
 Price: 14.90 ILS
@@ -6248,8 +6255,8 @@ Availability: In stock
 ---
 
 ### גבינה לבנה תנובה 3% 250 גרם
-URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-0ihwa4
+Price: 11.90 ILS
 Availability: In stock
 
 ---

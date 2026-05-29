@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 142**
+**Total active products: 143**
+
+### גבינה לבנה 9% תנובה
+https://boker-tari.co.il/product/gbynh-lbnh-9-tnvbh-oqf664
+- Price: 11.90 ILS
+- Availability: In stock
+- Category: מוצרי חלב
+- Image: https://boker-tari.co.il/assets/product-1780029106226-oichm7.webp
 
 ### כריך סלט ביצים
 https://boker-tari.co.il/product/kryk-slt-bytsym-6nfwco
@@ -623,8 +630,8 @@ https://boker-tari.co.il/product/pchyt-kvkh-kvlh-0ubsd5
 - Image: https://boker-tari.co.il/assets/product-1777922595795-o9xyss.webp
 
 ### גבינה לבנה תנובה 3% 250 גרם
-https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-4eqvwa
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-3-250-grm-0ihwa4
+- Price: 11.90 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777922063504-u0iwwb.webp
