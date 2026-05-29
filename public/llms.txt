@@ -1052,17 +1052,19 @@ https://boker-tari.co.il/product/chtsy-bgt-iuskzd
 - Image: https://boker-tari.co.il/assets/image-product-image-1777908489198-kjj5ml.webp
 
 ### לחמניית גבטה שאור
-https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-jtv683
+- Price: 4.90 ILS
 - Availability: In stock
 - Category: לחם
+- Description: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי
 - Image: https://boker-tari.co.il/assets/image-product-image-1777908367744-wa4plt.webp
 
 ### לחמניית גבטה דגנים
-https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-55vv0i
+- Price: 4.90 ILS
 - Availability: In stock
 - Category: לחם
+- Description: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי
 - Image: https://boker-tari.co.il/assets/image-product-image-1777908295016-xx41fq.webp
 
 ### לחמים

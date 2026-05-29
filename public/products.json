@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:07:43.315Z",
+  "generated_at": "2026-05-29T05:08:32.311Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -3075,15 +3075,15 @@
     },
     {
       "id": "7a10f830-69ae-41a2-b743-394eef2d884e",
-      "slug": "lchmnyyt-gbth-shavr-7jqbje",
+      "slug": "lchmnyyt-gbth-shavr-jtv683",
       "name": "לחמניית גבטה שאור",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 4.9,
+      "base_price": 4.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3091,23 +3091,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-7jqbje",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-shavr-jtv683",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T15:26:24.598Z"
+      "updated_at": "2026-05-29T05:08:01.213Z"
     },
     {
       "id": "8e8a1845-fcdb-428a-bbba-0f3c2b9a16a6",
-      "slug": "lchmnyyt-gbth-dgnym-zeopio",
+      "slug": "lchmnyyt-gbth-dgnym-55vv0i",
       "name": "לחמניית גבטה דגנים",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 4.9,
+      "base_price": 4.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3115,11 +3115,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-zeopio",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-gbth-dgnym-55vv0i",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-04T15:25:11.970Z"
+      "updated_at": "2026-05-29T05:08:17.130Z"
     },
     {
       "id": "fef41f5d-d50c-4d5b-a651-8c424c45a8c1",
