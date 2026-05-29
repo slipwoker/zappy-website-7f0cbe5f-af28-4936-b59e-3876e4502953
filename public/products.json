@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:04:24.545Z",
+  "generated_at": "2026-05-29T05:04:55.651Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -1923,15 +1923,15 @@
     },
     {
       "id": "8d1954f5-b8b9-4d5f-8a40-037d6cdc5db5",
-      "slug": "lchmnyyh-kshr-mtvkh-ql04ae",
+      "slug": "lchmnyyh-kshr-mtvkh-p19e1y",
       "name": "לחמנייה קשר מתוקה",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח חיטה לבן(מכיל גלוטן), מים, סוכר, שומן צמחי לאפייה, שמרים, מלח, חומר מתחלב, תחליף ביצים, קלציום פרופיונט, קמח סויה, שומשום, חומצה אסקורבית, אנזימים",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 2.8,
+      "base_price": 2.8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1939,11 +1939,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-ql04ae",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-kshr-mtvkh-p19e1y",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:43:30.311Z"
+      "updated_at": "2026-05-29T05:04:24.576Z"
     },
     {
       "id": "22d2d160-5bc8-4dbd-b7ad-10455e0e3b31",
