@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:03:32.122Z",
+  "generated_at": "2026-05-29T05:04:24.545Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -1995,15 +1995,15 @@
     },
     {
       "id": "42b2df10-c677-479c-a786-f3fd55e5365a",
-      "slug": "lchmnyyh-agvlh-kshr-br4m8u",
+      "slug": "lchmnyyh-agvlh-kshr-jk7d5y",
       "name": "לחמנייה עגולה קשר",
       "name_translations": {},
       "description": "",
       "short_description": "מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, שמנים ושומנים מהצומח, מלח שולחן, לתת שעורה, קמח סויה, מתחלב (E481), חומר משמר (קלציום פרופיונט), אנזימים, ויטמין C\nהשגחה: בד\"ץ ירושלים העדה החרדית,בד\"ץ שארית ישראל",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 2.8,
+      "base_price": 2.8,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2011,11 +2011,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-br4m8u",
+      "url": "https://boker-tari.co.il/product/lchmnyyh-agvlh-kshr-jk7d5y",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:37:16.308Z"
+      "updated_at": "2026-05-29T05:03:53.487Z"
     },
     {
       "id": "5cfe1fb2-fbf6-4e88-bd78-a46151f07c73",
