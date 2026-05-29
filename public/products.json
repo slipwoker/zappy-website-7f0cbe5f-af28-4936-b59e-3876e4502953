@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:43:23.834Z",
+  "generated_at": "2026-05-29T04:44:03.166Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2763,15 +2763,15 @@
     },
     {
       "id": "a32f020b-9225-4c08-89a6-6c51fd3a3951",
-      "slug": "chlb-3-krtvn-tnvbh-3ivenh",
+      "slug": "chlb-3-krtvn-tnvbh-bwlau2",
       "name": "חלב 3% קרטון תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב, הוספו ויטמינים A וD להשלמת ריכוזם כבחלב רגיל",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 7.35,
+      "base_price": 7.35,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2779,11 +2779,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh",
+      "url": "https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-bwlau2",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T16:44:07.035Z"
+      "updated_at": "2026-05-29T04:43:32.039Z"
     },
     {
       "id": "d6194090-940a-4845-9e49-08047be125a0",
