@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:53:38.801Z",
+  "generated_at": "2026-05-29T04:59:33.577Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2043,15 +2043,15 @@
     },
     {
       "id": "c311a63c-d6e3-481c-a0c1-8936f676518d",
-      "slug": "lchmnyyt-hmbvrgr-jljdns",
+      "slug": "lchmnyyt-hmbvrgr-4x5hms",
       "name": "לחמניית המבורגר",
       "name_translations": {},
       "description": "",
       "short_description": "יצרן / מותג: מאפית המשפחה\nמכיל: לחמנייה אווריריות ובעלת קרום זהוב ועדין, מושלמת להכנת המבורגר ביתי עסיסי או כריך טעימים.\nרכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, גלוטן (גלוטן), מלח שולחן, משפר טריות, שומשום, שמרים, משפר אפיה.\nהשגחה: בד\"ץ ירושלים העדה החרדית",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 3.5,
+      "base_price": 3.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2059,11 +2059,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-jljdns",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-hmbvrgr-4x5hms",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:47:48.683Z"
+      "updated_at": "2026-05-29T04:59:02.671Z"
     },
     {
       "id": "2fb79b3a-e667-4fce-b222-1b8250ab1f6f",
