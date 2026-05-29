@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:15:15.981Z",
+  "generated_at": "2026-05-29T05:15:59.597Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -607,15 +607,15 @@
     },
     {
       "id": "5e938ea1-e364-47d5-af07-58b8f42bde17",
-      "slug": "pyth-pytsh-j4z1qy",
+      "slug": "pyth-pytsh-sc7ij5",
       "name": "פיתה פיצה",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה . אורגנו\nהשגחה: חוג חתם סופר פתח תקווה",
+      "short_description": "מכיל: קמח, מים, מרגרינה ושומן צמחי. רסק עגבניות, גבינה צהובה . \n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 13.9,
+      "base_price": 13.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -623,11 +623,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/pyth-pytsh-j4z1qy",
+      "url": "https://boker-tari.co.il/product/pyth-pytsh-sc7ij5",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T18:49:11.421Z"
+      "updated_at": "2026-05-29T05:15:28.436Z"
     },
     {
       "id": "deb66570-49b5-424d-9bac-e4399da3a976",
