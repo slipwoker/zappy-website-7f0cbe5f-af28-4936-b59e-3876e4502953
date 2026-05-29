@@ -775,17 +775,19 @@ https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-udrg1z
 - Image: https://boker-tari.co.il/assets/product-1777917446091-s40s7.webp
 
 ### קוטג' תנובה 5% 250 גרם
-https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-jw26mf
+- Price: 7.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב, מלח, תוסף תזונה: סידן (טריקלציום פוספט) נטול גלוטן
 - Image: https://boker-tari.co.il/assets/product-1777917379123-t5n1go.webp
 
 ### קוטג' תנובה 3% 250 גרם
-https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-61rqa0
+- Price: 7.00 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב, מלח, תוסף תזונה: סידן (טריקלציום פוספט) נטול גלוטן
 - Image: https://boker-tari.co.il/assets/product-1777917254022-pek1g.webp
 
 ### קוראסון שוקולד גדול

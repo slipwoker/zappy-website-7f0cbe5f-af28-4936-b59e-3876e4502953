@@ -6388,15 +6388,15 @@ Availability: In stock
 ---
 
 ### קוטג' תנובה 5% 250 גרם
-URL: https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-jw26mf
+Price: 7.00 ILS
 Availability: In stock
 
 ---
 
 ### קוטג' תנובה 3% 250 גרם
-URL: https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-61rqa0
+Price: 7.00 ILS
 Availability: In stock
 
 ---

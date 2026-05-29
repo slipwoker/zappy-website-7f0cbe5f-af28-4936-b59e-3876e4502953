@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:37:57.700Z",
+  "generated_at": "2026-05-29T04:38:36.329Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2211,15 +2211,15 @@
     },
     {
       "id": "9be2ef1b-4d1a-4afb-84ee-f208c373b531",
-      "slug": "kvtg-tnvbh-5-250-grm-t2crhy",
+      "slug": "kvtg-tnvbh-5-250-grm-jw26mf",
       "name": "קוטג' תנובה 5% 250 גרם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב, מלח, תוסף תזונה: סידן (טריקלציום פוספט) נטול גלוטן",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 7,
+      "base_price": 7,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2227,23 +2227,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-t2crhy",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-5-250-grm-jw26mf",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:56:28.671Z"
+      "updated_at": "2026-05-29T04:38:05.508Z"
     },
     {
       "id": "80b6561c-63d5-4f48-acd6-f5142dbea2fb",
-      "slug": "kvtg-tnvbh-3-250-grm-f20yli",
+      "slug": "kvtg-tnvbh-3-250-grm-61rqa0",
       "name": "קוטג' תנובה 3% 250 גרם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב, מלח, תוסף תזונה: סידן (טריקלציום פוספט) נטול גלוטן",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 7,
+      "base_price": 7,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2251,11 +2251,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-f20yli",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-3-250-grm-61rqa0",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T20:41:29.923Z"
+      "updated_at": "2026-05-29T04:38:34.304Z"
     },
     {
       "id": "eb0d2e2f-b562-4883-89e6-09ba2d5b5f6b",
