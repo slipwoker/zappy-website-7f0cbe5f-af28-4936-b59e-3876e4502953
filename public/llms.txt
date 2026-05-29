@@ -973,8 +973,8 @@ https://boker-tari.co.il/product/byyglh-rvmny-9rjcnj
 - Image: https://boker-tari.co.il/assets/image-product-image-1777912635756-7g9jq5.webp
 
 ### לחמניית בייגלה
-https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/lchmnyyt-byyglh-5y6bbj
+- Price: 5.80 ILS
 - Availability: In stock
 - Category: לחם
 - Description: יצרן / מותג: קובטיס דברי מאפה מכיל: בייגלה פריך וזהוב, מצופה שומשום קלוי שמוסיף קרנצ’יות וטעם אגוזי עדין. אידיאלי לנשנוש, לאירוח או כתוספת לצד מטבלים ומשקאות. רכיבים: קמח חיטה(גלוטן), מים, סוכר לבן, שמן חמניות, שמרים, משפר אפיה, מלח שולחן, גלוטן חיטה(גלוטן), שומשום. מידע על אלרגנים: גלוטן(חיטה), שומשום. עלול להכיל: אגוזים(אגוז מלך), שומשום. השגחה: רבנות חולון
@@ -1044,10 +1044,11 @@ https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99
 - Image: https://boker-tari.co.il/assets/image-product-image-1777908720313-vud60q.webp
 
 ### חצי בגט
-https://boker-tari.co.il/product/chtsy-bgt-irnqta
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chtsy-bgt-iuskzd
+- Price: 3.90 ILS
 - Availability: In stock
 - Category: לחם
+- Description: רכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום
 - Image: https://boker-tari.co.il/assets/image-product-image-1777908489198-kjj5ml.webp
 
 ### לחמניית גבטה שאור

@@ -6570,8 +6570,8 @@ Availability: In stock
 ---
 
 ### לחמניית בייגלה
-URL: https://boker-tari.co.il/product/lchmnyyt-byyglh-jyu9hq
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/lchmnyyt-byyglh-5y6bbj
+Price: 5.80 ILS
 Availability: In stock
 
 ---
@@ -6633,8 +6633,8 @@ Availability: In stock
 ---
 
 ### חצי בגט
-URL: https://boker-tari.co.il/product/chtsy-bgt-irnqta
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/chtsy-bgt-iuskzd
+Price: 3.90 ILS
 Availability: In stock
 
 ---
