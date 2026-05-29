@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:33:34.615Z",
+  "generated_at": "2026-05-29T04:34:36.898Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2115,15 +2115,15 @@
     },
     {
       "id": "439311df-6a32-480d-8a4a-fcb7bc802b6e",
-      "slug": "atsbavt-gbynh-tshvbh-amk-1gcmoo",
+      "slug": "atsbavt-gbynh-tshvbh-amk-hvwi69",
       "name": "אצבעות גבינה צהובה עמק",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב בקר מפוסטר, מלח, צבע מאכל: אנאטו (ממקור צמחי), חומר משמר (E-202).",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 23.5,
+      "base_price": 23.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2131,11 +2131,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo",
+      "url": "https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-hvwi69",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T18:06:21.764Z"
+      "updated_at": "2026-05-29T04:34:05.779Z"
     },
     {
       "id": "dface20c-c6d7-4b39-927f-81239d60d589",

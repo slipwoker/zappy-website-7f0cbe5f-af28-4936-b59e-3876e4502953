@@ -743,10 +743,11 @@ https://boker-tari.co.il/product/lchm-prvs-zwf9uk
 - Image: https://boker-tari.co.il/assets/product-1777918059391-lerrb9.webp
 
 ### אצבעות גבינה צהובה עמק
-https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-1gcmoo
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/atsbavt-gbynh-tshvbh-amk-hvwi69
+- Price: 23.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב בקר מפוסטר, מלח, צבע מאכל: אנאטו (ממקור צמחי), חומר משמר (E-202).
 - Image: https://boker-tari.co.il/assets/product-1777917923454-9rh7l.webp
 
 ### גבינה צהובה 28% 200 גרם תנובה
