@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:34:36.898Z",
+  "generated_at": "2026-05-29T04:35:42.684Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2139,15 +2139,15 @@
     },
     {
       "id": "dface20c-c6d7-4b39-927f-81239d60d589",
-      "slug": "gbynh-tshvbh-28-200-grm-tnvbh-v630d5",
+      "slug": "gbynh-tshvbh-28-200-grm-tnvbh-apmtzc",
       "name": "גבינה צהובה 28% 200 גרם תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: פרוסות גבינה חצי קשה 28% שומן 200 גרם תנובה עד הבית.\nרכיבים: חלב בקר מפוסטר, מלח, צבע מאכל: אנאטו (ממקור צמחי), חומר משמר (E-202).",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 19.5,
+      "base_price": 19.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2155,11 +2155,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-v630d5",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-28-200-grm-tnvbh-apmtzc",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T18:03:06.269Z"
+      "updated_at": "2026-05-29T04:35:11.503Z"
     },
     {
       "id": "c3d3e5f4-d36c-44bc-b85f-edf3258f0040",
