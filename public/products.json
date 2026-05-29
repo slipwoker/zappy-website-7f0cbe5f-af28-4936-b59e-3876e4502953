@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:52:48.303Z",
+  "generated_at": "2026-05-29T04:53:38.801Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2499,15 +2499,15 @@
     },
     {
       "id": "3a839e1b-22a0-43d4-b7fc-fcfc7217542d",
-      "slug": "shvkv-shkyt-tnvbh-zk8zyc",
+      "slug": "shvkv-shkyt-tnvbh-ac3b77",
       "name": "שוקו שקית תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב דל לקטוז (87.4%), מים, קקאו (0.86%), סיבים תזונתיים (אינולין), סוכר, חלבוני מי גבינה, תוסף תזונה: סידן (טרי קלציום ציטרט, 0.075%), מיץ מרוכז מפרי המונק, חומרי טעם וריח, מתחלב (E471), מייצבים ( E466, E407), וויטמיןD (1 מק``ג ל 100 מ``ל). עד 1% לקטוז",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 4,
+      "base_price": 4,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2515,11 +2515,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-zk8zyc",
+      "url": "https://boker-tari.co.il/product/shvkv-shkyt-tnvbh-ac3b77",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:08:46.552Z"
+      "updated_at": "2026-05-29T04:53:07.732Z"
     },
     {
       "id": "0f7e958e-d4bc-48fd-a956-779cc6ff0445",
