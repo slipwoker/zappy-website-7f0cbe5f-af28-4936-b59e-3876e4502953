@@ -6254,9 +6254,9 @@ Availability: In stock
 
 ---
 
-### גבינה לבנה תנובה 5% 250 גרם
-URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8
-Price: 0.00 ILS
+### גבינה לבנה תנובה 5% 250 גרם 
+URL: https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-cgjbba
+Price: 5.85 ILS
 Availability: In stock
 
 ---

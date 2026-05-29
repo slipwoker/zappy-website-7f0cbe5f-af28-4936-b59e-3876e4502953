@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:28:55.141Z",
+  "generated_at": "2026-05-29T04:30:09.885Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -1757,15 +1757,15 @@
     },
     {
       "id": "96bcecd7-b534-483b-ab45-89e32357eb3d",
-      "slug": "gbynh-lbnh-tnvbh-5-250-grm-omhsg8",
-      "name": "גבינה לבנה תנובה 5% 250 גרם",
+      "slug": "gbynh-lbnh-tnvbh-5-250-grm-cgjbba",
+      "name": "גבינה לבנה תנובה 5% 250 גרם ",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 5.85,
+      "base_price": 5.85,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1773,11 +1773,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-omhsg8",
+      "url": "https://boker-tari.co.il/product/gbynh-lbnh-tnvbh-5-250-grm-cgjbba",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T19:13:39.342Z"
+      "updated_at": "2026-05-29T04:29:38.815Z"
     },
     {
       "id": "3f5d4e09-bde3-422d-8614-91c721d86d29",
