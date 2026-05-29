@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-28T21:41:41.112Z",
+  "generated_at": "2026-05-29T04:27:29.072Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 142,
@@ -1325,15 +1325,15 @@
     },
     {
       "id": "63d5bcc0-6210-4984-bb4e-7af91376f96d",
-      "slug": "gbynh-tshvbh-amk-28-400-grm-3ixxkq",
+      "slug": "gbynh-tshvbh-amk-28-400-grm-g736u5",
       "name": "גבינה צהובה עמק 28% 400 גרם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "יצרן / מותג: תנובה\nמכיל: חלב בקר מפוסטר, מלח, צבע מאכל: אנאטו (ממקור צמחי), חומר משמר (E-202).",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 32.5,
+      "base_price": 32.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1341,11 +1341,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-3ixxkq",
+      "url": "https://boker-tari.co.il/product/gbynh-tshvbh-amk-28-400-grm-g736u5",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-07T06:37:50.943Z"
+      "updated_at": "2026-05-29T04:26:56.680Z"
     },
     {
       "id": "7d9dba20-a3a9-4500-a45b-c354ee87e7fe",
