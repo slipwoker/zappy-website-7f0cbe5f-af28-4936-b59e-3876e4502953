@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:18:29.583Z",
+  "generated_at": "2026-05-29T05:22:50.231Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -391,15 +391,15 @@
     },
     {
       "id": "c3d097e7-c79a-48ef-bc6b-2e42e5c43ab4",
-      "slug": "lchm-kvsmyn-mla-prvs-gqa9iq",
+      "slug": "lchm-kvsmyn-mla-prvs-yzjxbn",
       "name": "לחם כוסמין מלא פרוס ",
       "name_translations": {},
       "description": "",
       "short_description": "מים, קמח כוסמין מלא (גלוטן) (100% ממשקל הקמחים), סיבים תזונתיים, שמרים לאפייה, גלוטן חיטה, מלח שולחן, משפר אפייה [(חומרים משמרים (202E, 282E), סויה, מתחלב (481E), מעכבי חמצון – חומצת לימון, אנזימים, מעכבי חמצון (300E)], מחמצת שיפון.\n\nמידע על אלרגנים:\nמכיל: (כוסמין, חיטה, שיפון, שיבולת שועל) – גלוטן, סויה.\n\nעלול להכיל: שומשום, (שעורה) – גלוטן.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 22.9,
+      "base_price": 22.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -407,11 +407,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchm-kvsmyn-mla-prvs-gqa9iq",
+      "url": "https://boker-tari.co.il/product/lchm-kvsmyn-mla-prvs-yzjxbn",
       "categories": [
         "לחמים מיוחדים"
       ],
-      "updated_at": "2026-05-11T22:40:46.195Z"
+      "updated_at": "2026-05-29T05:22:18.817Z"
     },
     {
       "id": "3d91a00e-0aa0-42eb-822e-0321e973f9c9",
