@@ -6619,15 +6619,15 @@ Availability: In stock
 ---
 
 ### לחמניית רוסטיק כהה
-URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-zpllyg
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-iiztyc
+Price: 5.90 ILS
 Availability: In stock
 
 ---
 
 ### לחמניית רוסטיק בהיר
-URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99
-Price: 0.00 ILS
+URL: https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-riu0dx
+Price: 5.90 ILS
 Availability: In stock
 
 ---

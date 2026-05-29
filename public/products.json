@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:08:48.250Z",
+  "generated_at": "2026-05-29T05:10:03.596Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -3003,15 +3003,15 @@
     },
     {
       "id": "15bd1560-0d6d-4cac-a587-28d7ec41dc53",
-      "slug": "lchmnyyt-rvstyk-khh-zpllyg",
+      "slug": "lchmnyyt-rvstyk-khh-iiztyc",
       "name": "לחמניית רוסטיק כהה",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: מאפית המשפחה\nמכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי\nהשגחה: בד\"ץ בית יוסף",
+      "short_description": "\nמכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 5.9,
+      "base_price": 5.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3019,23 +3019,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-zpllyg",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-khh-iiztyc",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-11T23:03:23.625Z"
+      "updated_at": "2026-05-29T05:09:13.954Z"
     },
     {
       "id": "dbc49e97-be41-4dae-b49b-ab2462068cc2",
-      "slug": "lchmnyyt-rvstyk-bhyr-565b99",
+      "slug": "lchmnyyt-rvstyk-bhyr-riu0dx",
       "name": "לחמניית רוסטיק בהיר",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: מאפית המשפחה\nמכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי\nהשגחה: בד\"ץ בית יוסף",
+      "short_description": "\nמכיל: רכיבים: גלוטן,מלח,סוכר,קמח,שמרים,שומן צמחי\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 5.9,
+      "base_price": 5.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -3043,11 +3043,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-565b99",
+      "url": "https://boker-tari.co.il/product/lchmnyyt-rvstyk-bhyr-riu0dx",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T09:59:22.741Z"
+      "updated_at": "2026-05-29T05:09:32.046Z"
     },
     {
       "id": "efa40968-15e5-440d-a96b-3ed05af9a923",
