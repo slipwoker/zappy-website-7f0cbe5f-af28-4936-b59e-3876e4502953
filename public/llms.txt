@@ -834,15 +834,16 @@ https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-ytbth-bspw5o
 - Image: https://boker-tari.co.il/assets/product-1777914929024-ve31i.webp
 
 ### בקבוק שוקו לילדים תנובה
-https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-mflylz
+- Price: 6.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב מפוסטר דל לקטוז (78%), מים, רכיבי חלב, קקאו (0.85%), סיבים תזונתיים (אינולין), מסמיכים (E466, E460), סידן, מייצב (E407), חומרי טעם וריח, מלח, ויטמין D.
 - Image: https://boker-tari.co.il/assets/product-1777914861910-ldgqd.webp
 
 ### בקבוק שוקו יטבתה ליטר
-https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-dh9vt6
+- Price: 14.50 ILS
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1777914765537-nla2e.webp

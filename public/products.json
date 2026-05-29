@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:46:45.131Z",
+  "generated_at": "2026-05-29T04:47:32.532Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2403,15 +2403,15 @@
     },
     {
       "id": "e64b2650-119d-4788-a8f9-8e6a261b4c08",
-      "slug": "bkbvk-shvkv-lyldym-tnvbh-d7vwbr",
+      "slug": "bkbvk-shvkv-lyldym-tnvbh-mflylz",
       "name": "בקבוק שוקו לילדים תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב מפוסטר דל לקטוז (78%), מים, רכיבי חלב, קקאו (0.85%), סיבים תזונתיים (אינולין), מסמיכים (E466, E460), סידן, מייצב (E407), חומרי טעם וריח, מלח, ויטמין D.",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6.5,
+      "base_price": 6.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2419,23 +2419,23 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-d7vwbr",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-lyldym-tnvbh-mflylz",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:14:32.271Z"
+      "updated_at": "2026-05-29T04:47:01.550Z"
     },
     {
       "id": "e3e8168b-1a16-45d7-a834-a5e53b8a7f5f",
-      "slug": "bkbvk-shvkv-ytbth-lytr-9hnxrg",
+      "slug": "bkbvk-shvkv-ytbth-lytr-dh9vt6",
       "name": "בקבוק שוקו יטבתה ליטר",
       "name_translations": {},
       "description": "",
       "short_description": null,
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 14.5,
+      "base_price": 14.5,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2443,11 +2443,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-9hnxrg",
+      "url": "https://boker-tari.co.il/product/bkbvk-shvkv-ytbth-lytr-dh9vt6",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:12:55.861Z"
+      "updated_at": "2026-05-29T04:47:25.713Z"
     },
     {
       "id": "2293bba5-59ce-4cfe-a835-f03e1ef4d47c",
