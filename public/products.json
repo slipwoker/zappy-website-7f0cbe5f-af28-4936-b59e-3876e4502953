@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:15:59.597Z",
+  "generated_at": "2026-05-29T05:16:57.271Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -1325,15 +1325,15 @@
     },
     {
       "id": "c9c43213-4d8d-4fb7-85ee-60b0e409c010",
-      "slug": "chtsy-bgt-71ncl1",
+      "slug": "chtsy-bgt-6yaqy8",
       "name": "חצי בגט",
       "name_translations": {},
       "description": "",
-      "short_description": "יצרן / מותג: מאפית המשפחה\nמכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח.\nרכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום\nהשגחה: בד\"ץ בית יוסף",
+      "short_description": "\nמכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח.\nרכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום\n",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 3.9,
+      "base_price": 3.9,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -1341,11 +1341,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chtsy-bgt-71ncl1",
+      "url": "https://boker-tari.co.il/product/chtsy-bgt-6yaqy8",
       "categories": [
         "לחם"
       ],
-      "updated_at": "2026-05-07T10:18:55.519Z"
+      "updated_at": "2026-05-29T05:16:26.125Z"
     },
     {
       "id": "63d5bcc0-6210-4984-bb4e-7af91376f96d",

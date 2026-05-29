@@ -486,11 +486,11 @@ https://boker-tari.co.il/product/pyth-zatr-a4a8pl
 - Image: https://boker-tari.co.il/assets/product-1778148585834-kl2tsh.webp
 
 ### חצי בגט
-https://boker-tari.co.il/product/chtsy-bgt-71ncl1
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chtsy-bgt-6yaqy8
+- Price: 3.90 ILS
 - Availability: In stock
 - Category: לחם
-- Description: יצרן / מותג: מאפית המשפחה מכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח. רכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום השגחה: בד"ץ בית יוסף
+- Description: מכיל: לחם חצי באגט פריך וזהוב, מצופה שומשום קלוי שמוסיף טעם אגוזי ומרקם קרנצ’י. רך ונימוח מבפנים, מושלם להכנת כריכים, כנשנוש לצד ארוחה או כתוספת לבית ולאירוח. רכיבים: גלוטן, ויטמין C, משפרי אפיה, מים, מלח, קמח, שמן, שמרים,שומשום
 - Image: https://boker-tari.co.il/assets/product-1778149128989-0vmvxvr.webp
 
 ### גבינה צהובה עמק 28% 400 גרם
