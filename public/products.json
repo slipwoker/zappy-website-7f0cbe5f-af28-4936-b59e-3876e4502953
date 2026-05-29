@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:36:33.706Z",
+  "generated_at": "2026-05-29T04:37:57.700Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2187,15 +2187,15 @@
     },
     {
       "id": "4d32b418-fe3a-428f-b44c-438904189623",
-      "slug": "kvtg-tnvbh-9-250-grm-44c2xq",
+      "slug": "kvtg-tnvbh-9-250-grm-udrg1z",
       "name": "קוטג' תנובה 9% 250 גרם",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב, מלח, תוסף תזונה: סידן (טריקלציום פוספט, מתוכו סידן 0.07%)",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 7,
+      "base_price": 7,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2203,11 +2203,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-44c2xq",
+      "url": "https://boker-tari.co.il/product/kvtg-tnvbh-9-250-grm-udrg1z",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T17:57:36.490Z"
+      "updated_at": "2026-05-29T04:37:26.672Z"
     },
     {
       "id": "9be2ef1b-4d1a-4afb-84ee-f208c373b531",
