@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T04:39:05.409Z",
+  "generated_at": "2026-05-29T04:43:23.834Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 143,
@@ -2787,15 +2787,15 @@
     },
     {
       "id": "d6194090-940a-4845-9e49-08047be125a0",
-      "slug": "chlb-1-krtvn-tnvbh-bv1peg",
+      "slug": "chlb-1-krtvn-tnvbh-2k7kxr",
       "name": "חלב 1% קרטון תנובה",
       "name_translations": {},
       "description": "",
-      "short_description": null,
+      "short_description": "מכיל: חלב, הוספו ויטמינים A וD להשלמת ריכוזם כבחלב רגיל",
       "sku": null,
       "brand": null,
-      "price": 0,
-      "base_price": 0,
+      "price": 6.92,
+      "base_price": 6.92,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -2803,11 +2803,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg",
+      "url": "https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-2k7kxr",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-04T16:42:46.398Z"
+      "updated_at": "2026-05-29T04:42:52.788Z"
     },
     {
       "id": "003ab954-b098-46e2-89e2-598420efe398",

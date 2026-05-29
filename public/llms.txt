@@ -951,10 +951,11 @@ https://boker-tari.co.il/product/chlb-3-krtvn-tnvbh-3ivenh
 - Image: https://boker-tari.co.il/assets/image-product-image-1777913036120-o3djlj.webp
 
 ### חלב 1% קרטון תנובה
-https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-bv1peg
-- Price: 0.00 ILS
+https://boker-tari.co.il/product/chlb-1-krtvn-tnvbh-2k7kxr
+- Price: 6.92 ILS
 - Availability: In stock
 - Category: מוצרי חלב
+- Description: מכיל: חלב, הוספו ויטמינים A וD להשלמת ריכוזם כבחלב רגיל
 - Image: https://boker-tari.co.il/assets/image-product-image-1777912956177-hnb53n.webp
 
 ### בייגלה רומני 
