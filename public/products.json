@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-01T05:20:20.949Z",
+  "generated_at": "2026-06-01T05:22:41.632Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -2835,11 +2835,11 @@
     },
     {
       "id": "542af0c6-1911-4ae8-8896-a8f428a7c7a3",
-      "slug": "bvrks-tpvch-admh-ayshy-spy0jk",
+      "slug": "bvrks-tpvch-admh-ayshy-b22b2h",
       "name": "בורקס תפוח אדמה אישי",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : תפוח אדמה\n",
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מלח . מילוי : תפוח אדמה\n",
       "sku": null,
       "brand": null,
       "price": 14.9,
@@ -2851,19 +2851,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-ayshy-spy0jk",
+      "url": "https://boker-tari.co.il/product/bvrks-tpvch-admh-ayshy-b22b2h",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T21:40:40.931Z"
+      "updated_at": "2026-06-01T05:22:10.674Z"
     },
     {
       "id": "a5f3fe33-d250-4e69-8953-bee3fea3f4ad",
-      "slug": "bvrks-gbynh-ayshy-bngf6j",
+      "slug": "bvrks-gbynh-ayshy-4episx",
       "name": "בורקס גבינה אישי",
       "name_translations": {},
       "description": "",
-      "short_description": "מכיל: קמח , מים , שומן צמחי , מרגרינה ומלח . מילוי : גבינת פטה\n",
+      "short_description": "מכיל: קמח , מים , שומן צמחי , מלח . מילוי : גבינת פטה\n",
       "sku": null,
       "brand": null,
       "price": 14.9,
@@ -2875,11 +2875,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/bvrks-gbynh-ayshy-bngf6j",
+      "url": "https://boker-tari.co.il/product/bvrks-gbynh-ayshy-4episx",
       "categories": [
         "בורקסים"
       ],
-      "updated_at": "2026-05-28T21:40:25.005Z"
+      "updated_at": "2026-06-01T05:22:29.385Z"
     },
     {
       "id": "c797c272-fd63-4a7a-bb3c-921a8da915c8",
