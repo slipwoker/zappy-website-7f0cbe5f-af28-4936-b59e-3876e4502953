@@ -51,9 +51,6 @@ https://boker-tari.co.il/product/:slug
 https://boker-tari.co.il/category/:slug
 מוצרים - בוקר טרי
 
-### Page
-https://boker-tari.co.il/menu-group-1779092039221
-
 ### דברו איתנו ונתחיל יחד בוקר טוב יותר — בוקר טרי
 https://boker-tari.co.il/contact
 יש לכם שאלות על המוצרים האורגניים שלנו? רוצים לדעת יותר על שגרת בוקר בריאה? צוות בוקר טרי כאן בשבילכם — צרו קשר עכשיו ונחזור אליכם בהקדם!
