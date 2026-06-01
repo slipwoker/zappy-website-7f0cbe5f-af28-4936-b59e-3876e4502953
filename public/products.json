@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-01T04:51:50.931Z",
+  "generated_at": "2026-06-01T05:12:49.689Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -1827,8 +1827,8 @@
     },
     {
       "id": "0a5e18f3-d911-487a-bcb0-8db143abf8a5",
-      "slug": "avgt-kynmvn-9cqm9j",
-      "name": "עוגת קינמון",
+      "slug": "avgt-kynmvn-ayshy-lvxept",
+      "name": "עוגת קינמון אישי",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -1843,11 +1843,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/avgt-kynmvn-9cqm9j",
+      "url": "https://boker-tari.co.il/product/avgt-kynmvn-ayshy-lvxept",
       "categories": [
         "קוראסים ומתוקים"
       ],
-      "updated_at": "2026-05-04T18:56:19.042Z"
+      "updated_at": "2026-06-01T05:12:18.341Z"
     },
     {
       "id": "34cb07c6-c3b0-46bd-a40b-11a319b253c5",
