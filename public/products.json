@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-01T05:12:49.689Z",
+  "generated_at": "2026-06-01T05:13:38.407Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -2211,8 +2211,8 @@
     },
     {
       "id": "eb0d2e2f-b562-4883-89e6-09ba2d5b5f6b",
-      "slug": "kvrasvn-shvkvld-gdvl-z7f0u4",
-      "name": "קוראסון שוקולד גדול",
+      "slug": "krvasvn-shvkvld-ayshy-0nieji",
+      "name": "קרואסון שוקולד אישי",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -2227,11 +2227,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kvrasvn-shvkvld-gdvl-z7f0u4",
+      "url": "https://boker-tari.co.il/product/krvasvn-shvkvld-ayshy-0nieji",
       "categories": [
         "קוראסים ומתוקים"
       ],
-      "updated_at": "2026-05-04T17:50:39.451Z"
+      "updated_at": "2026-06-01T05:13:07.435Z"
     },
     {
       "id": "936d7bad-e133-42e6-9354-13e842e223ce",
