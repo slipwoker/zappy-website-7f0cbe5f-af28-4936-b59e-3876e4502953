@@ -1121,8 +1121,8 @@ https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-e1b22o
 - Description: מכיל: גבינה צהובה,גלוטן,חומר משמר E251,ירקות,לחם,מרגרינה,סויה,צבע מאכל,שומשום * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
 - Image: https://boker-tari.co.il/assets/image-product-image-1777877167787-yn1d33.webp
 
-### טוסט צהובה בייגלה 
-https://boker-tari.co.il/product/tvst-tshvbh-byyglh-uukv35
+###  בייגלה טוסט
+https://boker-tari.co.il/product/byyglh-tvst-qoso2h
 - Price: 15.90 ILS
 - Availability: In stock
 - Category: כריכים

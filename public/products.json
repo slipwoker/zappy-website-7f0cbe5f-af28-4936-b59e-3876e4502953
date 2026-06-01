@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-01T04:51:14.918Z",
+  "generated_at": "2026-06-01T04:51:50.931Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3295,8 +3295,8 @@
     },
     {
       "id": "7717df2d-0051-4800-9c06-2292474bc170",
-      "slug": "tvst-tshvbh-byyglh-uukv35",
-      "name": "טוסט צהובה בייגלה ",
+      "slug": "byyglh-tvst-qoso2h",
+      "name": " בייגלה טוסט",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": "זיתים , גיבנה צהובה, רוטב עגבניות\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
@@ -3311,11 +3311,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/tvst-tshvbh-byyglh-uukv35",
+      "url": "https://boker-tari.co.il/product/byyglh-tvst-qoso2h",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-28T07:38:30.250Z"
+      "updated_at": "2026-06-01T04:51:19.958Z"
     },
     {
       "id": "82adefb5-a159-4e9b-8996-64142fa91e3c",
