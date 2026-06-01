@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-29T05:32:48.594Z",
+  "generated_at": "2026-06-01T04:50:59.168Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
-  "count": 143,
+  "count": 141,
   "products": [
     {
       "id": "57c1205a-c9c0-4a63-b840-8b45a2a9809e",
@@ -28,54 +28,6 @@
         "מוצרי חלב"
       ],
       "updated_at": "2026-05-29T04:32:43.153Z"
-    },
-    {
-      "id": "64074987-6ebe-414c-a67b-502298ba9c8e",
-      "slug": "kryk-slt-bytsym-6nfwco",
-      "name": "כריך סלט ביצים",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מכיל: סלט ביצים,גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמוץ,לחם,ממרח מיונז,שומשום\n** רטבים בכריך אינם קבועים ויכולים להשתנות.",
-      "sku": null,
-      "brand": null,
-      "price": 14.9,
-      "base_price": 14.9,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1779971603071-g37bqk.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-slt-bytsym-6nfwco",
-      "categories": [
-        "כריכים"
-      ],
-      "updated_at": "2026-05-28T12:33:34.827Z"
-    },
-    {
-      "id": "063462dc-c60d-42cb-960f-21488f333646",
-      "slug": "kryk-slt-tvnh-ttemxl",
-      "name": "כריך סלט טונה",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מכיל: סלט טונה גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמןץ,ממרח מיונז,סויה,שומשום\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.",
-      "sku": null,
-      "brand": null,
-      "price": 14.9,
-      "base_price": 14.9,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://boker-tari.co.il/assets/product-1779970903059-8ooas.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-slt-tvnh-ttemxl",
-      "categories": [
-        "כריכים"
-      ],
-      "updated_at": "2026-05-28T12:27:49.580Z"
     },
     {
       "id": "76d95d9c-d557-41a6-82f0-bfbaba84f9c9",

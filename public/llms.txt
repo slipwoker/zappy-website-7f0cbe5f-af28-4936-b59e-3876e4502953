@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 143**
+**Total active products: 141**
 
 ### גבינה לבנה 9% תנובה
 https://boker-tari.co.il/product/gbynh-lbnh-9-tnvbh-oqf664
@@ -84,22 +84,6 @@ https://boker-tari.co.il/product/gbynh-lbnh-9-tnvbh-oqf664
 - Availability: In stock
 - Category: מוצרי חלב
 - Image: https://boker-tari.co.il/assets/product-1780029106226-oichm7.webp
-
-### כריך סלט ביצים
-https://boker-tari.co.il/product/kryk-slt-bytsym-6nfwco
-- Price: 14.90 ILS
-- Availability: In stock
-- Category: כריכים
-- Description: מכיל: סלט ביצים,גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמוץ,לחם,ממרח מיונז,שומשום ** רטבים בכריך אינם קבועים ויכולים להשתנות.
-- Image: https://boker-tari.co.il/assets/product-1779971603071-g37bqk.webp
-
-### כריך סלט טונה
-https://boker-tari.co.il/product/kryk-slt-tvnh-ttemxl
-- Price: 14.90 ILS
-- Availability: In stock
-- Category: כריכים
-- Description: מכיל: סלט טונה גלוטן,חומר משמר E211,חומר משמר E202,מלפפון חמןץ,ממרח מיונז,סויה,שומשום * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
-- Image: https://boker-tari.co.il/assets/product-1779970903059-8ooas.webp
 
 ### לחם מחמצת אגוזים קלמטה  שלם
 https://boker-tari.co.il/product/lchm-mchmtst-agvzym-klmth-shlm-11v1dd
