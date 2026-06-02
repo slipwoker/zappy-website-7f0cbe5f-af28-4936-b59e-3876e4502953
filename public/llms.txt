@@ -19,35 +19,35 @@ https://boker-tari.co.il/about
 https://boker-tari.co.il/lifestyle
 אורח חיים בריא מתחיל בבוקר. גלו טיפים, השראה ומוצרים אורגניים לארוחת בוקר שיהפכו כל בוקר לחוויה מיוחדת — כי שגרת בוקר בריאה היא לא מותרות, היא הכרח.
 
-### מוצרים
+### Products
 https://boker-tari.co.il/products
 המוצרים שלנו - בוקר טרי
 
-### עגלת קניות
+### Cart
 https://boker-tari.co.il/cart
 עגלת הקניות שלך
 
-### תשלום
+### Checkout
 https://boker-tari.co.il/checkout
 תשלום
 
-### התחברות
+### Login
 https://boker-tari.co.il/login
 התחברות לקוחות
 
-### החשבון שלי
+### Account
 https://boker-tari.co.il/account
 החשבון שלי
 
-### ההזמנה התקבלה!
+### Order Success
 https://boker-tari.co.il/order-success
 תודה על ההזמנה
 
-### פרטי המוצר
+### Product Detail
 https://boker-tari.co.il/product/:slug
 פרטי המוצר - בוקר טרי
 
-### מוצרים
+### Category
 https://boker-tari.co.il/category/:slug
 מוצרים - בוקר טרי
 
