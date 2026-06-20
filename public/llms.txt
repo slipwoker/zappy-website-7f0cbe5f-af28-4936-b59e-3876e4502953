@@ -1110,12 +1110,12 @@ https://boker-tari.co.il/product/kryk-tvnh-lp002h
 - Description: מכיל: ביצים,גלוטן,דגים,חלבון סויה,חומר משמר E211,חומר משמר E202,טונה,ירקות,לחם,מלפפון חמוץ,מיונז,סויה,שומשום,תבלינים * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
 - Image: https://boker-tari.co.il/assets/image-product-image-1777876710541-i5pkqt.webp
 
-### כריך גבינה צהובה עם ירקות
-https://boker-tari.co.il/product/kryk-gbynh-tshvbh-am-yrkvt-e1b22o
+### כריך גבינה צהובה 
+https://boker-tari.co.il/product/kryk-gbynh-tshvbh-mte0wo
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: כריכים
-- Description: מכיל: גבינה צהובה,גלוטן,חומר משמר E251,ירקות,לחם,מרגרינה,סויה,צבע מאכל,שומשום * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
+- Description: מכיל: גבינה צהובה גבינת שמנת חסה ומלפפון חמוץ גלוטן חומר משמר E251,ירקות,לחם,מרגרינה,סויה,צבע מאכל שומשום * הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה ** רטבים בכריך אינם קבועים ויכולים להשתנות.
 - Image: https://boker-tari.co.il/assets/image-product-image-1777877167787-yn1d33.webp
 
 ###  בייגלה טוסט
