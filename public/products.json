@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T01:55:05.121Z",
+  "generated_at": "2026-06-20T01:56:13.918Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3319,11 +3319,11 @@
     },
     {
       "id": "82adefb5-a159-4e9b-8996-64142fa91e3c",
-      "slug": "kryk-bytsh-kshh-jxkfj7",
+      "slug": "kryk-bytsh-kshh-lpsttz",
       "name": "כריך ביצה קשה",
       "name_translations": {},
       "description": "<p><br></p>",
-      "short_description": "מכיל: ביצה קשה,גלוטן,חומר משמר E211,חומר משמר E202,ירקות,לחם,ממרח מיונז,סויה,שומשום\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
+      "short_description": "מכיל: ביצה קשה גבינת שמנת חסה ומלפפון חמוץ \nגלוטן חומר משמר E211,חומר משמר E202,ירקות,לחם,ממרח מיונז,סויה,שומשום\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
       "sku": null,
       "brand": null,
       "price": 14.9,
@@ -3335,11 +3335,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-bytsh-kshh-jxkfj7",
+      "url": "https://boker-tari.co.il/product/kryk-bytsh-kshh-lpsttz",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-28T07:42:14.090Z"
+      "updated_at": "2026-06-20T01:55:42.671Z"
     },
     {
       "id": "777860a7-be8b-49a5-82a7-26704df0f226",
