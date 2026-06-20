@@ -6816,10 +6816,3 @@ Availability: In stock
 
 ---
 
-### כריך פסטרמה ובקר
-URL: https://boker-tari.co.il/product/kryk-pstrmh-vbkr-2x1xpt
-Price: 15.90 ILS
-Availability: In stock
-
----
-
