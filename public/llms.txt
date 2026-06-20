@@ -1094,16 +1094,16 @@ https://boker-tari.co.il/product/lchmnyyt-atsba-e51ryt
 - Description: מכיל: קמח חיטה לבן (מכיל גלוטן), מים, סוכר לבן, שמרים, מלח, חומרים מתחלב ים (481E, e472E, 471E), סיבים תזונתיים, קמח סויה, חומר משמר (קלציום פרופיונט), חומר לטיפול בקמח (חומצה אסקורבית), אנזימים לאפייה, גלוטן חיטה. מידע על רכיבים אלרגנים: מכיל: חיטה - גלוטן, סויה. עלול להכיל: שומשום, שיבולת שועל – גלוטן, שעורה – גלוטן, שיפון - גלוטן, כוסמין - גלוטן.
 - Image: https://boker-tari.co.il/assets/product-1777969074716-dtn01m.webp
 
-### כריך חביתה עם ירקות
-https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-va0lpu
+### כריך חביתה 
+https://boker-tari.co.il/product/kryk-chbyth-3bsecc
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: כריכים
 - Description: מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת,
 - Image: https://boker-tari.co.il/assets/image-product-image-1777876574331-s6ylb9.webp
 
-### כריך טונה עם ירקות
-https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-gprgzs
+### כריך טונה 
+https://boker-tari.co.il/product/kryk-tvnh-lp002h
 - Price: 14.90 ILS
 - Availability: In stock
 - Category: כריכים

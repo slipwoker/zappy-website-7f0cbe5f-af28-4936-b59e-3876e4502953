@@ -6781,15 +6781,15 @@ Availability: In stock
 
 ---
 
-### כריך חביתה עם ירקות
-URL: https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-va0lpu
+### כריך חביתה 
+URL: https://boker-tari.co.il/product/kryk-chbyth-3bsecc
 Price: 14.90 ILS
 Availability: In stock
 
 ---
 
-### כריך טונה עם ירקות
-URL: https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-gprgzs
+### כריך טונה 
+URL: https://boker-tari.co.il/product/kryk-tvnh-lp002h
 Price: 14.90 ILS
 Availability: In stock
 

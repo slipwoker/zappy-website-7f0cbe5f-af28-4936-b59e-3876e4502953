@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-13T17:53:53.910Z",
+  "generated_at": "2026-06-20T01:51:13.254Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3223,8 +3223,8 @@
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
-      "slug": "kryk-chbyth-am-yrkvt-va0lpu",
-      "name": "כריך חביתה עם ירקות",
+      "slug": "kryk-chbyth-3bsecc",
+      "name": "כריך חביתה ",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": "מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת, ",
@@ -3239,16 +3239,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-chbyth-am-yrkvt-va0lpu",
+      "url": "https://boker-tari.co.il/product/kryk-chbyth-3bsecc",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-28T07:47:42.424Z"
+      "updated_at": "2026-06-20T01:50:42.290Z"
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
-      "slug": "kryk-tvnh-am-yrkvt-gprgzs",
-      "name": "כריך טונה עם ירקות",
+      "slug": "kryk-tvnh-lp002h",
+      "name": "כריך טונה ",
       "name_translations": {},
       "description": "<p><br></p>",
       "short_description": "מכיל: ביצים,גלוטן,דגים,חלבון סויה,חומר משמר E211,חומר משמר E202,טונה,ירקות,לחם,מלפפון חמוץ,מיונז,סויה,שומשום,תבלינים\n* הירקות בכריכים לא ידועים מראש ומשתנים בהתאם לעונה\n** רטבים בכריך אינם קבועים ויכולים להשתנות.\n",
@@ -3263,11 +3263,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-tvnh-am-yrkvt-gprgzs",
+      "url": "https://boker-tari.co.il/product/kryk-tvnh-lp002h",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-05-28T07:40:33.055Z"
+      "updated_at": "2026-06-20T01:50:28.947Z"
     },
     {
       "id": "926d455f-6462-460b-883e-ee5222c73786",
