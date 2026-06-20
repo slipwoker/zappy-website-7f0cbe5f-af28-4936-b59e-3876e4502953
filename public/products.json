@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T01:53:37.473Z",
+  "generated_at": "2026-06-20T01:55:05.121Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 141,
@@ -3223,11 +3223,11 @@
     },
     {
       "id": "7a002a2b-f81b-4569-ae29-161282f6994f",
-      "slug": "kryk-chbyth-3bsecc",
+      "slug": "kryk-chbyth-lc3hrd",
       "name": "כריך חביתה ",
       "name_translations": {},
       "description": "<p><br></p>",
-      "short_description": "מכיל: תכולה: עגבניות, מלפפון, חביתה, שמנת, ",
+      "short_description": "מכיל: חביתה גבינת שמנת חסה ומלפפון חמוץ ",
       "sku": null,
       "brand": null,
       "price": 14.9,
@@ -3239,11 +3239,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/kryk-chbyth-3bsecc",
+      "url": "https://boker-tari.co.il/product/kryk-chbyth-lc3hrd",
       "categories": [
         "כריכים"
       ],
-      "updated_at": "2026-06-20T01:50:42.290Z"
+      "updated_at": "2026-06-20T01:54:34.049Z"
     },
     {
       "id": "8bc8dd6d-c73b-4968-b35c-a99848a3fcbf",
