@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-22T14:32:54.967Z",
+  "generated_at": "2026-06-23T04:03:36.186Z",
   "base_url": "https://boker-tari.co.il",
   "currency": "ILS",
   "count": 140,
@@ -2691,8 +2691,8 @@
     },
     {
       "id": "32c3d0ce-af33-4a42-b7e8-01b0f4e11d3e",
-      "slug": "chlb-3-bkbvk-yvtbth-aufclw",
-      "name": "חלב 3% בקבוק יוטבתה",
+      "slug": "ytbth-chlb-ytbth-mvashr3-bkbvk-p5oeqk",
+      "name": "יטבתה חלב יטבתה מועשר3% בקבוק",
       "name_translations": {},
       "description": "",
       "short_description": null,
@@ -2707,11 +2707,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://boker-tari.co.il/product/chlb-3-bkbvk-yvtbth-aufclw",
+      "url": "https://boker-tari.co.il/product/ytbth-chlb-ytbth-mvashr3-bkbvk-p5oeqk",
       "categories": [
         "מוצרי חלב"
       ],
-      "updated_at": "2026-05-29T04:44:50.193Z"
+      "updated_at": "2026-06-23T04:03:05.078Z"
     },
     {
       "id": "a32f020b-9225-4c08-89a6-6c51fd3a3951",
